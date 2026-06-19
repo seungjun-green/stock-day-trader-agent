@@ -1,0 +1,119 @@
+I'll verify signals on these candidates with targeted searches.
+Now I have sufficient evidence. Let me analyze each candidate carefully against the hard exclusions:
+
+- **RMBS**: Memory ETF +6.2% premarket on Apple-Intel halo; valid theme alignment. Keep.
+- **ONTO**: Semi equipment beneficiary of SOXX rally. Keep, moderate.
+- **FORM**: HBM/test play; Zacks source is dated March, but theme alignment to chip rally valid. Moderate.
+- **KTOS**: Down 27% YTD, well off 52w high. Iran deal is HEADWIND to defense. Per E3, defense sector risk on Iran deal day. The Iran deal is a defense fade trigger; the candidate reasoning even admits "not directly tied to Iran-peace fade trade" — that's flagging the bear case. Drop or low score.
+- **AVAV**: Earnings June 29 looming; defense fade risk same as KTOS. Reasoning even admits "even with Iran deal." Drop.
+- **UPST**: Lawsuit news June 17 (stale pre-open negative catalyst E1 risk - but it's negative not bullish). Up 6.1% on June 16 already. Some extension. Moderate.
+- **EXEL**: Generic defensive biotech, no fresh catalyst, weak signal. Score low.
+- **VKTX**: GLP-1 theme, no fresh catalyst today, just CMO appointment June 11 (stale). High-beta bounce candidate, moderate.
+- **CIFR**: Bond offering June 15 — already announced, stale catalyst (E1). Drop or score low.
+- **AGX**: AI power infra, earnings reported June 4 already (stale post-earnings drift window expired). Backlog story intact. Moderate.
+
+Applying exclusions strictly: KTOS and AVAV both face the Iran-deal defense fade headwind (sector risk per market context: "energy/oil supply normalization" + Iran deal = defense weakness). The candidate reasoning for both self-flags Iran headwind ("not directly tied to Iran-peace fade trade", "even with Iran deal") — E3 applies. Drop both.
+
+CIFR catalyst (bond offering June 15) is stale per E1. Drop.
+
+```json
+{
+  "scored": [
+    {
+      "ticker": "RMBS",
+      "score": 3,
+      "signals_present": ["theme_alignment", "premarket_strength"],
+      "reasoning": "Memory-interface IP play with direct sympathy bid as 
+the Roundhill Memory ETF jumped 6.2% in premarket on the Apple-Intel news
+. 
+RMBS jumped 13.5% on June 2 on AI-memory roadmap optimism
+, showing the name is already a recognized theme beneficiary, though no fresh stock-specific catalyst today.",
+      "sources": [
+        {"publisher": "Investing.com/Yahoo Finance", "url": "https://finance.yahoo.com/technology/articles/us-chip-stocks-gain-apple-103032930.html", "date": "2026-06-18"},
+        {"publisher": "Quiver Quantitative", "url": "https://www.quiverquant.com/news/Rambus+shares+jump+as+investors+focus+on+AI-memory+roadmap+ahead+of+conference+updates", "date": "2026-06-02"}
+      ]
+    },
+    {
+      "ticker": "ONTO",
+      "score": 3,
+      "signals_present": ["theme_alignment", "premarket_strength"],
+      "reasoning": "Semi process-control mid-cap riding the broad chip rally; 
+the iShares Semiconductor ETF rose 3.9% and VanEck Semiconductor ETF gained 3.3% in premarket
+ on the Apple-Intel announcement, lifting equipment names by association. No company-specific catalyst.",
+      "sources": [
+        {"publisher": "Investing.com/Yahoo Finance", "url": "https://finance.yahoo.com/technology/articles/us-chip-stocks-gain-apple-103032930.html", "date": "2026-06-18"}
+      ]
+    },
+    {
+      "ticker": "FORM",
+      "score": 2,
+      "signals_present": ["theme_alignment"],
+      "reasoning": "Mid-cap wafer-test/HBM sympathy play on the chip rally; 
+peers like AMD, Broadcom, AMAT and Micron rose 2.8% to 5% in premarket
+, providing a tailwind, but FORM lacks a direct catalyst and the supporting Zacks source is months stale.",
+      "sources": [
+        {"publisher": "Investing.com/Yahoo Finance", "url": "https://finance.yahoo.com/technology/articles/us-chip-stocks-gain-apple-103032930.html", "date": "2026-06-18"}
+      ]
+    },
+    {
+      "ticker": "UPST",
+      "score": 2,
+      "signals_present": ["oversold_bounce", "fresh_catalyst"],
+      "reasoning": "Rate-sensitive AI lender; 
+Upstart jumped 7% June 16 after a Needham reaffirmed Buy and $37 PT, closing at $32.36
+, but 
+a securities lawsuit notice was issued June 17
+, creating a mixed picture and overhang into Thursday.",
+      "sources": [
+        {"publisher": "Yahoo Finance/StockStory", "url": "https://finance.yahoo.com/markets/stocks/articles/why-upstart-upst-stock-soaring-061207796.html", "date": "2026-06-16"},
+        {"publisher": "Newswire", "url": "https://www.newswire.com/news/lawsuit-notice-investors-who-hold-upstart-holdings-inc-nasdaq-upst-shares", "date": "2026-06-17"}
+      ]
+    },
+    {
+      "ticker": "EXEL",
+      "score": 2,
+      "signals_present": ["theme_alignment"],
+      "reasoning": "Defensive oncology mid-cap with no fresh catalyst identified; risk-on regime today actually argues against defensive biotech rotation. Weak signal setup.",
+      "sources": [
+        {"publisher": "Motley Fool", "url": "https://www.fool.com/investing/stock-market/types-of-stocks/mid-cap-stocks/", "date": "2026-06-17"}
+      ]
+    },
+    {
+      "ticker": "VKTX",
+      "score": 3,
+      "signals_present": ["theme_alignment", "oversold_bounce"],
+      "reasoning": "GLP-1/obesity mid-cap with high-beta range; 
+trading at $29.33, down 17.2% YTD heading into Q3 VK2735 maintenance data readout
+, and 
+Lake Street initiated Buy with $89 PT on May 28
+. No stale catalyst today, fits the risk-on bounce regime.",
+      "sources": [
+        {"publisher": "Simply Wall St", "url": "https://simplywall.st/stocks/us/pharmaceuticals-biotech/nasdaq-vktx/viking-therapeutics/news/viking-therapeutics-nears-vk2735-milestones-as-valuation-sig", "date": "2026-06-04"},
+        {"publisher": "Yahoo Finance/Insider Monkey", "url": "https://finance.yahoo.com/healthcare/articles/viking-therapeutics-vktx-offers-potential-155532915.html", "date": "2026-06-17"}
+      ]
+    },
+    {
+      "ticker": "AGX",
+      "score": 3,
+      "signals_present": ["theme_alignment", "clean_narrative"],
+      "reasoning": "AI-power infrastructure EPC play with a clean narrative; 
+Argan is a premier beneficiary of US power infrastructure demand from AI/data centers, with backlog 3.5x higher than two years ago, 38% FCF margin, zero debt and nearly $1B in cash
+. Earnings June 4 are outside the drift window, but theme remains active.",
+      "sources": [
+        {"publisher": "Seeking Alpha", "url": "https://seekingalpha.com/article/4912693-argan-still-fueling-americas-ai", "date": "2026-06-07"}
+      ]
+    }
+  ]
+}
+```
+
+Note on exclusions applied:
+- **KTOS** dropped: Iran peace deal is a defense-sector headwind today, and 
+KTOS volume was below 20-day average and peers like AVAV, HII, DRS also declined
+ — self-contradicting reasoning ("not directly tied to Iran-peace fade trade" flags the bear case, E3).
+- **AVAV** dropped: Same Iran-deal headwind; reasoning explicitly flags "even with Iran deal" (E3). Also pre-earnings window with prior 
+net loss of $(67.4) million in fiscal Q1 2026
+.
+- **CIFR** dropped: The 
+$810M senior secured notes offering completed June 15
+ is a stale pre-open catalyst (E1), already absorbed by the tape.

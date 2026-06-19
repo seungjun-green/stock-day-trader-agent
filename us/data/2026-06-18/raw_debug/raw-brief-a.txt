@@ -1,0 +1,147 @@
+I'll verify a few specific stock signals before finalizing the candidate list.
+Important findings:
+- **INTC** is already up ~3-9% pre-market — too extended per Rule #2. SKIP.
+- Airlines (UAL, DAL, AAL, etc.) already rallied significantly Monday on the Iran deal — partially priced in. Need to be careful with these.
+
+Let me verify a few more specific signals.
+Good info. KR beat (EPS $1.46 vs $1.59 expected — actually a miss on EPS but big revenue beat at $46.1B). Mixed. Let me check a couple more specific themes.
+I have enough to build the candidate list. Let me apply the rules carefully:
+
+**Key signals identified:**
+1. **Risk-on bounce post-FOMC** — futures +0.6-1.0%, oil -2.5%, VIX cooling
+2. **AI/semis rebound** — but INTC up ~3-9% pre-market = SKIP (too extended). NVDA, AVGO are cleaner.
+3. **Hawkish Fed / higher yields** — AVOID: utilities, REITs, rate-sensitive (nuclear like CEG already weak). Also avoid rate-sensitive growth (high-multiple software like CRM, SNOW).
+4. **Iran deal/oil down** — airlines/cruises already rallied Monday hard. Some still actionable as continuation (DAL specifically broke out per CNBC).
+5. **DXY strong** — headwind for multinationals
+6. **Gold tumbled** — avoid NEM
+7. **Energy/oil names lagging** — avoid XOM, CVX, SLB, OXY
+8. **AAPL+INTC deal headline** — AAPL likely catalyst today
+9. **MU** semis/memory benefits from AI infra + SK Hynix record overnight
+10. **Last trading day before Juneteenth** — short-week liquidity
+
+**Sub-themes for diversification:**
+- AI/semis bounce: NVDA, AVGO, MU, AMD
+- Mega-cap tech bounce (rate-relief beneficiaries that already corrected): AAPL, META
+- Travel/oil-down continuation: DAL, RCL (cautious — already moved)
+- Financials (steeper curve benefit): JPM, GS
+- Crypto-adjacent (Bitcoin rallying): COIN, HOOD
+- China ADR (Asia overnight strength): BABA, PDD
+
+Let me build the final 10 with good diversification.
+
+```json
+{
+  "candidates": [
+    {
+      "ticker": "NVDA",
+      "name": "NVIDIA Corporation",
+      "exchange": "NASDAQ",
+      "estimated_cap_tier": "mega",
+      "primary_signal": "oversold_bounce",
+      "reasoning": "Mag 7 software/comm weighed on yesterday's selloff but chipmakers initially led the bounce; with futures sharply higher and SK Hynix hitting fresh record overnight on HBM4E samples, NVDA is the AI-infra bellwether positioned for risk-on recovery. Has lagged peers YTD, leaving room to run on a relief rally.",
+      "sources": [
+        {"publisher": "TradingKey", "url": "https://www.tradingkey.com/analysis/stocks/us-stocks/261973039-intel-announces-18a-p-node-enters-risk-production-driving-pre-market-rebound-semiconductor-sector-tradingkey", "date": "2026-06-18"}
+      ]
+    },
+    {
+      "ticker": "AVGO",
+      "name": "Broadcom Inc.",
+      "exchange": "NASDAQ",
+      "estimated_cap_tier": "mega",
+      "primary_signal": "theme_alignment",
+      "reasoning": "Broadcom gained 4.3% in Wednesday pre-market on the chip rebound and remains Morgan Stanley's top semi pick on custom-ASIC AI demand; SK Hynix HBM4E sample milestone overnight supports the AI infrastructure narrative for today's risk-on session.",
+      "sources": [
+        {"publisher": "Yahoo Finance / Stocktwits", "url": "https://finance.yahoo.com/markets/stocks/articles/intc-amd-avgo-other-chip-084413718.html", "date": "2026-06-17"}
+      ]
+    },
+    {
+      "ticker": "MU",
+      "name": "Micron Technology, Inc.",
+      "exchange": "NASDAQ",
+      "estimated_cap_tier": "large",
+      "primary_signal": "theme_leader",
+      "reasoning": "Direct beneficiary of SK Hynix's HBM4E sample delivery milestone overnight as HBM memory peer; Micron has been outperforming airlines in pre-market on rotation into economically sensitive names with AI exposure on risk-on tape.",
+      "sources": [
+        {"publisher": "Yahoo Finance", "url": "https://finance.yahoo.com/markets/stocks/articles/airline-stocks-soar-u-iran-141527515.html", "date": "2026-06-15"}
+      ]
+    },
+    {
+      "ticker": "AAPL",
+      "name": "Apple Inc.",
+      "exchange": "NASDAQ",
+      "estimated_cap_tier": "mega",
+      "primary_signal": "fresh_catalyst",
+      "reasoning": "Trump posted on Truth Social Thursday that Apple has agreed to work with Intel on U.S. chip production — a fresh, regular-session-eligible catalyst that aligns with onshoring/reshoring policy tailwind and supports relative strength vs SPY into the open.",
+      "sources": [
+        {"publisher": "Investing.com / Reuters", "url": "https://www.investing.com/equities/intel-corp", "date": "2026-06-18"}
+      ]
+    },
+    {
+      "ticker": "META",
+      "name": "Meta Platforms, Inc.",
+      "exchange": "NASDAQ",
+      "estimated_cap_tier": "mega",
+      "primary_signal": "oversold_bounce",
+      "reasoning": "Communication services sector led losses yesterday at -2.98% on the hawkish FOMC reaction; META as the largest comm-services constituent sets up for an oversold bounce as NQ futures lead the rebound (+1.0%) and VIX cools sub-17.",
+      "sources": [
+        {"publisher": "Barchart", "url": "https://www.barchart.com/futures/quotes/INTC", "date": "2026-06-18"}
+      ]
+    },
+    {
+      "ticker": "DAL",
+      "name": "Delta Air Lines, Inc.",
+      "exchange": "NYSE",
+      "estimated_cap_tier": "large",
+      "primary_signal": "momentum_continuation",
+      "reasoning": "Delta broke out to a new high on Monday and is the least fuel-exposed major with the strongest balance sheet, making it the cleanest individual airline beneficiary as WTI falls another ~2.5% Thursday to ~$74.50 on the formally signed Iran agreement.",
+      "sources": [
+        {"publisher": "CNBC", "url": "https://www.cnbc.com/amp/2026/06/15/oil-tumbles-on-us-iran-deal-framework-how-one-trader-is-playing-the-move.html", "date": "2026-06-15"}
+      ]
+    },
+    {
+      "ticker": "RCL",
+      "name": "Royal Caribbean Cruises Ltd.",
+      "exchange": "NYSE",
+      "estimated_cap_tier": "large",
+      "primary_signal": "theme_alignment",
+      "reasoning": "Cruise lines are highly fuel-exposed; with the Iran deal now formally signed at Versailles and WTI making fresh post-conflict lows Thursday, RCL — which led cruises on Monday with +5% — gets a second catalyst as the Strait reopening becomes contractual rather than rumored.",
+      "sources": [
+        {"publisher": "Benzinga", "url": "https://www.benzinga.com/trading-ideas/movers/26/06/53190744/cruise-stocks-rally-as-u-s-iran-peace-agreement-sends-oil-prices-tumbling", "date": "2026-06-15"}
+      ]
+    },
+    {
+      "ticker": "JPM",
+      "name": "JPMorgan Chase & Co.",
+      "exchange": "NYSE",
+      "estimated_cap_tier": "mega",
+      "primary_signal": "policy_tailwind",
+      "reasoning": "Hawkish dot plot with 9/18 Fed officials seeing 2026 hikes pushed the 2Y to 4.20% and 10Y to 4.497% — a steeper curve and 'higher-for-longer' regime is structurally supportive of big-bank net interest margins. JPM as the highest-quality money-center bank gets the rotation flow.",
+      "sources": [
+        {"publisher": "Barchart", "url": "https://www.barchart.com/futures/quotes/INTC", "date": "2026-06-18"}
+      ]
+    },
+    {
+      "ticker": "COIN",
+      "name": "Coinbase Global, Inc.",
+      "exchange": "NASDAQ",
+      "estimated_cap_tier": "large",
+      "primary_signal": "theme_alignment",
+      "reasoning": "Crypto-exposed equities have been gaining alongside Bitcoin's risk-on rebound during this Iran-deal-driven rally; with NQ futures +1.0% and VIX collapsing, COIN typically prints high-beta moves vs QQQ on bounce days.",
+      "sources": [
+        {"publisher": "Yahoo Finance", "url": "https://finance.yahoo.com/markets/stocks/articles/stocks-rally-us-iran-peace-151900784.html", "date": "2026-06-15"}
+      ]
+    },
+    {
+      "ticker": "BABA",
+      "name": "Alibaba Group Holding Ltd.",
+      "exchange": "NYSE",
+      "estimated_cap_tier": "mega",
+      "primary_signal": "theme_alignment",
+      "reasoning": "Asia tape was firmly risk-on overnight with Nikkei at a record 71,053 (+1.65%) and KOSPI breaking 9,000 for the first time ever (+2.3%); BABA as the largest-liquidity China ADR catches the regional risk-on flow and benefits from a weaker risk-off bid (cooling VIX, falling oil).",
+      "sources": [
+        {"publisher": "TradingKey", "url": "https://www.tradingkey.com/analysis/stocks/us-stocks/261973039-intel-announces-18a-p-node-enters-risk-production-driving-pre-market-rebound-semiconductor-sector-tradingkey", "date": "2026-06-18"}
+      ]
+    }
+  ]
+}
+```

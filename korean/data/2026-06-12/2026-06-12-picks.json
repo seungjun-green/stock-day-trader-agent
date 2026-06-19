@@ -1,0 +1,515 @@
+{
+  "date": "2026-06-12",
+  "models": {
+    "context": "claude-sonnet-4-6",
+    "brief": "claude-opus-4-7",
+    "research": "claude-opus-4-7"
+  },
+  "context": "I'll gather all the necessary data simultaneously for today's briefing. Let me search across multiple sources at once.\nHere is today's morning market briefing for 2026-06-12:\n\n---\n\n**[한국 증시 모닝 브리핑] 2026년 6월 12일 (금)**\n\n---\n\n**Yesterday recap:**\n\n- **KOSPI:** \n7,764pt (+0.43%), 전일 대비 반등 마감.\n \n반도체 업황 낙관론이 회복을 이끌었으며, SK하이닉스(+2.64%), SK스퀘어(+3.80%), LG에너지솔루션(+1.04%), HD현대중공업(+1.56%)이 상승을 주도.\n\n- **KOSDAQ:** \n966pt 부근 마감 (최근 참조치 기준).\n 반도체·AI 중소형주 중심 변동성 지속.\n- **Key events:** \n한국 6월 1~10일 수출이 전년 동기 대비 86% 급증하며 사상 최고치를 기록, 반도체 수출이 3배 이상 증가.\n \n미국 소비자물가(CPI)가 예상보다 낮게 나오며 연준 긴축 우려 완화.\n 다만 \n미국의 이란 추가 공습으로 호르무즈 해협 물류 차질 우려가 상단을 제한.\n \n외국인·기관 합산 약 5조원 순매도 압력 지속, 방산주는 지정학 리스크 속 강세.\n\n\n---\n\n**Overnight US (6월 11일 종가):**\n\n- **Major indices:** \nS&P 500 +1.8%, 나스닥 +2.5%, 다우존스 +930pt(+1.85%) 급등.\n \n트럼프 대통령이 이란 공습 취소를 발표하고 중동 동맹국들과 원칙적 합의가 이뤄졌다고 밝히며 유가 하락, 위험선호 심리 회복.\n\n- **Sector moves:** \nS&P 500 내 기술·산업재·소재 섹터가 가장 큰 폭으로 상승, 에너지·필수소비재·부동산은 하락.\n \n마이크론 +11%, AMD +8%, 램리서치 +12.7%, 인텔 +10% 이상(BofA 업그레이드).\n \n반면 오라클은 클라우드 매출 미스로 약 9% 하락.\n \nVIX는 하루 만에 약 12% 급락.\n\n- **SpaceX IPO:** \nSpaceX가 주당 135달러에 IPO 가격을 확정, 오늘(6/12) 나스닥 상장 예정. 약 750억 달러 조달로 미국 역사상 최대 IPO 기록 전망.\n\n\n---\n\n**Today's setup:**\n\n- **Regime:** Bounce / 단기 반등 국면. 미-이란 긴장 완화 + 반도체 랠리 재점화로 갭 상승 출발 예상.\n- **Expected gap direction:** 갭 상승 출발 유력. 나스닥 반도체 급등(+10~12%)이 삼성전자·SK하이닉스 직접 수혜로 연결.\n- **Active themes:** 반도체(HBM·메모리), 방산(지정학 완화 시 차익 주의), AI 인프라, 조선.\n- **Risks:** \nUSD/KRW 환율 1,527.92원(+0.30%)으로 원화 약세 지속.\n \nKOSPI는 6월 2일 고점 대비 6거래일 만에 13% 이상 급락한 상태.\n \n외국인은 연초 이후 수조 원 규모 순매도 기조를 유지 중\n이나, \nKRX CEO는 외국인 포트폴리오 리밸런싱이 마무리 단계에 접어들고 있다고 언급.\n SpaceX IPO 글로벌 자금 흡수 효과 경계 필요. \n5월 PPI 헤드라인 +1.1%, 코어 +0.4%로 예상 상회, 연간 PPI +6.5%로 인플레 재점화 우려 잔존.\n\n- **오늘 주요 일정:** \n미국 5월 CPI 발표(한국시간 오후 9시 30분).\n \n미시간대 6월 소비자심리지수 발표(예상 46.0, 전월 44.8).\n SpaceX 나스닥 첫 거래일.\n\n---\n\n**Active themes to watch:**\n\n- **반도체 (삼성전자·SK하이닉스·SK스퀘어):** \n마이크론·AMD·램리서치 등 미국 반도체 10~12% 급등\n이 국내 메모리 대형주 갭 상승 촉매. \n반도체 수출 3배 급증 데이터도 펀더멘털 뒷받침.\n\n- **방산 (한화에어로스페이스·LIG넥스원·한국항공우주):** \n미-이란 긴장 완화로 단기 차익 실현 압력 가능\n하나, 중동 불안 재점화 시 재차 강세 전환 가능. 지정학 헤지 수요 유지.\n- **AI 인프라·전력기기 (HD현대일렉트릭·LS일렉트릭):** \nAI 데이터센터 전력 설비 수요 급증, 2028년까지 데이터센터 증설 사이클 지속 전망.\n\n- **조선 (HD현대중공업·삼성중공업):** \nHD현대중공업 전일 +1.56% 상승\n, LNG 고부가 선종 수주 모멘텀 유효.\n\n---\n\n**Yesterday's notable movers (top 5):**\n\n- **000660 SK하이닉스, +2.64%:** \n반도체 수출 급증 및 업황 낙관론 회복.\n\n- **035760 SK스퀘어, +3.80%:** SK하이닉스 지분가치 연동 상승.\n- **012450 한화에어로스페이스, 전일 대비 강세 유지:** \n미-이란 긴장 고조 속 방산 지출 기대감 지속.\n\n- **009830 LG에너지솔루션, +1.04%:** \n전기차·배터리 섹터 반등 동참.\n\n- **329180 HD현대중공업, +1.56%:** \n조선 수주 모멘텀 및 AI 인프라 연계 수혜.\n\n\n---\n\n**총평:** 미-이란 긴장 완화와 미국 반도체 급등이 겹치며 오늘 KOSPI는 갭 상승 출발이 유력하다. 다만 오늘 밤 미국 CPI 발표와 SpaceX IPO 자금 흡수 효과, 지속되는 외국인 순매도 기조는 상단을 제한하는 변수다. 반도체·AI 인프라 중심 선별 대응이 유효하며, 방산주는 지정학 뉴스 흐름에 따른 변동성 확대에 유의할 것.",
+  "track_a_large_mega": {
+    "candidates": [
+      {
+        "ticker": "000660",
+        "name": "SK하이닉스",
+        "market": "KOSPI",
+        "estimated_cap_tier": "mega",
+        "primary_signal": "theme_leader",
+        "reasoning": "마이크론 +11%, 램리서치 +12.7% 등 미국 반도체 급등의 직접 수혜주. HBM·메모리 테마 대장주이며 반도체 수출 3배 급증 펀더멘털 뒷받침."
+      },
+      {
+        "ticker": "005930",
+        "name": "삼성전자",
+        "market": "KOSPI",
+        "estimated_cap_tier": "mega",
+        "primary_signal": "theme_alignment",
+        "reasoning": "미 반도체 랠리 재점화로 갭 상승 출발 유력. 6월 1~10일 반도체 수출 3배 급증 데이터가 실적 모멘텀 뒷받침."
+      },
+      {
+        "ticker": "373220",
+        "name": "LG에너지솔루션",
+        "market": "KOSPI",
+        "estimated_cap_tier": "mega",
+        "primary_signal": "momentum_continuation",
+        "reasoning": "전일 +1.04% 상승 마감, 위험선호 회복 국면에서 2차전지 대형주 반등 지속 가능. 나스닥 +2.5% 강세 동조."
+      },
+      {
+        "ticker": "042660",
+        "name": "한화오션",
+        "market": "KOSPI",
+        "estimated_cap_tier": "large",
+        "primary_signal": "theme_alignment",
+        "reasoning": "조선 LNG 고부가 선종 수주 모멘텀 유효. HD현대중공업 강세에 동조하는 조선 테마 핵심주."
+      },
+      {
+        "ticker": "035420",
+        "name": "NAVER",
+        "market": "KOSPI",
+        "estimated_cap_tier": "mega",
+        "primary_signal": "oversold_bounce",
+        "reasoning": "KOSPI 6거래일간 13% 급락 국면에서 대형 플랫폼주 낙폭과대 반등 후보. 나스닥 +2.5% 급등이 인터넷 대형주 투심 회복 촉매."
+      },
+      {
+        "ticker": "207940",
+        "name": "삼성바이오로직스",
+        "market": "KOSPI",
+        "estimated_cap_tier": "mega",
+        "primary_signal": "clean_narrative",
+        "reasoning": "미 CPI 둔화로 긴축 우려 완화 시 바이오 대형주 수혜 가능. 반도체 쏠림 회피용 디펜시브 대안."
+      },
+      {
+        "ticker": "105560",
+        "name": "KB금융",
+        "market": "KOSPI",
+        "estimated_cap_tier": "mega",
+        "primary_signal": "policy_tailwind",
+        "reasoning": "외국인 리밸런싱 마무리 단계 언급으로 금융 대형주 수급 개선 기대. 밸류업 정책 지속 수혜 종목."
+      },
+      {
+        "ticker": "012330",
+        "name": "현대모비스",
+        "market": "KOSPI",
+        "estimated_cap_tier": "large",
+        "primary_signal": "oversold_bounce",
+        "reasoning": "원화 약세(USD/KRW 1,527원) 환경에서 자동차 부품 수출주 수혜. KOSPI 급락 국면 낙폭과대 자동차 대형주 반등 후보."
+      },
+      {
+        "ticker": "267260",
+        "name": "HD현대일렉트릭",
+        "market": "KOSPI",
+        "estimated_cap_tier": "large",
+        "primary_signal": "theme_leader",
+        "reasoning": "AI 데이터센터 전력 설비 수요 급증, 2028년까지 증설 사이클 지속 전망. AI 인프라·전력기기 테마 대장주."
+      },
+      {
+        "ticker": "000270",
+        "name": "기아",
+        "market": "KOSPI",
+        "estimated_cap_tier": "mega",
+        "primary_signal": "oversold_bounce",
+        "reasoning": "원화 약세 수혜 자동차 수출 대형주. 위험선호 회복과 외국인 매도 마무리 시 낙폭과대 반등 가능."
+      }
+    ],
+    "scored": [
+      {
+        "ticker": "000660",
+        "score": 5,
+        "signals_present": [
+          "theme_leader",
+          "fresh_catalyst",
+          "premarket_strength",
+          "clean_narrative"
+        ],
+        "reasoning": "마이크론 +11%, 램리서치 +12.7% 미 반도체 급등의 직접 수혜 대장주. 반도체 수출 3배 급증 펀더멘털 + HBM 테마 리더십이 결합된 최상위 셋업."
+      },
+      {
+        "ticker": "005930",
+        "score": 5,
+        "signals_present": [
+          "theme_alignment",
+          "fresh_catalyst",
+          "premarket_strength"
+        ],
+        "reasoning": "나스닥 반도체 +10~12% 급등이 갭 상승 직접 촉매. 6월 1~10일 반도체 수출 3배 급증 데이터로 펀더멘털 뒷받침, 메가캡 안정성까지 보유."
+      },
+      {
+        "ticker": "373220",
+        "score": 3,
+        "signals_present": [
+          "momentum_continuation",
+          "theme_alignment"
+        ],
+        "reasoning": "전일 +1.04% 마감 + 나스닥 위험선호 회복 동조 가능하나, 2차전지는 오늘 핵심 테마(반도체·AI인프라) 대비 후순위. 신호는 있으나 강도 약함."
+      },
+      {
+        "ticker": "042660",
+        "score": 3,
+        "signals_present": [
+          "theme_alignment",
+          "momentum_continuation"
+        ],
+        "reasoning": "조선 LNG 수주 모멘텀 유효하며 HD현대중공업 강세에 동조 가능. 다만 오늘은 반도체 쏠림 국면이라 테마 강도는 2순위."
+      },
+      {
+        "ticker": "035420",
+        "score": 3,
+        "signals_present": [
+          "oversold_bounce",
+          "theme_alignment"
+        ],
+        "reasoning": "KOSPI 6일간 -13% 급락 국면에서 낙폭과대 반등 후보, 나스닥 +2.5% 급등이 인터넷 대형주 투심 회복 촉매. 단 명확한 개별 catalyst는 부재."
+      },
+      {
+        "ticker": "207940",
+        "score": 2,
+        "signals_present": [
+          "clean_narrative"
+        ],
+        "reasoning": "디펜시브 대안 논리는 있으나 오늘은 위험선호 회복·반도체 쏠림 국면이라 바이오 디펜시브 매력 제한적. 직접 catalyst 부재."
+      },
+      {
+        "ticker": "105560",
+        "score": 3,
+        "signals_present": [
+          "policy_tailwind",
+          "oversold_bounce"
+        ],
+        "reasoning": "외국인 리밸런싱 마무리 언급 + 밸류업 정책 수혜 지속. 다만 오늘 갭 상승 국면의 주도 테마는 아니며 수급 개선 기대 수준."
+      },
+      {
+        "ticker": "012330",
+        "score": 3,
+        "signals_present": [
+          "oversold_bounce",
+          "policy_tailwind"
+        ],
+        "reasoning": "USD/KRW 1,527원 원화 약세 수혜 + KOSPI 급락 국면 낙폭과대 자동차 대형주. 다만 자동차는 오늘 주도 테마 아님."
+      },
+      {
+        "ticker": "267260",
+        "score": 4,
+        "signals_present": [
+          "theme_leader",
+          "theme_alignment",
+          "clean_narrative"
+        ],
+        "reasoning": "AI 인프라·전력기기 테마 대장주, 2028년까지 데이터센터 증설 사이클 명확한 narrative. 나스닥 산업재·기술 동반 강세로 우호적이나 직접 catalyst는 반도체 대비 약함."
+      },
+      {
+        "ticker": "000270",
+        "score": 3,
+        "signals_present": [
+          "oversold_bounce",
+          "policy_tailwind"
+        ],
+        "reasoning": "원화 약세 수출주 수혜 + 외국인 매도 마무리 기대 시 낙폭과대 반등 가능. 다만 자동차 섹터는 오늘 주도 테마가 아니라 강도 제한적."
+      }
+    ],
+    "final_picks": [
+      {
+        "ticker": "000660",
+        "name": "SK하이닉스",
+        "market": "KOSPI",
+        "estimated_cap_tier": "mega",
+        "primary_signal": "theme_leader",
+        "reasoning": "마이크론 +11%, 램리서치 +12.7% 미 반도체 급등의 직접 수혜 대장주. 반도체 수출 3배 급증 펀더멘털 + HBM 테마 리더십이 결합된 최상위 셋업.",
+        "score": 5,
+        "signals_present": [
+          "theme_leader",
+          "fresh_catalyst",
+          "premarket_strength",
+          "clean_narrative"
+        ]
+      },
+      {
+        "ticker": "005930",
+        "name": "삼성전자",
+        "market": "KOSPI",
+        "estimated_cap_tier": "mega",
+        "primary_signal": "theme_alignment",
+        "reasoning": "나스닥 반도체 +10~12% 급등이 갭 상승 직접 촉매. 6월 1~10일 반도체 수출 3배 급증 데이터로 펀더멘털 뒷받침, 메가캡 안정성까지 보유.",
+        "score": 5,
+        "signals_present": [
+          "theme_alignment",
+          "fresh_catalyst",
+          "premarket_strength"
+        ]
+      },
+      {
+        "ticker": "267260",
+        "name": "HD현대일렉트릭",
+        "market": "KOSPI",
+        "estimated_cap_tier": "large",
+        "primary_signal": "theme_leader",
+        "reasoning": "AI 인프라·전력기기 테마 대장주, 2028년까지 데이터센터 증설 사이클 명확한 narrative. 나스닥 산업재·기술 동반 강세로 우호적이나 직접 catalyst는 반도체 대비 약함.",
+        "score": 4,
+        "signals_present": [
+          "theme_leader",
+          "theme_alignment",
+          "clean_narrative"
+        ]
+      },
+      {
+        "ticker": "373220",
+        "name": "LG에너지솔루션",
+        "market": "KOSPI",
+        "estimated_cap_tier": "mega",
+        "primary_signal": "momentum_continuation",
+        "reasoning": "전일 +1.04% 마감 + 나스닥 위험선호 회복 동조 가능하나, 2차전지는 오늘 핵심 테마(반도체·AI인프라) 대비 후순위. 신호는 있으나 강도 약함.",
+        "score": 3,
+        "signals_present": [
+          "momentum_continuation",
+          "theme_alignment"
+        ]
+      },
+      {
+        "ticker": "042660",
+        "name": "한화오션",
+        "market": "KOSPI",
+        "estimated_cap_tier": "large",
+        "primary_signal": "theme_alignment",
+        "reasoning": "조선 LNG 수주 모멘텀 유효하며 HD현대중공업 강세에 동조 가능. 다만 오늘은 반도체 쏠림 국면이라 테마 강도는 2순위.",
+        "score": 3,
+        "signals_present": [
+          "theme_alignment",
+          "momentum_continuation"
+        ]
+      }
+    ]
+  },
+  "track_b_mid": {
+    "candidates": [
+      {
+        "ticker": "240810",
+        "name": "원익IPS",
+        "market": "KOSDAQ",
+        "estimated_cap_tier": "mid",
+        "primary_signal": "theme_alignment",
+        "reasoning": "미국 반도체 장비주(램리서치 +12.7%) 급등 직접 수혜. 메모리 capex 회복 기대감 속 국내 대표 장비 중형주로 갭상승 후 추가 모멘텀 가능."
+      },
+      {
+        "ticker": "403870",
+        "name": "HPSP",
+        "market": "KOSDAQ",
+        "estimated_cap_tier": "mid",
+        "primary_signal": "theme_leader",
+        "reasoning": "고압 수소 어닐링 독점 기술 보유. 반도체 수출 3배 급증 데이터와 미국 반도체 랠리 재점화로 KOSDAQ 반도체 대표주 흐름 기대."
+      },
+      {
+        "ticker": "166090",
+        "name": "하나머티리얼즈",
+        "market": "KOSDAQ",
+        "estimated_cap_tier": "mid",
+        "primary_signal": "theme_alignment",
+        "reasoning": "실리콘 파츠 소재주로 램리서치·AMAT 가동률 회복 직접 수혜. 반도체 소재 중형주 중 갭상승 룸 남아있음."
+      },
+      {
+        "ticker": "095610",
+        "name": "테스",
+        "market": "KOSDAQ",
+        "estimated_cap_tier": "mid",
+        "primary_signal": "theme_alignment",
+        "reasoning": "메모리 장비 노출. 마이크론 +11% 급등으로 메모리 capex 사이클 재가속 기대, 중형 장비주로 추격 매수 유입 여지."
+      },
+      {
+        "ticker": "098460",
+        "name": "코미코",
+        "market": "KOSDAQ",
+        "estimated_cap_tier": "mid",
+        "primary_signal": "momentum_continuation",
+        "reasoning": "세정·코팅 서비스 업체. 반도체 가동률 상승과 직결되며 미국 장비주 급등 모멘텀 연동 가능."
+      },
+      {
+        "ticker": "089030",
+        "name": "테크윙",
+        "market": "KOSDAQ",
+        "estimated_cap_tier": "mid",
+        "primary_signal": "theme_leader",
+        "reasoning": "HBM 후공정 큐브프로버 모멘텀 보유. HBM 수요 강세 + 메모리 랠리 재점화 환경에서 후공정 대표 중형주."
+      },
+      {
+        "ticker": "095340",
+        "name": "ISC",
+        "market": "KOSDAQ",
+        "estimated_cap_tier": "mid",
+        "primary_signal": "theme_alignment",
+        "reasoning": "테스트 소켓 업체로 AI/HBM 테스트 수요 직접 수혜. 반도체 후공정 테마 강세 흐름과 부합."
+      },
+      {
+        "ticker": "267260",
+        "name": "HD현대일렉트릭",
+        "market": "KOSPI",
+        "estimated_cap_tier": "mid",
+        "primary_signal": "policy_tailwind",
+        "reasoning": "AI 데이터센터 전력 설비 수요 급증 테마. 미국 위험선호 회복과 데이터센터 capex 사이클 지속 전망으로 변압기 수주 모멘텀 유효."
+      },
+      {
+        "ticker": "010120",
+        "name": "LS일렉트릭",
+        "market": "KOSPI",
+        "estimated_cap_tier": "mid",
+        "primary_signal": "theme_alignment",
+        "reasoning": "AI 인프라·전력기기 테마 동조주. 데이터센터 증설 사이클 수혜로 중형 전력기기 대안."
+      },
+      {
+        "ticker": "042700",
+        "name": "한미반도체",
+        "market": "KOSPI",
+        "estimated_cap_tier": "mid",
+        "primary_signal": "momentum_continuation",
+        "reasoning": "HBM TC본더 핵심 공급사. SK하이닉스 +2.64% 강세 및 미국 메모리 랠리에 직접 동조, 반도체 수출 급증 펀더멘털 뒷받침."
+      }
+    ],
+    "scored": [
+      {
+        "ticker": "240810",
+        "score": 4,
+        "signals_present": [
+          "theme_alignment",
+          "fresh_catalyst",
+          "premarket_strength"
+        ],
+        "reasoning": "램리서치 +12.7% 급등 직접 수혜, 국내 대표 반도체 장비 중형주로 갭상승 유력. 반도체 수출 3배 급증과 메모리 capex 회복 기대가 펀더멘털 뒷받침."
+      },
+      {
+        "ticker": "403870",
+        "score": 4,
+        "signals_present": [
+          "theme_leader",
+          "fresh_catalyst",
+          "clean_narrative"
+        ],
+        "reasoning": "고압 수소 어닐링 독점 기술 보유한 KOSDAQ 반도체 대표주. 미국 반도체 랠리 재점화와 수출 급증 데이터로 강한 테마 동조 예상."
+      },
+      {
+        "ticker": "166090",
+        "score": 3,
+        "signals_present": [
+          "theme_alignment",
+          "fresh_catalyst"
+        ],
+        "reasoning": "실리콘 파츠 소재주로 램리서치·AMAT 가동률 회복 직접 수혜. 다만 테마 리더 대비 후순위, 갭상승 룸 존재."
+      },
+      {
+        "ticker": "095610",
+        "score": 3,
+        "signals_present": [
+          "theme_alignment",
+          "fresh_catalyst"
+        ],
+        "reasoning": "메모리 장비 노출로 마이크론 +11% 급등 수혜 가능. 중형 장비주로 추격 매수 유입 여지 있으나 테마 리더는 아님."
+      },
+      {
+        "ticker": "098460",
+        "score": 3,
+        "signals_present": [
+          "theme_alignment",
+          "momentum_continuation"
+        ],
+        "reasoning": "세정·코팅 서비스 업체로 반도체 가동률 상승과 연동. 미국 장비주 급등 모멘텀 간접 수혜 가능하나 직접 catalyst는 약함."
+      },
+      {
+        "ticker": "089030",
+        "score": 4,
+        "signals_present": [
+          "theme_leader",
+          "fresh_catalyst",
+          "clean_narrative"
+        ],
+        "reasoning": "HBM 후공정 큐브프로버 대표주로 HBM 수요 강세 + 메모리 랠리 재점화 환경에서 핵심 모멘텀 종목. 명확한 스토리 보유."
+      },
+      {
+        "ticker": "095340",
+        "score": 4,
+        "signals_present": [
+          "theme_alignment",
+          "fresh_catalyst",
+          "clean_narrative"
+        ],
+        "reasoning": "테스트 소켓 업체로 AI/HBM 테스트 수요 직접 수혜. 반도체 후공정 테마 강세 흐름과 부합하며 메모리 랠리 동조 가능."
+      },
+      {
+        "ticker": "267260",
+        "score": 4,
+        "signals_present": [
+          "theme_leader",
+          "policy_tailwind",
+          "momentum_continuation"
+        ],
+        "reasoning": "AI 데이터센터 전력 설비 수요 급증 테마 대표주. 미국 위험선호 회복과 데이터센터 capex 사이클 지속 전망으로 변압기 수주 모멘텀 유효."
+      },
+      {
+        "ticker": "010120",
+        "score": 3,
+        "signals_present": [
+          "theme_alignment",
+          "momentum_continuation"
+        ],
+        "reasoning": "AI 인프라·전력기기 테마 동조주. 데이터센터 증설 사이클 수혜 가능하나 HD현대일렉트릭 대비 후순위."
+      },
+      {
+        "ticker": "042700",
+        "score": 5,
+        "signals_present": [
+          "theme_leader",
+          "fresh_catalyst",
+          "momentum_continuation",
+          "clean_narrative"
+        ],
+        "reasoning": "HBM TC본더 핵심 공급사로 SK하이닉스 강세 및 미국 메모리 랠리에 직접 동조. 반도체 수출 3배 급증 펀더멘털과 명확한 HBM 스토리로 다수 강력 신호."
+      }
+    ],
+    "final_picks": [
+      {
+        "ticker": "042700",
+        "name": "한미반도체",
+        "market": "KOSPI",
+        "estimated_cap_tier": "mid",
+        "primary_signal": "momentum_continuation",
+        "reasoning": "HBM TC본더 핵심 공급사로 SK하이닉스 강세 및 미국 메모리 랠리에 직접 동조. 반도체 수출 3배 급증 펀더멘털과 명확한 HBM 스토리로 다수 강력 신호.",
+        "score": 5,
+        "signals_present": [
+          "theme_leader",
+          "fresh_catalyst",
+          "momentum_continuation",
+          "clean_narrative"
+        ]
+      },
+      {
+        "ticker": "240810",
+        "name": "원익IPS",
+        "market": "KOSDAQ",
+        "estimated_cap_tier": "mid",
+        "primary_signal": "theme_alignment",
+        "reasoning": "램리서치 +12.7% 급등 직접 수혜, 국내 대표 반도체 장비 중형주로 갭상승 유력. 반도체 수출 3배 급증과 메모리 capex 회복 기대가 펀더멘털 뒷받침.",
+        "score": 4,
+        "signals_present": [
+          "theme_alignment",
+          "fresh_catalyst",
+          "premarket_strength"
+        ]
+      },
+      {
+        "ticker": "403870",
+        "name": "HPSP",
+        "market": "KOSDAQ",
+        "estimated_cap_tier": "mid",
+        "primary_signal": "theme_leader",
+        "reasoning": "고압 수소 어닐링 독점 기술 보유한 KOSDAQ 반도체 대표주. 미국 반도체 랠리 재점화와 수출 급증 데이터로 강한 테마 동조 예상.",
+        "score": 4,
+        "signals_present": [
+          "theme_leader",
+          "fresh_catalyst",
+          "clean_narrative"
+        ]
+      },
+      {
+        "ticker": "089030",
+        "name": "테크윙",
+        "market": "KOSDAQ",
+        "estimated_cap_tier": "mid",
+        "primary_signal": "theme_leader",
+        "reasoning": "HBM 후공정 큐브프로버 대표주로 HBM 수요 강세 + 메모리 랠리 재점화 환경에서 핵심 모멘텀 종목. 명확한 스토리 보유.",
+        "score": 4,
+        "signals_present": [
+          "theme_leader",
+          "fresh_catalyst",
+          "clean_narrative"
+        ]
+      },
+      {
+        "ticker": "095340",
+        "name": "ISC",
+        "market": "KOSDAQ",
+        "estimated_cap_tier": "mid",
+        "primary_signal": "theme_alignment",
+        "reasoning": "테스트 소켓 업체로 AI/HBM 테스트 수요 직접 수혜. 반도체 후공정 테마 강세 흐름과 부합하며 메모리 랠리 동조 가능.",
+        "score": 4,
+        "signals_present": [
+          "theme_alignment",
+          "fresh_catalyst",
+          "clean_narrative"
+        ]
+      }
+    ]
+  }
+}

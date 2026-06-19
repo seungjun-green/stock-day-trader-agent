@@ -1,0 +1,1048 @@
+{
+  "date": "2026-06-19",
+  "combo_id": "v1-v1-v1",
+  "variants": {
+    "context": "v1",
+    "brief": "v1",
+    "research": "v1"
+  },
+  "models": {
+    "context": "claude-sonnet-4-6",
+    "brief": "claude-opus-4-7",
+    "research": "claude-opus-4-7"
+  },
+  "context": "I'll gather all the necessary data simultaneously for today's briefing. Let me search across multiple sources at once.\nNow let me do one more targeted search for the specific KOSPI/KOSDAQ closing numbers and SK Hynix/Samsung moves on June 18.\nI now have all the data needed to compile today's briefing. Here it is:\n\n---\n\n**[한국 증시 모닝 브리핑] 2026년 6월 19일 (금)**\n\n---\n\n**Yesterday recap (6월 18일, 목요일):**\n\n- **KOSPI:** \n9,063.84 (+2.25%)\n 마감. \n전일 8%대 폭락에서 급반전, 역대 최대 상승폭인 612포인트 오른 8,096 수준으로 회복.\n *(알파스퀘어 기준 9,063.84로 소폭 차이 있음)*\n- **KOSDAQ:** \n1,000.93 (-3.01%)\n 마감. 코스피 반등에도 코스닥은 역행하며 1,000선 간신히 사수.\n- **Key events:** \n삼성전자 +약 9%, SK하이닉스 +약 16% 급등. 메모리 업황 견조 판단과 미-이란 종전협상 기대가 매수세를 자극.\n \n외국인은 22거래일 연속 순매도 지속. 다만 삼성전자·하이닉스 보유 비중이 최근 1년 내 최저 수준으로 낮아져 매도세 둔화 전망도 제기.\n\n- **Foreign net flow:** 외국인 22거래일 연속 순매도 지속 (정확한 당일 금액 미확인). \n삼성전자·하이닉스 외국인 보유 비중이 최근 1년 만에 최저치로 하락.\n\n- **USD/KRW:** \n달러 대비 환율은 23원가량 내린 1,512원으로 주간거래 마감.\n \n장중 고점은 1,536.52까지 상승하기도 했음.\n\n\n---\n\n**Overnight US (6월 18일, 수요일 미국 현지):**\n\n- **Major indices:** \nS&P 500 +1.08% (26,517.93), Nasdaq +1.91% (7,500.58), Dow Jones +0.14% (51,564.70).\n \nRussell 2000 +2.12% (2,979.77)로 가장 강세.\n\n- **Macro backdrop:** \n전일(목) FOMC 결과 발표 후 금리 인상 가능성 시사로 급락했던 시장이 기술주·경기민감주 중심으로 반등.\n \nFed는 금리 동결을 유지했으나 dot plot 상 18명 중 9명이 2026년 내 최소 1회 인상을 예상하는 매파적 스탠스 확인.\n\n- **Sector moves:** \n미-이란 MOU 서명으로 에너지주 하락.\n 기술·반도체 섹터 반등 주도. \n6월 19일은 미국 Juneteenth 공휴일로 미국 증시 휴장.\n\n\n---\n\n**Today's setup (6월 19일):**\n\n- **Regime:** Bounce / continuation — 전일 코스피 대형 반등 이후 추가 상승 여부 탐색 국면.\n- **Expected gap direction:** 미국 증시 전일 강세(Nasdaq +1.91%) 반영 시 갭 상승 출발 가능. 단, 미국 시장 오늘 휴장(Juneteenth)으로 야간 추가 모멘텀 부재.\n- **Active themes:** 반도체(삼성전자·SK하이닉스 연속 강세), 미-이란 종전 수혜(에너지 하락, 방산 차익실현 주의), AI 인프라.\n- **Risks:** \n외국인 22거래일 연속 순매도 패턴 미해소. 굵직한 이벤트 연속으로 6월 내내 변동성 지속 전망.\n \nFed 매파 기조 강화로 원화 약세 압력 상존, USD/KRW 1,530~1,540 레인지 경계.\n 코스닥 -3%대 역행 흐름 주목.\n\n---\n\n**Active themes to watch:**\n\n- **반도체 (HBM/메모리):** \nAI 데이터센터 수요 폭증으로 HBM 생산 집중, DRAM·NAND 가격 폭등 지속.\n 삼성전자(005930), SK하이닉스(000660) 연속 신고가 도전. 미국 Nasdaq 반등이 추가 상승 동력.\n- **방산·조선 (수주 산업):** \n조선은 LNG 고부가 선종 수주·선가 상승으로 구조적 실적 개선 구간. 방산은 유럽·중동 수출 본격화로 '수출 산업'으로 재분류.\n 미-이란 종전 MOU 이후 지정학 리스크 완화 → 방산 단기 차익실현 압력 주의.\n- **AI 인프라·전력:** \nAI 데이터센터 전력 수요 급증 대응으로 정부가 엔비디아 차세대 GPU 1.5만 장 확보 추진.\n 초고압 변압기·전력기기 관련주 수혜 지속.\n- **로봇·우주항공:** \n우주항공청(KASA) 주도 민간 우주 개발 원년.\n \n방산+우주 성장성 겸비 종목에 외국인·기관 장기 자금 유입 지속.\n\n\n---\n\n**Yesterday's notable movers (6월 18일 주요 종목):**\n\n- **000660 SK하이닉스 +7.63%** (장중 +9.43%): \n종가 2,693,000원.\n \n메모리 업황 견조 + 미-이란 종전 기대 복합 매수.\n\n- **005930 삼성전자 +5.98%** (장중 +6.12%): \n종가 363,500원, 거래량 +65.47% 폭증.\n 반도체 슈퍼사이클 재확인 매수세.\n- **코스닥 -3.01%:** \n코스닥 1,000.93으로 대형주 반등과 극명한 디커플링.\n 중소형·바이오 차익실현 압력.\n- **에너지 관련주 약세:** \n미-이란 MOU 체결로 유가 하락 → 에너지 섹터 전반 매도.\n\n- **한화에어로스페이스 등 방산주:** \n한화에어로스페이스·KAI, 방산 수출 실적 기반 + 우주 성장 동력 장착.\n 지정학 완화 국면에서 단기 차익실현 vs. 구조적 수주 모멘텀 충돌 주시.\n\n---\n*※ 오늘(6월 19일) 미국 증시는 Juneteenth 공휴일로 휴장. 국내 증시는 정상 개장. 다음 주요 미국 이벤트: 7월 8일 FOMC 의사록 공개, 7월 28~29일 차기 FOMC 회의.*",
+  "track_a_large_mega": {
+    "candidates": [
+      {
+        "ticker": "042660",
+        "name": "한화오션",
+        "market": "KOSPI",
+        "estimated_cap_tier": "large",
+        "primary_signal": "fresh_catalyst",
+        "reasoning": "7.8조원 규모 KDDX 우선협상대상자 선정 + 캐나다 잠수함(60조원 규모) 우선협상자 선정이 6월 말로 예정되어 모멘텀 부각, 조선·방산 구조적 호황 지속.",
+        "sources": [
+          {
+            "publisher": "한경비즈니스",
+            "url": "https://magazine.hankyung.com/business/article/202606111493b",
+            "date": "2026-06-11"
+          }
+        ]
+      },
+      {
+        "ticker": "329180",
+        "name": "HD현대중공업",
+        "market": "KOSPI",
+        "estimated_cap_tier": "mega",
+        "primary_signal": "theme_leader",
+        "reasoning": "글로벌 친환경 선박 발주 증가와 LNG 고부가 선종 수주 모멘텀, 6월 15일 장중 8%대 상승하며 조선주 상승세 주도. 미-이란 종전 이슈는 상선/조선엔 직접적 부정 영향 적음.",
+        "sources": [
+          {
+            "publisher": "CBC뉴스",
+            "url": "https://www.cbci.co.kr/news/articleView.html?idxno=581997",
+            "date": "2026-06-15"
+          }
+        ]
+      },
+      {
+        "ticker": "034020",
+        "name": "두산에너빌리티",
+        "market": "KOSPI",
+        "estimated_cap_tier": "mega",
+        "primary_signal": "theme_alignment",
+        "reasoning": "AI 데이터센터 전력 수요 폭증 → 가스터빈/원전/SMR 수주 릴레이, 미국 빅테크 누적 12기 1조원 공급 계약 체결 등 구조적 수혜. Nasdaq 강세 영향으로 AI 인프라 테마 갭 상승 가능.",
+        "sources": [
+          {
+            "publisher": "머니투데이",
+            "url": "https://www.mt.co.kr/industry/2026/05/29/2026052814244420781",
+            "date": "2026-05-29"
+          }
+        ]
+      },
+      {
+        "ticker": "267260",
+        "name": "HD현대일렉트릭",
+        "market": "KOSPI",
+        "estimated_cap_tier": "large",
+        "primary_signal": "theme_alignment",
+        "reasoning": "미국 전력망 Seller's Market 지속, 초고압 변압기 수요 2028~2029년까지 확보. 데이터센터 전력 수요 2025년 447TWh → 2026년 565TWh 증가 전망으로 구조적 수혜 명확.",
+        "sources": [
+          {
+            "publisher": "인더스트리뉴스",
+            "url": "https://www.industrynews.co.kr/news/articleView.html?idxno=82096",
+            "date": "2026-06-12"
+          }
+        ]
+      },
+      {
+        "ticker": "035420",
+        "name": "NAVER",
+        "market": "KOSPI",
+        "estimated_cap_tier": "mega",
+        "primary_signal": "oversold_bounce",
+        "reasoning": "52주 고가 304,000원 대비 25.3% 하락한 227,000원 수준에서 거래되며 오버솔드 영역. Nasdaq 기술주 강세(+1.91%) 갭상승 영향 + AI 광고 수익화 모멘텀 기대.",
+        "sources": [
+          {
+            "publisher": "Brokdam",
+            "url": "https://stock1.brokdam.com/naver035420-%EC%A3%BC%EA%B0%80-%EB%B6%84%EC%84%9D-2026-52%EC%A3%BC-%EA%B3%A0%EA%B0%80-%EB%8C%80%EB%B9%84-25-%ED%95%98%EB%9D%BD-%EC%A7%80%EA%B8%88-%EC%96%B4%EB%94%94%EC%AF%A4%EC%9D%BC/",
+            "date": "2026-06-10"
+          }
+        ]
+      },
+      {
+        "ticker": "006400",
+        "name": "삼성SDI",
+        "market": "KOSPI",
+        "estimated_cap_tier": "large",
+        "primary_signal": "theme_alignment",
+        "reasoning": "인터배터리 2026에서 휴머노이드 로봇용 파우치형 전고체 배터리 샘플 최초 공개, 2027년 양산 로드맵 + 북미 ESS 시장 진출 가속화. 삼성증권 목표주가 유지로 추가 상승 여지.",
+        "sources": [
+          {
+            "publisher": "녹색경제신문",
+            "url": "https://www.greened.kr/news/articleView.html?idxno=337894",
+            "date": "2026-03-12"
+          }
+        ]
+      },
+      {
+        "ticker": "373220",
+        "name": "LG에너지솔루션",
+        "market": "KOSPI",
+        "estimated_cap_tier": "mega",
+        "primary_signal": "theme_alignment",
+        "reasoning": "유럽 전기차 수요 회복과 북미 ESS 수주 확대, 2026년 고분자계 전고체 배터리 양산 목표로 K-배터리 재평가 흐름. 삼성증권 목표가 510,000원 BUY 의견 유지.",
+        "sources": [
+          {
+            "publisher": "ZDNet Korea",
+            "url": "https://zdnet.co.kr/view/?no=20260514111228",
+            "date": "2026-05-14"
+          }
+        ]
+      },
+      {
+        "ticker": "105560",
+        "name": "KB금융",
+        "market": "KOSPI",
+        "estimated_cap_tier": "mega",
+        "primary_signal": "policy_tailwind",
+        "reasoning": "코리아 밸류업 정책 핵심 수혜주, 안정적 CET1 비율과 높은 총주주환원율로 PBR 1배 돌파. 6월 12일 +6.40% 상승하며 외국인 매도세 둔화 신호 + 금리 변동성 국면에서 방어주 역할.",
+        "sources": [
+          {
+            "publisher": "한국금융신문",
+            "url": "https://finance.thesmileinfo.com/2026/05/2026-9.html",
+            "date": "2026-05-12"
+          }
+        ]
+      },
+      {
+        "ticker": "055550",
+        "name": "신한지주",
+        "market": "KOSPI",
+        "estimated_cap_tier": "mega",
+        "primary_signal": "policy_tailwind",
+        "reasoning": "밸류업 2.0 전략으로 총주주환원율 50% 조기 달성, 가장 공격적인 밸류업 정책 발표. Fed 매파 기조 + 원화 약세 경계 국면에서 외국인 22거래일 순매도 둔화 시 우선 매수 후보.",
+        "sources": [
+          {
+            "publisher": "한국금융신문",
+            "url": "https://finance.thesmileinfo.com/2026/05/2026-9.html",
+            "date": "2026-05-12"
+          }
+        ]
+      },
+      {
+        "ticker": "064350",
+        "name": "현대로템",
+        "market": "KOSPI",
+        "estimated_cap_tier": "large",
+        "primary_signal": "momentum_continuation",
+        "reasoning": "K2 전차 폴란드 2차 사업 조기 생산 + 이라크/루마니아 수출 본격화, 2026년 해외 방산 매출 3조원(+31.5%) 전망. 최근 25% 조정으로 단기 가격 부담 완화, 한투 목표가 32만원.",
+        "sources": [
+          {
+            "publisher": "뉴스핌",
+            "url": "https://news.nate.com/view/20251125n07050",
+            "date": "2025-11-25"
+          }
+        ]
+      }
+    ],
+    "scored": [
+      {
+        "ticker": "042660",
+        "score": 3,
+        "signals_present": [
+          "fresh_catalyst",
+          "theme_alignment",
+          "clean_narrative"
+        ],
+        "reasoning": "\n60조원 규모 캐나다 잠수함(CPSP) 사업 우선협상대상자 선정이 6월 말까지 발표 예정으로 임박 모멘텀 보유하며, KDDX 7.8조원 사업도 사실상 낙점\n. 다만 미-이란 종전 MOU로 방산 단기 차익실현 압력 + 시장 컨텍스트 방산 리스크 플래그로 1점 차감.",
+        "sources": [
+          {
+            "publisher": "이코노미사이언스",
+            "url": "https://www.e-science.co.kr/news/articleView.html?idxno=130545",
+            "date": "2026-06-12"
+          }
+        ]
+      },
+      {
+        "ticker": "329180",
+        "score": 4,
+        "signals_present": [
+          "theme_leader",
+          "momentum_continuation",
+          "clean_narrative"
+        ],
+        "reasoning": "\nHD현대중공업은 상선 수주 목표 사실상 달성에 데이터센터·특수선 등 신규 성장 동력 노출로 가장 안정적인 투자처로 꼽힘\n. \n상선 수주 목표 94.5% 달성\n으로 미-이란 종전 영향 제한적, 조선 테마 리더십 유지.",
+        "sources": [
+          {
+            "publisher": "데일리안",
+            "url": "https://www.dailian.co.kr/news/view/1655481/",
+            "date": "2026-06-13"
+          }
+        ]
+      },
+      {
+        "ticker": "034020",
+        "score": 5,
+        "signals_present": [
+          "theme_leader",
+          "fresh_catalyst",
+          "momentum_continuation",
+          "clean_narrative"
+        ],
+        "reasoning": "\n국산 대형 가스터빈으로 미국 빅테크와 잇따라 계약하며 현지 수주 12기 확보, 누적 23기 달성\n. \n데이터센터 온사이트 발전소용 가스터빈 수주 기회 지속 확대\n로 AI 인프라 테마 핵심 수혜주, Nasdaq +1.91% 갭상승 동력.",
+        "sources": [
+          {
+            "publisher": "서울신문",
+            "url": "https://www.seoul.co.kr/news/economy/industry/2026/05/14/20260514016001",
+            "date": "2026-05-14"
+          },
+          {
+            "publisher": "한국경제",
+            "url": "https://www.hankyung.com/article/2026061195946",
+            "date": "2026-06-11"
+          }
+        ]
+      },
+      {
+        "ticker": "267260",
+        "score": 5,
+        "signals_present": [
+          "theme_alignment",
+          "fresh_catalyst",
+          "momentum_continuation",
+          "clean_narrative"
+        ],
+        "reasoning": "\n미국 자회사 통해 1730억원 규모 765kV 초고압 변압기 및 리액터 공급 계약 체결, 계약 기간 2029년 8월까지\n. \n미국 송전망 70% 이상이 25년 이상 노후 설비로 AI 데이터센터 수요 대응 위해 초고압 송전망 확충 필수, 765kV 변압기 200대 내외 잠재 수요\n. AI 인프라 + Nasdaq 강세 갭상승 우호적.",
+        "sources": [
+          {
+            "publisher": "조세일보",
+            "url": "http://www.joseilbo.com/news/htmls/2026/05/20260507567828.html",
+            "date": "2026-05-07"
+          }
+        ]
+      },
+      {
+        "ticker": "035420",
+        "score": 3,
+        "signals_present": [
+          "oversold_bounce",
+          "theme_alignment"
+        ],
+        "reasoning": "\n52주 고가 304,000원 대비 6월 10일 기준 227,000원으로 약 25.3% 하락한 오버솔드 영역\n. \n최근 23만9000원대 거래 + DS투자증권 AI 인프라 자금 조달 자산 분리 구조 검토 분석, 재무 부담 완화 기대\n로 Nasdaq 기술주 강세 반영 갭상승 가능.",
+        "sources": [
+          {
+            "publisher": "CBC뉴스",
+            "url": "https://www.cbci.co.kr/news/articleView.html?idxno=582555",
+            "date": "2026-06-17"
+          }
+        ]
+      },
+      {
+        "ticker": "006400",
+        "score": 3,
+        "signals_present": [
+          "theme_alignment",
+          "clean_narrative"
+        ],
+        "reasoning": "\nAI 데이터센터용 UPS·BBU 전략 강조, 2170 폼팩터 기반 40V3 BBU 6월부터 양산 대응 예정\n. \n2026년 연간 영업이익 1조6730억원으로 시장 예상치 크게 상회 전망\n. AI 데이터센터 테마 정렬되나 배터리 섹터 자체는 전일 코스피 반등에서 후순위.",
+        "sources": [
+          {
+            "publisher": "삼성증권",
+            "url": "https://www.samsungpop.com/common.do?cmd=down&contentType=application/pdf&inlineYn=Y&saveKey=research.pdf&fileName=2020/2026031109011048K_02_08.pdf",
+            "date": "2026-03-11"
+          }
+        ]
+      },
+      {
+        "ticker": "373220",
+        "score": 3,
+        "signals_present": [
+          "theme_alignment",
+          "clean_narrative"
+        ],
+        "reasoning": "\nLG에너지솔루션과 삼성SDI는 BESS용 LFP 배터리 공급계약 체결 등 가시적 성과 진행\n. \n2026년 고분자계 전고체 배터리 양산, 2030년 황화물계 전고체 상용화 목표\n. 다만 \n1분기 적자 전환 + 매출 5조5550억원 대비 2078억원 영업손실\n로 모멘텀 제한적.",
+        "sources": [
+          {
+            "publisher": "뉴스웍스",
+            "url": "https://www.newsworks.co.kr/news/articleView.html?idxno=839855",
+            "date": "2026-05-06"
+          }
+        ]
+      },
+      {
+        "ticker": "105560",
+        "score": 3,
+        "signals_present": [
+          "policy_tailwind",
+          "momentum_continuation"
+        ],
+        "reasoning": "\n2월 실적 발표 후 PBR 1.06배를 기록하며 2001년 금융지주 체제 도입 이후 25년 만에 처음으로 PBR 1배 돌파\n. \n독보적인 총주주환원율 + 매년 조 단위 자사주 소각 정례화, 유통 주식 수 감소로 시세 상승 핵심 동력\n. 외국인 22거래일 연속 순매도 시장 컨텍스트 페널티로 1점 차감.",
+        "sources": [
+          {
+            "publisher": "DealSite경제TV",
+            "url": "https://news.dealsitetv.com/articles/166281",
+            "date": "2026-03-04"
+          }
+        ]
+      },
+      {
+        "ticker": "055550",
+        "score": 3,
+        "signals_present": [
+          "policy_tailwind",
+          "clean_narrative"
+        ],
+        "reasoning": "\n신한지주는 유일하게 소폭 상승하며 상대적 강세 시현 사례 있음\n. 밸류업 정책 수혜 + 안정적 배당 매력. 다만 외국인 22거래일 연속 순매도 환경에서 금융주 약세 흐름 + 원화 약세 압력 페널티로 1점 차감.",
+        "sources": [
+          {
+            "publisher": "한국금융신문",
+            "url": "https://www.fntimes.com/html/view.php?ud=202602262134199925b4a7c6999c_18",
+            "date": "2026-02-26"
+          }
+        ]
+      },
+      {
+        "ticker": "064350",
+        "score": 3,
+        "signals_present": [
+          "momentum_continuation",
+          "fresh_catalyst",
+          "clean_narrative"
+        ],
+        "reasoning": "\n폴란드와 체결한 K2 2차 계약 규모 65억달러(약 9조원), 2031년까지 261대 납품 예정\n. \n폴란드 국방부 K2 전차 1000대 확보 계획 재확인\n로 구조적 수주 모멘텀. 미-이란 종전 MOU 영향으로 방산 단기 차익실현 페널티 1점 차감.",
+        "sources": [
+          {
+            "publisher": "더구루",
+            "url": "https://www.theguru.co.kr/news/article.html?no=103102",
+            "date": "2026-06-15"
+          },
+          {
+            "publisher": "네이트뉴스",
+            "url": "https://news.nate.com/view/20260421n32694",
+            "date": "2026-04-21"
+          }
+        ]
+      }
+    ],
+    "final_picks": [
+      {
+        "ticker": "329180",
+        "name": "HD현대중공업",
+        "market": "KOSPI",
+        "estimated_cap_tier": "mega",
+        "primary_signal": "theme_leader",
+        "reasoning": "\nHD현대중공업은 상선 수주 목표 사실상 달성에 데이터센터·특수선 등 신규 성장 동력 노출로 가장 안정적인 투자처로 꼽힘\n. \n상선 수주 목표 94.5% 달성\n으로 미-이란 종전 영향 제한적, 조선 테마 리더십 유지.",
+        "sources": [
+          {
+            "publisher": "CBC뉴스",
+            "url": "https://www.cbci.co.kr/news/articleView.html?idxno=581997",
+            "date": "2026-06-15"
+          },
+          {
+            "publisher": "데일리안",
+            "url": "https://www.dailian.co.kr/news/view/1655481/",
+            "date": "2026-06-13"
+          }
+        ],
+        "score": 4,
+        "signals_present": [
+          "theme_leader",
+          "momentum_continuation",
+          "clean_narrative"
+        ],
+        "brief_reasoning": "글로벌 친환경 선박 발주 증가와 LNG 고부가 선종 수주 모멘텀, 6월 15일 장중 8%대 상승하며 조선주 상승세 주도. 미-이란 종전 이슈는 상선/조선엔 직접적 부정 영향 적음.",
+        "research_reasoning": "\nHD현대중공업은 상선 수주 목표 사실상 달성에 데이터센터·특수선 등 신규 성장 동력 노출로 가장 안정적인 투자처로 꼽힘\n. \n상선 수주 목표 94.5% 달성\n으로 미-이란 종전 영향 제한적, 조선 테마 리더십 유지."
+      },
+      {
+        "ticker": "035420",
+        "name": "NAVER",
+        "market": "KOSPI",
+        "estimated_cap_tier": "mega",
+        "primary_signal": "oversold_bounce",
+        "reasoning": "\n52주 고가 304,000원 대비 6월 10일 기준 227,000원으로 약 25.3% 하락한 오버솔드 영역\n. \n최근 23만9000원대 거래 + DS투자증권 AI 인프라 자금 조달 자산 분리 구조 검토 분석, 재무 부담 완화 기대\n로 Nasdaq 기술주 강세 반영 갭상승 가능.",
+        "sources": [
+          {
+            "publisher": "Brokdam",
+            "url": "https://stock1.brokdam.com/naver035420-%EC%A3%BC%EA%B0%80-%EB%B6%84%EC%84%9D-2026-52%EC%A3%BC-%EA%B3%A0%EA%B0%80-%EB%8C%80%EB%B9%84-25-%ED%95%98%EB%9D%BD-%EC%A7%80%EA%B8%88-%EC%96%B4%EB%94%94%EC%AF%A4%EC%9D%BC/",
+            "date": "2026-06-10"
+          },
+          {
+            "publisher": "CBC뉴스",
+            "url": "https://www.cbci.co.kr/news/articleView.html?idxno=582555",
+            "date": "2026-06-17"
+          }
+        ],
+        "score": 3,
+        "signals_present": [
+          "oversold_bounce",
+          "theme_alignment"
+        ],
+        "brief_reasoning": "52주 고가 304,000원 대비 25.3% 하락한 227,000원 수준에서 거래되며 오버솔드 영역. Nasdaq 기술주 강세(+1.91%) 갭상승 영향 + AI 광고 수익화 모멘텀 기대.",
+        "research_reasoning": "\n52주 고가 304,000원 대비 6월 10일 기준 227,000원으로 약 25.3% 하락한 오버솔드 영역\n. \n최근 23만9000원대 거래 + DS투자증권 AI 인프라 자금 조달 자산 분리 구조 검토 분석, 재무 부담 완화 기대\n로 Nasdaq 기술주 강세 반영 갭상승 가능."
+      },
+      {
+        "ticker": "006400",
+        "name": "삼성SDI",
+        "market": "KOSPI",
+        "estimated_cap_tier": "large",
+        "primary_signal": "theme_alignment",
+        "reasoning": "\nAI 데이터센터용 UPS·BBU 전략 강조, 2170 폼팩터 기반 40V3 BBU 6월부터 양산 대응 예정\n. \n2026년 연간 영업이익 1조6730억원으로 시장 예상치 크게 상회 전망\n. AI 데이터센터 테마 정렬되나 배터리 섹터 자체는 전일 코스피 반등에서 후순위.",
+        "sources": [
+          {
+            "publisher": "녹색경제신문",
+            "url": "https://www.greened.kr/news/articleView.html?idxno=337894",
+            "date": "2026-03-12"
+          },
+          {
+            "publisher": "삼성증권",
+            "url": "https://www.samsungpop.com/common.do?cmd=down&contentType=application/pdf&inlineYn=Y&saveKey=research.pdf&fileName=2020/2026031109011048K_02_08.pdf",
+            "date": "2026-03-11"
+          }
+        ],
+        "score": 3,
+        "signals_present": [
+          "theme_alignment",
+          "clean_narrative"
+        ],
+        "brief_reasoning": "인터배터리 2026에서 휴머노이드 로봇용 파우치형 전고체 배터리 샘플 최초 공개, 2027년 양산 로드맵 + 북미 ESS 시장 진출 가속화. 삼성증권 목표주가 유지로 추가 상승 여지.",
+        "research_reasoning": "\nAI 데이터센터용 UPS·BBU 전략 강조, 2170 폼팩터 기반 40V3 BBU 6월부터 양산 대응 예정\n. \n2026년 연간 영업이익 1조6730억원으로 시장 예상치 크게 상회 전망\n. AI 데이터센터 테마 정렬되나 배터리 섹터 자체는 전일 코스피 반등에서 후순위."
+      },
+      {
+        "ticker": "373220",
+        "name": "LG에너지솔루션",
+        "market": "KOSPI",
+        "estimated_cap_tier": "mega",
+        "primary_signal": "theme_alignment",
+        "reasoning": "\nLG에너지솔루션과 삼성SDI는 BESS용 LFP 배터리 공급계약 체결 등 가시적 성과 진행\n. \n2026년 고분자계 전고체 배터리 양산, 2030년 황화물계 전고체 상용화 목표\n. 다만 \n1분기 적자 전환 + 매출 5조5550억원 대비 2078억원 영업손실\n로 모멘텀 제한적.",
+        "sources": [
+          {
+            "publisher": "ZDNet Korea",
+            "url": "https://zdnet.co.kr/view/?no=20260514111228",
+            "date": "2026-05-14"
+          },
+          {
+            "publisher": "뉴스웍스",
+            "url": "https://www.newsworks.co.kr/news/articleView.html?idxno=839855",
+            "date": "2026-05-06"
+          }
+        ],
+        "score": 3,
+        "signals_present": [
+          "theme_alignment",
+          "clean_narrative"
+        ],
+        "brief_reasoning": "유럽 전기차 수요 회복과 북미 ESS 수주 확대, 2026년 고분자계 전고체 배터리 양산 목표로 K-배터리 재평가 흐름. 삼성증권 목표가 510,000원 BUY 의견 유지.",
+        "research_reasoning": "\nLG에너지솔루션과 삼성SDI는 BESS용 LFP 배터리 공급계약 체결 등 가시적 성과 진행\n. \n2026년 고분자계 전고체 배터리 양산, 2030년 황화물계 전고체 상용화 목표\n. 다만 \n1분기 적자 전환 + 매출 5조5550억원 대비 2078억원 영업손실\n로 모멘텀 제한적."
+      },
+      {
+        "ticker": "105560",
+        "name": "KB금융",
+        "market": "KOSPI",
+        "estimated_cap_tier": "mega",
+        "primary_signal": "policy_tailwind",
+        "reasoning": "\n2월 실적 발표 후 PBR 1.06배를 기록하며 2001년 금융지주 체제 도입 이후 25년 만에 처음으로 PBR 1배 돌파\n. \n독보적인 총주주환원율 + 매년 조 단위 자사주 소각 정례화, 유통 주식 수 감소로 시세 상승 핵심 동력\n. 외국인 22거래일 연속 순매도 시장 컨텍스트 페널티로 1점 차감.",
+        "sources": [
+          {
+            "publisher": "한국금융신문",
+            "url": "https://finance.thesmileinfo.com/2026/05/2026-9.html",
+            "date": "2026-05-12"
+          },
+          {
+            "publisher": "DealSite경제TV",
+            "url": "https://news.dealsitetv.com/articles/166281",
+            "date": "2026-03-04"
+          }
+        ],
+        "score": 3,
+        "signals_present": [
+          "policy_tailwind",
+          "momentum_continuation"
+        ],
+        "brief_reasoning": "코리아 밸류업 정책 핵심 수혜주, 안정적 CET1 비율과 높은 총주주환원율로 PBR 1배 돌파. 6월 12일 +6.40% 상승하며 외국인 매도세 둔화 신호 + 금리 변동성 국면에서 방어주 역할.",
+        "research_reasoning": "\n2월 실적 발표 후 PBR 1.06배를 기록하며 2001년 금융지주 체제 도입 이후 25년 만에 처음으로 PBR 1배 돌파\n. \n독보적인 총주주환원율 + 매년 조 단위 자사주 소각 정례화, 유통 주식 수 감소로 시세 상승 핵심 동력\n. 외국인 22거래일 연속 순매도 시장 컨텍스트 페널티로 1점 차감."
+      }
+    ],
+    "filter_audit": {
+      "excluded_by_filters": [
+        {
+          "ticker": "034020",
+          "name": "두산에너빌리티",
+          "reason": "E6:recent_loser SL on 2 days in last 5 trading days"
+        },
+        {
+          "ticker": "267260",
+          "name": "HD현대일렉트릭",
+          "reason": "E6:recent_loser SL on 2 days in last 5 trading days"
+        },
+        {
+          "ticker": "042660",
+          "name": "한화오션",
+          "reason": "E6:recent_loser SL on 2 days in last 5 trading days"
+        }
+      ],
+      "dropped_by_d1": []
+    }
+  },
+  "track_b_mid": {
+    "candidates": [
+      {
+        "ticker": "357780",
+        "name": "솔브레인",
+        "market": "KOSDAQ",
+        "estimated_cap_tier": "mid",
+        "primary_signal": "theme_leader",
+        "reasoning": "메모리 슈퍼사이클 핵심 소재주로 삼성·SK하이닉스 DRAM/NAND/HBM/파운드리 전 부문에 소재 공급. 키움증권 목표주가 38만원, 반도체 소재 업종 top pick 제시. 어제 코스닥 -3% 조정 후 반도체 대형주 강세 연동 가능.",
+        "sources": [
+          {
+            "publisher": "키움증권",
+            "url": "https://bbn.kiwoom.com/rfCR11817",
+            "date": "2026-01-15"
+          }
+        ]
+      },
+      {
+        "ticker": "095340",
+        "name": "ISC",
+        "market": "KOSDAQ",
+        "estimated_cap_tier": "mid",
+        "primary_signal": "theme_alignment",
+        "reasoning": "테스트 소켓 강자로 GPU·ASIC·CPU 확대 수혜. 한화투자증권 목표가 30만원·매수 의견, 1Q 매출 +115%·영업이익 +237% YoY. AI 반도체 전 영역 수혜로 HBM 슈퍼사이클 동조 가능.",
+        "sources": [
+          {
+            "publisher": "조세일보",
+            "url": "https://m.joseilbo.com/news/view.htm?newsid=568907",
+            "date": "2026-05-28"
+          }
+        ]
+      },
+      {
+        "ticker": "183300",
+        "name": "코미코",
+        "market": "KOSDAQ",
+        "estimated_cap_tier": "mid",
+        "primary_signal": "momentum_continuation",
+        "reasoning": "반도체 부품 세정·코팅 호황으로 증설 확대. 미래에셋 목표주가 24만원 100% 상향, 2027년 업종 성장률 초과 전망. 무상증자·액면분할 모멘텀도 가시화.",
+        "sources": [
+          {
+            "publisher": "빅타뉴스",
+            "url": "https://www.bigtanews.co.kr/article/view/big202605300003",
+            "date": "2026-05-30"
+          }
+        ]
+      },
+      {
+        "ticker": "240810",
+        "name": "원익IPS",
+        "market": "KOSDAQ",
+        "estimated_cap_tier": "mid",
+        "primary_signal": "theme_leader",
+        "reasoning": "선단 파운드리 노출 높은 반도체 장비주로 AI 소부장 핵심. 6월 12일 상한가 이후 일주일 조정 거치며 정상화 — 코스피 반도체 강세 재가속 시 동조 가능. 비전옥스 드라이에처 공급사 선정 호재도.",
+        "sources": [
+          {
+            "publisher": "서울경제",
+            "url": "https://www.sedaily.com/article/20055067",
+            "date": "2026-06-12"
+          }
+        ]
+      },
+      {
+        "ticker": "080220",
+        "name": "제주반도체",
+        "market": "KOSDAQ",
+        "estimated_cap_tier": "mid",
+        "primary_signal": "theme_alignment",
+        "reasoning": "NAND MCP 팹리스로 메모리 가격 폭등 직접 수혜. 2025년 3분기 누적 매출 +67.7%, 영업이익 +141.8% YoY. DRAM/NAND 가격 상승 사이클 지속 시 실적 모멘텀 강세.",
+        "sources": [
+          {
+            "publisher": "기업모니터(WiseReport)",
+            "url": "https://comp.wisereport.co.kr/company/c1010001.aspx?cmp_cd=080220",
+            "date": "2026-06-02"
+          }
+        ]
+      },
+      {
+        "ticker": "089030",
+        "name": "테크윙",
+        "market": "KOSDAQ",
+        "estimated_cap_tier": "mid",
+        "primary_signal": "oversold_bounce",
+        "reasoning": "반도체 테스트 핸들러 강자, HBM 큐브프로버 신성장 동력. 실적 대비 주가 저평가 구간이라는 분석 다수, 코스닥 -3% 조정 후 반도체 섹터 동조 반등 가능.",
+        "sources": [
+          {
+            "publisher": "TradingView",
+            "url": "https://kr.tradingview.com/ideas/074600",
+            "date": "2026-01-30"
+          }
+        ]
+      },
+      {
+        "ticker": "009420",
+        "name": "한올바이오파마",
+        "market": "KOSPI",
+        "estimated_cap_tier": "mid",
+        "primary_signal": "clean_narrative",
+        "reasoning": "IMVT-1402 난치성 류마티스 관절염 압도적 유효성 확인, 현대차증권 목표가 8.5만원 BUY. 5월 27일 52주 신고가 경신 후 차익실현 정리 구간 — 코스닥 바이오 반등 시 동조 가능.",
+        "sources": [
+          {
+            "publisher": "한경로보뉴스/네이트",
+            "url": "https://news.nate.com/view/20260527n08700",
+            "date": "2026-05-27"
+          }
+        ]
+      },
+      {
+        "ticker": "319660",
+        "name": "피에스케이",
+        "market": "KOSDAQ",
+        "estimated_cap_tier": "mid",
+        "primary_signal": "momentum_continuation",
+        "reasoning": "반도체 전공정 장비주(드라이 스트립)로 HPSP·원익IPS와 함께 6월 12일 폭등(12.65만→16.99만, +34%). 그 후 조정 거쳐 메모리 슈퍼사이클 재가속 시 동조 상승 가능.",
+        "sources": [
+          {
+            "publisher": "데일리비즈온",
+            "url": "https://www.dailybizon.com/news/articleView.html?idxno=67849",
+            "date": "2026-06-14"
+          }
+        ]
+      },
+      {
+        "ticker": "166090",
+        "name": "하나머티리얼즈",
+        "market": "KOSDAQ",
+        "estimated_cap_tier": "mid",
+        "primary_signal": "theme_alignment",
+        "reasoning": "반도체 식각공정 소모성 부품(실리콘·SiC 링) 공급. HBM·메모리 가동률 상승 직접 수혜 영역. 사이클 후반 부품·소재 기업 주가 강세 패턴에 부합.",
+        "sources": [
+          {
+            "publisher": "매일경제/다음",
+            "url": "https://v.daum.net/v/GlUWRItWnR",
+            "date": "2026-03-20"
+          }
+        ]
+      },
+      {
+        "ticker": "403870",
+        "name": "HPSP",
+        "market": "KOSDAQ",
+        "estimated_cap_tier": "mid",
+        "primary_signal": "theme_leader",
+        "reasoning": "고압 수소 어닐링 장비 글로벌 독점, AI/선단공정 확산으로 중장기 수요 견조 전망. 6월 12일 상한가 후 일주일 조정, 시총 5.9조원으로 대형 모멘텀 자금 수용 가능. 메모리/파운드리 CapEx 재가속 시 가장 직접적 수혜.",
+        "sources": [
+          {
+            "publisher": "기업모니터(WiseReport)",
+            "url": "https://comp.wisereport.co.kr/company/c1010001.aspx?cmp_cd=403870",
+            "date": "2026-05-15"
+          }
+        ]
+      }
+    ],
+    "scored": [
+      {
+        "ticker": "357780",
+        "score": 4,
+        "signals_present": [
+          "theme_leader",
+          "theme_alignment",
+          "clean_narrative"
+        ],
+        "reasoning": "\n키움증권이 목표주가 38만원으로 상향하며 반도체 소재 업종 top pick으로 매수 추천했고, 메모리 사이클 변곡점에서 솔브레인의 반도체 소재 출하량 증가가 본격화될 전망\n. \n2026년 삼성·SK하이닉스 HBM·낸드 투자 사상 최대 규모 전망으로 고기능성 소재 수요 폭증\n — 어제 반도체 대형주 강세와 직접 연동되는 명확한 theme leader.",
+        "sources": [
+          {
+            "publisher": "키움증권",
+            "url": "https://bbn.kiwoom.com/rfCR11817",
+            "date": "2026-01-15"
+          },
+          {
+            "publisher": "씽크풀",
+            "url": "https://m.thinkpool.com/compDiscuss/cont/1023714",
+            "date": "2026-01-28"
+          }
+        ]
+      },
+      {
+        "ticker": "095340",
+        "score": 4,
+        "signals_present": [
+          "theme_alignment",
+          "momentum_continuation",
+          "clean_narrative"
+        ],
+        "reasoning": "\n하나증권 목표주가 13만원 상향, GPU 및 ASIC 고객사 다변화로 다수 모멘텀 확보하며 실적 상향 지속\n. \n12개월 평균 목표주가 28.5만원, 7명 매수의견 만장일치\n로 AI 반도체 테스트 소켓 강자. HBM/AI 사이클 핵심 후공정 소부장으로 어제 반도체 강세 흐름에 동조 가능.",
+        "sources": [
+          {
+            "publisher": "하나증권",
+            "url": "https://www.hanaw.com/download/research/FileServer/WEB/industry/enterprise/2025/11/25/ISC_251126_rev.pdf",
+            "date": "2025-11-26"
+          },
+          {
+            "publisher": "Investing.com",
+            "url": "https://www.investing.com/equities/isc-co-ltd",
+            "date": "2026-06-17"
+          }
+        ]
+      },
+      {
+        "ticker": "183300",
+        "score": 4,
+        "signals_present": [
+          "momentum_continuation",
+          "theme_alignment",
+          "clean_narrative"
+        ],
+        "reasoning": "\nSK증권이 2026년 5월 매수 목표주가 20만원 제시(현재가 14.4만원 대비 +39% 상승여력)\n로 파운드리 3사 모두 고객. \n한화증권도 목표주가 7.6만→10만원 +32% 상향, 공격적 확장구간 반영 P/E 밴드 상단값 적용\n — 반도체 소부장 모멘텀 명확. 코스닥 약세는 페널티이나 사이클 후반 부품·세정주 수혜 명확.",
+        "sources": [
+          {
+            "publisher": "SK증권",
+            "url": "https://www.sks.co.kr/data1/research/qna_file/20260505164058399_0_ko.pdf",
+            "date": "2026-05-06"
+          },
+          {
+            "publisher": "한화증권",
+            "url": "https://www.hanwhawm.com/main/common/common_file/fileView.cmd?category=2&depth3_id=anls1&key1=64646&key2=1&bldid=bbs10031",
+            "date": "2025-09-01"
+          }
+        ]
+      },
+      {
+        "ticker": "240810",
+        "score": 4,
+        "signals_present": [
+          "theme_leader",
+          "technical_breakout",
+          "fresh_catalyst"
+        ],
+        "reasoning": "\n키움증권 목표가 16만원 상향·BUY 유지, 2026년 DRAM→2027년 NAND로 이어지는 고객사 투자 사이클 수혜로 큰 폭 실적 성장 전망\n. \n6월 12일 +30% 상한가로 18.3만원 종가\n 이후 일주일 조정 거치며 정상화. 메모리 슈퍼사이클 재가속 시 추가 상승 동력 보유.",
+        "sources": [
+          {
+            "publisher": "키움증권",
+            "url": "https://bbn.kiwoom.com/rfCR11968",
+            "date": "2026-03-09"
+          },
+          {
+            "publisher": "증권플러스",
+            "url": "https://www.stockplus.com/m/stocks/KOREA-A240810",
+            "date": "2026-06-12"
+          }
+        ]
+      },
+      {
+        "ticker": "080220",
+        "score": 4,
+        "signals_present": [
+          "theme_alignment",
+          "momentum_continuation",
+          "fresh_catalyst"
+        ],
+        "reasoning": "\n2026년 1분기 영업이익 전년 동기 대비 1,714% 폭증한 671억원 — 코스닥 시장 전체에서 손에 꼽히는 실적 서프라이즈\n. \n5월 52주 신고가 116,950원 연속 경신\n, \n하나증권은 메모리 관련 종목 투자 비중 확대 시점이라 평가\n. NAND/DRAM 가격 폭등 직접 수혜 팹리스로 메모리 사이클 모멘텀 강함.",
+        "sources": [
+          {
+            "publisher": "WiseReport(FnGuide)",
+            "url": "https://comp.fnguide.com/SVO2/ASP/SVD_Main.asp?pGB=1&gicode=A080220&cID=&MenuYn=Y&ReportGB=B&NewMenuID=Y&stkGb=701",
+            "date": "2026-06-02"
+          },
+          {
+            "publisher": "Brokdam",
+            "url": "https://stock1.brokdam.com/제주반도체-주가-전망-및-배당금-정보-｜팩리스·저/",
+            "date": "2026-05-21"
+          }
+        ]
+      },
+      {
+        "ticker": "089030",
+        "score": 4,
+        "signals_present": [
+          "theme_alignment",
+          "fresh_catalyst",
+          "oversold_bounce"
+        ],
+        "reasoning": "\n2026년 매출액 4,352억원(+170.8%), 영업이익 956억원(+503.4%) 전망. 신제품 큐브프로버 공급 확대 내러티브 + 영업이익률 +12.1%p 이익 레버리지로 투자 매력도 높음\n. \n사상최고가 후 -28% 조정 마무리 국면, BB 스퀴즈 방향성 전환 임박\n — HBM 후공정 테마 직접 수혜 + 오버솔드 반등 조건.",
+        "sources": [
+          {
+            "publisher": "이데일리",
+            "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=02607606645380696",
+            "date": "2026-03-06"
+          },
+          {
+            "publisher": "알파증류소",
+            "url": "https://alphadistill.com/report/1366",
+            "date": "2026-04-13"
+          }
+        ]
+      },
+      {
+        "ticker": "009420",
+        "score": 2,
+        "signals_present": [
+          "clean_narrative"
+        ],
+        "reasoning": "\n유진투자증권 BUY·목표가 10만원 유지, 4월 2일 이뮤노반트 바토클리맙 TED 임상 3상 1차 평가지표 미충족 발표 후 주가 17% 하락\n. \nIMVT-1402 주요 임상 결과는 2026년 하반기 발표 예정\n으로 임박한 카탈리스트 부재. 오늘 시장은 반도체 중심이며 코스닥 -3% 약세 + 바이오 차익실현 압력으로 단기 시그널 약함.",
+        "sources": [
+          {
+            "publisher": "유진투자증권",
+            "url": "https://file.alphasquare.co.kr/media/pdfs/company-report/20260420_009420_hskwon_329.pdf",
+            "date": "2026-04-20"
+          },
+          {
+            "publisher": "인포스탁데일리",
+            "url": "https://www.infostockdaily.co.kr/news/articleView.html?idxno=215421",
+            "date": "2026-04-20"
+          }
+        ]
+      },
+      {
+        "ticker": "319660",
+        "score": 3,
+        "signals_present": [
+          "theme_alignment",
+          "momentum_continuation"
+        ],
+        "reasoning": "반도체 전공정 장비주로 HBM/메모리 CapEx 재가속 수혜 영역이나, 검증 가능한 최근 리포트/뉴스가 제한적. \n6월 12일 코스피 반도체 장비주 동반 폭등 흐름 확인\n되며 동조 가능하나, 같은 그룹의 HPSP가 6월 15~16일 +16%→-20% 변동성 노출 보여 단기 추격 매수 리스크 존재.",
+        "sources": [
+          {
+            "publisher": "증권플러스",
+            "url": "https://www.stockplus.com/m/stocks/KOREA-A240810",
+            "date": "2026-06-12"
+          }
+        ]
+      },
+      {
+        "ticker": "166090",
+        "score": 3,
+        "signals_present": [
+          "theme_alignment"
+        ],
+        "reasoning": "반도체 식각공정 소모성 부품(실리콘·SiC 링) 공급사로 HBM·메모리 가동률 상승 직접 수혜 영역이나, 최근 1개월 내 명확한 카탈리스트나 증권사 리포트 확인 부족. 반도체 대형주 강세 동조 가능성은 있으나 직접 시그널은 약한 편 — moderate setup으로 판단.",
+        "sources": [
+          {
+            "publisher": "매일경제/다음",
+            "url": "https://v.daum.net/v/GlUWRItWnR",
+            "date": "2026-03-20"
+          }
+        ]
+      },
+      {
+        "ticker": "403870",
+        "score": 2,
+        "signals_present": [
+          "theme_leader",
+          "oversold_bounce"
+        ],
+        "reasoning": "\n6월 12일 +16.78% 급등 후 장중 92,000원 상한가 근접, 거래대금 2.7조원 폭증\n했으나 \n6월 16일 -20.60% 급락하며 66,300원 마감, 외국인·기관 매도세 전환\n. \nPER 59배·PBR 17배의 고밸류로 평가 엇갈림\n — 극심한 양방향 변동성과 수급 악화로 단기 추격 위험 높아 페널티 적용.",
+        "sources": [
+          {
+            "publisher": "민심뉴스",
+            "url": "https://www.minsimnews.com/news/articleView.html?idxno=58995",
+            "date": "2026-06-16"
+          },
+          {
+            "publisher": "Mimint",
+            "url": "https://sale.mimint.co.kr/bbs/view/news/S1N11/5431134",
+            "date": "2026-06-15"
+          }
+        ]
+      }
+    ],
+    "final_picks": [
+      {
+        "ticker": "357780",
+        "name": "솔브레인",
+        "market": "KOSDAQ",
+        "estimated_cap_tier": "mid",
+        "primary_signal": "theme_leader",
+        "reasoning": "\n키움증권이 목표주가 38만원으로 상향하며 반도체 소재 업종 top pick으로 매수 추천했고, 메모리 사이클 변곡점에서 솔브레인의 반도체 소재 출하량 증가가 본격화될 전망\n. \n2026년 삼성·SK하이닉스 HBM·낸드 투자 사상 최대 규모 전망으로 고기능성 소재 수요 폭증\n — 어제 반도체 대형주 강세와 직접 연동되는 명확한 theme leader.",
+        "sources": [
+          {
+            "publisher": "키움증권",
+            "url": "https://bbn.kiwoom.com/rfCR11817",
+            "date": "2026-01-15"
+          },
+          {
+            "publisher": "키움증권",
+            "url": "https://bbn.kiwoom.com/rfCR11817",
+            "date": "2026-01-15"
+          },
+          {
+            "publisher": "씽크풀",
+            "url": "https://m.thinkpool.com/compDiscuss/cont/1023714",
+            "date": "2026-01-28"
+          }
+        ],
+        "score": 4,
+        "signals_present": [
+          "theme_leader",
+          "theme_alignment",
+          "clean_narrative"
+        ],
+        "brief_reasoning": "메모리 슈퍼사이클 핵심 소재주로 삼성·SK하이닉스 DRAM/NAND/HBM/파운드리 전 부문에 소재 공급. 키움증권 목표주가 38만원, 반도체 소재 업종 top pick 제시. 어제 코스닥 -3% 조정 후 반도체 대형주 강세 연동 가능.",
+        "research_reasoning": "\n키움증권이 목표주가 38만원으로 상향하며 반도체 소재 업종 top pick으로 매수 추천했고, 메모리 사이클 변곡점에서 솔브레인의 반도체 소재 출하량 증가가 본격화될 전망\n. \n2026년 삼성·SK하이닉스 HBM·낸드 투자 사상 최대 규모 전망으로 고기능성 소재 수요 폭증\n — 어제 반도체 대형주 강세와 직접 연동되는 명확한 theme leader."
+      },
+      {
+        "ticker": "095340",
+        "name": "ISC",
+        "market": "KOSDAQ",
+        "estimated_cap_tier": "mid",
+        "primary_signal": "theme_alignment",
+        "reasoning": "\n하나증권 목표주가 13만원 상향, GPU 및 ASIC 고객사 다변화로 다수 모멘텀 확보하며 실적 상향 지속\n. \n12개월 평균 목표주가 28.5만원, 7명 매수의견 만장일치\n로 AI 반도체 테스트 소켓 강자. HBM/AI 사이클 핵심 후공정 소부장으로 어제 반도체 강세 흐름에 동조 가능.",
+        "sources": [
+          {
+            "publisher": "조세일보",
+            "url": "https://m.joseilbo.com/news/view.htm?newsid=568907",
+            "date": "2026-05-28"
+          },
+          {
+            "publisher": "하나증권",
+            "url": "https://www.hanaw.com/download/research/FileServer/WEB/industry/enterprise/2025/11/25/ISC_251126_rev.pdf",
+            "date": "2025-11-26"
+          },
+          {
+            "publisher": "Investing.com",
+            "url": "https://www.investing.com/equities/isc-co-ltd",
+            "date": "2026-06-17"
+          }
+        ],
+        "score": 4,
+        "signals_present": [
+          "theme_alignment",
+          "momentum_continuation",
+          "clean_narrative"
+        ],
+        "brief_reasoning": "테스트 소켓 강자로 GPU·ASIC·CPU 확대 수혜. 한화투자증권 목표가 30만원·매수 의견, 1Q 매출 +115%·영업이익 +237% YoY. AI 반도체 전 영역 수혜로 HBM 슈퍼사이클 동조 가능.",
+        "research_reasoning": "\n하나증권 목표주가 13만원 상향, GPU 및 ASIC 고객사 다변화로 다수 모멘텀 확보하며 실적 상향 지속\n. \n12개월 평균 목표주가 28.5만원, 7명 매수의견 만장일치\n로 AI 반도체 테스트 소켓 강자. HBM/AI 사이클 핵심 후공정 소부장으로 어제 반도체 강세 흐름에 동조 가능."
+      },
+      {
+        "ticker": "183300",
+        "name": "코미코",
+        "market": "KOSDAQ",
+        "estimated_cap_tier": "mid",
+        "primary_signal": "momentum_continuation",
+        "reasoning": "\nSK증권이 2026년 5월 매수 목표주가 20만원 제시(현재가 14.4만원 대비 +39% 상승여력)\n로 파운드리 3사 모두 고객. \n한화증권도 목표주가 7.6만→10만원 +32% 상향, 공격적 확장구간 반영 P/E 밴드 상단값 적용\n — 반도체 소부장 모멘텀 명확. 코스닥 약세는 페널티이나 사이클 후반 부품·세정주 수혜 명확.",
+        "sources": [
+          {
+            "publisher": "빅타뉴스",
+            "url": "https://www.bigtanews.co.kr/article/view/big202605300003",
+            "date": "2026-05-30"
+          },
+          {
+            "publisher": "SK증권",
+            "url": "https://www.sks.co.kr/data1/research/qna_file/20260505164058399_0_ko.pdf",
+            "date": "2026-05-06"
+          },
+          {
+            "publisher": "한화증권",
+            "url": "https://www.hanwhawm.com/main/common/common_file/fileView.cmd?category=2&depth3_id=anls1&key1=64646&key2=1&bldid=bbs10031",
+            "date": "2025-09-01"
+          }
+        ],
+        "score": 4,
+        "signals_present": [
+          "momentum_continuation",
+          "theme_alignment",
+          "clean_narrative"
+        ],
+        "brief_reasoning": "반도체 부품 세정·코팅 호황으로 증설 확대. 미래에셋 목표주가 24만원 100% 상향, 2027년 업종 성장률 초과 전망. 무상증자·액면분할 모멘텀도 가시화.",
+        "research_reasoning": "\nSK증권이 2026년 5월 매수 목표주가 20만원 제시(현재가 14.4만원 대비 +39% 상승여력)\n로 파운드리 3사 모두 고객. \n한화증권도 목표주가 7.6만→10만원 +32% 상향, 공격적 확장구간 반영 P/E 밴드 상단값 적용\n — 반도체 소부장 모멘텀 명확. 코스닥 약세는 페널티이나 사이클 후반 부품·세정주 수혜 명확."
+      },
+      {
+        "ticker": "080220",
+        "name": "제주반도체",
+        "market": "KOSDAQ",
+        "estimated_cap_tier": "mid",
+        "primary_signal": "theme_alignment",
+        "reasoning": "\n2026년 1분기 영업이익 전년 동기 대비 1,714% 폭증한 671억원 — 코스닥 시장 전체에서 손에 꼽히는 실적 서프라이즈\n. \n5월 52주 신고가 116,950원 연속 경신\n, \n하나증권은 메모리 관련 종목 투자 비중 확대 시점이라 평가\n. NAND/DRAM 가격 폭등 직접 수혜 팹리스로 메모리 사이클 모멘텀 강함.",
+        "sources": [
+          {
+            "publisher": "기업모니터(WiseReport)",
+            "url": "https://comp.wisereport.co.kr/company/c1010001.aspx?cmp_cd=080220",
+            "date": "2026-06-02"
+          },
+          {
+            "publisher": "WiseReport(FnGuide)",
+            "url": "https://comp.fnguide.com/SVO2/ASP/SVD_Main.asp?pGB=1&gicode=A080220&cID=&MenuYn=Y&ReportGB=B&NewMenuID=Y&stkGb=701",
+            "date": "2026-06-02"
+          },
+          {
+            "publisher": "Brokdam",
+            "url": "https://stock1.brokdam.com/제주반도체-주가-전망-및-배당금-정보-｜팩리스·저/",
+            "date": "2026-05-21"
+          }
+        ],
+        "score": 4,
+        "signals_present": [
+          "theme_alignment",
+          "momentum_continuation",
+          "fresh_catalyst"
+        ],
+        "brief_reasoning": "NAND MCP 팹리스로 메모리 가격 폭등 직접 수혜. 2025년 3분기 누적 매출 +67.7%, 영업이익 +141.8% YoY. DRAM/NAND 가격 상승 사이클 지속 시 실적 모멘텀 강세.",
+        "research_reasoning": "\n2026년 1분기 영업이익 전년 동기 대비 1,714% 폭증한 671억원 — 코스닥 시장 전체에서 손에 꼽히는 실적 서프라이즈\n. \n5월 52주 신고가 116,950원 연속 경신\n, \n하나증권은 메모리 관련 종목 투자 비중 확대 시점이라 평가\n. NAND/DRAM 가격 폭등 직접 수혜 팹리스로 메모리 사이클 모멘텀 강함."
+      },
+      {
+        "ticker": "319660",
+        "name": "피에스케이",
+        "market": "KOSDAQ",
+        "estimated_cap_tier": "mid",
+        "primary_signal": "momentum_continuation",
+        "reasoning": "반도체 전공정 장비주로 HBM/메모리 CapEx 재가속 수혜 영역이나, 검증 가능한 최근 리포트/뉴스가 제한적. \n6월 12일 코스피 반도체 장비주 동반 폭등 흐름 확인\n되며 동조 가능하나, 같은 그룹의 HPSP가 6월 15~16일 +16%→-20% 변동성 노출 보여 단기 추격 매수 리스크 존재.",
+        "sources": [
+          {
+            "publisher": "데일리비즈온",
+            "url": "https://www.dailybizon.com/news/articleView.html?idxno=67849",
+            "date": "2026-06-14"
+          },
+          {
+            "publisher": "증권플러스",
+            "url": "https://www.stockplus.com/m/stocks/KOREA-A240810",
+            "date": "2026-06-12"
+          }
+        ],
+        "score": 3,
+        "signals_present": [
+          "theme_alignment",
+          "momentum_continuation"
+        ],
+        "brief_reasoning": "반도체 전공정 장비주(드라이 스트립)로 HPSP·원익IPS와 함께 6월 12일 폭등(12.65만→16.99만, +34%). 그 후 조정 거쳐 메모리 슈퍼사이클 재가속 시 동조 상승 가능.",
+        "research_reasoning": "반도체 전공정 장비주로 HBM/메모리 CapEx 재가속 수혜 영역이나, 검증 가능한 최근 리포트/뉴스가 제한적. \n6월 12일 코스피 반도체 장비주 동반 폭등 흐름 확인\n되며 동조 가능하나, 같은 그룹의 HPSP가 6월 15~16일 +16%→-20% 변동성 노출 보여 단기 추격 매수 리스크 존재."
+      }
+    ],
+    "filter_audit": {
+      "excluded_by_filters": [
+        {
+          "ticker": "240810",
+          "name": "원익IPS",
+          "reason": "E6:recent_loser SL on 2 days in last 5 trading days"
+        },
+        {
+          "ticker": "089030",
+          "name": "테크윙",
+          "reason": "E6:recent_loser SL on 2 days in last 5 trading days"
+        },
+        {
+          "ticker": "403870",
+          "name": "HPSP",
+          "reason": "E6:recent_loser SL on 2 days in last 5 trading days"
+        }
+      ],
+      "dropped_by_d1": []
+    }
+  },
+  "cross_track_dedup": []
+}

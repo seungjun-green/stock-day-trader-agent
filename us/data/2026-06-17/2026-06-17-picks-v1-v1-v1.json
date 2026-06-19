@@ -1,0 +1,970 @@
+{
+  "date": "2026-06-17",
+  "market": "US",
+  "combo_id": "v1-v1-v1",
+  "variants": {
+    "context": "v1",
+    "brief": "v1",
+    "research": "v1"
+  },
+  "models": {
+    "context": "claude-sonnet-4-6",
+    "brief": "claude-opus-4-7",
+    "research": "claude-opus-4-7"
+  },
+  "context": "Here is your morning market briefing for Wednesday, June 17, 2026:\n\n---\n\n**US MARKET BRIEFING — Wednesday, June 17, 2026**\n\n---\n\n**Yesterday recap:**\n\n\n- S&P 500: 7,511.35 (–0.57%)\n\n\n- Nasdaq: 26,376.34 (–1.15%)\n\n\n- Russell 2000: 2,939.19 (–0.87%)\n\n- Key events: \nThe Dow Jones (+0.74%) managed to ascend to a new record, while the Nasdaq (–0.81%), Russell 2000 (–0.63%), and S&P 500 (–0.40%) hit day lows as a downturn in tech stocks steepened into the afternoon.\n \nThe 10-year Treasury yield held around 4.47% as investors shifted focus from the US-Iran peace deal to the Fed's upcoming policy meeting, with the central bank widely expected to keep rates unchanged at its first meeting under new Chair Kevin Warsh.\n\n- Notable after-hours: \nMYSE (Myseum.AI) +21.7% on a joint AI development partnership with Scanon.ai; LZB (La-Z-Boy) +12.3% on a Q4 earnings beat and 11% retail sales growth; TPC –76.5% on massive volume; NMRA –12.7% following Phase 3 trial failures and a 35% workforce reduction.\n\n\n---\n\n**Pre-market / overnight:**\n\n\n- Futures: NQ +0.54%, RTY +0.30%\n; ES broadly flat to slightly positive per multiple sources.\n\n- VIX: 16.41 (+1.30% vs prior close)\n — edging higher, still in a low-volatility regime.\n- Rates/FX/Commodities: \n10Y yield at 4.43%\n, easing. \nDXY ~99.54, 10Y TNX at 4.428% (–0.92%).\n \nWTI crude fell toward $75/bbl, sliding for the fifth straight session and reaching its lowest level since early March, as expectations of increased supply weighed on prices ahead of the US-Iran peace agreement signing.\n \nGold traded above $4,300/oz, up more than 2% so far this week, as investors awaited the formal signing of the US-Iran peace agreement expected to restore oil flows through the Persian Gulf.\n\n- Asia/Europe overnight: \nNikkei 225 +0.72%, Hang Seng –0.74%, DAX –0.13%, FTSE 100 –0.04%, EURO STOXX 50 +0.37%\n — mixed session with Europe flat and Asia diverging on China tech weakness vs. Japan strength.\n\n---\n\n**Today's setup:**\n\n- Regime: **Risk-off tilt / sideways** — tech rotation headwinds persist; Dow/value holding while Nasdaq/small-caps lag.\n- Expected gap direction at open: **Slight positive gap** — NQ futures +0.54%, but gains are modest and fragile ahead of the FOMC decision.\n- Active themes likely to move: Iran peace deal/oil unwind, FOMC rate decision & dot plot (Warsh's debut), AI/SpaceX capital flow digestion, biotech binary risk.\n- Risks: \nFollowing recent improvements in employment data and signs of accelerating inflation, the Fed is expected to remove its easing bias from both the policy statement and the 2026 median dot, with updated projections likely to reflect higher inflation, lower unemployment, and no cuts in 2026.\n \nFed Chair Kevin Warsh's June 16–17 FOMC debut is a key catalyst for SPY as futures shift toward pricing 2026 rate hikes rather than cuts.\n \nThere is a possibility of a larger \"June swoon\" in store for tech stocks in the coming weeks.\n\n\n---\n\n**Active themes to watch:**\n\n- **FOMC / Warsh debut**: \nAttention is turning to the two-day FOMC meeting concluding today, with policymakers widely expected to leave the federal funds rate unchanged at 3.50%–3.75%.\n Dot plot hawkishness is the key risk. Watch TLT, financials (XLF), rate-sensitive small-caps (IWM).\n- **US-Iran peace deal / oil unwind**: \nCrude prices have fallen nearly 40% from their conflict peak as geopolitical risk fades, easing inflation concerns and helping consumers.\n \nThe two countries are scheduled to sign an interim deal in Switzerland on Friday.\n Watch energy sector (XLE) for continued pressure; airlines (UAL, DAL) and consumer discretionary as beneficiaries.\n- **AI / SpaceX capital flows**: \nUS asset managers filed for the first ETFs targeting the \"MANGOS\" theme just days after SpaceX wrapped up its record $75 billion IPO.\n \nContraction in Nasdaq breadth may be partly due to broad selling in tech to make room for the SpaceX IPO.\n Watch NVDA, MRVL, and AI infrastructure names for stabilization.\n\n---\n\n**Yesterday's notable movers (top 5):**\n\n- MYSE (Myseum.AI, +21.7% AH) — \nclimbed on a Letter of Intent with Scanon.ai to integrate computer vision and privacy-first intelligence into its flagship Picture Party platform.\n\n- LZB (La-Z-Boy, +12.3% AH) — \nQ4 earnings beat with 11% retail sales growth.\n\n- TPC (Tutor Perini, –76.5% AH) — \ncratered on massive volume.\n\n- NMRA (Neumora Therapeutics, –12.7% AH) — \nPhase 3 trial failures and a 35% workforce reduction.\n\n- \nSpaceX (SPCE) — roared past Amazon's market valuation on Tuesday\n, continuing to dominate capital flow narratives across the tape.\n\n---\n\n**Today's earnings / scheduled catalysts:**\n\n- \nWednesday June 17 scheduled data: Business Inventories, EIA crude oil inventories report.\n\n- \nThis week's earnings include Progressive Corp (PGR), Accenture (ACN), Jabil (JBL), and Kroger (KR), among others.\n\n- **FOMC Decision (2:00 PM ET) + Press Conference (2:30 PM ET)**: The dominant event of the day. \nThe Federal Reserve, led by Chair Kevin Warsh, is set to announce its policy decision and release updated projections for rates, growth, and inflation.\n Watch for the dot plot — any removal of the 2026 cut could spike yields and pressure growth/tech. A dovish surprise (Iran-driven inflation relief acknowledged) could ignite a relief rally.\n- \nTriple Witching falls on Thursday, June 18 in 2026 (moved up due to Juneteenth on Friday)\n — expect elevated options-related volatility and pinning activity to begin building today.\n\n---\n\n*Bottom line: All eyes on Warsh at 2 PM. The tape is fragile — tech sold off yesterday even as the Dow hit records, signaling rotation rather than broad risk appetite. A hawkish dot plot (no cuts, possible hike bias) could accelerate the Nasdaq selloff. A neutral-to-dovish tone acknowledging Iran-driven disinflation could spark a sharp relief bounce. Trade the reaction, not the anticipation.*",
+  "track_a_large_mega": {
+    "candidates": [
+      {
+        "ticker": "UAL",
+        "name": "United Airlines Holdings",
+        "exchange": "NASDAQ",
+        "estimated_cap_tier": "large",
+        "primary_signal": "theme_alignment",
+        "reasoning": "Direct beneficiary of US-Iran peace deal unwind with WTI sliding to $75. \nMajor U.S. carriers including American, United, Delta, and Southwest rallied 3%–4% in pre-market trading following the U.S.-Iran peace framework announcement\n, and Friday's formal signing is the next catalyst.",
+        "sources": [
+          {
+            "publisher": "Parameter",
+            "url": "https://parameter.io/airline-stocks-soar-on-u-s-iran-peace-framework-american-united-delta-southwest-surge/",
+            "date": "2026-06-15"
+          }
+        ]
+      },
+      {
+        "ticker": "DAL",
+        "name": "Delta Air Lines",
+        "exchange": "NYSE",
+        "estimated_cap_tier": "large",
+        "primary_signal": "theme_alignment",
+        "reasoning": "Airline fuel-cost relief play as crude continues fifth straight session down. \nRoyal Caribbean Cruises (RCL) is up more than +5%, and United Airlines Holdings (UAL), Alaska Air Group (ALK), Carnival (CCL), and Norwegian Cruise Line Holdings (NCLH) are up more than +4%. Also, American Airlines Group (AAL) is up more than +3%, and Delta Air Lines (DAL) and Southwest Airlines (LUV) are up more than +1%.\n",
+        "sources": [
+          {
+            "publisher": "Yahoo Finance / Barchart",
+            "url": "https://finance.yahoo.com/markets/stocks/articles/stocks-rally-us-iran-peace-151900784.html",
+            "date": "2026-06-15"
+          }
+        ]
+      },
+      {
+        "ticker": "RCL",
+        "name": "Royal Caribbean Cruises",
+        "exchange": "NYSE",
+        "estimated_cap_tier": "large",
+        "primary_signal": "theme_alignment",
+        "reasoning": "Cruise lines benefit dually from lower fuel and reopened Med/Gulf routes. \n60% of Royal Caribbean's 2026 fuel was hedged (or pre-bought) at $474 per metric ton, but the remaining 40% is subject to market fluctuations. This means that moderate changes in crude prices have a meaningful impact on costs and future earnings. The decrease in the price of a barrel of crude oil translates to lower fuel volatility, which strengthens profit forecasts for Royal Caribbean Group.\n",
+        "sources": [
+          {
+            "publisher": "Royal Caribbean Blog",
+            "url": "https://www.royalcaribbeanblog.com/2026/06/15/iran-war-peace-deal",
+            "date": "2026-06-15"
+          }
+        ]
+      },
+      {
+        "ticker": "CCL",
+        "name": "Carnival Corporation",
+        "exchange": "NYSE",
+        "estimated_cap_tier": "large",
+        "primary_signal": "theme_alignment",
+        "reasoning": "Largest cruise operator with biggest fuel-cost sensitivity. \nCarnival specifically flagged a $500 million fuel headwind for fiscal 2026 tied to the Middle East conflict — a figure that management said could move by approximately $160 million for every 10% change in fuel cost per metric ton.\n",
+        "sources": [
+          {
+            "publisher": "Benzinga",
+            "url": "https://www.benzinga.com/trading-ideas/movers/26/06/53190744/cruise-stocks-rally-as-u-s-iran-peace-agreement-sends-oil-prices-tumbling",
+            "date": "2026-06-15"
+          }
+        ]
+      },
+      {
+        "ticker": "CAT",
+        "name": "Caterpillar Inc.",
+        "exchange": "NYSE",
+        "estimated_cap_tier": "mega",
+        "primary_signal": "momentum_continuation",
+        "reasoning": "Dow leader hitting fresh 52-week highs amid the Dow record run. \nCaterpillar (CAT) was among a group of industrial and infrastructure-related stocks that climbed to fresh 52-week highs on Tuesday as the Dow Jones Industrial Average touched a record level\n, supported by AI data center power demand and an 8% dividend hike.",
+        "sources": [
+          {
+            "publisher": "Seeking Alpha",
+            "url": "https://seekingalpha.com/news/4604122-caterpillars-advance-helps-to-drive-dow-jones-industrials-to-record-high",
+            "date": "2026-06-16"
+          }
+        ]
+      },
+      {
+        "ticker": "NEM",
+        "name": "Newmont Corporation",
+        "exchange": "NYSE",
+        "estimated_cap_tier": "large",
+        "primary_signal": "theme_leader",
+        "reasoning": "Gold above $4,300/oz this week makes the largest gold miner a prime FOMC-day hedge. \nOn June 15, 2026, as gold prices recover, interest in gold-mining stocks is on the rise. Newmont Corporation NEM stands out with a leading Quant Rating of 4.18, the highest in the sector.\n",
+        "sources": [
+          {
+            "publisher": "GuruFocus",
+            "url": "https://www.gurufocus.com/news/8916787/newmont-corporation-nem-tops-goldmining-stocks-with-high-quant-rating",
+            "date": "2026-06-15"
+          }
+        ]
+      },
+      {
+        "ticker": "PGR",
+        "name": "Progressive Corporation",
+        "exchange": "NYSE",
+        "estimated_cap_tier": "large",
+        "primary_signal": "fresh_catalyst",
+        "reasoning": "Reports May monthly results today before the open — a recurring volatility catalyst. \nThe Progressive Corporation (NYSE:PGR) today reported the following results for the month ended May 31, 2026\n, and as a rate-sensitive financial it also screens for FOMC reaction.",
+        "sources": [
+          {
+            "publisher": "Manila Times / GlobeNewswire",
+            "url": "https://www.manilatimes.net/2026/06/17/tmt-newswire/globenewswire/progressive-reports-may-2026-results/2367475",
+            "date": "2026-06-17"
+          }
+        ]
+      },
+      {
+        "ticker": "KR",
+        "name": "Kroger Co.",
+        "exchange": "NYSE",
+        "estimated_cap_tier": "large",
+        "primary_signal": "earnings_drift",
+        "reasoning": "Pre-earnings positioning into tomorrow's Q1 print; defensive consumer staple aligns with risk-off tilt. \nKroger (NYSE:KR) will host its first quarter 2026 earnings conference call at 8:00 a.m. ET on June 18, 2026.\n",
+        "sources": [
+          {
+            "publisher": "StockTitan",
+            "url": "https://www.stocktitan.net/news/KR/kroger-announces-first-quarter-conference-call-with-6rpy84rhhysr.html",
+            "date": "2026-05-21"
+          }
+        ]
+      },
+      {
+        "ticker": "ACN",
+        "name": "Accenture plc",
+        "exchange": "NYSE",
+        "estimated_cap_tier": "mega",
+        "primary_signal": "earnings_drift",
+        "reasoning": "Q3 print tomorrow before the open; oversold setup with sentiment bar low. \nWith Accenture being the first among its peers to report earnings this season, we don't have anywhere else to look to get a hint at how this quarter will unfold for it services & other tech stocks. However, there has been positive investor sentiment in the segment, with share prices up 6.2% on average over the last month. Accenture is down 6.3% during the same time .\n",
+        "sources": [
+          {
+            "publisher": "FinancialContent / StockStory",
+            "url": "https://markets.financialcontent.com/stocks/article/stockstory-2026-6-17-accenture-acn-reports-earnings-tomorrow-what-to-expect",
+            "date": "2026-06-16"
+          }
+        ]
+      },
+      {
+        "ticker": "TSLA",
+        "name": "Tesla Inc.",
+        "exchange": "NASDAQ",
+        "estimated_cap_tier": "mega",
+        "primary_signal": "clean_narrative",
+        "reasoning": "Robotaxi expansion remains the dominant TSLA narrative and provides idiosyncratic catalyst separate from broader semi/tech weakness. \nTesla's wider robotaxi footprint in Austin, combined with stronger May registrations in Europe, Japan, and China, gives you fresh evidence of how its two core stories, autonomy and global EV demand, are progressing. In robotaxis, operating unsupervised cars across a full metro area is a step beyond small pilot zones and edges Tesla closer to competing with players like Alphabet's Waymo and General Motors' Cruise in commercial ride hailing.\n",
+        "sources": [
+          {
+            "publisher": "Yahoo Finance",
+            "url": "https://finance.yahoo.com/markets/stocks/articles/tesla-robotaxi-expansion-global-sales-010836584.html",
+            "date": "2026-06-03"
+          }
+        ]
+      }
+    ],
+    "scored": [
+      {
+        "ticker": "UAL",
+        "score": 4,
+        "signals_present": [
+          "theme_leader",
+          "fresh_catalyst",
+          "premarket_strength",
+          "clean_narrative"
+        ],
+        "reasoning": "UAL is the lead airline in the US-Iran peace/oil unwind theme — \nshares broke past the carrier's previous record closing level of $117.53 on Monday on the peace framework news\n, with Friday's signing as the next leg. Crude sliding for a fifth straight session keeps the fuel-cost relief narrative intact.",
+        "sources": [
+          {
+            "publisher": "Stocktwits",
+            "url": "https://stocktwits.com/news-articles/markets/equity/ual-dal-stock-close-record-highs-what-fueled-rally/cZKfuSGR73t",
+            "date": "2026-06-15"
+          },
+          {
+            "publisher": "Yahoo Finance/Simply Wall St",
+            "url": "https://uk.finance.yahoo.com/news/united-ual-faces-cheaper-fuel-043519258.html",
+            "date": "2026-06-17"
+          }
+        ]
+      },
+      {
+        "ticker": "DAL",
+        "score": 3,
+        "signals_present": [
+          "theme_alignment",
+          "fresh_catalyst",
+          "clean_narrative"
+        ],
+        "reasoning": "DAL benefits from the same fuel-cost relief tape but lagged UAL on Monday (\nDAL closed +1.22% at $84.07 vs UAL +3.85%\n), making it the secondary play rather than the leader. Crude's continued slide and Friday's signing keep the narrative live.",
+        "sources": [
+          {
+            "publisher": "Stocktwits",
+            "url": "https://stocktwits.com/news-articles/markets/equity/ual-dal-stock-close-record-highs-what-fueled-rally/cZKfuSGR73t",
+            "date": "2026-06-15"
+          }
+        ]
+      },
+      {
+        "ticker": "RCL",
+        "score": 3,
+        "signals_present": [
+          "theme_alignment",
+          "clean_narrative",
+          "momentum_continuation"
+        ],
+        "reasoning": "Cruise lines rallied hard on the peace deal alongside airlines as fuel-cost pressure eased — \nother airline/travel stocks broadly moved higher as traders bet on relief from energy-related cost pressures\n. RCL is the higher-quality cruise name but already extended after Monday's pop.",
+        "sources": [
+          {
+            "publisher": "Stocktwits",
+            "url": "https://stocktwits.com/news-articles/markets/equity/ual-dal-stock-close-record-highs-what-fueled-rally/cZKfuSGR73t",
+            "date": "2026-06-15"
+          }
+        ]
+      },
+      {
+        "ticker": "CCL",
+        "score": 3,
+        "signals_present": [
+          "theme_alignment",
+          "clean_narrative",
+          "fresh_catalyst"
+        ],
+        "reasoning": "Highest fuel-cost sensitivity among cruise operators makes CCL a leveraged peace-deal play with a clean narrative. Sector-wide enthusiasm visible as \nairline stocks rallied Monday with United and Delta leading gains as optimism over a potential U.S.-Iran peace deal lifted the sector\n spilled into cruise names.",
+        "sources": [
+          {
+            "publisher": "Stocktwits",
+            "url": "https://stocktwits.com/news-articles/markets/equity/ual-dal-stock-close-record-highs-what-fueled-rally/cZKfuSGR73t",
+            "date": "2026-06-15"
+          }
+        ]
+      },
+      {
+        "ticker": "CAT",
+        "score": 4,
+        "signals_present": [
+          "technical_breakout",
+          "momentum_continuation",
+          "theme_alignment"
+        ],
+        "reasoning": "\nCaterpillar climbed to a fresh 52-week high on Tuesday as the Dow touched a record level, buoyed by optimism surrounding the pending peace agreement\n, with AI data-center power-gen demand as a secondary tailwind. \nPower Generation revenue rose 41% YoY in Q1 2026 to $2.817 billion\n, supporting the momentum thesis though valuation is stretched.",
+        "sources": [
+          {
+            "publisher": "Seeking Alpha",
+            "url": "https://seekingalpha.com/news/4604122-caterpillars-advance-helps-to-drive-dow-jones-industrials-to-record-high",
+            "date": "2026-06-16"
+          },
+          {
+            "publisher": "AOL/24-7 Wall St",
+            "url": "https://www.aol.com/articles/caterpillar-stock-nearing-52-week-163000000.html",
+            "date": "2026-06-14"
+          }
+        ]
+      },
+      {
+        "ticker": "NEM",
+        "score": 4,
+        "signals_present": [
+          "theme_leader",
+          "clean_narrative",
+          "fresh_catalyst"
+        ],
+        "reasoning": "Gold-miner leader and clean FOMC-day hedge with gold above $4,300/oz this week. Fundamentals support: \nNewmont posted record Q1 2026 results amid higher realized gold prices of $4,900 per ounce and low AISC of $1,029 per ounce, while announcing a $6 billion share repurchase authorization\n. Risk: a hawkish Warsh dot plot lifting yields/DXY could pressure gold.",
+        "sources": [
+          {
+            "publisher": "Barchart",
+            "url": "https://www.barchart.com/story/news/1546826/newmont-is-golden-why-record-gold-prices-make-it-a-must-buy-dividend-stock-now",
+            "date": "2026-04-28"
+          },
+          {
+            "publisher": "Investing.com",
+            "url": "https://www.investing.com/equities/newmont-mining",
+            "date": "2026-06-16"
+          }
+        ]
+      },
+      {
+        "ticker": "PGR",
+        "score": 2,
+        "signals_present": [
+          "fresh_catalyst"
+        ],
+        "reasoning": "Monthly results print is a recurring but typically low-volatility catalyst; no clear directional edge ahead of FOMC. Reports today: \nAccenture filed its 8-K on March 19, 2026\n — not relevant; PGR's monthly is the only catalyst and doesn't align with active themes today.",
+        "sources": [
+          {
+            "publisher": "Manila Times/GlobeNewswire",
+            "url": "https://www.manilatimes.net/2026/06/17/tmt-newswire/globenewswire/progressive-reports-may-2026-results/2367475",
+            "date": "2026-06-17"
+          }
+        ]
+      },
+      {
+        "ticker": "KR",
+        "score": 2,
+        "signals_present": [
+          "earnings_drift",
+          "clean_narrative"
+        ],
+        "reasoning": "Pre-earnings positioning into tomorrow's Q1 print is the only signal; defensive staples align with risk-off tilt but Triple Witching tomorrow + FOMC today add noise rather than edge. No fresh catalyst confirmed beyond the scheduled event.",
+        "sources": [
+          {
+            "publisher": "StockTitan",
+            "url": "https://www.stocktitan.net/news/KR/kroger-announces-first-quarter-conference-call-with-6rpy84rhhysr.html",
+            "date": "2026-05-21"
+          }
+        ]
+      },
+      {
+        "ticker": "ACN",
+        "score": 3,
+        "signals_present": [
+          "oversold_bounce",
+          "fresh_catalyst",
+          "clean_narrative"
+        ],
+        "reasoning": "\nACN shed roughly 46 percent from its 52-week high and traded at $170.28 on Friday, June 13, breaking a five-day losing streak\n, setting up an oversold-into-earnings setup ahead of tomorrow's pre-market Q3 print. Sentiment bar low but binary risk is high and FOMC volatility today muddies the entry.",
+        "sources": [
+          {
+            "publisher": "TechTimes",
+            "url": "https://www.techtimes.com/articles/318408/20260615/accenture-earnings-june-18-three-metrics-now-determine-if-ai-consulting-real.htm",
+            "date": "2026-06-15"
+          },
+          {
+            "publisher": "Zacks/TradingView",
+            "url": "https://www.tradingview.com/news/zacks:d133ba170094b:0-accenture-set-to-report-q3-earnings-here-s-what-you-should-know/",
+            "date": "2026-06-16"
+          }
+        ]
+      },
+      {
+        "ticker": "TSLA",
+        "score": 2,
+        "signals_present": [
+          "clean_narrative",
+          "theme_alignment"
+        ],
+        "reasoning": "Robotaxi narrative is intact but stale (catalyst dates from early June) and TSLA sits squarely in the Nasdaq/tech weakness flagged in today's regime — Tuesday's tech selloff and SpaceX capital-flow digestion are direct headwinds. No fresh catalyst or premarket strength signal confirmed.",
+        "sources": [
+          {
+            "publisher": "Yahoo Finance",
+            "url": "https://finance.yahoo.com/markets/stocks/articles/tesla-robotaxi-expansion-global-sales-010836584.html",
+            "date": "2026-06-03"
+          }
+        ]
+      }
+    ],
+    "final_picks": [
+      {
+        "ticker": "UAL",
+        "name": "United Airlines Holdings",
+        "exchange": "NASDAQ",
+        "estimated_cap_tier": "large",
+        "primary_signal": "theme_alignment",
+        "reasoning": "UAL is the lead airline in the US-Iran peace/oil unwind theme — \nshares broke past the carrier's previous record closing level of $117.53 on Monday on the peace framework news\n, with Friday's signing as the next leg. Crude sliding for a fifth straight session keeps the fuel-cost relief narrative intact.",
+        "sources": [
+          {
+            "publisher": "Parameter",
+            "url": "https://parameter.io/airline-stocks-soar-on-u-s-iran-peace-framework-american-united-delta-southwest-surge/",
+            "date": "2026-06-15"
+          },
+          {
+            "publisher": "Stocktwits",
+            "url": "https://stocktwits.com/news-articles/markets/equity/ual-dal-stock-close-record-highs-what-fueled-rally/cZKfuSGR73t",
+            "date": "2026-06-15"
+          },
+          {
+            "publisher": "Yahoo Finance/Simply Wall St",
+            "url": "https://uk.finance.yahoo.com/news/united-ual-faces-cheaper-fuel-043519258.html",
+            "date": "2026-06-17"
+          }
+        ],
+        "score": 4,
+        "signals_present": [
+          "theme_leader",
+          "fresh_catalyst",
+          "premarket_strength",
+          "clean_narrative"
+        ],
+        "brief_reasoning": "Direct beneficiary of US-Iran peace deal unwind with WTI sliding to $75. \nMajor U.S. carriers including American, United, Delta, and Southwest rallied 3%–4% in pre-market trading following the U.S.-Iran peace framework announcement\n, and Friday's formal signing is the next catalyst.",
+        "research_reasoning": "UAL is the lead airline in the US-Iran peace/oil unwind theme — \nshares broke past the carrier's previous record closing level of $117.53 on Monday on the peace framework news\n, with Friday's signing as the next leg. Crude sliding for a fifth straight session keeps the fuel-cost relief narrative intact."
+      },
+      {
+        "ticker": "CAT",
+        "name": "Caterpillar Inc.",
+        "exchange": "NYSE",
+        "estimated_cap_tier": "mega",
+        "primary_signal": "momentum_continuation",
+        "reasoning": "\nCaterpillar climbed to a fresh 52-week high on Tuesday as the Dow touched a record level, buoyed by optimism surrounding the pending peace agreement\n, with AI data-center power-gen demand as a secondary tailwind. \nPower Generation revenue rose 41% YoY in Q1 2026 to $2.817 billion\n, supporting the momentum thesis though valuation is stretched.",
+        "sources": [
+          {
+            "publisher": "Seeking Alpha",
+            "url": "https://seekingalpha.com/news/4604122-caterpillars-advance-helps-to-drive-dow-jones-industrials-to-record-high",
+            "date": "2026-06-16"
+          },
+          {
+            "publisher": "Seeking Alpha",
+            "url": "https://seekingalpha.com/news/4604122-caterpillars-advance-helps-to-drive-dow-jones-industrials-to-record-high",
+            "date": "2026-06-16"
+          },
+          {
+            "publisher": "AOL/24-7 Wall St",
+            "url": "https://www.aol.com/articles/caterpillar-stock-nearing-52-week-163000000.html",
+            "date": "2026-06-14"
+          }
+        ],
+        "score": 4,
+        "signals_present": [
+          "technical_breakout",
+          "momentum_continuation",
+          "theme_alignment"
+        ],
+        "brief_reasoning": "Dow leader hitting fresh 52-week highs amid the Dow record run. \nCaterpillar (CAT) was among a group of industrial and infrastructure-related stocks that climbed to fresh 52-week highs on Tuesday as the Dow Jones Industrial Average touched a record level\n, supported by AI data center power demand and an 8% dividend hike.",
+        "research_reasoning": "\nCaterpillar climbed to a fresh 52-week high on Tuesday as the Dow touched a record level, buoyed by optimism surrounding the pending peace agreement\n, with AI data-center power-gen demand as a secondary tailwind. \nPower Generation revenue rose 41% YoY in Q1 2026 to $2.817 billion\n, supporting the momentum thesis though valuation is stretched."
+      },
+      {
+        "ticker": "NEM",
+        "name": "Newmont Corporation",
+        "exchange": "NYSE",
+        "estimated_cap_tier": "large",
+        "primary_signal": "theme_leader",
+        "reasoning": "Gold-miner leader and clean FOMC-day hedge with gold above $4,300/oz this week. Fundamentals support: \nNewmont posted record Q1 2026 results amid higher realized gold prices of $4,900 per ounce and low AISC of $1,029 per ounce, while announcing a $6 billion share repurchase authorization\n. Risk: a hawkish Warsh dot plot lifting yields/DXY could pressure gold.",
+        "sources": [
+          {
+            "publisher": "GuruFocus",
+            "url": "https://www.gurufocus.com/news/8916787/newmont-corporation-nem-tops-goldmining-stocks-with-high-quant-rating",
+            "date": "2026-06-15"
+          },
+          {
+            "publisher": "Barchart",
+            "url": "https://www.barchart.com/story/news/1546826/newmont-is-golden-why-record-gold-prices-make-it-a-must-buy-dividend-stock-now",
+            "date": "2026-04-28"
+          },
+          {
+            "publisher": "Investing.com",
+            "url": "https://www.investing.com/equities/newmont-mining",
+            "date": "2026-06-16"
+          }
+        ],
+        "score": 4,
+        "signals_present": [
+          "theme_leader",
+          "clean_narrative",
+          "fresh_catalyst"
+        ],
+        "brief_reasoning": "Gold above $4,300/oz this week makes the largest gold miner a prime FOMC-day hedge. \nOn June 15, 2026, as gold prices recover, interest in gold-mining stocks is on the rise. Newmont Corporation NEM stands out with a leading Quant Rating of 4.18, the highest in the sector.\n",
+        "research_reasoning": "Gold-miner leader and clean FOMC-day hedge with gold above $4,300/oz this week. Fundamentals support: \nNewmont posted record Q1 2026 results amid higher realized gold prices of $4,900 per ounce and low AISC of $1,029 per ounce, while announcing a $6 billion share repurchase authorization\n. Risk: a hawkish Warsh dot plot lifting yields/DXY could pressure gold."
+      },
+      {
+        "ticker": "DAL",
+        "name": "Delta Air Lines",
+        "exchange": "NYSE",
+        "estimated_cap_tier": "large",
+        "primary_signal": "theme_alignment",
+        "reasoning": "DAL benefits from the same fuel-cost relief tape but lagged UAL on Monday (\nDAL closed +1.22% at $84.07 vs UAL +3.85%\n), making it the secondary play rather than the leader. Crude's continued slide and Friday's signing keep the narrative live.",
+        "sources": [
+          {
+            "publisher": "Yahoo Finance / Barchart",
+            "url": "https://finance.yahoo.com/markets/stocks/articles/stocks-rally-us-iran-peace-151900784.html",
+            "date": "2026-06-15"
+          },
+          {
+            "publisher": "Stocktwits",
+            "url": "https://stocktwits.com/news-articles/markets/equity/ual-dal-stock-close-record-highs-what-fueled-rally/cZKfuSGR73t",
+            "date": "2026-06-15"
+          }
+        ],
+        "score": 3,
+        "signals_present": [
+          "theme_alignment",
+          "fresh_catalyst",
+          "clean_narrative"
+        ],
+        "brief_reasoning": "Airline fuel-cost relief play as crude continues fifth straight session down. \nRoyal Caribbean Cruises (RCL) is up more than +5%, and United Airlines Holdings (UAL), Alaska Air Group (ALK), Carnival (CCL), and Norwegian Cruise Line Holdings (NCLH) are up more than +4%. Also, American Airlines Group (AAL) is up more than +3%, and Delta Air Lines (DAL) and Southwest Airlines (LUV) are up more than +1%.\n",
+        "research_reasoning": "DAL benefits from the same fuel-cost relief tape but lagged UAL on Monday (\nDAL closed +1.22% at $84.07 vs UAL +3.85%\n), making it the secondary play rather than the leader. Crude's continued slide and Friday's signing keep the narrative live."
+      },
+      {
+        "ticker": "RCL",
+        "name": "Royal Caribbean Cruises",
+        "exchange": "NYSE",
+        "estimated_cap_tier": "large",
+        "primary_signal": "theme_alignment",
+        "reasoning": "Cruise lines rallied hard on the peace deal alongside airlines as fuel-cost pressure eased — \nother airline/travel stocks broadly moved higher as traders bet on relief from energy-related cost pressures\n. RCL is the higher-quality cruise name but already extended after Monday's pop.",
+        "sources": [
+          {
+            "publisher": "Royal Caribbean Blog",
+            "url": "https://www.royalcaribbeanblog.com/2026/06/15/iran-war-peace-deal",
+            "date": "2026-06-15"
+          },
+          {
+            "publisher": "Stocktwits",
+            "url": "https://stocktwits.com/news-articles/markets/equity/ual-dal-stock-close-record-highs-what-fueled-rally/cZKfuSGR73t",
+            "date": "2026-06-15"
+          }
+        ],
+        "score": 3,
+        "signals_present": [
+          "theme_alignment",
+          "clean_narrative",
+          "momentum_continuation"
+        ],
+        "brief_reasoning": "Cruise lines benefit dually from lower fuel and reopened Med/Gulf routes. \n60% of Royal Caribbean's 2026 fuel was hedged (or pre-bought) at $474 per metric ton, but the remaining 40% is subject to market fluctuations. This means that moderate changes in crude prices have a meaningful impact on costs and future earnings. The decrease in the price of a barrel of crude oil translates to lower fuel volatility, which strengthens profit forecasts for Royal Caribbean Group.\n",
+        "research_reasoning": "Cruise lines rallied hard on the peace deal alongside airlines as fuel-cost pressure eased — \nother airline/travel stocks broadly moved higher as traders bet on relief from energy-related cost pressures\n. RCL is the higher-quality cruise name but already extended after Monday's pop."
+      }
+    ],
+    "filter_audit": {
+      "excluded_by_filters": []
+    }
+  },
+  "track_b_mid": {
+    "candidates": [
+      {
+        "ticker": "UPST",
+        "name": "Upstart Holdings",
+        "exchange": "NASDAQ",
+        "estimated_cap_tier": "mid",
+        "primary_signal": "theme_alignment",
+        "reasoning": "AI-lending mid-cap that benefits from the 10Y yield easing to 4.43% and lower oil pressure on consumer credit. Insider buying by CEO Paul Gu recently signaled confidence, and the name typically trades with sharp 5%+ daily ranges suited for day-trading.",
+        "sources": [
+          {
+            "publisher": "Yahoo Finance / StockStory",
+            "url": "https://finance.yahoo.com/markets/stocks/articles/upstart-upst-stock-know-184455597.html",
+            "date": "2026-05-16"
+          }
+        ]
+      },
+      {
+        "ticker": "IREN",
+        "name": "IREN Limited",
+        "exchange": "NASDAQ",
+        "estimated_cap_tier": "mid",
+        "primary_signal": "theme_leader",
+        "reasoning": "AI data-center pivot story distinct from broad semis weakness; closed $3.65B GPU financing tied to Microsoft AI cloud contract and signed $1.6B Dell agreement for Nvidia Blackwell systems. Daily ranges are wide and liquidity is heavy, giving it room to run if AI-infra capital flows stabilize post-SpaceX IPO digestion.",
+        "sources": [
+          {
+            "publisher": "Simply Wall St",
+            "url": "https://simplywall.st/stocks/us/software/nasdaq-iren/iren",
+            "date": "2026-06-13"
+          }
+        ]
+      },
+      {
+        "ticker": "ANF",
+        "name": "Abercrombie & Fitch",
+        "exchange": "NYSE",
+        "estimated_cap_tier": "mid",
+        "primary_signal": "oversold_bounce",
+        "reasoning": "Mid-cap retailer down 32% YTD but bouncing on Q1 beat (EPS $1.47 vs $1.28 est., 14th consecutive growth quarter). Iran peace deal could relieve the EMEA drag that has weighed on the stock — gives a clean rotation-into-value setup on a soft-tech day.",
+        "sources": [
+          {
+            "publisher": "Motley Fool",
+            "url": "https://www.fool.com/investing/2026/05/27/why-abercrombie-stock-is-up-today/",
+            "date": "2026-05-27"
+          }
+        ]
+      },
+      {
+        "ticker": "VKTX",
+        "name": "Viking Therapeutics",
+        "exchange": "NASDAQ",
+        "estimated_cap_tier": "mid",
+        "primary_signal": "theme_alignment",
+        "reasoning": "Mid-cap obesity/GLP-1 biotech with VK2735 advancing toward pivotal trials; BTIG and HC Wainwright remain constructive with ~$92 average target. Biotech binary catalyst risk flagged in today's themes makes Viking a watchlist name for clinical news flow and volatility.",
+        "sources": [
+          {
+            "publisher": "Yahoo Finance",
+            "url": "https://finance.yahoo.com/quote/VKTX/",
+            "date": "2026-06-13"
+          }
+        ]
+      },
+      {
+        "ticker": "ARWR",
+        "name": "Arrowhead Pharmaceuticals",
+        "exchange": "NASDAQ",
+        "estimated_cap_tier": "mid",
+        "primary_signal": "fresh_catalyst",
+        "reasoning": "Phase III plozasiran data for severe hypertriglyceridemia expected in Q3, flagged by TD Cowen as a top 2026 biotech catalyst. Mid-cap biotech with steady 3-6% daily ranges and clean catalyst-driven setups.",
+        "sources": [
+          {
+            "publisher": "Investing.com",
+            "url": "https://www.investing.com/news/analyst-ratings/td-cowen-analyst-highlights-10-potential-biotech-catalysts-for-2026-93CH-4417573",
+            "date": "2025-12-19"
+          }
+        ]
+      },
+      {
+        "ticker": "MDGL",
+        "name": "Madrigal Pharmaceuticals",
+        "exchange": "NASDAQ",
+        "estimated_cap_tier": "mid",
+        "primary_signal": "theme_alignment",
+        "reasoning": "Mid-cap NASH/MASH leader (Rezdiffra commercial ramp) flagged as a biotech focus name as clinical catalysts build into mid-June. Liquid name with day-trader-friendly volatility and clean technical levels.",
+        "sources": [
+          {
+            "publisher": "Kalkine Media",
+            "url": "https://kalkinemedia.com/us/stocks/smallcap/small-cap-biotech-stocks-draw-focus-as-data-catalysts-build",
+            "date": "2026-06-15"
+          }
+        ]
+      },
+      {
+        "ticker": "BURL",
+        "name": "Burlington Stores",
+        "exchange": "NYSE",
+        "estimated_cap_tier": "mid",
+        "primary_signal": "policy_tailwind",
+        "reasoning": "Off-price retailer benefits from consumer-discretionary rotation as the Iran peace deal cuts crude ~40% from conflict peak, easing consumer inflation pressure. Mid-cap with sufficient liquidity and lined up as a defensive-rotation play if tech weakness continues.",
+        "sources": [
+          {
+            "publisher": "Yahoo Finance",
+            "url": "https://finance.yahoo.com/quote/BURL/",
+            "date": "2026-06-17"
+          }
+        ]
+      },
+      {
+        "ticker": "ASTS",
+        "name": "AST SpaceMobile",
+        "exchange": "NASDAQ",
+        "estimated_cap_tier": "mid",
+        "primary_signal": "fresh_catalyst",
+        "reasoning": "Mid-June BlueBird 8-10 launch is the next biggest catalyst, with the company targeting ~45 BlueBird satellites in orbit by year-end. ASTS has reaffirmed 2026 revenue guidance of $150-200M and stock typically posts 5-10% daily swings — strong day-trade vehicle.",
+        "sources": [
+          {
+            "publisher": "Foreign Policy Journal",
+            "url": "https://www.foreignpolicyjournal.com/2026/06/10/spacex-ipo-reshapes-space-sector-valuations-rocket-lab-nasdaq-rklb-and-ast-spacemobile-nasdaq-asts-in-focus/",
+            "date": "2026-06-10"
+          }
+        ]
+      },
+      {
+        "ticker": "RXRX",
+        "name": "Recursion Pharmaceuticals",
+        "exchange": "NASDAQ",
+        "estimated_cap_tier": "mid",
+        "primary_signal": "theme_alignment",
+        "reasoning": "AI-biotech mid-cap flagged as in-focus alongside other small/mid biotechs as data catalysts build. Sits at the intersection of two active narratives (AI capital flows + biotech) with daily ranges suited to active trading.",
+        "sources": [
+          {
+            "publisher": "Kalkine Media",
+            "url": "https://kalkinemedia.com/us/stocks/smallcap/small-cap-biotech-stocks-draw-focus-as-data-catalysts-build",
+            "date": "2026-06-15"
+          }
+        ]
+      }
+    ],
+    "scored": [
+      {
+        "ticker": "UPST",
+        "score": 3,
+        "signals_present": [
+          "fresh_catalyst",
+          "oversold_bounce",
+          "momentum_continuation"
+        ],
+        "reasoning": "Needham reaffirmed Buy/$37 PT on June 15 and \nshares closed at $32.36, up 6.1%\n, with \nMay originations up 14% MoM and 52% YoY\n. However, rate-sensitive AI-lender faces headwinds into hawkish FOMC risk; insider sell by President Datta on June 9 is a minor offset.",
+        "sources": [
+          {
+            "publisher": "Yahoo Finance / StockStory",
+            "url": "https://finance.yahoo.com/markets/stocks/articles/why-upstart-upst-stock-soaring-061207796.html",
+            "date": "2026-06-16"
+          }
+        ]
+      },
+      {
+        "ticker": "IREN",
+        "score": 4,
+        "signals_present": [
+          "theme_leader",
+          "fresh_catalyst",
+          "momentum_continuation",
+          "clean_narrative"
+        ],
+        "reasoning": "Strong AI infra theme leader with \nJune 15 completion of Nostrum Group acquisition adding ~490MW of grid-connected power in Spain\n and \nstock up ~45% YTD and 590% over the past year\n. Tech rotation headwind today reduces score by 1 from a base 5.",
+        "sources": [
+          {
+            "publisher": "StockTitan",
+            "url": "https://www.stocktitan.net/news/IREN/iren-completes-acquisition-of-nostrum-group-expanding-ai-cloud-5yroby5z5e50.html",
+            "date": "2026-06-15"
+          }
+        ]
+      },
+      {
+        "ticker": "ANF",
+        "score": 4,
+        "signals_present": [
+          "oversold_bounce",
+          "policy_tailwind",
+          "clean_narrative",
+          "theme_alignment"
+        ],
+        "reasoning": "\nStock is down 25% YTD at $92.75, trading 28.6% below 52-week high; jumped June 15 after oil fell more than 5% on the Iran peace deal\n. Clean consumer-discretionary rotation play as \nANF opened a new SoHo flagship alongside aggressive summer promotions\n.",
+        "sources": [
+          {
+            "publisher": "StockStory",
+            "url": "https://stockstory.org/us/stocks/nyse/anf/news/why-up-down/abercrombie-and-fitch-dollar-general-and-monro-shares-skyrocket-what-you-need-to-know",
+            "date": "2026-06-15"
+          }
+        ]
+      },
+      {
+        "ticker": "VKTX",
+        "score": 2,
+        "signals_present": [
+          "theme_alignment",
+          "fresh_catalyst"
+        ],
+        "reasoning": "GLP-1 mid-cap with \nQ3 VK2735 maintenance data readout approaching and pivotal oral study planned later this year\n, but \nstock is down 17.2% YTD\n and biotech binary risk flagged in today's themes. No fresh near-term catalyst — penalized by sector risk flag.",
+        "sources": [
+          {
+            "publisher": "Simply Wall St",
+            "url": "https://simplywall.st/stocks/us/pharmaceuticals-biotech/nasdaq-vktx/viking-therapeutics/news/viking-therapeutics-nears-vk2735-milestones-as-valuation-sig",
+            "date": "2026-06-04"
+          }
+        ]
+      },
+      {
+        "ticker": "ARWR",
+        "score": 3,
+        "signals_present": [
+          "fresh_catalyst",
+          "theme_alignment",
+          "clean_narrative"
+        ],
+        "reasoning": "\nPlan to complete SHASTA-3, SHASTA-4, and MUIR-3 Phase 3 plozasiran trials in mid 2026, with a planned U.S. filing by year end 2026\n provides clean catalyst path. Already \nFDA-approved REDEMPLO with stock up 395% over the past year\n, but biotech binary risk flag reduces score.",
+        "sources": [
+          {
+            "publisher": "Investing.com",
+            "url": "https://www.investing.com/news/company-news/arrowhead-presents-plozasiran-data-on-renal-hepatic-impairment-93CH-4710230",
+            "date": "2026-05-27"
+          }
+        ]
+      },
+      {
+        "ticker": "MDGL",
+        "score": 3,
+        "signals_present": [
+          "theme_alignment",
+          "fresh_catalyst",
+          "clean_narrative"
+        ],
+        "reasoning": "\n2025 Rezdiffra net revenue of $958.4M with >36,250 patients on therapy by year-end and sales running at >$1B annualized quarterly\n; \nJune 17 annual meeting today\n is a minor event catalyst. However, \nstock has slipped 8.2% over past month and 19% YTD\n and biotech sector risk applies.",
+        "sources": [
+          {
+            "publisher": "StockTitan",
+            "url": "https://www.stocktitan.net/sec-filings/MDGL/def-14a-madrigal-pharmaceuticals-inc-definitive-proxy-statement-020f25965904.html",
+            "date": "2026-04-28"
+          }
+        ]
+      },
+      {
+        "ticker": "BURL",
+        "score": 3,
+        "signals_present": [
+          "policy_tailwind",
+          "theme_alignment",
+          "clean_narrative"
+        ],
+        "reasoning": "Off-price retailer benefits from same Iran peace deal / oil-down rotation that's lifting consumer discretionary; \noil prices fell more than 5% on the Iran peace deal, with every dollar saved at the pump available for retail spending elsewhere\n. No company-specific fresh catalyst, moderate setup.",
+        "sources": [
+          {
+            "publisher": "StockStory",
+            "url": "https://stockstory.org/us/stocks/nyse/anf/news/why-up-down/abercrombie-and-fitch-dollar-general-and-monro-shares-skyrocket-what-you-need-to-know",
+            "date": "2026-06-15"
+          }
+        ]
+      },
+      {
+        "ticker": "ASTS",
+        "score": 4,
+        "signals_present": [
+          "fresh_catalyst",
+          "clean_narrative",
+          "retail_buzz",
+          "theme_alignment"
+        ],
+        "reasoning": "Major binary catalyst hit overnight: \nBlueBird 8, 9, 10 mission lifted off at 2:39 EDT on June 17 from Cape Canaveral aboard a Falcon 9 rocket\n, a successful launch. \nCompany aiming for 45 to 60 satellites in orbit by end of 2026, with manufacturing capacity of up to six BlueBirds per month\n — clean post-event drift narrative with high retail attention.",
+        "sources": [
+          {
+            "publisher": "Business Wire",
+            "url": "https://www.businesswire.com/news/home/20260617420856/en/AST-SpaceMobile-Announces-Successful-Orbital-Launch-of-BlueBirds-8-9-and-10",
+            "date": "2026-06-17"
+          }
+        ]
+      },
+      {
+        "ticker": "RXRX",
+        "score": 2,
+        "signals_present": [
+          "theme_alignment",
+          "earnings_drift"
+        ],
+        "reasoning": "\nQ1 EPS at -$0.22 vs -$0.26 consensus, stronger-than-forecast revenue, with cash runway reaffirmed into early 2028\n and \nstock climbed from $2.80s to $3.86 close on June 4\n, but at ~$3.20 it's a low-priced, high-burn name. Biotech sector risk flag and tech-adjacent AI weakness penalize.",
+        "sources": [
+          {
+            "publisher": "StocksToTrade",
+            "url": "https://stockstotrade.com/news/recursion-pharmaceuticals-inc-rxrx-news-2026_06_04/",
+            "date": "2026-06-04"
+          }
+        ]
+      }
+    ],
+    "final_picks": [
+      {
+        "ticker": "IREN",
+        "name": "IREN Limited",
+        "exchange": "NASDAQ",
+        "estimated_cap_tier": "mid",
+        "primary_signal": "theme_leader",
+        "reasoning": "Strong AI infra theme leader with \nJune 15 completion of Nostrum Group acquisition adding ~490MW of grid-connected power in Spain\n and \nstock up ~45% YTD and 590% over the past year\n. Tech rotation headwind today reduces score by 1 from a base 5.",
+        "sources": [
+          {
+            "publisher": "Simply Wall St",
+            "url": "https://simplywall.st/stocks/us/software/nasdaq-iren/iren",
+            "date": "2026-06-13"
+          },
+          {
+            "publisher": "StockTitan",
+            "url": "https://www.stocktitan.net/news/IREN/iren-completes-acquisition-of-nostrum-group-expanding-ai-cloud-5yroby5z5e50.html",
+            "date": "2026-06-15"
+          }
+        ],
+        "score": 4,
+        "signals_present": [
+          "theme_leader",
+          "fresh_catalyst",
+          "momentum_continuation",
+          "clean_narrative"
+        ],
+        "brief_reasoning": "AI data-center pivot story distinct from broad semis weakness; closed $3.65B GPU financing tied to Microsoft AI cloud contract and signed $1.6B Dell agreement for Nvidia Blackwell systems. Daily ranges are wide and liquidity is heavy, giving it room to run if AI-infra capital flows stabilize post-SpaceX IPO digestion.",
+        "research_reasoning": "Strong AI infra theme leader with \nJune 15 completion of Nostrum Group acquisition adding ~490MW of grid-connected power in Spain\n and \nstock up ~45% YTD and 590% over the past year\n. Tech rotation headwind today reduces score by 1 from a base 5."
+      },
+      {
+        "ticker": "ANF",
+        "name": "Abercrombie & Fitch",
+        "exchange": "NYSE",
+        "estimated_cap_tier": "mid",
+        "primary_signal": "oversold_bounce",
+        "reasoning": "\nStock is down 25% YTD at $92.75, trading 28.6% below 52-week high; jumped June 15 after oil fell more than 5% on the Iran peace deal\n. Clean consumer-discretionary rotation play as \nANF opened a new SoHo flagship alongside aggressive summer promotions\n.",
+        "sources": [
+          {
+            "publisher": "Motley Fool",
+            "url": "https://www.fool.com/investing/2026/05/27/why-abercrombie-stock-is-up-today/",
+            "date": "2026-05-27"
+          },
+          {
+            "publisher": "StockStory",
+            "url": "https://stockstory.org/us/stocks/nyse/anf/news/why-up-down/abercrombie-and-fitch-dollar-general-and-monro-shares-skyrocket-what-you-need-to-know",
+            "date": "2026-06-15"
+          }
+        ],
+        "score": 4,
+        "signals_present": [
+          "oversold_bounce",
+          "policy_tailwind",
+          "clean_narrative",
+          "theme_alignment"
+        ],
+        "brief_reasoning": "Mid-cap retailer down 32% YTD but bouncing on Q1 beat (EPS $1.47 vs $1.28 est., 14th consecutive growth quarter). Iran peace deal could relieve the EMEA drag that has weighed on the stock — gives a clean rotation-into-value setup on a soft-tech day.",
+        "research_reasoning": "\nStock is down 25% YTD at $92.75, trading 28.6% below 52-week high; jumped June 15 after oil fell more than 5% on the Iran peace deal\n. Clean consumer-discretionary rotation play as \nANF opened a new SoHo flagship alongside aggressive summer promotions\n."
+      },
+      {
+        "ticker": "ASTS",
+        "name": "AST SpaceMobile",
+        "exchange": "NASDAQ",
+        "estimated_cap_tier": "mid",
+        "primary_signal": "fresh_catalyst",
+        "reasoning": "Major binary catalyst hit overnight: \nBlueBird 8, 9, 10 mission lifted off at 2:39 EDT on June 17 from Cape Canaveral aboard a Falcon 9 rocket\n, a successful launch. \nCompany aiming for 45 to 60 satellites in orbit by end of 2026, with manufacturing capacity of up to six BlueBirds per month\n — clean post-event drift narrative with high retail attention.",
+        "sources": [
+          {
+            "publisher": "Foreign Policy Journal",
+            "url": "https://www.foreignpolicyjournal.com/2026/06/10/spacex-ipo-reshapes-space-sector-valuations-rocket-lab-nasdaq-rklb-and-ast-spacemobile-nasdaq-asts-in-focus/",
+            "date": "2026-06-10"
+          },
+          {
+            "publisher": "Business Wire",
+            "url": "https://www.businesswire.com/news/home/20260617420856/en/AST-SpaceMobile-Announces-Successful-Orbital-Launch-of-BlueBirds-8-9-and-10",
+            "date": "2026-06-17"
+          }
+        ],
+        "score": 4,
+        "signals_present": [
+          "fresh_catalyst",
+          "clean_narrative",
+          "retail_buzz",
+          "theme_alignment"
+        ],
+        "brief_reasoning": "Mid-June BlueBird 8-10 launch is the next biggest catalyst, with the company targeting ~45 BlueBird satellites in orbit by year-end. ASTS has reaffirmed 2026 revenue guidance of $150-200M and stock typically posts 5-10% daily swings — strong day-trade vehicle.",
+        "research_reasoning": "Major binary catalyst hit overnight: \nBlueBird 8, 9, 10 mission lifted off at 2:39 EDT on June 17 from Cape Canaveral aboard a Falcon 9 rocket\n, a successful launch. \nCompany aiming for 45 to 60 satellites in orbit by end of 2026, with manufacturing capacity of up to six BlueBirds per month\n — clean post-event drift narrative with high retail attention."
+      },
+      {
+        "ticker": "UPST",
+        "name": "Upstart Holdings",
+        "exchange": "NASDAQ",
+        "estimated_cap_tier": "mid",
+        "primary_signal": "theme_alignment",
+        "reasoning": "Needham reaffirmed Buy/$37 PT on June 15 and \nshares closed at $32.36, up 6.1%\n, with \nMay originations up 14% MoM and 52% YoY\n. However, rate-sensitive AI-lender faces headwinds into hawkish FOMC risk; insider sell by President Datta on June 9 is a minor offset.",
+        "sources": [
+          {
+            "publisher": "Yahoo Finance / StockStory",
+            "url": "https://finance.yahoo.com/markets/stocks/articles/upstart-upst-stock-know-184455597.html",
+            "date": "2026-05-16"
+          },
+          {
+            "publisher": "Yahoo Finance / StockStory",
+            "url": "https://finance.yahoo.com/markets/stocks/articles/why-upstart-upst-stock-soaring-061207796.html",
+            "date": "2026-06-16"
+          }
+        ],
+        "score": 3,
+        "signals_present": [
+          "fresh_catalyst",
+          "oversold_bounce",
+          "momentum_continuation"
+        ],
+        "brief_reasoning": "AI-lending mid-cap that benefits from the 10Y yield easing to 4.43% and lower oil pressure on consumer credit. Insider buying by CEO Paul Gu recently signaled confidence, and the name typically trades with sharp 5%+ daily ranges suited for day-trading.",
+        "research_reasoning": "Needham reaffirmed Buy/$37 PT on June 15 and \nshares closed at $32.36, up 6.1%\n, with \nMay originations up 14% MoM and 52% YoY\n. However, rate-sensitive AI-lender faces headwinds into hawkish FOMC risk; insider sell by President Datta on June 9 is a minor offset."
+      },
+      {
+        "ticker": "ARWR",
+        "name": "Arrowhead Pharmaceuticals",
+        "exchange": "NASDAQ",
+        "estimated_cap_tier": "mid",
+        "primary_signal": "fresh_catalyst",
+        "reasoning": "\nPlan to complete SHASTA-3, SHASTA-4, and MUIR-3 Phase 3 plozasiran trials in mid 2026, with a planned U.S. filing by year end 2026\n provides clean catalyst path. Already \nFDA-approved REDEMPLO with stock up 395% over the past year\n, but biotech binary risk flag reduces score.",
+        "sources": [
+          {
+            "publisher": "Investing.com",
+            "url": "https://www.investing.com/news/analyst-ratings/td-cowen-analyst-highlights-10-potential-biotech-catalysts-for-2026-93CH-4417573",
+            "date": "2025-12-19"
+          },
+          {
+            "publisher": "Investing.com",
+            "url": "https://www.investing.com/news/company-news/arrowhead-presents-plozasiran-data-on-renal-hepatic-impairment-93CH-4710230",
+            "date": "2026-05-27"
+          }
+        ],
+        "score": 3,
+        "signals_present": [
+          "fresh_catalyst",
+          "theme_alignment",
+          "clean_narrative"
+        ],
+        "brief_reasoning": "Phase III plozasiran data for severe hypertriglyceridemia expected in Q3, flagged by TD Cowen as a top 2026 biotech catalyst. Mid-cap biotech with steady 3-6% daily ranges and clean catalyst-driven setups.",
+        "research_reasoning": "\nPlan to complete SHASTA-3, SHASTA-4, and MUIR-3 Phase 3 plozasiran trials in mid 2026, with a planned U.S. filing by year end 2026\n provides clean catalyst path. Already \nFDA-approved REDEMPLO with stock up 395% over the past year\n, but biotech binary risk flag reduces score."
+      }
+    ],
+    "filter_audit": {
+      "excluded_by_filters": []
+    }
+  },
+  "cross_track_dedup": [
+    {
+      "ticker": "UAL",
+      "name": "United Airlines Holdings",
+      "reason": "CROSS_TRACK_DEDUP:already in Track A"
+    }
+  ]
+}

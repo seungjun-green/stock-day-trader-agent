@@ -1,0 +1,5 @@
+date,context_variant,brief_variant,research_variant,track_a_picks,track_a_avg_pnl,track_a_avg_pnl_905,track_a_catchable_count,track_b_picks,track_b_avg_pnl,track_b_avg_pnl_905,track_b_catchable_count,combo_id
+2026-06-12,v1,v1,v1,"RKLB,MU,AMD,INTC,KLAC",2.08,,4,"LUNR,IREN,ALAB,SOFI,CRDO",-1.40,,2,v1-v1-v1
+2026-06-16,v1,v1,v1,"NVDA,YUM,DAL,UAL,AAL",-1.19,,2,"CRDO,IREN,ACHR,JOBY,RGTI",,,2,v1-v1-v1
+2026-06-17,v1,v1,v1,"UAL,CAT,NEM,DAL,RCL",-1.81,-2.07,4,"IREN,ANF,ASTS,UPST,ARWR",0.51,-0.37,5,v1-v1-v1
+2026-06-18,v1,v1,v1,"NVDA,AVGO,MU,META,COIN",0.46,0.60,5,"RMBS,ONTO,VKTX,AGX,FORM",0.02,-1.28,4,v1-v1-v1

@@ -1,0 +1,22 @@
+# Scheduler timezone — all trigger times below are in this zone.
+timezone: Asia/Seoul
+
+poll_interval_seconds: 60
+max_retries: 3
+
+markets:
+  korean:
+    label: Korean (KRX)
+    market_dir: korean
+    calendar: XKRX
+    pre_time: "08:30"   # pre-pipeline before open
+    post_time: "16:30"  # post-pipeline after close
+    worker_after: post  # run worker agent after post-pipeline
+
+  us:
+    label: US (NYSE)
+    market_dir: us
+    calendar: NYSE
+    pre_time: "22:00"   # ~09:00 ET — pre-pipeline before US open
+    post_time: "07:00"  # ~after US close (previous session)
+    worker_after: post

@@ -1,0 +1,14 @@
+LARGE / MEGA cap focus (market cap > $10B). Well-known names with deep liquidity and tight spreads.
+
+Mega-cap tech: AAPL, MSFT, NVDA, GOOGL, AMZN, META, TSLA, AVGO, ORCL, ADBE, CRM, NFLX, AMD, QCOM, INTC, MU, TXN, INTU, NOW, PANW, SNPS, CDNS, ANET, MRVL, ASML, TSM, SMCI, ARM.
+Semis / AI infra: AMAT, LRCX, KLAC, MCHP, ON, WDC, STX, DELL, HPE, IBM, CRWD, NET, DDOG, MDB, SNOW, PLTR.
+Mega-cap consumer/services: WMT, COST, HD, LOW, MCD, SBUX, NKE, DIS, UBER, ABNB, BKNG, SHOP, MELI, PYPL, SQ, COIN.
+Financials: JPM, BAC, WFC, GS, MS, C, BLK, V, MA, AXP, SCHW.
+Healthcare / biotech leaders: LLY, NVO, UNH, JNJ, ABBV, MRK, PFE, AMGN, REGN, VRTX, ISRG, GILD, BMY.
+Energy / industrial: XOM, CVX, COP, OXY, SLB, EOG, CAT, DE, BA, GE, HON, RTX, LMT, NOC, GD, LIN, FCX, NEM.
+EV / auto / mobility: TSLA, F, GM, RIVN (large-cap range), STLA, LCID.
+China ADR mega-caps: BABA, PDD, JD, BIDU, NIO, XPEV, LI.
+Defense / nuclear / power: PLTR, LMT, NOC, RTX, GD, BWXT, CEG, VST, OKLO, SMR, NRG, AES.
+Crypto-adjacent large: COIN, MSTR, MARA, RIOT, HOOD, IBIT (ETF — skip if ETFs not allowed).
+
+AVOID: leveraged/inverse ETFs (TQQQ, SQQQ, SOXL, SOXS, etc.), commodity ETFs, pure index ETFs (SPY, QQQ, IWM), OTC tickers, ADRs that trade <$20M daily dollar volume.

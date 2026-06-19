@@ -1,0 +1,117 @@
+I'll verify the key signals for these candidates with targeted searches.
+I have enough info. Let me check a couple more quickly for DAL/RCL/airlines and JPM/banks context.
+I have enough information now. Let me apply the exclusion rules carefully:
+
+- **NVDA**: Solid oversold-bounce + chip rebound theme. Trump named NVDA in the chip post. Score: 4.
+- **AVGO**: 4.3% premarket gain on Wednesday already — that was YESTERDAY's move. Today the catalyst is different. Mixed picture. Score: 3.
+- **MU**: Theme alignment with HBM peer. Cook said memory chip prices rising. Score: 3.
+- **AAPL**: FRESH catalyst from Truth Social post early Thursday AM (within pre-market window 04:00 ET — borderline but post was at ~3:22am PT/6:22am ET-ish, actually some sources say "early hours Thursday"). The post fired around 12:44 AM ET to 3:22 AM PT — this is BEFORE 04:00 ET pre-market open. This is E1 stale pre-open catalyst territory. But AAPL only up 0.6% — not extended. Score it lower per E1.
+- **META**: Oversold bounce. Reasonable. Score: 3.
+- **DAL**: "broke out to a new high on Monday" — that's E2 already-extended leader on same Iran news. DROP.
+- **RCL**: Same — led cruises Monday +5%. E2 already extended. DROP.
+- **JPM**: Hit new ATH on Wednesday — already extended. E2 risk. Also hawkish Fed is mixed for banks (curve, but recession risk). Cramer said banks do better in moderately higher rates. Score: 3.
+- **COIN**: Theme alignment, high-beta. Score: 3.
+- **BABA**: Asia risk-on. Score: 3.
+
+Apply penalty: regime is "Bounce / risk-on recovery" with Fed hawkish overhang — not flagging specific sectors as weak, so no broad sector penalty. INTC ran 9% premarket; AAPL only 0.6%, so no >5% penalty there.
+
+For AAPL, the Trump post hit overnight before 04:00 ET — this is the classic E1 pattern. Drop or score ≤ 2.
+
+```json
+{
+  "scored": [
+    {
+      "ticker": "NVDA",
+      "score": 4,
+      "signals_present": ["oversold_bounce", "theme_leader", "fresh_catalyst"],
+      "reasoning": "NVDA was named in Trump's Truth Social post as already having agreed to build first-level chips with Intel, giving it a fresh policy-tailwind mention alongside the AI infrastructure rebound bid. 
+Trump said 'First, we helped bring in Nvidia, and they agreed to build their first level Chips with Intel'
+, and the stock has underperformed semis recently, leaving room for mean reversion on a risk-on tape.",
+      "sources": [
+        {"publisher": "CNBC", "url": "https://www.cnbc.com/amp/2026/06/18/trump-intel-apple-chip-design-deal.html", "date": "2026-06-18"}
+      ]
+    },
+    {
+      "ticker": "AVGO",
+      "score": 3,
+      "signals_present": ["theme_alignment", "fresh_catalyst"],
+      "reasoning": "
+JPMorgan said investors should be 'aggressive buyers' of Broadcom stock
+, providing a fresh analyst-driven catalyst into a chip sector rebound day. Theme aligned with the semi rally but not the leader (Intel/NVDA are getting the policy spotlight).",
+      "sources": [
+        {"publisher": "CNBC", "url": "https://www.cnbc.com/quotes/JPM", "date": "2026-06-18"}
+      ]
+    },
+    {
+      "ticker": "MU",
+      "score": 3,
+      "signals_present": ["theme_alignment", "clean_narrative"],
+      "reasoning": "Memory pricing narrative is gaining traction with 
+Apple's planned price hikes showing memory chips have more room to run, per Gene Munster
+, and Tim Cook's WSJ comments about unsustainable memory cost increases align directly with Micron's pricing leverage. Theme aligned but not the chip-rally leader today.",
+      "sources": [
+        {"publisher": "CNBC", "url": "https://www.cnbc.com/quotes/NVDA", "date": "2026-06-18"}
+      ]
+    },
+    {
+      "ticker": "META",
+      "score": 3,
+      "signals_present": ["oversold_bounce"],
+      "reasoning": "
+Major tech bellwethers led Wednesday's losses, with Microsoft, Meta Platforms, Alphabet and Amazon all closing in the red
+, setting up META for an oversold bounce as NQ futures lead the rebound and VIX cools. Single-signal setup without a stock-specific catalyst.",
+      "sources": [
+        {"publisher": "CNBC", "url": "https://www.cnbc.com/2026/06/16/stock-market-today-live-updates.html", "date": "2026-06-17"}
+      ]
+    },
+    {
+      "ticker": "JPM",
+      "score": 3,
+      "signals_present": ["policy_tailwind", "theme_alignment"],
+      "reasoning": "
+Banks tend to do better in a moderately higher interest rate environment per Jim Cramer, and financials have the market's deepest bench of near-breakouts
+. Higher-for-longer regime supports NIM, but 
+JPMorgan rose more than 1% to a new all-time intraday high on Wednesday — the first new ATH since January 5
+, meaning the stock is already extended into the move.",
+      "sources": [
+        {"publisher": "CNBC", "url": "https://www.cnbc.com/2026/06/16/stock-market-today-live-updates.html", "date": "2026-06-17"}
+      ]
+    },
+    {
+      "ticker": "COIN",
+      "score": 3,
+      "signals_present": ["theme_alignment", "retail_buzz"],
+      "reasoning": "Crypto-beta name positioned for high-beta participation in the risk-on bounce as NQ futures lead and VIX collapses post-Fed shock. Single-theme alignment without a stock-specific catalyst today.",
+      "sources": [
+        {"publisher": "Benzinga", "url": "https://www.benzinga.com/markets/prediction-markets/26/06/53268883/sp500-june-18-open-up-or-down-polymarket-fed-warsh-rate-hike-outlook", "date": "2026-06-18"}
+      ]
+    },
+    {
+      "ticker": "BABA",
+      "score": 3,
+      "signals_present": ["theme_alignment"],
+      "reasoning": "
+Futures suggest investors are looking past the Fed shock, with stocks in Asia mostly higher overnight and Japan's Nikkei 225 and South Korea's Kospi both hitting fresh records
+, supporting risk-on flow into liquid China ADRs. Theme alignment only without a BABA-specific catalyst.",
+      "sources": [
+        {"publisher": "Benzinga", "url": "https://www.benzinga.com/markets/prediction-markets/26/06/53268883/sp500-june-18-open-up-or-down-polymarket-fed-warsh-rate-hike-outlook", "date": "2026-06-18"}
+      ]
+    },
+    {
+      "ticker": "AAPL",
+      "score": 2,
+      "signals_present": ["fresh_catalyst", "policy_tailwind"],
+      "reasoning": "Trump's Truth Social post hit in the overnight hours (~12:44 AM ET / 3:22 AM PT) before the pre-market open, making this a stale pre-open catalyst pattern — 
+Apple shares only gained 0.6% in reaction, with INTC capturing nearly all the move
+. Catalyst is essentially priced in for AAPL while the read-through value flows to Intel.",
+      "sources": [
+        {"publisher": "Stocktwits", "url": "https://stocktwits.com/news-articles/markets/equity/intel-stock-rips-nearly-6-overnight-after-trump-confirms-apple-chip-manufacturing-deal/cZKjuEyR7ep", "date": "2026-06-18"}
+      ]
+    }
+  ]
+}
+```
+
+Note: DAL and RCL were dropped per exclusion rule E2 (already-extended leaders that broke out on Monday June 15 on the same Iran-deal news — 
+United Airlines was up more than 5%, Delta Air Lines rose 4%, Norwegian Cruise Line and Carnival jumped 4.5%, and Royal Caribbean was up 4%
+ on the initial Iran deal Monday, making them tomorrow's distribution candidates rather than fresh setups).

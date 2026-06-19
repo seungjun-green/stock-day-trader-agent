@@ -1,0 +1,205 @@
+# Morning Reasoning — 2026-06-12
+
+## Market Context
+
+I'll gather all the necessary data simultaneously for today's briefing. Let me search across multiple sources at once.
+Here is today's morning market briefing for 2026-06-12:
+
+---
+
+**[한국 증시 모닝 브리핑] 2026년 6월 12일 (금)**
+
+---
+
+**Yesterday recap:**
+
+- **KOSPI:** 
+7,764pt (+0.43%), 전일 대비 반등 마감.
+ 
+반도체 업황 낙관론이 회복을 이끌었으며, SK하이닉스(+2.64%), SK스퀘어(+3.80%), LG에너지솔루션(+1.04%), HD현대중공업(+1.56%)이 상승을 주도.
+
+- **KOSDAQ:** 
+966pt 부근 마감 (최근 참조치 기준).
+ 반도체·AI 중소형주 중심 변동성 지속.
+- **Key events:** 
+한국 6월 1~10일 수출이 전년 동기 대비 86% 급증하며 사상 최고치를 기록, 반도체 수출이 3배 이상 증가.
+ 
+미국 소비자물가(CPI)가 예상보다 낮게 나오며 연준 긴축 우려 완화.
+ 다만 
+미국의 이란 추가 공습으로 호르무즈 해협 물류 차질 우려가 상단을 제한.
+ 
+외국인·기관 합산 약 5조원 순매도 압력 지속, 방산주는 지정학 리스크 속 강세.
+
+
+---
+
+**Overnight US (6월 11일 종가):**
+
+- **Major indices:** 
+S&P 500 +1.8%, 나스닥 +2.5%, 다우존스 +930pt(+1.85%) 급등.
+ 
+트럼프 대통령이 이란 공습 취소를 발표하고 중동 동맹국들과 원칙적 합의가 이뤄졌다고 밝히며 유가 하락, 위험선호 심리 회복.
+
+- **Sector moves:** 
+S&P 500 내 기술·산업재·소재 섹터가 가장 큰 폭으로 상승, 에너지·필수소비재·부동산은 하락.
+ 
+마이크론 +11%, AMD +8%, 램리서치 +12.7%, 인텔 +10% 이상(BofA 업그레이드).
+ 
+반면 오라클은 클라우드 매출 미스로 약 9% 하락.
+ 
+VIX는 하루 만에 약 12% 급락.
+
+- **SpaceX IPO:** 
+SpaceX가 주당 135달러에 IPO 가격을 확정, 오늘(6/12) 나스닥 상장 예정. 약 750억 달러 조달로 미국 역사상 최대 IPO 기록 전망.
+
+
+---
+
+**Today's setup:**
+
+- **Regime:** Bounce / 단기 반등 국면. 미-이란 긴장 완화 + 반도체 랠리 재점화로 갭 상승 출발 예상.
+- **Expected gap direction:** 갭 상승 출발 유력. 나스닥 반도체 급등(+10~12%)이 삼성전자·SK하이닉스 직접 수혜로 연결.
+- **Active themes:** 반도체(HBM·메모리), 방산(지정학 완화 시 차익 주의), AI 인프라, 조선.
+- **Risks:** 
+USD/KRW 환율 1,527.92원(+0.30%)으로 원화 약세 지속.
+ 
+KOSPI는 6월 2일 고점 대비 6거래일 만에 13% 이상 급락한 상태.
+ 
+외국인은 연초 이후 수조 원 규모 순매도 기조를 유지 중
+이나, 
+KRX CEO는 외국인 포트폴리오 리밸런싱이 마무리 단계에 접어들고 있다고 언급.
+ SpaceX IPO 글로벌 자금 흡수 효과 경계 필요. 
+5월 PPI 헤드라인 +1.1%, 코어 +0.4%로 예상 상회, 연간 PPI +6.5%로 인플레 재점화 우려 잔존.
+
+- **오늘 주요 일정:** 
+미국 5월 CPI 발표(한국시간 오후 9시 30분).
+ 
+미시간대 6월 소비자심리지수 발표(예상 46.0, 전월 44.8).
+ SpaceX 나스닥 첫 거래일.
+
+---
+
+**Active themes to watch:**
+
+- **반도체 (삼성전자·SK하이닉스·SK스퀘어):** 
+마이크론·AMD·램리서치 등 미국 반도체 10~12% 급등
+이 국내 메모리 대형주 갭 상승 촉매. 
+반도체 수출 3배 급증 데이터도 펀더멘털 뒷받침.
+
+- **방산 (한화에어로스페이스·LIG넥스원·한국항공우주):** 
+미-이란 긴장 완화로 단기 차익 실현 압력 가능
+하나, 중동 불안 재점화 시 재차 강세 전환 가능. 지정학 헤지 수요 유지.
+- **AI 인프라·전력기기 (HD현대일렉트릭·LS일렉트릭):** 
+AI 데이터센터 전력 설비 수요 급증, 2028년까지 데이터센터 증설 사이클 지속 전망.
+
+- **조선 (HD현대중공업·삼성중공업):** 
+HD현대중공업 전일 +1.56% 상승
+, LNG 고부가 선종 수주 모멘텀 유효.
+
+---
+
+**Yesterday's notable movers (top 5):**
+
+- **000660 SK하이닉스, +2.64%:** 
+반도체 수출 급증 및 업황 낙관론 회복.
+
+- **035760 SK스퀘어, +3.80%:** SK하이닉스 지분가치 연동 상승.
+- **012450 한화에어로스페이스, 전일 대비 강세 유지:** 
+미-이란 긴장 고조 속 방산 지출 기대감 지속.
+
+- **009830 LG에너지솔루션, +1.04%:** 
+전기차·배터리 섹터 반등 동참.
+
+- **329180 HD현대중공업, +1.56%:** 
+조선 수주 모멘텀 및 AI 인프라 연계 수혜.
+
+
+---
+
+**총평:** 미-이란 긴장 완화와 미국 반도체 급등이 겹치며 오늘 KOSPI는 갭 상승 출발이 유력하다. 다만 오늘 밤 미국 CPI 발표와 SpaceX IPO 자금 흡수 효과, 지속되는 외국인 순매도 기조는 상단을 제한하는 변수다. 반도체·AI 인프라 중심 선별 대응이 유효하며, 방산주는 지정학 뉴스 흐름에 따른 변동성 확대에 유의할 것.
+
+
+## Track A — Large/Mega Cap — Top 5 Picks
+
+### 1. 000660 SK하이닉스
+- **Score:** 5/5
+- **Market:** KOSPI
+- **Estimated cap:** mega
+- **Primary signal:** theme_leader
+- **Signals present:** theme_leader, fresh_catalyst, premarket_strength, clean_narrative
+- **Reasoning:** 마이크론 +11%, 램리서치 +12.7% 미 반도체 급등의 직접 수혜 대장주. 반도체 수출 3배 급증 펀더멘털 + HBM 테마 리더십이 결합된 최상위 셋업.
+
+### 2. 005930 삼성전자
+- **Score:** 5/5
+- **Market:** KOSPI
+- **Estimated cap:** mega
+- **Primary signal:** theme_alignment
+- **Signals present:** theme_alignment, fresh_catalyst, premarket_strength
+- **Reasoning:** 나스닥 반도체 +10~12% 급등이 갭 상승 직접 촉매. 6월 1~10일 반도체 수출 3배 급증 데이터로 펀더멘털 뒷받침, 메가캡 안정성까지 보유.
+
+### 3. 267260 HD현대일렉트릭
+- **Score:** 4/5
+- **Market:** KOSPI
+- **Estimated cap:** large
+- **Primary signal:** theme_leader
+- **Signals present:** theme_leader, theme_alignment, clean_narrative
+- **Reasoning:** AI 인프라·전력기기 테마 대장주, 2028년까지 데이터센터 증설 사이클 명확한 narrative. 나스닥 산업재·기술 동반 강세로 우호적이나 직접 catalyst는 반도체 대비 약함.
+
+### 4. 373220 LG에너지솔루션
+- **Score:** 3/5
+- **Market:** KOSPI
+- **Estimated cap:** mega
+- **Primary signal:** momentum_continuation
+- **Signals present:** momentum_continuation, theme_alignment
+- **Reasoning:** 전일 +1.04% 마감 + 나스닥 위험선호 회복 동조 가능하나, 2차전지는 오늘 핵심 테마(반도체·AI인프라) 대비 후순위. 신호는 있으나 강도 약함.
+
+### 5. 042660 한화오션
+- **Score:** 3/5
+- **Market:** KOSPI
+- **Estimated cap:** large
+- **Primary signal:** theme_alignment
+- **Signals present:** theme_alignment, momentum_continuation
+- **Reasoning:** 조선 LNG 수주 모멘텀 유효하며 HD현대중공업 강세에 동조 가능. 다만 오늘은 반도체 쏠림 국면이라 테마 강도는 2순위.
+
+
+## Track B — Mid Cap — Top 5 Picks
+
+### 1. 042700 한미반도체
+- **Score:** 5/5
+- **Market:** KOSPI
+- **Estimated cap:** mid
+- **Primary signal:** momentum_continuation
+- **Signals present:** theme_leader, fresh_catalyst, momentum_continuation, clean_narrative
+- **Reasoning:** HBM TC본더 핵심 공급사로 SK하이닉스 강세 및 미국 메모리 랠리에 직접 동조. 반도체 수출 3배 급증 펀더멘털과 명확한 HBM 스토리로 다수 강력 신호.
+
+### 2. 240810 원익IPS
+- **Score:** 4/5
+- **Market:** KOSDAQ
+- **Estimated cap:** mid
+- **Primary signal:** theme_alignment
+- **Signals present:** theme_alignment, fresh_catalyst, premarket_strength
+- **Reasoning:** 램리서치 +12.7% 급등 직접 수혜, 국내 대표 반도체 장비 중형주로 갭상승 유력. 반도체 수출 3배 급증과 메모리 capex 회복 기대가 펀더멘털 뒷받침.
+
+### 3. 403870 HPSP
+- **Score:** 4/5
+- **Market:** KOSDAQ
+- **Estimated cap:** mid
+- **Primary signal:** theme_leader
+- **Signals present:** theme_leader, fresh_catalyst, clean_narrative
+- **Reasoning:** 고압 수소 어닐링 독점 기술 보유한 KOSDAQ 반도체 대표주. 미국 반도체 랠리 재점화와 수출 급증 데이터로 강한 테마 동조 예상.
+
+### 4. 089030 테크윙
+- **Score:** 4/5
+- **Market:** KOSDAQ
+- **Estimated cap:** mid
+- **Primary signal:** theme_leader
+- **Signals present:** theme_leader, fresh_catalyst, clean_narrative
+- **Reasoning:** HBM 후공정 큐브프로버 대표주로 HBM 수요 강세 + 메모리 랠리 재점화 환경에서 핵심 모멘텀 종목. 명확한 스토리 보유.
+
+### 5. 095340 ISC
+- **Score:** 4/5
+- **Market:** KOSDAQ
+- **Estimated cap:** mid
+- **Primary signal:** theme_alignment
+- **Signals present:** theme_alignment, fresh_catalyst, clean_narrative
+- **Reasoning:** 테스트 소켓 업체로 AI/HBM 테스트 수요 직접 수혜. 반도체 후공정 테마 강세 흐름과 부합하며 메모리 랠리 동조 가능.

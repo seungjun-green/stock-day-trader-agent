@@ -1,0 +1,259 @@
+{
+  "scored": [
+    {
+      "ticker": "000660",
+      "score": 4,
+      "signals_present": ["theme_leader", "fresh_catalyst", "momentum_continuation", "clean_narrative"],
+      "primary_signal": "theme_leader",
+      "sub_theme": "반도체-메모리",
+      "fresh_catalyst_date": "2026-06-17",
+      "prev_day_change_pct": 5.84,
+      "preopen_indication_pct": null,
+      "hard_exclusions_triggered": [],
+      "soft_penalties_applied": ["P4"],
+      "reasoning": "
+로이터가 SK하이닉스 SEC 승인이 6월 22일 주간에 나올 수 있고 NYSE보다 나스닥 상장을 선택할 가능성이 높다고 보도
+하여 ADR 상장 임박 모멘텀이 강화됐고, 
+이르면 7월 말 2분기 실적 발표 전후 ADR 상장 가능성
+이 dated catalyst로 작용. SOX 급락에도 5거래일 연속 상승하며 HBM 대장주 위상 견지.",
+      "sources": [
+        {"publisher": "이코노미트리뷴", "url": "https://www.economytribune.co.kr/news/articleView.html?idxno=3903097", "date": "2026-06-16"},
+        {"publisher": "인베스트조선", "url": "https://www.investchosun.com/site/data/html_dir/2026/06/16/2026061680131.html", "date": "2026-06-16"}
+      ]
+    },
+    {
+      "ticker": "005930",
+      "score": 2,
+      "signals_present": ["theme_alignment", "clean_narrative"],
+      "primary_signal": "theme_alignment",
+      "sub_theme": "반도체-메모리",
+      "fresh_catalyst_date": null,
+      "prev_day_change_pct": null,
+      "preopen_indication_pct": null,
+      "hard_exclusions_triggered": [],
+      "soft_penalties_applied": ["P4", "P5"],
+      "reasoning": "
+SK하이닉스 ADR Form F-1을 SEC에 비공개로 제출
+한 후속 모멘텀의 메모리 섹터 동조 노출. SOX 급락 야간 환경에서 SK하이닉스 sympathy 노출로 채점, 종목 고유 dated catalyst 없음.",
+      "sources": [
+        {"publisher": "헤럴드경제", "url": "https://biz.heraldcorp.com/article/10718518", "date": "2026-04-16"}
+      ]
+    },
+    {
+      "ticker": "042660",
+      "score": 4,
+      "signals_present": ["fresh_catalyst", "theme_leader", "policy_tailwind", "clean_narrative"],
+      "primary_signal": "fresh_catalyst",
+      "sub_theme": "조선-대형",
+      "fresh_catalyst_date": "2026-06-11",
+      "prev_day_change_pct": null,
+      "preopen_indication_pct": null,
+      "hard_exclusions_triggered": [],
+      "soft_penalties_applied": ["P4"],
+      "reasoning": "
+총사업비 7조8000억원 규모 KDDX 상세설계 및 선도함 건조 사업을 사실상 수주
+한 dated catalyst가 6월 11일 발표돼 drift 윈도우 내. 
+최종 우선협상대상자로 확정될 경우 차세대 구축함 사업의 주도권 확보
+로 함정 방산 대장 지위 강화.",
+      "sources": [
+        {"publisher": "스페셜경제", "url": "https://www.speconomy.com/news/articleView.html?idxno=414838", "date": "2026-06-11"},
+        {"publisher": "아주경제", "url": "https://www.ajunews.com/view/20260611194314257", "date": "2026-06-11"}
+      ]
+    },
+    {
+      "ticker": "329180",
+      "score": 3,
+      "signals_present": ["theme_leader", "theme_alignment", "clean_narrative"],
+      "primary_signal": "theme_leader",
+      "sub_theme": "조선-대형",
+      "fresh_catalyst_date": "2026-06-17",
+      "prev_day_change_pct": 3.01,
+      "preopen_indication_pct": null,
+      "hard_exclusions_triggered": [],
+      "soft_penalties_applied": ["P4"],
+      "reasoning": "호르무즈 재개통 기대와 조선 수주 모멘텀으로 전일 +3.01%. KDDX 패배에도 
+기술점수에서 크게 앞섰음에도 불구하고 선정되지 못한 데 대해 디브리핑을 신청해 평가결과 확인 계획
+으로 핵잠 등 후속 수주전 모멘텀 유효.",
+      "sources": [
+        {"publisher": "아주경제", "url": "https://www.ajunews.com/view/20260611194314257", "date": "2026-06-11"}
+      ]
+    },
+    {
+      "ticker": "034020",
+      "score": 3,
+      "signals_present": ["theme_leader", "policy_tailwind", "clean_narrative"],
+      "primary_signal": "theme_leader",
+      "sub_theme": "원전-EPC/대형",
+      "fresh_catalyst_date": null,
+      "prev_day_change_pct": null,
+      "preopen_indication_pct": null,
+      "hard_exclusions_triggered": [],
+      "soft_penalties_applied": ["P4"],
+      "reasoning": "AI 전력 수요 + 에너지 정책으로 원전 대장주 위상 유지. 글로벌 SMR 프로젝트 기자재 공급사로 정책 모멘텀 다중 결합.",
+      "sources": [
+        {"publisher": "핀포인트뉴스", "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=383154", "date": "2026-06-17"}
+      ]
+    },
+    {
+      "ticker": "051600",
+      "score": 2,
+      "signals_present": ["theme_alignment", "policy_tailwind", "clean_narrative"],
+      "primary_signal": "theme_alignment",
+      "sub_theme": "원전-EPC/대형",
+      "fresh_catalyst_date": null,
+      "prev_day_change_pct": null,
+      "preopen_indication_pct": null,
+      "hard_exclusions_triggered": [],
+      "soft_penalties_applied": ["P4", "P5"],
+      "reasoning": "체코 원전 팀코리아 참여사로 원전 유지보수 사이클 직접 수혜. 정책 tailwind 견조하나 종목 고유 dated catalyst 없음.",
+      "sources": [
+        {"publisher": "핀포인트뉴스", "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=383154", "date": "2026-06-17"}
+      ]
+    },
+    {
+      "ticker": "012450",
+      "score": 3,
+      "signals_present": ["theme_leader", "momentum_continuation", "clean_narrative"],
+      "primary_signal": "theme_leader",
+      "sub_theme": "방산-항공우주",
+      "fresh_catalyst_date": null,
+      "prev_day_change_pct": null,
+      "preopen_indication_pct": null,
+      "hard_exclusions_triggered": [],
+      "soft_penalties_applied": ["P4"],
+      "reasoning": "K-방산 빅4 합산 매출 40조원 돌파한 구조적 강세 구간. 7월 미 육군 ERCA K9 숏리스트 발표 예정으로 catalyst pipeline 보유, 폴란드 K9·K2 납품 본격화로 이익 성장 견조.",
+      "sources": [
+        {"publisher": "씽크풀", "url": "https://m.thinkpool.com/compDiscuss/cont/1025174", "date": "2026-04-07"}
+      ]
+    },
+    {
+      "ticker": "079550",
+      "score": 2,
+      "signals_present": ["theme_alignment", "momentum_continuation", "clean_narrative"],
+      "primary_signal": "theme_alignment",
+      "sub_theme": "방산-항공우주",
+      "fresh_catalyst_date": null,
+      "prev_day_change_pct": null,
+      "preopen_indication_pct": null,
+      "hard_exclusions_triggered": [],
+      "soft_penalties_applied": ["P4", "P5"],
+      "reasoning": "수주잔고 26조2300억원으로 전년 대비 30.8% 증가한 견조한 백로그 보유. 중동 천궁-II 파이프라인 지속, 단 fresh dated catalyst는 2월 보도로 stale.",
+      "sources": [
+        {"publisher": "네이트뉴스", "url": "https://news.nate.com/view/20260222n03846", "date": "2026-02-22"}
+      ]
+    },
+    {
+      "ticker": "064350",
+      "score": 2,
+      "signals_present": ["momentum_continuation", "theme_alignment", "clean_narrative"],
+      "primary_signal": "momentum_continuation",
+      "sub_theme": "방산-육상/지상",
+      "fresh_catalyst_date": null,
+      "prev_day_change_pct": null,
+      "preopen_indication_pct": null,
+      "hard_exclusions_triggered": [],
+      "soft_penalties_applied": ["P4"],
+      "reasoning": "수주잔고 99.4% 증가로 방산 디펜스솔루션 성장 견조. 폴란드 K2 전차 후속 + 유럽 재무장 구조 수요. dated catalyst는 stale하나 multi-week trend 유효.",
+      "sources": [
+        {"publisher": "네이트뉴스", "url": "https://news.nate.com/view/20260222n03846", "date": "2026-02-22"}
+      ]
+    },
+    {
+      "ticker": "105560",
+      "score": 3,
+      "signals_present": ["policy_tailwind", "theme_alignment", "clean_narrative"],
+      "primary_signal": "policy_tailwind",
+      "sub_theme": "금융-은행",
+      "fresh_catalyst_date": "2026-06-17",
+      "prev_day_change_pct": null,
+      "preopen_indication_pct": null,
+      "hard_exclusions_triggered": [],
+      "soft_penalties_applied": ["P4"],
+      "reasoning": "FOMC 점도표 매파 상향(2026말 3.8%)으로 금리 상승 환경 은행 NIM 수혜 논리. 미 금융 강세(JPM +3.72%) 직접 동조 + 가치주 로테이션 수혜 정렬.",
+      "sources": [
+        {"publisher": "KB금융 IR", "url": "https://ir.gsifn.io/kbfng/v5/ir_daily.html?koreng=1", "date": "2026-06-12"}
+      ]
+    },
+    {
+      "ticker": "055550",
+      "score": 3,
+      "signals_present": ["policy_tailwind", "theme_alignment", "clean_narrative"],
+      "primary_signal": "policy_tailwind",
+      "sub_theme": "금융-은행",
+      "fresh_catalyst_date": "2026-06-17",
+      "prev_day_change_pct": null,
+      "preopen_indication_pct": null,
+      "hard_exclusions_triggered": [],
+      "soft_penalties_applied": ["P4"],
+      "reasoning": "FOMC 매파 점도표 + 미 JPM/Visa 강세 동조로 가치주 로테이션 정렬. ADR 신한금융 보유로 글로벌 비교 노출도 확대.",
+      "sources": [
+        {"publisher": "신한금융그룹 IR", "url": "https://shinhangroup.com/kr/ir/stock/oversea/corporates", "date": "2026-06-17"}
+      ]
+    },
+    {
+      "ticker": "138040",
+      "score": 2,
+      "signals_present": ["theme_alignment", "clean_narrative"],
+      "primary_signal": "theme_alignment",
+      "sub_theme": "금융-은행",
+      "fresh_catalyst_date": null,
+      "prev_day_change_pct": null,
+      "preopen_indication_pct": null,
+      "hard_exclusions_triggered": [],
+      "soft_penalties_applied": ["P4", "P5"],
+      "reasoning": "FOMC 매파 환경 가치주 로테이션 정렬. 보험·증권 통합 비즈니스로 금리 상승기 운용수익 확대 및 주주환원 모멘텀 보유.",
+      "sources": [
+        {"publisher": "네이트뉴스", "url": "https://news.nate.com/view/20260222n03846", "date": "2026-02-22"}
+      ]
+    },
+    {
+      "ticker": "068270",
+      "score": 2,
+      "signals_present": ["theme_alignment", "clean_narrative"],
+      "primary_signal": "theme_alignment",
+      "sub_theme": "바이오-바이오시밀러",
+      "fresh_catalyst_date": null,
+      "prev_day_change_pct": null,
+      "preopen_indication_pct": null,
+      "hard_exclusions_triggered": [],
+      "soft_penalties_applied": ["P4", "P5"],
+      "reasoning": "반도체 차익실현 자금의 헬스케어 로테이션 후보로 cross-rotation pair 정렬. 주주환원·공급 안정성으로 multi-week 상승세 유효.",
+      "sources": [
+        {"publisher": "매일일보", "url": "http://www.m-i.kr/news/articleView.html?idxno=1368754", "date": "2026-04-29"}
+      ]
+    },
+    {
+      "ticker": "005380",
+      "score": 3,
+      "signals_present": ["theme_alignment", "policy_tailwind", "clean_narrative"],
+      "primary_signal": "theme_alignment",
+      "sub_theme": "자동차-완성차",
+      "fresh_catalyst_date": null,
+      "prev_day_change_pct": null,
+      "preopen_indication_pct": null,
+      "hard_exclusions_triggered": [],
+      "soft_penalties_applied": ["P4"],
+      "reasoning": "USD/KRW 1,510~1,529원 박스권 강달러 환경에서 수출 채산성 우호. 미 5월 소매판매 +0.9% 호조로 북미 수요 견조, 전체 수출량 전년 대비 28.3% 증가의 펀더멘털 지지.",
+      "sources": [
+        {"publisher": "파이낸셜뉴스", "url": "https://www.fnnews.com/news/202604250801310986", "date": "2026-04-25"}
+      ]
+    },
+    {
+      "ticker": "011200",
+      "score": 3,
+      "signals_present": ["fresh_catalyst", "theme_alignment", "clean_narrative"],
+      "primary_signal": "fresh_catalyst",
+      "sub_theme": "조선-대형",
+      "fresh_catalyst_date": "2026-05-20",
+      "prev_day_change_pct": null,
+      "preopen_indication_pct": null,
+      "hard_exclusions_triggered": [],
+      "soft_penalties_applied": ["P4"],
+      "reasoning": "호르무즈 재개통 + 60일 휴전 합의로 글로벌 물동량 회복 모멘텀 본격화. HMM 유니버셜 위너호 호르무즈 통과 catalyst가 cross-rotation 지정학 완화 페어에 정렬.",
+      "sources": [
+        {"publisher": "파이낸셜뉴스", "url": "https://www.fnnews.com/news/202605201523539739", "date": "2026-05-20"}
+      ]
+    }
+  ],
+  "composition_warning": "Track A 상위 5종 선정 시 D1(sub_theme 최대 2종) 적용 주의: '조선-대형' sub_theme(042660/329180/011200)이 3종이므로 최대 2종으로 제한 필요. 금융-은행(105560/055550) 또한 2종 cap에 근접. 또한 fresh_catalyst(≤2일) 보유 후보는 SK하이닉스(000660, 06-17 catalyst), 한화오션(042660, 06-11 — drift 윈도우 경계) 등 제한적으로, 직전 2거래일(06-16~06-17) 내 dated catalyst 보유 후보가 3개 미만일 수 있음 — operator는 추가 후보 발굴 고려 권장."
+}

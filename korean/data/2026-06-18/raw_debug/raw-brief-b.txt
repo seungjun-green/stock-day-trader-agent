@@ -1,0 +1,269 @@
+I have sufficient sources now. Let me compile the JSON output with mid-cap KOSDAQ focus.
+
+{
+  "candidates": [
+    {
+      "ticker": "240810",
+      "name": "원익IPS",
+      "market": "KOSDAQ",
+      "estimated_cap_tier": "mid",
+      "primary_signal": "momentum_continuation",
+      "sub_theme": "반도체-전공정 장비",
+      "fresh_catalyst_date": "2026-06-17",
+      "prev_day_change_pct": 8.84,
+      "preopen_indication_pct": null,
+      "reasoning": "전일 +8.84% 마감하며 KOSDAQ 반도체 장비 대장주로 부각. 
+삼성전자 평택 4공장 신규투자 및 SK하이닉스 M15X 신규투자 수혜로 반도체 부문 전년 대비 55% 성장한 1조1000억원 매출 전망
+이 모멘텀 지지.",
+      "sources": [
+        {"publisher": "인포스탁데일리", "url": "https://kr.investing.com/news/stock-market-news/article-1856982", "date": "2026-03-10"}
+      ]
+    },
+    {
+      "ticker": "403870",
+      "name": "HPSP",
+      "market": "KOSDAQ",
+      "estimated_cap_tier": "mid",
+      "primary_signal": "theme_leader",
+      "sub_theme": "반도체-전공정 장비",
+      "fresh_catalyst_date": "2026-06-15",
+      "prev_day_change_pct": null,
+      "preopen_indication_pct": null,
+      "reasoning": "
+6/15 종가 83,500원으로 전일 대비 16.78% 상승, 장중 최고 92,000원까지 상한가 92,900원에 근접
+한 강한 모멘텀. 
+TSMC, 삼성전자, 인텔, 라피더스의 2나노 공정 도입에 따른 HPA 장비 수요 확대와 300단 이상 고단 낸드 하이브리드 본딩 활용 가치 부각
+이 펀더멘털.",
+      "sources": [
+        {"publisher": "민심뉴스", "url": "https://sale.mimint.co.kr/bbs/view/news/S1N11/5431134", "date": "2026-06-15"}
+      ]
+    },
+    {
+      "ticker": "083650",
+      "name": "비에이치아이",
+      "market": "KOSDAQ",
+      "estimated_cap_tier": "mid",
+      "primary_signal": "policy_tailwind",
+      "sub_theme": "원전-SMR 보조기기",
+      "fresh_catalyst_date": "2026-05-26",
+      "prev_day_change_pct": null,
+      "preopen_indication_pct": null,
+      "reasoning": "
+iM증권은 비에이치아이의 미국 원전 BOP 수주 확대와 사상 최대 실적 달성을 전망
+. 
+미국발 SMR 양산 체제 돌입과 함께 글로벌 원전 파운드리 입지를 굳히는 중
+으로 원전/SMR 테마 핵심 종목.",
+      "sources": [
+        {"publisher": "뉴스핌", "url": "https://www.newspim.com/news/view/20260526000177", "date": "2026-05-26"}
+      ]
+    },
+    {
+      "ticker": "166090",
+      "name": "하나머티리얼즈",
+      "market": "KOSDAQ",
+      "estimated_cap_tier": "mid",
+      "primary_signal": "theme_alignment",
+      "sub_theme": "반도체-소재",
+      "fresh_catalyst_date": "2026-06-17",
+      "prev_day_change_pct": null,
+      "preopen_indication_pct": null,
+      "reasoning": "원익IPS, 주성엔지니어링 동반 강세 흐름 속 반도체 소재 핵심주로 동조 상승 흐름 기대. 
+삼성전자와 SK하이닉스가 국내 반도체 생산거점 확대 계획을 발표한 영향이 소부장 기업 강세로 이어지는 중
+.",
+      "sources": [
+        {"publisher": "서울경제", "url": "https://www.sedaily.com/article/20054565", "date": "2026-06-11"}
+      ]
+    },
+    {
+      "ticker": "036930",
+      "name": "주성엔지니어링",
+      "market": "KOSDAQ",
+      "estimated_cap_tier": "mid",
+      "primary_signal": "momentum_continuation",
+      "sub_theme": "반도체-전공정 장비",
+      "fresh_catalyst_date": "2026-06-17",
+      "prev_day_change_pct": 1.99,
+      "preopen_indication_pct": null,
+      "reasoning": "
+반도체 제조 핵심 공정인 증착 관련 장비를 만드는 기업으로, 차세대 ALG 장비를 글로벌 반도체 제조사에 공급
+. 전일 +1.99% 마감하며 반도체 장비 동반 강세 흐름 유지.",
+      "sources": [
+        {"publisher": "서울경제", "url": "https://www.sedaily.com/article/20054565", "date": "2026-06-11"}
+      ]
+    },
+    {
+      "ticker": "032820",
+      "name": "우리기술",
+      "market": "KOSDAQ",
+      "estimated_cap_tier": "mid",
+      "primary_signal": "theme_leader",
+      "sub_theme": "원전-제어계측",
+      "fresh_catalyst_date": "2026-06-17",
+      "prev_day_change_pct": null,
+      "preopen_indication_pct": null,
+      "reasoning": "원전/SMR 테마 KOSDAQ 핵심 종목으로 신한울 3·4호기 모멘텀 동조. 
+대신증권 허민호 수석연구위원은 2026년은 실제 프로젝트의 착공과 수주가 실적으로 연결되며 밸류에이션을 검증받는 해가 될 것이라며 미국 행정부의 원전 확대 로드맵과 SMR 상용화 참여 등 대형 원전과 차세대 원전 두 축이 동시에 성장
+한다고 분석.",
+      "sources": [
+        {"publisher": "씽크풀", "url": "https://m.thinkpool.com/compDiscuss/cont/1024980", "date": "2026-03-31"}
+      ]
+    },
+    {
+      "ticker": "094820",
+      "name": "일진파워",
+      "market": "KOSDAQ",
+      "estimated_cap_tier": "mid",
+      "primary_signal": "theme_alignment",
+      "sub_theme": "원전-기자재",
+      "fresh_catalyst_date": "2026-04-24",
+      "prev_day_change_pct": null,
+      "preopen_indication_pct": null,
+      "reasoning": "원전/SMR 정책 모멘텀 지속 흐름 속 원전 기자재 KOSDAQ 종목. 
+대형 원전, SMR, LNG 복합화력, 태양광·배터리 저장 시스템 등 총 11GW 규모 전력 인프라 구축 프로젝트 마타도르
+ 등 북미 원전 사업 확장 흐름의 동반 수혜 기대.",
+      "sources": [
+        {"publisher": "이데일리", "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=03201286645419400", "date": "2026-04-24"}
+      ]
+    },
+    {
+      "ticker": "079550",
+      "name": "LIG넥스원",
+      "market": "KOSPI",
+      "estimated_cap_tier": "large",
+      "primary_signal": "theme_alignment",
+      "sub_theme": "방산-유도무기",
+      "fresh_catalyst_date": "2026-03-27",
+      "prev_day_change_pct": null,
+      "preopen_indication_pct": null,
+      "reasoning": "
+2025년 연간 10조 3,000억원의 신규 수주를 기록하며 수주잔고가 26조 2,000억원으로 전년 대비 31% 급증
+. 방산 multi-week trend의 대표주로 천궁-II 수출 모멘텀 지속.",
+      "sources": [
+        {"publisher": "다음뉴스/조선비즈", "url": "https://v.daum.net/v/20260327060700114", "date": "2026-03-27"}
+      ]
+    },
+    {
+      "ticker": "011200",
+      "name": "HMM",
+      "market": "KOSPI",
+      "estimated_cap_tier": "large",
+      "primary_signal": "fresh_catalyst",
+      "sub_theme": "해운-컨테이너",
+      "fresh_catalyst_date": "2026-06-17",
+      "prev_day_change_pct": null,
+      "preopen_indication_pct": null,
+      "reasoning": "
+트럼프 대통령이 6월 17일 스위스 제네바에서 G7 정상회의를 마친 후 종전 MOU 발표
+, 호르무즈 60일 무상 개방 명시로 해운 물동량 회복 기대. 
+호르무즈 해협은 전 세계 해상 원유 약 25%, LNG 약 20%가 통과하는 핵심 에너지 수송로로 통항 정상화는 해상 운임과 공급망 비용 전반에 영향
+.",
+      "sources": [
+        {"publisher": "뉴스핌", "url": "https://www.newspim.com/news/view/20260618000024", "date": "2026-06-18"}
+      ]
+    },
+    {
+      "ticker": "329180",
+      "name": "HD현대중공업",
+      "market": "KOSPI",
+      "estimated_cap_tier": "large",
+      "primary_signal": "momentum_continuation",
+      "sub_theme": "조선-대형",
+      "fresh_catalyst_date": "2026-06-17",
+      "prev_day_change_pct": 3.01,
+      "preopen_indication_pct": null,
+      "reasoning": "전일 +3.01% 마감, 호르무즈 재개통 모멘텀 지지. 
+2026년 들어 5월 8일까지 공시한 공급 계약 규모는 10조7337억원으로 2025년 연간 매출의 2배 수준
+으로 수주 흐름 견조.",
+      "sources": [
+        {"publisher": "네이트뉴스", "url": "https://m.news.nate.com/view/20260517n13333", "date": "2026-05-17"}
+      ]
+    },
+    {
+      "ticker": "042660",
+      "name": "한화오션",
+      "market": "KOSPI",
+      "estimated_cap_tier": "large",
+      "primary_signal": "theme_alignment",
+      "sub_theme": "조선-방산함정",
+      "fresh_catalyst_date": "2026-06-17",
+      "prev_day_change_pct": null,
+      "preopen_indication_pct": null,
+      "reasoning": "호르무즈 재개통 종전 MOU 모멘텀에 조선 동조 흐름 기대. 
+트럼프 대통령의 6월 17일 G7 정상회의 후 종전 MOU 발표
+에 따른 조선 섹터 테마 정렬.",
+      "sources": [
+        {"publisher": "뉴스핌", "url": "https://www.newspim.com/news/view/20260618000024", "date": "2026-06-18"}
+      ]
+    },
+    {
+      "ticker": "196170",
+      "name": "알테오젠",
+      "market": "KOSDAQ",
+      "estimated_cap_tier": "large",
+      "primary_signal": "theme_leader",
+      "sub_theme": "바이오-플랫폼",
+      "fresh_catalyst_date": "2026-06-17",
+      "prev_day_change_pct": 5.67,
+      "preopen_indication_pct": null,
+      "reasoning": "
+6/17 알테오젠 5.67% 상승 마감
+, KOSDAQ 바이오 대장주로 SOX 역풍 속 로테이션 수혜. 
+독자 플랫폼 기술을 앞세운 바이오 사업 모델이 글로벌 시장에서 점차 검증되고 있다는 평가가 주가 상승 동력
+.",
+      "sources": [
+        {"publisher": "민심뉴스", "url": "https://sale.mimint.co.kr/bbs/view/news/S1N11/5431134", "date": "2026-06-17"}
+      ]
+    },
+    {
+      "ticker": "042700",
+      "name": "한미반도체",
+      "market": "KOSPI",
+      "estimated_cap_tier": "large",
+      "primary_signal": "theme_leader",
+      "sub_theme": "반도체-HBM 후공정",
+      "fresh_catalyst_date": "2026-05-07",
+      "prev_day_change_pct": null,
+      "preopen_indication_pct": null,
+      "reasoning": "
+HBM 적층 핵심 장비 TC본더 시장에서 글로벌 점유율 71%대 1위 기업으로, 삼성전자가 지난해 7~8월부터 HBM4 및 HBM4E용 TC본더 공급을 논의
+. SK하이닉스 5거래일 연속 상승 + HBM4 캐파 확대 사이클 동조 흐름.",
+      "sources": [
+        {"publisher": "동행일보", "url": "https://www.dhilbo.co.kr/news/articleView.html?idxno=922", "date": "2026-05-07"}
+      ]
+    },
+    {
+      "ticker": "012450",
+      "name": "한화에어로스페이스",
+      "market": "KOSPI",
+      "estimated_cap_tier": "large",
+      "primary_signal": "theme_alignment",
+      "sub_theme": "방산-항공우주",
+      "fresh_catalyst_date": "2026-03-27",
+      "prev_day_change_pct": null,
+      "preopen_indication_pct": null,
+      "reasoning": "방산 multi-week trend 핵심 종목으로 유럽·중동 재무장 수요 지속. 
+2001년 한국형 미사일방어체계 사업에서 발사대 담당으로 방산 핵심축
+이며 항공우주·발사체 사업 다각화.",
+      "sources": [
+        {"publisher": "다음뉴스", "url": "https://v.daum.net/v/20260327060700114", "date": "2026-03-27"}
+      ]
+    },
+    {
+      "ticker": "039030",
+      "name": "이오테크닉스",
+      "market": "KOSDAQ",
+      "estimated_cap_tier": "mid",
+      "primary_signal": "momentum_continuation",
+      "sub_theme": "반도체-레이저 장비",
+      "fresh_catalyst_date": "2026-06-17",
+      "prev_day_change_pct": 2.42,
+      "preopen_indication_pct": null,
+      "reasoning": "전일 +2.42% 동반 강세. 
+레이저 기반 반도체 공정 장비를 제조
+하는 KOSDAQ 반도체 장비 핵심 종목으로 SK하이닉스 HBM 사이클 수혜 라인업.",
+      "sources": [
+        {"publisher": "서울경제", "url": "https://www.sedaily.com/article/20054565", "date": "2026-06-11"}
+      ]
+    }
+  ]
+}

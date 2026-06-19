@@ -1,0 +1,124 @@
+Here is your morning market briefing for Wednesday, June 17, 2026:
+
+---
+
+**US MARKET BRIEFING — Wednesday, June 17, 2026**
+
+---
+
+**Yesterday recap:**
+
+
+- S&P 500: 7,511.35 (–0.57%)
+
+
+- Nasdaq: 26,376.34 (–1.15%)
+
+
+- Russell 2000: 2,939.19 (–0.87%)
+
+- Key events: 
+The Dow Jones (+0.74%) managed to ascend to a new record, while the Nasdaq (–0.81%), Russell 2000 (–0.63%), and S&P 500 (–0.40%) hit day lows as a downturn in tech stocks steepened into the afternoon.
+ 
+The 10-year Treasury yield held around 4.47% as investors shifted focus from the US-Iran peace deal to the Fed's upcoming policy meeting, with the central bank widely expected to keep rates unchanged at its first meeting under new Chair Kevin Warsh.
+
+- Notable after-hours: 
+MYSE (Myseum.AI) +21.7% on a joint AI development partnership with Scanon.ai; LZB (La-Z-Boy) +12.3% on a Q4 earnings beat and 11% retail sales growth; TPC –76.5% on massive volume; NMRA –12.7% following Phase 3 trial failures and a 35% workforce reduction.
+
+
+---
+
+**Pre-market / overnight:**
+
+
+- Futures: NQ +0.54%, RTY +0.30%
+; ES broadly flat to slightly positive per multiple sources.
+
+- VIX: 16.41 (+1.30% vs prior close)
+ — edging higher, still in a low-volatility regime.
+- Rates/FX/Commodities: 
+10Y yield at 4.43%
+, easing. 
+DXY ~99.54, 10Y TNX at 4.428% (–0.92%).
+ 
+WTI crude fell toward $75/bbl, sliding for the fifth straight session and reaching its lowest level since early March, as expectations of increased supply weighed on prices ahead of the US-Iran peace agreement signing.
+ 
+Gold traded above $4,300/oz, up more than 2% so far this week, as investors awaited the formal signing of the US-Iran peace agreement expected to restore oil flows through the Persian Gulf.
+
+- Asia/Europe overnight: 
+Nikkei 225 +0.72%, Hang Seng –0.74%, DAX –0.13%, FTSE 100 –0.04%, EURO STOXX 50 +0.37%
+ — mixed session with Europe flat and Asia diverging on China tech weakness vs. Japan strength.
+
+---
+
+**Today's setup:**
+
+- Regime: **Risk-off tilt / sideways** — tech rotation headwinds persist; Dow/value holding while Nasdaq/small-caps lag.
+- Expected gap direction at open: **Slight positive gap** — NQ futures +0.54%, but gains are modest and fragile ahead of the FOMC decision.
+- Active themes likely to move: Iran peace deal/oil unwind, FOMC rate decision & dot plot (Warsh's debut), AI/SpaceX capital flow digestion, biotech binary risk.
+- Risks: 
+Following recent improvements in employment data and signs of accelerating inflation, the Fed is expected to remove its easing bias from both the policy statement and the 2026 median dot, with updated projections likely to reflect higher inflation, lower unemployment, and no cuts in 2026.
+ 
+Fed Chair Kevin Warsh's June 16–17 FOMC debut is a key catalyst for SPY as futures shift toward pricing 2026 rate hikes rather than cuts.
+ 
+There is a possibility of a larger "June swoon" in store for tech stocks in the coming weeks.
+
+
+---
+
+**Active themes to watch:**
+
+- **FOMC / Warsh debut**: 
+Attention is turning to the two-day FOMC meeting concluding today, with policymakers widely expected to leave the federal funds rate unchanged at 3.50%–3.75%.
+ Dot plot hawkishness is the key risk. Watch TLT, financials (XLF), rate-sensitive small-caps (IWM).
+- **US-Iran peace deal / oil unwind**: 
+Crude prices have fallen nearly 40% from their conflict peak as geopolitical risk fades, easing inflation concerns and helping consumers.
+ 
+The two countries are scheduled to sign an interim deal in Switzerland on Friday.
+ Watch energy sector (XLE) for continued pressure; airlines (UAL, DAL) and consumer discretionary as beneficiaries.
+- **AI / SpaceX capital flows**: 
+US asset managers filed for the first ETFs targeting the "MANGOS" theme just days after SpaceX wrapped up its record $75 billion IPO.
+ 
+Contraction in Nasdaq breadth may be partly due to broad selling in tech to make room for the SpaceX IPO.
+ Watch NVDA, MRVL, and AI infrastructure names for stabilization.
+
+---
+
+**Yesterday's notable movers (top 5):**
+
+- MYSE (Myseum.AI, +21.7% AH) — 
+climbed on a Letter of Intent with Scanon.ai to integrate computer vision and privacy-first intelligence into its flagship Picture Party platform.
+
+- LZB (La-Z-Boy, +12.3% AH) — 
+Q4 earnings beat with 11% retail sales growth.
+
+- TPC (Tutor Perini, –76.5% AH) — 
+cratered on massive volume.
+
+- NMRA (Neumora Therapeutics, –12.7% AH) — 
+Phase 3 trial failures and a 35% workforce reduction.
+
+- 
+SpaceX (SPCE) — roared past Amazon's market valuation on Tuesday
+, continuing to dominate capital flow narratives across the tape.
+
+---
+
+**Today's earnings / scheduled catalysts:**
+
+- 
+Wednesday June 17 scheduled data: Business Inventories, EIA crude oil inventories report.
+
+- 
+This week's earnings include Progressive Corp (PGR), Accenture (ACN), Jabil (JBL), and Kroger (KR), among others.
+
+- **FOMC Decision (2:00 PM ET) + Press Conference (2:30 PM ET)**: The dominant event of the day. 
+The Federal Reserve, led by Chair Kevin Warsh, is set to announce its policy decision and release updated projections for rates, growth, and inflation.
+ Watch for the dot plot — any removal of the 2026 cut could spike yields and pressure growth/tech. A dovish surprise (Iran-driven inflation relief acknowledged) could ignite a relief rally.
+- 
+Triple Witching falls on Thursday, June 18 in 2026 (moved up due to Juneteenth on Friday)
+ — expect elevated options-related volatility and pinning activity to begin building today.
+
+---
+
+*Bottom line: All eyes on Warsh at 2 PM. The tape is fragile — tech sold off yesterday even as the Dow hit records, signaling rotation rather than broad risk appetite. A hawkish dot plot (no cuts, possible hike bias) could accelerate the Nasdaq selloff. A neutral-to-dovish tone acknowledging Iran-driven disinflation could spark a sharp relief bounce. Trade the reaction, not the anticipation.*

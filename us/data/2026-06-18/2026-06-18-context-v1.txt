@@ -1,0 +1,130 @@
+I'll gather all the necessary market data simultaneously. Let me run multiple searches right now.
+Here is your morning market briefing for Thursday, June 18, 2026:
+
+---
+
+**US MARKET BRIEFING — Thursday, June 18, 2026**
+
+---
+
+**Yesterday recap:**
+- 
+S&P 500: 7,420.10 (-1.21%)
+
+- 
+Nasdaq: 26,021.66 (-1.34%)
+
+- 
+Russell 2000: 2,917.98 (-0.72%)
+
+- Key events: 
+Declines were owed to commentary after the FOMC meeting, which revealed an increasing bias among Fed members to raise rates later this year. New Fed Chair Kevin Warsh did little to settle those projections, even though he said none of the Fed participants felt the need to raise rates today.
+ 
+Policymakers' dot plot revealed that nine out of 18 Fed officials now see interest rates increasing in 2026. Complicating the forecast was Warsh's decision to abstain from submitting a rate forecast.
+ 
+The 10Y Treasury yield jumped 6.9 bps to 4.497%.
+
+- Notable after-hours: 
+S&P 500 futures +0.63%, Nasdaq 100 futures +1.03%, Russell 2000 futures +0.88% in after-hours trade.
+ 
+INTC (Intel) +3.46% in pre-market; ACN (Accenture) -9.51% after reporting earnings.
+
+
+---
+
+**Pre-market / overnight:**
+- Futures: 
+Stock futures were higher and oil prices were sliding Thursday as investors reacted to the Federal Reserve's latest interest-rate decision and developments in the U.S.-Iran conflict.
+ ES ~+0.6%, NQ ~+1.0%, RTY ~+0.9% (per after-hours index moves).
+- VIX: 
+VIX closed at 18.44, up +12.37% on the session.
+ Pre-market VIX is pulling back; 
+S&P 500 VIX indicated near 16.11 in early Thursday trade, -0.56%.
+
+- Rates/FX/Commodities: 
+As of market close June 17, the yield curve is upward-sloping. The 2-Year Treasury yield is 4.20%, and the 10-Year Treasury yield is 4.49%.
+ 
+DXY near 100.09–100.81 range (near 2-month high).
+ 
+WTI crude fell to $74.56/bbl on June 18, down ~2.91% from the prior day.
+ 
+Gold held below $4,300/oz on Thursday, recovering losses from the prior session after Trump signed an interim agreement to end the conflict with Iran and reopen the Strait of Hormuz.
+
+- Asia/Europe overnight: 
+Japan's Nikkei 225 rose 1.65% to close at a record 71,053.49.
+ 
+South Korea's KOSPI jumped to a fresh record, rising 2.3%; Hong Kong's Hang Seng fell 1.6%, while mainland China's CSI 300 added 0.21%.
+ 
+European markets opened in mixed territory; the FTSE 100 was 0.65% lower, the French CAC 40 was up 0.03%, and Germany's DAX rose 0.27%.
+ 
+Interest rate decisions from the Bank of England and the Swiss National Bank are due later.
+
+
+---
+
+**Today's setup:**
+- Regime: **Bounce / risk-on recovery** — markets attempting to digest the hawkish Fed shock and pivot toward the Iran deal tailwind.
+- Expected gap direction at open: **Gap up** — 
+futures linked to the main indices on Wall Street edged up after stocks sank in the wake of the first Federal Reserve rate decision under Warsh; oil prices fell 2% on Thursday to their lowest since the start of the conflict.
+
+- Active themes likely to move: AI/semis recovery bid, energy/oil supply normalization, rate-sensitive small caps (RTY outperforming), dollar strength headwind for multinationals.
+- Risks / unbroken patterns: 
+The S&P 500 shed 1.21% on Wednesday — the worst performance for the index on the first "Fed day" under a new chair since 1994.
+ Yields remain elevated at 4.49% on the 10Y. 
+The 2-year yield rocketed higher as many Fed officials signaled a possible hike this year.
+ Watch for any further Warsh commentary or Fed speaker headlines. Note: 
+US markets are closed Thursday June 19 for the Juneteenth holiday
+ — today is the last full trading day of the week.
+
+---
+
+**Active themes to watch:**
+- **Fed hawkishness / rate hike risk:** 
+Half of the FOMC projected it may be necessary to raise interest rates this year, consistent with expectations that core inflation will be higher than expected due to the impact of the war in the Middle East.
+ Rate-sensitive sectors (real estate, utilities, small caps) remain in focus. Watch TLT, IWM, XRE.
+- **US-Iran deal / oil normalization:** 
+President Trump signed the U.S.-Iran agreement at the Palace of Versailles in France. "It's signed," Trump told reporters. The document was also signed by Iranian President Masoud Pezeshkian.
+ 
+Crude prices have fallen nearly 40% from their conflict peak as geopolitical risk fades, easing inflation concerns and helping consumers.
+ Watch XLE, refiners, airlines (UAL, DAL), and consumer discretionary.
+- **AI / Semis rebound:** 
+Weakness in Magnificent Seven technology stocks and a slump in software stocks weighed on the overall market Wednesday; stocks initially moved higher on strength in chipmakers.
+ 
+SK Hynix advanced 3.45% to a fresh high in Seoul overnight.
+ Watch NVDA, AMD, INTC (pre-market +3.46%), AMAT, MRVL.
+
+---
+
+**Yesterday's notable movers (top 5):**
+- 
+All 11 GICS sectors ended lower Wednesday. Communication services led losses at -2.98%, followed by consumer discretionary (-2.69%) and real estate (-2.47%).
+
+- INTC (Intel) — 
++3.46% pre-market Thursday
+, recovering after chip sector weakness.
+- ACN (Accenture) — 
+-9.51% after reporting earnings
+, a significant miss/guidance cut.
+- 
+VIX surged 12% on the day
+, reflecting the sharp risk-off repricing post-FOMC.
+- 
+Gold tumbled nearly 2% on Wednesday after the Fed signaled increasing support for interest rate hikes this year.
+
+
+---
+
+**Today's earnings / scheduled catalysts:**
+- Pre-market: 
+Accenture (ACN) and Kroger (KR) are reporting today.
+ ACN already gapping down sharply (-9.51%) — watch for read-through to IT services peers (CTSH, INFY). KR — watch for consumer spending signals amid inflation backdrop.
+- After-close: No major S&P 500 names expected tonight per available calendars. 
+US markets are closed Friday June 19 for Juneteenth
+ — position sizing and hedging into the long weekend will be a factor all session.
+- Macro: 
+Bank of England and Swiss National Bank rate decisions are due today
+ — potential FX volatility in GBP and CHF pairs with knock-on effects for US multinationals.
+
+---
+
+*Note: Pre-market futures levels are approximate based on after-hours index moves. Confirm live quotes at open. All data sourced from real-time and near-real-time feeds as of early June 18, 2026 ET.*

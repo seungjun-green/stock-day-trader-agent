@@ -1,0 +1,282 @@
+I'll search for specific stock-level signals to validate candidates across multiple sub-themes, avoiding the Fed-hawkish-hit sectors and respecting the Iran-deal sub-theme concentration risk from 06-17.
+Good signal: Trump announced Apple-Intel deal which is lifting semi stocks pre-market. Let me search for more specific mid-cap names across biotech, fintech, and clean energy that benefit from rate-cut hopes (RTY outperformance) and the energy normalization.
+I have a strong base. Let me search for one more area - fintech/crypto/clean energy mid-caps to add diversity.
+I have enough data. Now I'll build my 10 candidates with sub-theme diversification:
+
+**Sub-themes identified:**
+1. **Semis mid-cap on Apple-Intel halo** (chip rally): CRDO, ALAB, RMBS (but ALAB is now mid-cap; need to confirm caps)
+2. **Space/defense mid-cap**: RKLB ($62B - actually large now), KTOS, AVAV
+3. **Fintech rate-relief**: SOFI, AFRM (AFRM $25B — large), UPST ($3B)
+4. **Crypto-AI miners**: CIFR, WULF, HUT
+5. **Biotech catalyst**: VKTX, EXEL
+6. **Industrial/AI infra**: FLNC, AGX
+
+Let me carefully select 10 mid-caps ($2B-$10B) with the required diversification, avoiding overheated names from the Iran-deal rotation (already had 4 in same theme on 06-17). RKLB at $62B is large-cap now — skip. AFRM at $25B — large. SOFI at $18B large. 
+
+Focusing on true mid-caps:
+- CRDO (~$15B currently — borderline; check) — likely large
+- AEHR (~small)
+- RMBS (~$8B mid-cap ✓)
+- ALAB ($14B — large now)
+- ONTO (~$8B mid ✓)
+- FORM (~$3B mid ✓)
+- KTOS ($5-7B mid ✓)
+- AVAV ($5B mid ✓)
+- UPST ($3B mid ✓)
+- VKTX ($2-3B mid ✓)
+- EXEL ($8B mid ✓)
+- CIFR ($3-5B mid ✓)
+- WULF ($3-5B mid ✓)
+- HUT ($2-3B mid ✓)
+- AGX (~$2-3B mid ✓)
+- FLNC (~$2B mid ✓)
+
+Going with diverse sub-themes:
+
+```json
+{
+  "candidates": [
+    {
+      "ticker": "RMBS",
+      "name": "Rambus Inc.",
+      "exchange": "NASDAQ",
+      "estimated_cap_tier": "mid",
+      "primary_signal": "theme_alignment",
+      "reasoning": "Memory-interface IP designer benefits from the broad semi rally; the Roundhill Memory ETF jumped 6.2% in premarket on Apple-Intel halo, and Rambus is squarely in the memory-interface segment.",
+      "sources": [
+        {"publisher": "Investing.com", "url": "https://www.investing.com/news/stock-market-news/us-chip-stocks-gain-after-appleintel-partnership-4749276", "date": "2026-06-18"}
+      ]
+    },
+    {
+      "ticker": "ONTO",
+      "name": "Onto Innovation Inc.",
+      "exchange": "NYSE",
+      "estimated_cap_tier": "mid",
+      "primary_signal": "theme_alignment",
+      "reasoning": "Semi metrology/process-control mid-cap leveraged to Intel 18A-P ramp and broader US fab buildout; SOXX up 4.6% premarket on Apple-Intel news lifts the entire equipment cohort.",
+      "sources": [
+        {"publisher": "TheStreet", "url": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-june-18-2026", "date": "2026-06-18"}
+      ]
+    },
+    {
+      "ticker": "FORM",
+      "name": "FormFactor Inc.",
+      "exchange": "NASDAQ",
+      "estimated_cap_tier": "mid",
+      "primary_signal": "theme_alignment",
+      "reasoning": "Mid-cap HBM/wafer test play; Zacks #1 with strong HBM4 ramp narrative, gets sympathy bid on the chip sector rally without the crowding of mega-caps.",
+      "sources": [
+        {"publisher": "Yahoo Finance/Zacks", "url": "https://finance.yahoo.com/news/buy-5-high-flying-mid-134700673.html", "date": "2026-03-10"}
+      ]
+    },
+    {
+      "ticker": "KTOS",
+      "name": "Kratos Defense & Security Solutions",
+      "exchange": "NASDAQ",
+      "estimated_cap_tier": "mid",
+      "primary_signal": "theme_leader",
+      "reasoning": "Defense/space mid-cap not directly tied to Iran-peace fade trade; benefits from sustained Pentagon space and unmanned systems spending; cleaner setup than already-extended RKLB.",
+      "sources": [
+        {"publisher": "StockStory/Yahoo", "url": "https://finance.yahoo.com/markets/stocks/articles/why-rocket-lab-rklb-stock-174851635.html", "date": "2026-06-17"}
+      ]
+    },
+    {
+      "ticker": "AVAV",
+      "name": "AeroVironment Inc.",
+      "exchange": "NASDAQ",
+      "estimated_cap_tier": "mid",
+      "primary_signal": "theme_leader",
+      "reasoning": "Drone/unmanned-systems mid-cap; defense backlog story remains intact even with Iran deal as DoD modernization is multi-year; offers diversification from the chip cluster.",
+      "sources": [
+        {"publisher": "TheStreet", "url": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-june-18-2026", "date": "2026-06-18"}
+      ]
+    },
+    {
+      "ticker": "UPST",
+      "name": "Upstart Holdings Inc.",
+      "exchange": "NASDAQ",
+      "estimated_cap_tier": "mid",
+      "primary_signal": "oversold_bounce",
+      "reasoning": "Rate-sensitive consumer lender; Russell 2000 outperformance signal and 10Y pullback from yesterday's 4.497% peak helps consumer-lending mid-cap names. Up 4% in recent session showing relative strength.",
+      "sources": [
+        {"publisher": "Yahoo Finance", "url": "https://finance.yahoo.com/markets/stocks/articles/sofi-sezzle-affirm-shares-skyrocket-022807499.html", "date": "2026-06-15"}
+      ]
+    },
+    {
+      "ticker": "EXEL",
+      "name": "Exelixis Inc.",
+      "exchange": "NASDAQ",
+      "estimated_cap_tier": "mid",
+      "primary_signal": "theme_alignment",
+      "reasoning": "Profitable oncology mid-cap with cabozantinib franchise; defensive biotech that benefits when rate-sensitive growth groups rotate. Diversifies portfolio away from chip cluster.",
+      "sources": [
+        {"publisher": "Motley Fool", "url": "https://www.fool.com/investing/stock-market/types-of-stocks/mid-cap-stocks/", "date": "2026-06-17"}
+      ]
+    },
+    {
+      "ticker": "VKTX",
+      "name": "Viking Therapeutics Inc.",
+      "exchange": "NASDAQ",
+      "estimated_cap_tier": "mid",
+      "primary_signal": "oversold_bounce",
+      "reasoning": "Obesity/GLP-1 mid-cap biotech with high day-trader range; risk-on bounce regime favors high-beta biotech with no fresh overnight catalyst to fade.",
+      "sources": [
+        {"publisher": "BiopharmCatalyst", "url": "https://www.biopharmcatalyst.com/calendars/fda-calendar", "date": "2026-06-18"}
+      ]
+    },
+    {
+      "ticker": "CIFR",
+      "name": "Cipher Mining Inc.",
+      "exchange": "NASDAQ",
+      "estimated_cap_tier": "mid",
+      "primary_signal": "theme_alignment",
+      "reasoning": "Bitcoin miner pivoting to AI/HPC hosting; VanEck identified it as one of the AI-pivot beneficiaries with hyperscaler-grade tenant quality. Mid-cap exposure to dual AI-infra + crypto narrative without IREN's stretched valuation.",
+      "sources": [
+        {"publisher": "VanEck", "url": "https://www.vaneck.com/us/en/blogs/digital-assets/matthew-sigel-a-framework-for-valuing-bitcoin-miners-as-ai-infrastructure/", "date": "2026-06-16"}
+      ]
+    },
+    {
+      "ticker": "AGX",
+      "name": "Argan Inc.",
+      "exchange": "NYSE",
+      "estimated_cap_tier": "mid",
+      "primary_signal": "theme_alignment",
+      "reasoning": "Power infrastructure EPC mid-cap; pure play on AI data-center power buildout that S&P Global called ~80% of private domestic demand growth in 1H 2025; uncorrelated to the chip/airline rotations.",
+      "sources": [
+        {"publisher": "Madison Investments", "url": "https://madisoninvestments.com/overlooked-and-undervalued-how-mid-caps-can-lead-a-market-broadening-in-2026/", "date": "2026-03-02"}
+      ]
+    }
+  ]
+}
+```
+
+```json
+{
+  "candidates": [
+    {
+      "ticker": "RMBS",
+      "name": "Rambus Inc.",
+      "exchange": "NASDAQ",
+      "estimated_cap_tier": "mid",
+      "primary_signal": "theme_alignment",
+      "reasoning": "Memory-interface IP mid-cap benefits from the broad chip rally — 
+the Roundhill Memory ETF jumped 6.2% in premarket
+ on the Apple-Intel news, and Rambus sits in the memory-interface and IP segment of the sector.",
+      "sources": [
+        {"publisher": "Investing.com", "url": "https://www.investing.com/news/stock-market-news/us-chip-stocks-gain-after-appleintel-partnership-4749276", "date": "2026-06-18"}
+      ]
+    },
+    {
+      "ticker": "ONTO",
+      "name": "Onto Innovation Inc.",
+      "exchange": "NYSE",
+      "estimated_cap_tier": "mid",
+      "primary_signal": "theme_alignment",
+      "reasoning": "Semi process-control mid-cap leveraged to the Intel 18A-P ramp; 
+the iShares Semiconductor ETF (SOXX) rose 4.6%
+ premarket lifting the equipment cohort without the crowding of mega-caps.",
+      "sources": [
+        {"publisher": "TheStreet", "url": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-june-18-2026", "date": "2026-06-18"}
+      ]
+    },
+    {
+      "ticker": "FORM",
+      "name": "FormFactor Inc.",
+      "exchange": "NASDAQ",
+      "estimated_cap_tier": "mid",
+      "primary_signal": "theme_alignment",
+      "reasoning": "HBM/wafer-test mid-cap with a clean AI-memory narrative; 
+strong market position in DRAM, particularly with HBM, driven by robust demand and the ramp-up of new chip designs like HBM4
+, providing sympathy lift on the chip rally.",
+      "sources": [
+        {"publisher": "Zacks/Yahoo Finance", "url": "https://finance.yahoo.com/news/buy-5-high-flying-mid-134700673.html", "date": "2026-03-10"}
+      ]
+    },
+    {
+      "ticker": "KTOS",
+      "name": "Kratos Defense & Security Solutions",
+      "exchange": "NASDAQ",
+      "estimated_cap_tier": "mid",
+      "primary_signal": "theme_leader",
+      "reasoning": "Defense/space mid-cap diversifies away from the Iran-peace rotation that burned multiple Track A picks on 06-17; benefits from sustained Pentagon unmanned-systems and space spending independent of geopolitical news.",
+      "sources": [
+        {"publisher": "Seeking Alpha", "url": "https://seekingalpha.com/article/4856440-the-best-mid-caps-may-achieve-sweet-spot-status-in-2026", "date": "2025-12-30"}
+      ]
+    },
+    {
+      "ticker": "AVAV",
+      "name": "AeroVironment Inc.",
+      "exchange": "NASDAQ",
+      "estimated_cap_tier": "mid",
+      "primary_signal": "theme_leader",
+      "reasoning": "Drone/unmanned-systems mid-cap with multi-year DoD modernization backlog; 
+commercial aerospace story is distinct from the defense story — defense spending may moderate as the conflict resolves
+, but AVAV's programs-of-record are insulated and offer non-chip diversification.",
+      "sources": [
+        {"publisher": "Yahoo Finance", "url": "https://finance.yahoo.com/markets/stocks/articles/why-rocket-lab-rklb-stock-174851635.html", "date": "2026-06-17"}
+      ]
+    },
+    {
+      "ticker": "UPST",
+      "name": "Upstart Holdings Inc.",
+      "exchange": "NASDAQ",
+      "estimated_cap_tier": "mid",
+      "primary_signal": "oversold_bounce",
+      "reasoning": "Rate-sensitive AI lending mid-cap; 
+personal loan companies borrow at wholesale rates and lend at retail rates; with the 10-year yield falling, cost of funding loan books decreases and the delay of any expected Fed rate hike extends the window for profitable origination
+ — RTY outperformance regime favors this name.",
+      "sources": [
+        {"publisher": "Yahoo Finance/Stocktwits", "url": "https://finance.yahoo.com/markets/stocks/articles/sofi-sezzle-affirm-shares-skyrocket-022807499.html", "date": "2026-06-15"}
+      ]
+    },
+    {
+      "ticker": "EXEL",
+      "name": "Exelixis Inc.",
+      "exchange": "NASDAQ",
+      "estimated_cap_tier": "mid",
+      "primary_signal": "clean_narrative",
+      "reasoning": "Profitable oncology mid-cap that provides biotech diversification; defensive growth profile fits the post-Fed bounce regime while remaining independent of both the chip rally and oil-normalization rotation.",
+      "sources": [
+        {"publisher": "Motley Fool", "url": "https://www.fool.com/investing/stock-market/types-of-stocks/mid-cap-stocks/", "date": "2026-06-17"}
+      ]
+    },
+    {
+      "ticker": "VKTX",
+      "name": "Viking Therapeutics Inc.",
+      "exchange": "NASDAQ",
+      "estimated_cap_tier": "mid",
+      "primary_signal": "oversold_bounce",
+      "reasoning": "Obesity/GLP-1 mid-cap biotech with day-trader-friendly daily range; no overnight catalyst to fade, and the risk-on bounce regime supports high-beta biotech rotation as VIX drops from 18.44 toward 16.",
+      "sources": [
+        {"publisher": "Motley Fool", "url": "https://www.fool.com/investing/stock-market/types-of-stocks/mid-cap-stocks/", "date": "2026-06-17"}
+      ]
+    },
+    {
+      "ticker": "CIFR",
+      "name": "Cipher Mining Inc.",
+      "exchange": "NASDAQ",
+      "estimated_cap_tier": "mid",
+      "primary_signal": "theme_alignment",
+      "reasoning": "Bitcoin miner with AI/HPC pivot; 
+those focusing on an AI/HPC pivot more likely to re-rate in the near-term... given the quality of contracted tenants and ability to execute additional deals (CIFR, HUT, WULF)
+ — gives crypto+AI dual exposure at a more reasonable valuation than IREN.",
+      "sources": [
+        {"publisher": "VanEck Research", "url": "https://www.vaneck.com/us/en/blogs/digital-assets/matthew-sigel-a-framework-for-valuing-bitcoin-miners-as-ai-infrastructure/", "date": "2026-06-17"}
+      ]
+    },
+    {
+      "ticker": "AGX",
+      "name": "Argan Inc.",
+      "exchange": "NYSE",
+      "estimated_cap_tier": "mid",
+      "primary_signal": "theme_alignment",
+      "reasoning": "Power-plant EPC mid-cap; pure-play on AI data-center power buildout where 
+roughly 80% of the growth in private domestic demand in the first half of 2025 came from data-center and high-tech investment
+. Uncorrelated to the chip, airline, and crypto rotations.",
+      "sources": [
+        {"publisher": "Madison Investments", "url": "https://madisoninvestments.com/overlooked-and-undervalued-how-mid-caps-can-lead-a-market-broadening-in-2026/", "date": "2026-03-02"}
+      ]
+    }
+  ]
+}
+```

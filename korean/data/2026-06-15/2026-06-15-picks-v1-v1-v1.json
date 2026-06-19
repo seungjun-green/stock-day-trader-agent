@@ -1,0 +1,1021 @@
+{
+  "date": "2026-06-15",
+  "combo_id": "v1-v1-v1",
+  "variants": {
+    "context": "v1",
+    "brief": "v1",
+    "research": "v1"
+  },
+  "models": {
+    "context": "claude-sonnet-4-6",
+    "brief": "claude-opus-4-7",
+    "research": "claude-opus-4-7"
+  },
+  "context": "I'll gather all the necessary data simultaneously for today's briefing. Let me search across multiple sources at once.\nNow let me get the most recent KOSPI/KOSDAQ close data and any notable movers from June 13.\n아래는 수집된 데이터를 종합한 2026년 6월 15일(월) 모닝 마켓 브리핑입니다.\n\n---\n\n**[모닝 마켓 브리핑 | 2026-06-15 (월)]**\n\n---\n\n**Yesterday recap (6월 13일, 금 — 네마녀의 날):**\n\n- **KOSPI:** \n8,123.62 마감\n. \n코스피 지수가 '네마녀의 날'(선물·옵션 동시 만기일)을 맞아 변동성이 확대된 가운데\n, 이란 종전 기대감 지속 및 미국 증시 반등 흐름을 이어받아 강보합권 마감 추정.\n- **KOSDAQ:** \n1,029.05 마감\n. 반도체·AI 테마 차별화 장세 속 상대적 약세 지속.\n- **Key events:** \n사이드카와 서킷브레이커가 연이어지는 등 변동성 장세가 이어졌으며\n, \n코스피는 이란 전쟁 종전 기대감에 힘입어 8000선을 회복한 흐름\n을 유지. \n원화는 달러당 1,516원 부근에서 거래되었으며, 한국은행과 금융감독원이 14년 만에 주요 외환은행에 대한 공동 검사를 실시\n하는 등 당국의 환율 안정 의지가 강하게 표출됨.\n- **Foreign net flow:** 외국인 수급 데이터 미확정. 다만 \n씨티(Citi)는 한국 증시의 급격한 상승세에 대해 가계 차입 증가 및 주택 가격 상승 등 리스크를 경고\n하고 있으며, MSCI 시장 분류 검토 이슈도 수급 변수로 잠재.\n\n---\n\n**Overnight US (6월 12일, 금 마감 기준):**\n\n- **Major indices:** \n다우존스 +354pt(+0.70%) 51,202 마감, S&P 500 +0.50%, 나스닥 +0.31%.\n\n- **Sector moves:** \n스페이스X의 나스닥 상장 첫날 강세(IPO가 135달러, 종가 161.11달러, +19%)가 시장 심리를 끌어올렸으며\n, \n트럼프 대통령이 이란에 대한 공습 계획을 취소하고 평화 협상이 임박했다고 시사하면서 증시 상승을 견인.\n \n골드만삭스(+2.57%), 버라이즌(+2.49%), JP모건(+2.25%)이 상승을 주도했고, 나이키(-2.24%), 애플(-1.52%)은 하락.\n\n- **반도체:** \nSMH(반도체 ETF)는 6월 초 단 하루 만에 10% 폭락하는 등 극심한 변동성을 보였으나\n, 이후 부분 회복 중. VIX는 \n17.68로 -9.05% 급락\n하며 공포 심리 완화.\n\n---\n\n**Today's setup (6월 15일):**\n\n- **Regime:** Bounce / Continuation — 이란 리스크 완화 + 미국 증시 안정 + 환율 하향 안정화 삼박자.\n- **Expected gap direction:** 소폭 갭업 출발 예상. 다만 네마녀 이후 수급 공백 및 외국인 포지션 재조정 가능성 유의.\n- **Active themes:** 반도체(HBM 슈퍼사이클), 방산·조선(이란 종전 기대 수혜), AI 인프라·전력기기.\n- **Risks:** \n6월 16~17일 FOMC 2일 회의가 예정되어 있으며 17일 금리 결정 및 SEP(경제전망 요약) 발표\n가 예정 — 오늘 장 후반부터 관망 심리 유입 가능. \nUSD/KRW는 6월 12일 기준 1,518.27원으로 전월 대비 원화 약세(+1.90%) 흐름이 지속\n되고 있어 외국인 수익률 압박 잠재.\n\n---\n\n**Active themes to watch:**\n\n- **반도체 (삼성전자·SK하이닉스):** \nAI 데이터센터 수요 폭증으로 HBM 공급 부족이 심화되며 삼성전자·SK하이닉스 주가는 2025년 6월 이후 각각 436%/1000% 상승을 기록.\n 미국 반도체 ETF 변동성 진정 여부가 단기 방향성 결정.\n- **방산·조선 (한화에어로스페이스·현대로템·한화오션):** \n한미 통상 협상, 동유럽 수출 기대감 등이 방산·조선 업종 상승을 이끌고 있으며, 한화에어로스페이스·현대로템·한화오션 등이 주목받고 있다.\n 이란 종전 협상 타결 시 단기 차익 실현 주의.\n- **AI 인프라·전력기기·원전:** \n정부가 엔비디아 차세대 AI 칩 GPU 1.5만 장을 확보하며 AI 생태계 강화에 나섰고, AI 데이터센터 가동에 필수적인 초고압 변압기와 전력 설비 종목들이 제2의 전성기를 맞고 있다.\n\n- **로봇·우주항공:** \n증시 전문가들은 로봇·AI 인프라·우주항공이 지수 상단을 뚫어줄 핵심 엔진이 될 것이라 평가하며, 2026년은 우주항공청(KASA) 주도의 민간 우주 개발이 본격화되는 원년\n으로 꼽힘.\n\n---\n\n**Yesterday's notable movers (추정, 6월 13일 기준):**\n\n1. **삼성전자 (005930)** — 반도체 슈퍼사이클 + 이란 리스크 완화 수혜, 강보합\n2. **SK하이닉스 (000660)** — HBM 수요 지속, 미국 반도체 ETF 반등 연동\n3. **한화에어로스페이스 (012450)** — 이란 종전 기대 속 방산 수출 모멘텀 유지\n4. **한화오션 (042660)** — \nLNG 중심 고부가 선종 수주와 선가 상승으로 조선 구조적 실적 개선 구간 진입\n, 강세\n5. **스페이스X 상장 수혜주 (한국항공우주 KAI 등)** — \n한화에어로스페이스와 KAI는 방산 수출 실적을 바탕으로 우주 성장 동력을 장착\n, 테마 동조 기대\n\n---\n\n**Key event today:** \nFOMC 2일 회의(6/16~17) 개시 — 오늘은 첫째 날로 결정 발표는 내일(17일) 오전 3시(한국시간).\n 장 후반 관망 심리 강화 예상. 포지션 경량화 전략 유효.",
+  "track_a_large_mega": {
+    "candidates": [
+      {
+        "ticker": "042660",
+        "name": "한화오션",
+        "market": "KOSPI",
+        "estimated_cap_tier": "large",
+        "primary_signal": "theme_leader",
+        "reasoning": "LNG 운반선 추가 수주 모멘텀 지속. 유럽 선주 동일 사양 연속 건조로 설계·생산 효율 개선되며 안정적 수익 확보 기대, 조선 구조적 실적 개선 사이클 진입.",
+        "sources": [
+          {
+            "publisher": "서울경제",
+            "url": "https://www.sedaily.com/article/20042430",
+            "date": "2026-05-11"
+          }
+        ]
+      },
+      {
+        "ticker": "064350",
+        "name": "현대로템",
+        "market": "KOSPI",
+        "estimated_cap_tier": "large",
+        "primary_signal": "momentum_continuation",
+        "reasoning": "K2 전차 폴란드 2차 계약 + 이라크·루마니아·페루 수출 본격화로 2026년이 전성기 원년이라는 평가. 최근 주가 약 25% 조정 구간으로 진입한 상태에서 수출 모멘텀 가시화 시점.",
+        "sources": [
+          {
+            "publisher": "뉴스핌",
+            "url": "https://news.nate.com/view/20251125n07050",
+            "date": "2025-11-25"
+          }
+        ]
+      },
+      {
+        "ticker": "034020",
+        "name": "두산에너빌리티",
+        "market": "KOSPI",
+        "estimated_cap_tier": "mega",
+        "primary_signal": "theme_alignment",
+        "reasoning": "AI 데이터센터 전력 슈퍼사이클 핵심 수혜. 가스터빈 수주 가이던스 14조원으로 상향, 체코 원전 본계약 + SMR 공장 착공 모멘텀이 겹치는 시점.",
+        "sources": [
+          {
+            "publisher": "뉴스퀘스트",
+            "url": "https://www.newsquest.co.kr/news/articleView.html?idxno=267664",
+            "date": "2026-06-10"
+          }
+        ]
+      },
+      {
+        "ticker": "012450",
+        "name": "한화에어로스페이스",
+        "market": "KOSPI",
+        "estimated_cap_tier": "mega",
+        "primary_signal": "theme_leader",
+        "reasoning": "K9·천무·레드백 등 다변화된 방산 수출 포트폴리오. 유럽 다연장로켓 교체 수요 증가에 따른 천무 수출 모멘텀 보유. 이란 종전 차익실현 리스크는 모니터링 필요.",
+        "sources": [
+          {
+            "publisher": "금강일보",
+            "url": "https://www.ggilbo.com/news/articleView.html?idxno=1144274",
+            "date": "2026-03-03"
+          }
+        ]
+      },
+      {
+        "ticker": "267260",
+        "name": "HD현대일렉트릭",
+        "market": "KOSPI",
+        "estimated_cap_tier": "large",
+        "primary_signal": "policy_tailwind",
+        "reasoning": "AI 데이터센터 전력 수요 폭증 + 미국 765kV 초고압 변압기 슈퍼사이클. 미국 SPP 백본 프로젝트 참여 및 앨라배마 공장 증설로 북미 매출 비중 확대.",
+        "sources": [
+          {
+            "publisher": "네이트뉴스",
+            "url": "https://news.nate.com/view/20260507n24070",
+            "date": "2026-05-07"
+          }
+        ]
+      },
+      {
+        "ticker": "047810",
+        "name": "한국항공우주",
+        "market": "KOSPI",
+        "estimated_cap_tier": "large",
+        "primary_signal": "clean_narrative",
+        "reasoning": "KF-21·FA-50 수출 수주 가능성 부각. 필리핀·UAE·사우디 도입 협의 진행, KASA 주도 민간 우주 개발 원년 테마와 동조.",
+        "sources": [
+          {
+            "publisher": "알파경제/네이트",
+            "url": "https://news.nate.com/view/20260108n07138",
+            "date": "2026-01-08"
+          }
+        ]
+      },
+      {
+        "ticker": "207940",
+        "name": "삼성바이오로직스",
+        "market": "KOSPI",
+        "estimated_cap_tier": "mega",
+        "primary_signal": "fresh_catalyst",
+        "reasoning": "2025년 6.6조원 수주 기록 후 2026년 2796억 CMO 첫 공시 + 글로벌 빅파마 50건 이상 미팅 진행. 4공장 풀가동 + 5공장 램프업으로 실적 레벨업 구간.",
+        "sources": [
+          {
+            "publisher": "약사공론",
+            "url": "https://www.kpanews.co.kr/news/articleView.html?idxno=530934",
+            "date": "2026-03-13"
+          }
+        ]
+      },
+      {
+        "ticker": "105560",
+        "name": "KB금융",
+        "market": "KOSPI",
+        "estimated_cap_tier": "mega",
+        "primary_signal": "policy_tailwind",
+        "reasoning": "1조2000억원 자사주 매입 + 1426만주(약 2.3조원) 전량 소각 결의로 적극적 주주환원 강화. 밸류업 정책 모멘텀 지속되는 안정형 대안.",
+        "sources": [
+          {
+            "publisher": "알파경제/네이트",
+            "url": "https://news.nate.com/view/20260512n06554",
+            "date": "2026-05-12"
+          }
+        ]
+      },
+      {
+        "ticker": "055550",
+        "name": "신한지주",
+        "market": "KOSPI",
+        "estimated_cap_tier": "mega",
+        "primary_signal": "policy_tailwind",
+        "reasoning": "1Q26 증권 실적 개선으로 컨센서스 소폭 상회, 27년부터 3년간 배당 전액 비과세 등 새로운 밸류업 정책 제시로 EPS 증가 + 총환원율 상승 멀티플 리레이팅 요인.",
+        "sources": [
+          {
+            "publisher": "대신증권/크레온",
+            "url": "https://money2.creontrade.com/E5/ResearchCenter/Work/DW_Research_BasicRead_v2.aspx?rowid=60993",
+            "date": "2026-04-24"
+          }
+        ]
+      },
+      {
+        "ticker": "000660",
+        "name": "SK하이닉스",
+        "market": "KOSPI",
+        "estimated_cap_tier": "mega",
+        "primary_signal": "theme_leader",
+        "reasoning": "1Q26 메모리 초호황 실적 발표 후 순현금 100조원 + 주주환원 강화 기조 확인. SMH 변동성 리스크는 있지만 HBM 슈퍼사이클 핵심으로 적극 매수 접근 권고된 상태.",
+        "sources": [
+          {
+            "publisher": "대신증권/크레온",
+            "url": "https://money2.creontrade.com/E5/ResearchCenter/Work/DW_Research_BasicRead_v2.aspx?rowid=60993",
+            "date": "2026-04-24"
+          }
+        ]
+      }
+    ],
+    "scored": [
+      {
+        "ticker": "042660",
+        "score": 4,
+        "signals_present": [
+          "theme_leader",
+          "fresh_catalyst",
+          "momentum_continuation"
+        ],
+        "reasoning": "\n유럽 선주로부터 3632억원 규모 LNGC 1척 수주 공시(6월 11일)\n로 신선한 카탈리스트 확보. \n캐나다 차세대 잠수함(CPSP) 최대 60조원 수주전 우선협상자 선정이 2026년 6월 말 예정\n으로 단기 모멘텀 다층 보유. 조선 슈퍼사이클 테마 리더.",
+        "sources": [
+          {
+            "publisher": "한국경제",
+            "url": "https://markets.hankyung.com/stock/042660",
+            "date": "2026-06-11"
+          },
+          {
+            "publisher": "economic22",
+            "url": "https://economic22.com/hanwha-ocean-2026/",
+            "date": "2026-05-15"
+          }
+        ]
+      },
+      {
+        "ticker": "064350",
+        "score": 4,
+        "signals_present": [
+          "theme_alignment",
+          "clean_narrative",
+          "oversold_bounce"
+        ],
+        "reasoning": "\nK2가 중동·중남미·동유럽 글로벌 베스트셀러로 부상, 이라크 250대 약 9조원 계약이 올해 안 체결 가능성 + 페루·루마니아·사우디 동시 협상\n으로 클린 내러티브 보유. \n폴란드 2차 계약 선수금 19억달러 유입으로 순현금 1조원대, 신용등급 AA-/안정적으로 상향\n되어 펀더멘털 견조. 단 이란 종전 시 차익실현 리스크 있음.",
+        "sources": [
+          {
+            "publisher": "다음/밀리충전",
+            "url": "https://v.daum.net/v/2Ocvu3WIeV",
+            "date": "2026-01-22"
+          },
+          {
+            "publisher": "파이낸셜뉴스",
+            "url": "https://www.fnnews.com/news/202604211829049014",
+            "date": "2026-04-21"
+          }
+        ]
+      },
+      {
+        "ticker": "034020",
+        "score": 5,
+        "signals_present": [
+          "theme_leader",
+          "policy_tailwind",
+          "fresh_catalyst",
+          "momentum_continuation"
+        ],
+        "reasoning": "\n2026년 원자력 5.8조원 + 가스발전 5.3조원 등 총 14.3조원 수주 전망\n의 강력한 모멘텀. \n6월 18일 출범 예정인 한미전략투자공사를 계기로 대미 투자 구체화와 원전·에너지 인프라 관련 기대감 확대 전망\n — 이번 주 임박 카탈리스트. AI 데이터센터 전력 슈퍼사이클의 핵심 수혜주이며 SMR·가스터빈·대형원전 트리플 엔진 보유.",
+        "sources": [
+          {
+            "publisher": "CBC뉴스",
+            "url": "https://www.cbci.co.kr/news/articleView.html?idxno=559544",
+            "date": "2026-03-07"
+          },
+          {
+            "publisher": "뉴스핌/네이트",
+            "url": "https://news.nate.com/view/20260527n05364",
+            "date": "2026-05-27"
+          }
+        ]
+      },
+      {
+        "ticker": "012450",
+        "score": 2,
+        "signals_present": [
+          "theme_alignment"
+        ],
+        "reasoning": "\n6월 1일 대전 사업장 폭발 사고로 5명 사망, 손재일 대표이사가 중대재해처벌법 혐의로 입건\n된 상태. \n천무 일부 수입국이 납기 지연 여부 자체 조사를 검토 중이며 한화에어로스페이스는 수출 차질 영향 평가에 착수\n — 강한 부정적 카탈리스트로 score 큰폭 하향. 이란 종전 기대도 방산 차익실현 압력 가중.",
+        "sources": [
+          {
+            "publisher": "헤럴드경제",
+            "url": "https://biz.heraldcorp.com/article/10769167",
+            "date": "2026-06-11"
+          }
+        ]
+      },
+      {
+        "ticker": "267260",
+        "score": 4,
+        "signals_present": [
+          "theme_leader",
+          "policy_tailwind",
+          "fresh_catalyst"
+        ],
+        "reasoning": "\n5월 7일 미국 중부 권역 대형 유틸리티 회사와 총 1730억원 규모 765kV 초고압 변압기·리액터 공급계약 체결\n로 fresh 카탈리스트 보유. \n실적 컨퍼런스콜에서 빅테크와 배전·초고압 전력기기 연계로 2026~2028년 상당한 수준의 수주·매출 예상\n되며 AI 전력기기 슈퍼사이클의 대표 종목.",
+        "sources": [
+          {
+            "publisher": "뉴스1",
+            "url": "https://www.news1.kr/industry/general-industry/6159546",
+            "date": "2026-05-07"
+          },
+          {
+            "publisher": "씽크풀",
+            "url": "https://m.thinkpool.com/compDiscuss/cont/1025671",
+            "date": "2026-04-25"
+          }
+        ]
+      },
+      {
+        "ticker": "047810",
+        "score": 3,
+        "signals_present": [
+          "theme_alignment",
+          "clean_narrative"
+        ],
+        "reasoning": "\nKF-21 초도 수출 계약이 올해 체결 가능성, UAE 수출 논의 지속 전망\n으로 클린 내러티브 유지. \n2026년 영업이익 전년 대비 57.7% 증가한 4244억원 전망\n되나 1Q26 영업이익 컨센서스 하회. 방산 테마는 이란 종전 차익실현 리스크로 페널티 적용.",
+        "sources": [
+          {
+            "publisher": "네이트/이투데이",
+            "url": "https://news.nate.com/view/20260508n05284",
+            "date": "2026-05-08"
+          }
+        ]
+      },
+      {
+        "ticker": "207940",
+        "score": 3,
+        "signals_present": [
+          "clean_narrative",
+          "momentum_continuation"
+        ],
+        "reasoning": "\n2025년 연간 수주 $4.9bn, 누적 CMO 수주 $21.2bn, 1Q26 $21.4bn 증가에 그쳐 시장은 수주 확보 소식에 목말라 있는 상황\n — fresh 카탈리스트 부재가 약점. \n5공장 풀가동 시점 앞당겨질 전망\n은 긍정. 6/12 종가 1,485,000원 수준으로 모멘텀 보통.",
+        "sources": [
+          {
+            "publisher": "키움증권",
+            "url": "https://bbn.kiwoom.com/rfSN3705",
+            "date": "2026-04-23"
+          },
+          {
+            "publisher": "FnGuide",
+            "url": "https://comp.fnguide.com/SVO2/ASP/SVD_Main.asp?gicode=A207940",
+            "date": "2026-05-04"
+          }
+        ]
+      },
+      {
+        "ticker": "105560",
+        "score": 4,
+        "signals_present": [
+          "policy_tailwind",
+          "clean_narrative",
+          "momentum_continuation"
+        ],
+        "reasoning": "\n기존 보유 자기주식 1430만주(약 2.3조원, 발행주식 총수의 3.8%) 전량 소각 결의\n로 적극적 주주환원. \n2026년 주주환원율 55% 전망, 자사주 소각으로 주당가치 빠르게 증가 중, 은행업종 내 가장 높은 주주환원율과 10% 이상 ROE\n로 밸류업 대표주. \n6/12 종가 161,200원(+6.40%) 강세\n로 모멘텀 양호.",
+        "sources": [
+          {
+            "publisher": "알파경제",
+            "url": "https://alphabiz.co.kr/news/view/1065567466712623",
+            "date": "2026-04-26"
+          },
+          {
+            "publisher": "KB금융 IR",
+            "url": "https://ir.gsifn.io/kbfng/v5/ir_daily.html?koreng=1",
+            "date": "2026-06-12"
+          }
+        ]
+      },
+      {
+        "ticker": "055550",
+        "score": 3,
+        "signals_present": [
+          "policy_tailwind",
+          "clean_narrative"
+        ],
+        "reasoning": "KB금융 대비 밸류업 모멘텀은 유사하나 자사주 소각 규모 측면에서 상대적 우위 부족. 2027년부터 3년간 배당 비과세 등 새로운 밸류업 정책 제시는 긍정 — 별도 검증 검색은 한도 소진으로 미실시, 직접 카탈리스트 신선도 KB금융 대비 낮음.",
+        "sources": [
+          {
+            "publisher": "대신증권/크레온",
+            "url": "https://money2.creontrade.com/E5/ResearchCenter/Work/DW_Research_BasicRead_v2.aspx?rowid=60993",
+            "date": "2026-04-24"
+          }
+        ]
+      },
+      {
+        "ticker": "000660",
+        "score": 4,
+        "signals_present": [
+          "theme_leader",
+          "momentum_continuation",
+          "premarket_strength"
+        ],
+        "reasoning": "HBM 슈퍼사이클의 핵심 종목으로 반도체 테마 리더. 1Q26 메모리 초호황 실적 및 순현금 100조원 + 주주환원 강화 기조 확인. \n2026년 한국 조선·반도체 등 슈퍼사이클 도래 평가\n 흐름 동조. 단 SMH(美 반도체 ETF) 변동성 + FOMC(6/16~17) 관망심리로 만점 부여 보류.",
+        "sources": [
+          {
+            "publisher": "한국경제",
+            "url": "https://markets.hankyung.com/stock/042660",
+            "date": "2026-06-13"
+          }
+        ]
+      }
+    ],
+    "final_picks": [
+      {
+        "ticker": "034020",
+        "name": "두산에너빌리티",
+        "market": "KOSPI",
+        "estimated_cap_tier": "mega",
+        "primary_signal": "theme_alignment",
+        "reasoning": "\n2026년 원자력 5.8조원 + 가스발전 5.3조원 등 총 14.3조원 수주 전망\n의 강력한 모멘텀. \n6월 18일 출범 예정인 한미전략투자공사를 계기로 대미 투자 구체화와 원전·에너지 인프라 관련 기대감 확대 전망\n — 이번 주 임박 카탈리스트. AI 데이터센터 전력 슈퍼사이클의 핵심 수혜주이며 SMR·가스터빈·대형원전 트리플 엔진 보유.",
+        "sources": [
+          {
+            "publisher": "뉴스퀘스트",
+            "url": "https://www.newsquest.co.kr/news/articleView.html?idxno=267664",
+            "date": "2026-06-10"
+          },
+          {
+            "publisher": "CBC뉴스",
+            "url": "https://www.cbci.co.kr/news/articleView.html?idxno=559544",
+            "date": "2026-03-07"
+          },
+          {
+            "publisher": "뉴스핌/네이트",
+            "url": "https://news.nate.com/view/20260527n05364",
+            "date": "2026-05-27"
+          }
+        ],
+        "score": 5,
+        "signals_present": [
+          "theme_leader",
+          "policy_tailwind",
+          "fresh_catalyst",
+          "momentum_continuation"
+        ],
+        "brief_reasoning": "AI 데이터센터 전력 슈퍼사이클 핵심 수혜. 가스터빈 수주 가이던스 14조원으로 상향, 체코 원전 본계약 + SMR 공장 착공 모멘텀이 겹치는 시점.",
+        "research_reasoning": "\n2026년 원자력 5.8조원 + 가스발전 5.3조원 등 총 14.3조원 수주 전망\n의 강력한 모멘텀. \n6월 18일 출범 예정인 한미전략투자공사를 계기로 대미 투자 구체화와 원전·에너지 인프라 관련 기대감 확대 전망\n — 이번 주 임박 카탈리스트. AI 데이터센터 전력 슈퍼사이클의 핵심 수혜주이며 SMR·가스터빈·대형원전 트리플 엔진 보유."
+      },
+      {
+        "ticker": "042660",
+        "name": "한화오션",
+        "market": "KOSPI",
+        "estimated_cap_tier": "large",
+        "primary_signal": "theme_leader",
+        "reasoning": "\n유럽 선주로부터 3632억원 규모 LNGC 1척 수주 공시(6월 11일)\n로 신선한 카탈리스트 확보. \n캐나다 차세대 잠수함(CPSP) 최대 60조원 수주전 우선협상자 선정이 2026년 6월 말 예정\n으로 단기 모멘텀 다층 보유. 조선 슈퍼사이클 테마 리더.",
+        "sources": [
+          {
+            "publisher": "서울경제",
+            "url": "https://www.sedaily.com/article/20042430",
+            "date": "2026-05-11"
+          },
+          {
+            "publisher": "한국경제",
+            "url": "https://markets.hankyung.com/stock/042660",
+            "date": "2026-06-11"
+          },
+          {
+            "publisher": "economic22",
+            "url": "https://economic22.com/hanwha-ocean-2026/",
+            "date": "2026-05-15"
+          }
+        ],
+        "score": 4,
+        "signals_present": [
+          "theme_leader",
+          "fresh_catalyst",
+          "momentum_continuation"
+        ],
+        "brief_reasoning": "LNG 운반선 추가 수주 모멘텀 지속. 유럽 선주 동일 사양 연속 건조로 설계·생산 효율 개선되며 안정적 수익 확보 기대, 조선 구조적 실적 개선 사이클 진입.",
+        "research_reasoning": "\n유럽 선주로부터 3632억원 규모 LNGC 1척 수주 공시(6월 11일)\n로 신선한 카탈리스트 확보. \n캐나다 차세대 잠수함(CPSP) 최대 60조원 수주전 우선협상자 선정이 2026년 6월 말 예정\n으로 단기 모멘텀 다층 보유. 조선 슈퍼사이클 테마 리더."
+      },
+      {
+        "ticker": "064350",
+        "name": "현대로템",
+        "market": "KOSPI",
+        "estimated_cap_tier": "large",
+        "primary_signal": "momentum_continuation",
+        "reasoning": "\nK2가 중동·중남미·동유럽 글로벌 베스트셀러로 부상, 이라크 250대 약 9조원 계약이 올해 안 체결 가능성 + 페루·루마니아·사우디 동시 협상\n으로 클린 내러티브 보유. \n폴란드 2차 계약 선수금 19억달러 유입으로 순현금 1조원대, 신용등급 AA-/안정적으로 상향\n되어 펀더멘털 견조. 단 이란 종전 시 차익실현 리스크 있음.",
+        "sources": [
+          {
+            "publisher": "뉴스핌",
+            "url": "https://news.nate.com/view/20251125n07050",
+            "date": "2025-11-25"
+          },
+          {
+            "publisher": "다음/밀리충전",
+            "url": "https://v.daum.net/v/2Ocvu3WIeV",
+            "date": "2026-01-22"
+          },
+          {
+            "publisher": "파이낸셜뉴스",
+            "url": "https://www.fnnews.com/news/202604211829049014",
+            "date": "2026-04-21"
+          }
+        ],
+        "score": 4,
+        "signals_present": [
+          "theme_alignment",
+          "clean_narrative",
+          "oversold_bounce"
+        ],
+        "brief_reasoning": "K2 전차 폴란드 2차 계약 + 이라크·루마니아·페루 수출 본격화로 2026년이 전성기 원년이라는 평가. 최근 주가 약 25% 조정 구간으로 진입한 상태에서 수출 모멘텀 가시화 시점.",
+        "research_reasoning": "\nK2가 중동·중남미·동유럽 글로벌 베스트셀러로 부상, 이라크 250대 약 9조원 계약이 올해 안 체결 가능성 + 페루·루마니아·사우디 동시 협상\n으로 클린 내러티브 보유. \n폴란드 2차 계약 선수금 19억달러 유입으로 순현금 1조원대, 신용등급 AA-/안정적으로 상향\n되어 펀더멘털 견조. 단 이란 종전 시 차익실현 리스크 있음."
+      },
+      {
+        "ticker": "267260",
+        "name": "HD현대일렉트릭",
+        "market": "KOSPI",
+        "estimated_cap_tier": "large",
+        "primary_signal": "policy_tailwind",
+        "reasoning": "\n5월 7일 미국 중부 권역 대형 유틸리티 회사와 총 1730억원 규모 765kV 초고압 변압기·리액터 공급계약 체결\n로 fresh 카탈리스트 보유. \n실적 컨퍼런스콜에서 빅테크와 배전·초고압 전력기기 연계로 2026~2028년 상당한 수준의 수주·매출 예상\n되며 AI 전력기기 슈퍼사이클의 대표 종목.",
+        "sources": [
+          {
+            "publisher": "네이트뉴스",
+            "url": "https://news.nate.com/view/20260507n24070",
+            "date": "2026-05-07"
+          },
+          {
+            "publisher": "뉴스1",
+            "url": "https://www.news1.kr/industry/general-industry/6159546",
+            "date": "2026-05-07"
+          },
+          {
+            "publisher": "씽크풀",
+            "url": "https://m.thinkpool.com/compDiscuss/cont/1025671",
+            "date": "2026-04-25"
+          }
+        ],
+        "score": 4,
+        "signals_present": [
+          "theme_leader",
+          "policy_tailwind",
+          "fresh_catalyst"
+        ],
+        "brief_reasoning": "AI 데이터센터 전력 수요 폭증 + 미국 765kV 초고압 변압기 슈퍼사이클. 미국 SPP 백본 프로젝트 참여 및 앨라배마 공장 증설로 북미 매출 비중 확대.",
+        "research_reasoning": "\n5월 7일 미국 중부 권역 대형 유틸리티 회사와 총 1730억원 규모 765kV 초고압 변압기·리액터 공급계약 체결\n로 fresh 카탈리스트 보유. \n실적 컨퍼런스콜에서 빅테크와 배전·초고압 전력기기 연계로 2026~2028년 상당한 수준의 수주·매출 예상\n되며 AI 전력기기 슈퍼사이클의 대표 종목."
+      },
+      {
+        "ticker": "105560",
+        "name": "KB금융",
+        "market": "KOSPI",
+        "estimated_cap_tier": "mega",
+        "primary_signal": "policy_tailwind",
+        "reasoning": "\n기존 보유 자기주식 1430만주(약 2.3조원, 발행주식 총수의 3.8%) 전량 소각 결의\n로 적극적 주주환원. \n2026년 주주환원율 55% 전망, 자사주 소각으로 주당가치 빠르게 증가 중, 은행업종 내 가장 높은 주주환원율과 10% 이상 ROE\n로 밸류업 대표주. \n6/12 종가 161,200원(+6.40%) 강세\n로 모멘텀 양호.",
+        "sources": [
+          {
+            "publisher": "알파경제/네이트",
+            "url": "https://news.nate.com/view/20260512n06554",
+            "date": "2026-05-12"
+          },
+          {
+            "publisher": "알파경제",
+            "url": "https://alphabiz.co.kr/news/view/1065567466712623",
+            "date": "2026-04-26"
+          },
+          {
+            "publisher": "KB금융 IR",
+            "url": "https://ir.gsifn.io/kbfng/v5/ir_daily.html?koreng=1",
+            "date": "2026-06-12"
+          }
+        ],
+        "score": 4,
+        "signals_present": [
+          "policy_tailwind",
+          "clean_narrative",
+          "momentum_continuation"
+        ],
+        "brief_reasoning": "1조2000억원 자사주 매입 + 1426만주(약 2.3조원) 전량 소각 결의로 적극적 주주환원 강화. 밸류업 정책 모멘텀 지속되는 안정형 대안.",
+        "research_reasoning": "\n기존 보유 자기주식 1430만주(약 2.3조원, 발행주식 총수의 3.8%) 전량 소각 결의\n로 적극적 주주환원. \n2026년 주주환원율 55% 전망, 자사주 소각으로 주당가치 빠르게 증가 중, 은행업종 내 가장 높은 주주환원율과 10% 이상 ROE\n로 밸류업 대표주. \n6/12 종가 161,200원(+6.40%) 강세\n로 모멘텀 양호."
+      }
+    ]
+  },
+  "track_b_mid": {
+    "candidates": [
+      {
+        "ticker": "211270",
+        "name": "AP위성",
+        "market": "KOSDAQ",
+        "estimated_cap_tier": "mid",
+        "primary_signal": "theme_alignment",
+        "reasoning": "2026년은 우주항공청(KASA) 주도의 누리호 5차 발사가 5~6월 예정된 우주개발 가속화 원년. AP위성은 시총 약 2,451억원 수준의 중형주로 우주항공 평균 PER(95.8배) 대비 저평가(28.9배) 상태이며 위성 사업부 양산 구조 전환 모멘텀 보유.",
+        "sources": [
+          {
+            "publisher": "알파스퀘어/한국IR협의회",
+            "url": "https://file.alphasquare.co.kr/media/pdfs/market-report/AP%EC%9C%84%EC%84%B1%EC%9C%84%EC%84%B120260323%ED%95%9C%EA%B5%ADIR%ED%98%91%EC%9D%98%ED%9A%8C.",
+            "date": "2026-03-23"
+          }
+        ]
+      },
+      {
+        "ticker": "099320",
+        "name": "쎄트렉아이",
+        "market": "KOSDAQ",
+        "estimated_cap_tier": "mid",
+        "primary_signal": "theme_leader",
+        "reasoning": "누리호 5차 발사 임박 + KASA 민간 우주 본격화 테마의 핵심주. 군사용 위성 공급 계약으로 수주잔고 증가, SpaceEye-T 발사로 글로벌 위성영상 점유율 확대 기대.",
+        "sources": [
+          {
+            "publisher": "핀포인트뉴스",
+            "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=297754",
+            "date": "2024-11-06"
+          }
+        ]
+      },
+      {
+        "ticker": "451760",
+        "name": "컨텍",
+        "market": "KOSDAQ",
+        "estimated_cap_tier": "mid",
+        "primary_signal": "fresh_catalyst",
+        "reasoning": "민간 우주 시대 개화와 함께 아시아 최대 규모 지상국 인프라 영향력 확대 중. 올해 흑자 전환 가시화, 자회사 AP위성과의 시너지로 성장 모멘텀 강화.",
+        "sources": [
+          {
+            "publisher": "더벨",
+            "url": "https://www.thebell.co.kr/front/newsview.asp?key=202605121119322960107726",
+            "date": "2026-05-15"
+          }
+        ]
+      },
+      {
+        "ticker": "077970",
+        "name": "STX엔진",
+        "market": "KOSDAQ",
+        "estimated_cap_tier": "mid",
+        "primary_signal": "theme_alignment",
+        "reasoning": "K-군함 수출 확대 + 조선 기자재 Top-pick. 방산 사업 매출 2026년 2,484억→2027년 3,135억 증가 예상. 시총 약 2조원의 코스닥 대표 함정엔진주로 방산·조선 두 테마 동시 수혜.",
+        "sources": [
+          {
+            "publisher": "머니투데이",
+            "url": "https://www.mt.co.kr/stock/2026/04/23/2026042219304684779",
+            "date": "2026-04-23"
+          }
+        ]
+      },
+      {
+        "ticker": "071970",
+        "name": "STX중공업",
+        "market": "KOSPI",
+        "estimated_cap_tier": "mid",
+        "primary_signal": "theme_alignment",
+        "reasoning": "선박엔진 공급계약 체결 등 조선 슈퍼사이클 수혜 직접 노출. 미국의 중국 조선업 무역장벽 조사 등 글로벌 K-조선 반사이익 구간.",
+        "sources": [
+          {
+            "publisher": "씽크풀",
+            "url": "https://m.thinkpool.com/compDiscuss/cont/1013671",
+            "date": "2026-05-27"
+          }
+        ]
+      },
+      {
+        "ticker": "033100",
+        "name": "제룡전기",
+        "market": "KOSDAQ",
+        "estimated_cap_tier": "mid",
+        "primary_signal": "policy_tailwind",
+        "reasoning": "AI 데이터센터 전력 수요 폭증 + 미국 PSE&G 대형 변압기 공급계약 누적 1조원 육박. 미국 중심 공급망 재편 완료까지 전력기기 확장 사이클 최소 2026년까지 지속 전망.",
+        "sources": [
+          {
+            "publisher": "씽크풀",
+            "url": "https://m.thinkpool.com/compDiscuss/cont/1025700",
+            "date": "2026-04-27"
+          }
+        ]
+      },
+      {
+        "ticker": "009420",
+        "name": "한올바이오파마",
+        "market": "KOSPI",
+        "estimated_cap_tier": "mid",
+        "primary_signal": "fresh_catalyst",
+        "reasoning": "파트너사 이뮤노반트를 통한 류마티스관절염 신약 2상 중간결과 발표 후 상한가 기록한 코스피 신약 대표주. 2026년 하반기부터 주요 후기 임상 데이터 확인 예정으로 모멘텀 지속.",
+        "sources": [
+          {
+            "publisher": "한국경제",
+            "url": "https://www.hankyung.com/article/202605257402i",
+            "date": "2026-05-25"
+          }
+        ]
+      },
+      {
+        "ticker": "196170",
+        "name": "알테오젠",
+        "market": "KOSDAQ",
+        "estimated_cap_tier": "mid",
+        "primary_signal": "clean_narrative",
+        "reasoning": "美 PTAB의 할로자임 SC 특허 무효화 결정으로 핵심 리스크 해소 + ALT-B4 플랫폼 적용 빅파마(MSD/AZ/GSK/바이오젠) 확대로 매출 성장 가시화(2024년 757억→2025년 1,694억).",
+        "sources": [
+          {
+            "publisher": "글로벌이코노믹",
+            "url": "https://www.g-enews.com/article/Bio-Pharma/2026/05/202605271543202903b065b72042_1",
+            "date": "2026-05-27"
+          }
+        ]
+      },
+      {
+        "ticker": "277810",
+        "name": "레인보우로보틱스",
+        "market": "KOSDAQ",
+        "estimated_cap_tier": "mid",
+        "primary_signal": "theme_leader",
+        "reasoning": "로봇·AI 인프라가 지수 상단 돌파의 핵심 엔진이라는 시장 평가에 부합. 협동로봇 + 초정밀지향마운트(국내 유일) + 인간형 이족보행 로봇 기술 보유한 코스닥 로봇 대장주.",
+        "sources": [
+          {
+            "publisher": "알파스퀘어",
+            "url": "https://alphasquare.co.kr/home/stock-summary?code=277810",
+            "date": "2026-06-01"
+          }
+        ]
+      },
+      {
+        "ticker": "274090",
+        "name": "켄코아에어로스페이스",
+        "market": "KOSDAQ",
+        "estimated_cap_tier": "mid",
+        "primary_signal": "theme_alignment",
+        "reasoning": "스페이스X 나스닥 상장(+19%) 이슈로 국내 우주항공 테마 동조 강화. 2026년 우주개발 가속화 흐름 속에서 우주항공 소재·부품 기업으로 강세 흐름 동참.",
+        "sources": [
+          {
+            "publisher": "핀포인트뉴스",
+            "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=442462",
+            "date": "2026-04-03"
+          }
+        ]
+      }
+    ],
+    "scored": [
+      {
+        "ticker": "211270",
+        "score": 4,
+        "signals_present": [
+          "theme_alignment",
+          "clean_narrative",
+          "fresh_catalyst"
+        ],
+        "reasoning": "\n2026년 3월 19일 기준 시총 2,451억원, PER 28.9배로 국내 우주항공 평균(95.8배) 대비 명확한 저평가\n. \nKPS 위성 8기 및 AIS 탑재체 40기 양산 전환이 2026년 본격 가동, Thuraya-4 서비스 재개 및 Inmarsat 신규 수주(146억원)로 기저 매출 정상화 기대\n. 누리호 5차 발사 모멘텀과 결합돼 우주 테마 동조.",
+        "sources": [
+          {
+            "publisher": "한국IR협의회/알파스퀘어",
+            "url": "https://file.alphasquare.co.kr/media/pdfs/market-report/AP%EC%9C%84%EC%84%B1%EC%9C%84%EC%84%B120260323%ED%95%9C%EA%B5%ADIR%ED%98%91%EC%9D%98%ED%9A%8C.",
+            "date": "2026-03-23"
+          }
+        ]
+      },
+      {
+        "ticker": "099320",
+        "score": 5,
+        "signals_present": [
+          "theme_leader",
+          "fresh_catalyst",
+          "clean_narrative",
+          "momentum_continuation"
+        ],
+        "reasoning": "\n신한투자증권 4월 14일 목표가 21만원 매수 신규 리포트 발행, 전일 종가 대비 23.7% 상승여력 제시\n. \n2월 수주한 약 2,800억원 위성 수출 계약이 2분기부터 매출 인식 시작되며, 2026년 연간 수주는 전고점을 갱신할 것으로 예상\n. 한화 스페이스 밸류체인 핵심으로 KASA 민간 우주 본격화 테마 1순위.",
+        "sources": [
+          {
+            "publisher": "뉴스핌(네이트)",
+            "url": "https://news.nate.com/view/20260414n09359",
+            "date": "2026-04-14"
+          }
+        ]
+      },
+      {
+        "ticker": "451760",
+        "score": 4,
+        "signals_present": [
+          "fresh_catalyst",
+          "theme_alignment",
+          "clean_narrative"
+        ],
+        "reasoning": "\n위성 데이터 처리 서비스 수요 급증으로 본격적인 리레이팅 구간 진입 판단, 2026년 매출 1,000억 돌파 및 흑자 전환 전망\n. \nAP위성 인수로 매출 목표 1,000억원 이상 상향, '위성 제작 → 지상국 송수신 → 데이터 분석' 전 밸류체인 내재화로 턴키 공급 가능\n. 우주 테마 동조 + 흑전 catalyst.",
+        "sources": [
+          {
+            "publisher": "하나증권",
+            "url": "https://www.hanaw.com/download/research/FileServer/WEB/info/small_cap/2026/01/22/contec_260123_F.pdf",
+            "date": "2026-01-23"
+          }
+        ]
+      },
+      {
+        "ticker": "077970",
+        "score": 5,
+        "signals_present": [
+          "theme_leader",
+          "theme_alignment",
+          "momentum_continuation",
+          "fresh_catalyst"
+        ],
+        "reasoning": "\n한국거래소에 따르면 방산 테마 상승 주역은 STX엔진으로, 방산용 엔진 국산화 성과와 K-방산 수출 확대에 따른 엔진 공급계약 기대감으로 29.99% 상한가 기록\n. \n조선소 약 30조원 수주 랠리 전망 속 STX엔진의 낙수 효과 기대\n. 방산+조선 듀얼 테마 노출의 Top-pick.",
+        "sources": [
+          {
+            "publisher": "씽크풀",
+            "url": "https://m.thinkpool.com/compDiscuss/cont/1025478",
+            "date": "2026-04-16"
+          }
+        ]
+      },
+      {
+        "ticker": "071970",
+        "score": 3,
+        "signals_present": [
+          "theme_alignment",
+          "clean_narrative"
+        ],
+        "reasoning": "조선 슈퍼사이클 수혜 노출 종목으로 STX엔진과 함께 STX 계열 조선 기자재 라인업. 단, STX엔진 대비 직접적인 catalyst나 명시적 수주 공시 신호는 상대적으로 약하며 시장 컨센서스도 STX엔진에 더 집중되는 양상. 테마 동조 수혜 등급.",
+        "sources": [
+          {
+            "publisher": "씽크풀",
+            "url": "https://m.thinkpool.com/compDiscuss/cont/1013671",
+            "date": "2026-05-27"
+          }
+        ]
+      },
+      {
+        "ticker": "033100",
+        "score": 4,
+        "signals_present": [
+          "policy_tailwind",
+          "fresh_catalyst",
+          "momentum_continuation"
+        ],
+        "reasoning": "\n2025년 12월 22일 PSE&G와 441.2억원(매출액 대비 16.8%) 배전변압기 공급계약 체결, 계약기간은 2027년 12월 31일까지 약 2년\n. \n미·중 갈등 여파로 중국산 변압기 기피되며 전체 매출의 90%가 미국 수출 중\n. AI 데이터센터 전력 수요 확장 사이클 직접 수혜.",
+        "sources": [
+          {
+            "publisher": "한국경제",
+            "url": "https://www.hankyung.com/article/202512228482L",
+            "date": "2025-12-22"
+          }
+        ]
+      },
+      {
+        "ticker": "009420",
+        "score": 4,
+        "signals_present": [
+          "fresh_catalyst",
+          "retail_buzz",
+          "clean_narrative"
+        ],
+        "reasoning": "\n한올바이오파마는 자가면역질환 항체 신약 '아이메로프루바트(IMVT-1402)'가 난치성 류마티스 관절염 환자 대상 임상에서 의미 있는 치료 효과를 보였다는 발표에 상한가(+29.85%) 기록\n. \n해외 파트너사 이뮤노반트의 때이른 데이터 발표에 투심 집중\n. 다만 catalyst 발생 후 약 3주 경과로 모멘텀 일부 소진 가능성.",
+        "sources": [
+          {
+            "publisher": "서울경제",
+            "url": "https://www.sedaily.com/article/20046691",
+            "date": "2026-05-21"
+          }
+        ]
+      },
+      {
+        "ticker": "196170",
+        "score": 5,
+        "signals_present": [
+          "fresh_catalyst",
+          "clean_narrative",
+          "theme_leader",
+          "momentum_continuation"
+        ],
+        "reasoning": "\n미국 특허심판원(PTAB)이 5월 12일 할로자임 미국 특허(US 11,952,600 B2) PGR에서 청구항 1~4 및 8~21을 모두 특허불능으로 최종 결정\n. \n특허·로열티·전환율 등 시장 주요 우려 모두 제거, 신한투자증권 목표주가 62만원으로 상향\n. \nPTAB이 알테오젠의 ALT-B4 제조방법 특허에 대한 할로자임 IPR 심리 개시도 기각\n. 핵심 리스크 해소 후 빅파마 추가 기술이전 모멘텀.",
+        "sources": [
+          {
+            "publisher": "팜이데일리",
+            "url": "https://pharm.edaily.co.kr/news/read?newsId=03998326645448592",
+            "date": "2026-05-12"
+          },
+          {
+            "publisher": "서울경제",
+            "url": "https://www.sedaily.com/article/20043852",
+            "date": "2026-05-14"
+          }
+        ]
+      },
+      {
+        "ticker": "277810",
+        "score": 3,
+        "signals_present": [
+          "theme_leader",
+          "clean_narrative"
+        ],
+        "reasoning": "\n2026~2027년 휴머노이드 양산 로드맵에 따라 삼성·현대차·테슬라 등 글로벌 기업 생태계 핵심 공급사 편입 가능성 보유\n. \n2026년 시총 13조원으로 '10조 클럽' 진입한 코스닥 로봇 대장주\n. 다만 \n미공개 정보 이용 의혹 관련 삼성전자 본사 압수수색 진행 중인 법적 리스크\n로 점수 하향 조정.",
+        "sources": [
+          {
+            "publisher": "다음/특징주",
+            "url": "https://v.daum.net/v/20251214161005739",
+            "date": "2025-12-14"
+          },
+          {
+            "publisher": "서울경제",
+            "url": "https://www.sedaily.com/article/20054774",
+            "date": "2026-06-11"
+          }
+        ]
+      },
+      {
+        "ticker": "274090",
+        "score": 3,
+        "signals_present": [
+          "theme_alignment",
+          "fresh_catalyst"
+        ],
+        "reasoning": "스페이스X 나스닥 상장 첫날 +19% 강세로 글로벌 우주항공 테마 동조 강화 구간. 켄코아에어로스페이스는 우주항공 소재·부품 노출 종목으로 KASA 민간 우주 본격화 흐름 수혜 기대, 단 쎄트렉아이·AP위성 등 위성 대장주 대비 후순위로 theme alignment 등급.",
+        "sources": [
+          {
+            "publisher": "핀포인트뉴스",
+            "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=442462",
+            "date": "2026-04-03"
+          }
+        ]
+      }
+    ],
+    "final_picks": [
+      {
+        "ticker": "099320",
+        "name": "쎄트렉아이",
+        "market": "KOSDAQ",
+        "estimated_cap_tier": "mid",
+        "primary_signal": "theme_leader",
+        "reasoning": "\n신한투자증권 4월 14일 목표가 21만원 매수 신규 리포트 발행, 전일 종가 대비 23.7% 상승여력 제시\n. \n2월 수주한 약 2,800억원 위성 수출 계약이 2분기부터 매출 인식 시작되며, 2026년 연간 수주는 전고점을 갱신할 것으로 예상\n. 한화 스페이스 밸류체인 핵심으로 KASA 민간 우주 본격화 테마 1순위.",
+        "sources": [
+          {
+            "publisher": "핀포인트뉴스",
+            "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=297754",
+            "date": "2024-11-06"
+          },
+          {
+            "publisher": "뉴스핌(네이트)",
+            "url": "https://news.nate.com/view/20260414n09359",
+            "date": "2026-04-14"
+          }
+        ],
+        "score": 5,
+        "signals_present": [
+          "theme_leader",
+          "fresh_catalyst",
+          "clean_narrative",
+          "momentum_continuation"
+        ],
+        "brief_reasoning": "누리호 5차 발사 임박 + KASA 민간 우주 본격화 테마의 핵심주. 군사용 위성 공급 계약으로 수주잔고 증가, SpaceEye-T 발사로 글로벌 위성영상 점유율 확대 기대.",
+        "research_reasoning": "\n신한투자증권 4월 14일 목표가 21만원 매수 신규 리포트 발행, 전일 종가 대비 23.7% 상승여력 제시\n. \n2월 수주한 약 2,800억원 위성 수출 계약이 2분기부터 매출 인식 시작되며, 2026년 연간 수주는 전고점을 갱신할 것으로 예상\n. 한화 스페이스 밸류체인 핵심으로 KASA 민간 우주 본격화 테마 1순위."
+      },
+      {
+        "ticker": "077970",
+        "name": "STX엔진",
+        "market": "KOSDAQ",
+        "estimated_cap_tier": "mid",
+        "primary_signal": "theme_alignment",
+        "reasoning": "\n한국거래소에 따르면 방산 테마 상승 주역은 STX엔진으로, 방산용 엔진 국산화 성과와 K-방산 수출 확대에 따른 엔진 공급계약 기대감으로 29.99% 상한가 기록\n. \n조선소 약 30조원 수주 랠리 전망 속 STX엔진의 낙수 효과 기대\n. 방산+조선 듀얼 테마 노출의 Top-pick.",
+        "sources": [
+          {
+            "publisher": "머니투데이",
+            "url": "https://www.mt.co.kr/stock/2026/04/23/2026042219304684779",
+            "date": "2026-04-23"
+          },
+          {
+            "publisher": "씽크풀",
+            "url": "https://m.thinkpool.com/compDiscuss/cont/1025478",
+            "date": "2026-04-16"
+          }
+        ],
+        "score": 5,
+        "signals_present": [
+          "theme_leader",
+          "theme_alignment",
+          "momentum_continuation",
+          "fresh_catalyst"
+        ],
+        "brief_reasoning": "K-군함 수출 확대 + 조선 기자재 Top-pick. 방산 사업 매출 2026년 2,484억→2027년 3,135억 증가 예상. 시총 약 2조원의 코스닥 대표 함정엔진주로 방산·조선 두 테마 동시 수혜.",
+        "research_reasoning": "\n한국거래소에 따르면 방산 테마 상승 주역은 STX엔진으로, 방산용 엔진 국산화 성과와 K-방산 수출 확대에 따른 엔진 공급계약 기대감으로 29.99% 상한가 기록\n. \n조선소 약 30조원 수주 랠리 전망 속 STX엔진의 낙수 효과 기대\n. 방산+조선 듀얼 테마 노출의 Top-pick."
+      },
+      {
+        "ticker": "196170",
+        "name": "알테오젠",
+        "market": "KOSDAQ",
+        "estimated_cap_tier": "mid",
+        "primary_signal": "clean_narrative",
+        "reasoning": "\n미국 특허심판원(PTAB)이 5월 12일 할로자임 미국 특허(US 11,952,600 B2) PGR에서 청구항 1~4 및 8~21을 모두 특허불능으로 최종 결정\n. \n특허·로열티·전환율 등 시장 주요 우려 모두 제거, 신한투자증권 목표주가 62만원으로 상향\n. \nPTAB이 알테오젠의 ALT-B4 제조방법 특허에 대한 할로자임 IPR 심리 개시도 기각\n. 핵심 리스크 해소 후 빅파마 추가 기술이전 모멘텀.",
+        "sources": [
+          {
+            "publisher": "글로벌이코노믹",
+            "url": "https://www.g-enews.com/article/Bio-Pharma/2026/05/202605271543202903b065b72042_1",
+            "date": "2026-05-27"
+          },
+          {
+            "publisher": "팜이데일리",
+            "url": "https://pharm.edaily.co.kr/news/read?newsId=03998326645448592",
+            "date": "2026-05-12"
+          },
+          {
+            "publisher": "서울경제",
+            "url": "https://www.sedaily.com/article/20043852",
+            "date": "2026-05-14"
+          }
+        ],
+        "score": 5,
+        "signals_present": [
+          "fresh_catalyst",
+          "clean_narrative",
+          "theme_leader",
+          "momentum_continuation"
+        ],
+        "brief_reasoning": "美 PTAB의 할로자임 SC 특허 무효화 결정으로 핵심 리스크 해소 + ALT-B4 플랫폼 적용 빅파마(MSD/AZ/GSK/바이오젠) 확대로 매출 성장 가시화(2024년 757억→2025년 1,694억).",
+        "research_reasoning": "\n미국 특허심판원(PTAB)이 5월 12일 할로자임 미국 특허(US 11,952,600 B2) PGR에서 청구항 1~4 및 8~21을 모두 특허불능으로 최종 결정\n. \n특허·로열티·전환율 등 시장 주요 우려 모두 제거, 신한투자증권 목표주가 62만원으로 상향\n. \nPTAB이 알테오젠의 ALT-B4 제조방법 특허에 대한 할로자임 IPR 심리 개시도 기각\n. 핵심 리스크 해소 후 빅파마 추가 기술이전 모멘텀."
+      },
+      {
+        "ticker": "211270",
+        "name": "AP위성",
+        "market": "KOSDAQ",
+        "estimated_cap_tier": "mid",
+        "primary_signal": "theme_alignment",
+        "reasoning": "\n2026년 3월 19일 기준 시총 2,451억원, PER 28.9배로 국내 우주항공 평균(95.8배) 대비 명확한 저평가\n. \nKPS 위성 8기 및 AIS 탑재체 40기 양산 전환이 2026년 본격 가동, Thuraya-4 서비스 재개 및 Inmarsat 신규 수주(146억원)로 기저 매출 정상화 기대\n. 누리호 5차 발사 모멘텀과 결합돼 우주 테마 동조.",
+        "sources": [
+          {
+            "publisher": "알파스퀘어/한국IR협의회",
+            "url": "https://file.alphasquare.co.kr/media/pdfs/market-report/AP%EC%9C%84%EC%84%B1%EC%9C%84%EC%84%B120260323%ED%95%9C%EA%B5%ADIR%ED%98%91%EC%9D%98%ED%9A%8C.",
+            "date": "2026-03-23"
+          },
+          {
+            "publisher": "한국IR협의회/알파스퀘어",
+            "url": "https://file.alphasquare.co.kr/media/pdfs/market-report/AP%EC%9C%84%EC%84%B1%EC%9C%84%EC%84%B120260323%ED%95%9C%EA%B5%ADIR%ED%98%91%EC%9D%98%ED%9A%8C.",
+            "date": "2026-03-23"
+          }
+        ],
+        "score": 4,
+        "signals_present": [
+          "theme_alignment",
+          "clean_narrative",
+          "fresh_catalyst"
+        ],
+        "brief_reasoning": "2026년은 우주항공청(KASA) 주도의 누리호 5차 발사가 5~6월 예정된 우주개발 가속화 원년. AP위성은 시총 약 2,451억원 수준의 중형주로 우주항공 평균 PER(95.8배) 대비 저평가(28.9배) 상태이며 위성 사업부 양산 구조 전환 모멘텀 보유.",
+        "research_reasoning": "\n2026년 3월 19일 기준 시총 2,451억원, PER 28.9배로 국내 우주항공 평균(95.8배) 대비 명확한 저평가\n. \nKPS 위성 8기 및 AIS 탑재체 40기 양산 전환이 2026년 본격 가동, Thuraya-4 서비스 재개 및 Inmarsat 신규 수주(146억원)로 기저 매출 정상화 기대\n. 누리호 5차 발사 모멘텀과 결합돼 우주 테마 동조."
+      },
+      {
+        "ticker": "451760",
+        "name": "컨텍",
+        "market": "KOSDAQ",
+        "estimated_cap_tier": "mid",
+        "primary_signal": "fresh_catalyst",
+        "reasoning": "\n위성 데이터 처리 서비스 수요 급증으로 본격적인 리레이팅 구간 진입 판단, 2026년 매출 1,000억 돌파 및 흑자 전환 전망\n. \nAP위성 인수로 매출 목표 1,000억원 이상 상향, '위성 제작 → 지상국 송수신 → 데이터 분석' 전 밸류체인 내재화로 턴키 공급 가능\n. 우주 테마 동조 + 흑전 catalyst.",
+        "sources": [
+          {
+            "publisher": "더벨",
+            "url": "https://www.thebell.co.kr/front/newsview.asp?key=202605121119322960107726",
+            "date": "2026-05-15"
+          },
+          {
+            "publisher": "하나증권",
+            "url": "https://www.hanaw.com/download/research/FileServer/WEB/info/small_cap/2026/01/22/contec_260123_F.pdf",
+            "date": "2026-01-23"
+          }
+        ],
+        "score": 4,
+        "signals_present": [
+          "fresh_catalyst",
+          "theme_alignment",
+          "clean_narrative"
+        ],
+        "brief_reasoning": "민간 우주 시대 개화와 함께 아시아 최대 규모 지상국 인프라 영향력 확대 중. 올해 흑자 전환 가시화, 자회사 AP위성과의 시너지로 성장 모멘텀 강화.",
+        "research_reasoning": "\n위성 데이터 처리 서비스 수요 급증으로 본격적인 리레이팅 구간 진입 판단, 2026년 매출 1,000억 돌파 및 흑자 전환 전망\n. \nAP위성 인수로 매출 목표 1,000억원 이상 상향, '위성 제작 → 지상국 송수신 → 데이터 분석' 전 밸류체인 내재화로 턴키 공급 가능\n. 우주 테마 동조 + 흑전 catalyst."
+      }
+    ]
+  }
+}

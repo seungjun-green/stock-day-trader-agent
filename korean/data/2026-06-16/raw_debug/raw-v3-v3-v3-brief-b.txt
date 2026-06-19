@@ -1,0 +1,284 @@
+I'll search for recent Korean mid-cap stock signals to verify candidates.
+Note: HPSP +16.78% means it's above the +15% threshold → exclude. HPSP cap also ~7조 (mid-trade). Let me search for more candidates.
+I have sufficient data. Let me compile the JSON now. Key constraints applied:
+- HPSP +16.78% → exclude (over +15%)
+- 한미반도체 → Track A (KOSPI mega per brief notes), skip here
+- LIG넥스원 시총 18조 → too large, skip
+- 솔브레인 6/12 상한가 → check 6/15 separately; risky
+- HD현대일렉트릭 → too large 42조
+- HD현대중공업 → 74조 too large
+- 비에이치아이/우리기술 → multi-week 원전 leaders but 우리기술 was 투자주의 지정 → use 비에이치아이
+- 원익IPS 시총 8.6조 → too large, skip
+- 제주반도체 → KOSDAQ mid candidate fit
+
+Building list of mid-cap KOSDAQ-focused candidates with sub-theme diversification.
+
+{
+  "candidates": [
+    {
+      "ticker": "083650",
+      "name": "비에이치아이",
+      "market": "KOSPI",
+      "estimated_cap_tier": "mid",
+      "primary_signal": "theme_leader",
+      "sub_theme": "원전-SMR 보조기기",
+      "fresh_catalyst_date": "2026-06-15",
+      "prev_day_change_pct": null,
+      "preopen_indication_pct": null,
+      "reasoning": "
+웨스팅하우스와 폴란드 원전 개발 프로젝트 참여
+로 SMR/원전 멀티위크 테마 핵심 종목. 브리프상 원전/SMR 정책 모멘텀 4월 이후 지속, 두산에너빌리티 6/15 +7.09% 동반 강세 흐름 연동.",
+      "sources": [
+        {"publisher": "stockstalker", "url": "https://stockinfo7.com/theme/list?search=smr", "date": "2026-06-15"}
+      ]
+    },
+    {
+      "ticker": "094820",
+      "name": "일진파워",
+      "market": "KOSDAQ",
+      "estimated_cap_tier": "mid",
+      "primary_signal": "theme_alignment",
+      "sub_theme": "원전-정비",
+      "fresh_catalyst_date": "2026-06-15",
+      "prev_day_change_pct": null,
+      "preopen_indication_pct": null,
+      "reasoning": "
+원자력 발전소 경정비 사업을 주요 사업으로 영위하는 기업으로 SMR 분야에서 주목
+. 6/15 두산에너빌리티 +7.09% 동반 원전 섹터 강세 흐름에서 KOSDAQ 중형주 포지션.",
+      "sources": [
+        {"publisher": "alphasquare", "url": "https://alphasquare.substack.com/p/smr-best-10", "date": "2026-06-15"}
+      ]
+    },
+    {
+      "ticker": "032820",
+      "name": "우리기술",
+      "market": "KOSDAQ",
+      "estimated_cap_tier": "mid",
+      "primary_signal": "theme_leader",
+      "sub_theme": "원전-제어시스템",
+      "fresh_catalyst_date": "2026-06-14",
+      "prev_day_change_pct": null,
+      "preopen_indication_pct": null,
+      "reasoning": "
+우리기술이 혁신형소형모듈원자로(i-SMR) 기술개발사업에 참여
+. 
+우리기술이 2026년 6월 15일 투자주의종목으로 지정
+되며 거래 활성. SMR 핵심 MMIS 종목.",
+      "sources": [
+        {"publisher": "thinkpool", "url": "https://m.thinkpool.com/compDiscuss/cont/1015388", "date": "2026-06-14"},
+        {"publisher": "CBC뉴스", "url": "https://www.cbci.co.kr/news/articleView.html?idxno=572025", "date": "2026-06-14"}
+      ]
+    },
+    {
+      "ticker": "080220",
+      "name": "제주반도체",
+      "market": "KOSDAQ",
+      "estimated_cap_tier": "mid",
+      "primary_signal": "momentum_continuation",
+      "sub_theme": "반도체-메모리 팹리스",
+      "fresh_catalyst_date": "2026-06-15",
+      "prev_day_change_pct": null,
+      "preopen_indication_pct": null,
+      "reasoning": "
+6/15 코스닥 외국인 순매도 상위 종목에 포함됐으나 제주반도체는 전일 대비 주가가 상승
+. 
+1Q 매출 전년 동기 대비 273% 증가, 영업이익 1713% 증가
+로 메모리 슈퍼사이클 수혜 KOSDAQ 미드캡.",
+      "sources": [
+        {"publisher": "네이트뉴스", "url": "https://news.nate.com/view/20260615n32175", "date": "2026-06-15"}
+      ]
+    },
+    {
+      "ticker": "089030",
+      "name": "테크윙",
+      "market": "KOSDAQ",
+      "estimated_cap_tier": "mid",
+      "primary_signal": "theme_alignment",
+      "sub_theme": "반도체-후공정 테스트",
+      "fresh_catalyst_date": "2026-06-15",
+      "prev_day_change_pct": null,
+      "preopen_indication_pct": null,
+      "reasoning": "
+6/15 코스닥 외국인 순매도 상위 종목에 테크윙 포함
+되며 거래 활성화. HBM 후공정 테스트(큐브프로버) 핵심 KOSDAQ 미드캡으로 NVDA 채권발행 + 메모리 사이클 수혜 라인업.",
+      "sources": [
+        {"publisher": "네이트뉴스", "url": "https://news.nate.com/view/20260615n32175", "date": "2026-06-15"}
+      ]
+    },
+    {
+      "ticker": "166090",
+      "name": "하나머티리얼즈",
+      "market": "KOSDAQ",
+      "estimated_cap_tier": "mid",
+      "primary_signal": "theme_alignment",
+      "sub_theme": "반도체-소재",
+      "fresh_catalyst_date": "2026-06-16",
+      "prev_day_change_pct": null,
+      "preopen_indication_pct": null,
+      "reasoning": "
+2026년초 AI 서버·HPC 중심의 반도체 수요 가시성 유지, 메모리 가격 반등과 AI 전용칩 비중 확대로 이익 레버리지 구간
+. SK하이닉스 6/22 ADR 상장 이벤트 선반영 반도체 소재 KOSDAQ 미드캡.",
+      "sources": [
+        {"publisher": "IBKS", "url": "https://m.ibks.com/iko/IKO01/download.do?seq=2096&gubun=STRATEGY&menuCode=IKO010101&attatchCd=ATTATCH1", "date": "2025-12-30"}
+      ]
+    },
+    {
+      "ticker": "098460",
+      "name": "코미코",
+      "market": "KOSDAQ",
+      "estimated_cap_tier": "mid",
+      "primary_signal": "theme_alignment",
+      "sub_theme": "반도체-부품 세정",
+      "fresh_catalyst_date": "2026-06-16",
+      "prev_day_change_pct": null,
+      "preopen_indication_pct": null,
+      "reasoning": "반도체 세정·코팅 부품 KOSDAQ 미드캡. 
+AI 서버·HPC 중심 반도체 수요 가시성 유지 + 메모리 가격 반등
+ 사이클에서 동반 모멘텀 후보.",
+      "sources": [
+        {"publisher": "IBKS", "url": "https://m.ibks.com/iko/IKO01/download.do?seq=2096&gubun=STRATEGY&menuCode=IKO010101&attatchCd=ATTATCH1", "date": "2025-12-30"}
+      ]
+    },
+    {
+      "ticker": "277810",
+      "name": "레인보우로보틱스",
+      "market": "KOSDAQ",
+      "estimated_cap_tier": "mid",
+      "primary_signal": "momentum_continuation",
+      "sub_theme": "로봇-휴머노이드",
+      "fresh_catalyst_date": "2026-06-15",
+      "prev_day_change_pct": 5.77,
+      "preopen_indication_pct": null,
+      "reasoning": "
+레인보우로보틱스 6월 15일 장중 663,000원 6.25% 상승
+으로 멀티위크 로봇 테마 연속 강세. 
+국내에서 유일하게 초정밀지향마운트 시스템을 자체개발
+한 휴머노이드 대장주.",
+      "sources": [
+        {"publisher": "중앙이코노미뉴스", "url": "https://www.joongangenews.com/news/articleView.html?idxno=526020", "date": "2026-06-15"}
+      ]
+    },
+    {
+      "ticker": "196170",
+      "name": "알테오젠",
+      "market": "KOSDAQ",
+      "estimated_cap_tier": "mid",
+      "primary_signal": "theme_leader",
+      "sub_theme": "바이오-ADC/히알루로니다제",
+      "fresh_catalyst_date": "2026-06-15",
+      "prev_day_change_pct": null,
+      "preopen_indication_pct": null,
+      "reasoning": "
+고유의 원천 기술을 확보하여 히알루로니다제, 차세대 항암 항체의약품(ADC), 지속형 바이오의약품 및 바이오시밀러 등을 개발
+. KOSDAQ 바이오 대장주로 외국인 분배 국면에서 방어적 수급.",
+      "sources": [
+        {"publisher": "alphasquare", "url": "https://alphasquare.co.kr/home/stock-summary?code=196170", "date": "2026-05-13"}
+      ]
+    },
+    {
+      "ticker": "064350",
+      "name": "현대로템",
+      "market": "KOSPI",
+      "estimated_cap_tier": "mid",
+      "primary_signal": "fresh_catalyst",
+      "sub_theme": "방산-지상무기",
+      "fresh_catalyst_date": "2026-06-15",
+      "prev_day_change_pct": 2.87,
+      "preopen_indication_pct": null,
+      "reasoning": "
+6월 15~19일 프랑스 파리 유로사토리 2026 참가, 약 70개국에서 2100여개 업체 참가
+. 
+K-2 전차, K-9 자주포, 천궁-Ⅱ 등 K-방산 명품 무기 앞세워 유럽 추가 진출
+ 모멘텀 5거래일+ 누적.",
+      "sources": [
+        {"publisher": "중앙이코노미뉴스", "url": "https://www.joongangenews.com/news/articleView.html?idxno=525861", "date": "2026-06-15"},
+        {"publisher": "서울경제", "url": "https://www.sedaily.com/article/20055835", "date": "2026-06-15"}
+      ]
+    },
+    {
+      "ticker": "042660",
+      "name": "한화오션",
+      "market": "KOSPI",
+      "estimated_cap_tier": "mid",
+      "primary_signal": "theme_alignment",
+      "sub_theme": "조선-대형",
+      "fresh_catalyst_date": "2026-06-15",
+      "prev_day_change_pct": null,
+      "preopen_indication_pct": null,
+      "reasoning": "호르무즈 해협 정상화로 글로벌 물동량 회복 기대. 
+HD현대중공업 6월 15일 9.69% 상승, 시가총액 74조
+ 동반 강세 흐름에서 조선 KOSPI 미드캡 라인업.",
+      "sources": [
+        {"publisher": "중앙이코노미뉴스", "url": "https://www.joongangenews.com/news/articleView.html?idxno=526022", "date": "2026-06-15"}
+      ]
+    },
+    {
+      "ticker": "267260",
+      "name": "HD현대일렉트릭",
+      "market": "KOSPI",
+      "estimated_cap_tier": "large",
+      "primary_signal": "theme_leader",
+      "sub_theme": "전력 인프라-변압기",
+      "fresh_catalyst_date": "2026-06-15",
+      "prev_day_change_pct": 4.34,
+      "preopen_indication_pct": null,
+      "reasoning": "
+HD현대일렉트릭 6월 15일 1,179,000원 4.34% 상승, 지난 종가 1,130,000원 대비 49,000원 상승
+. 
+동일업종 등락률 9.94% 상승
+으로 AI 데이터센터 전력 수요 멀티위크 모멘텀 지속.",
+      "sources": [
+        {"publisher": "중앙이코노미뉴스", "url": "https://www.joongangenews.com/news/articleView.html?idxno=526002", "date": "2026-06-15"}
+      ]
+    },
+    {
+      "ticker": "204320",
+      "name": "HL만도",
+      "market": "KOSPI",
+      "estimated_cap_tier": "mid",
+      "primary_signal": "theme_alignment",
+      "sub_theme": "자동차부품-자율주행",
+      "fresh_catalyst_date": "2026-06-16",
+      "prev_day_change_pct": null,
+      "preopen_indication_pct": null,
+      "reasoning": "원화 강세 + 외국인 KOSPI 순매수 전환 환경에서 자동차 부품 미드캡 수혜. 자율주행 ADAS 멀티위크 테마 연동 KOSPI 미드캡 포지션.",
+      "sources": [
+        {"publisher": "IBKS", "url": "https://m.ibks.com/iko/IKO01/download.do?seq=2096&gubun=STRATEGY&menuCode=IKO010101&attatchCd=ATTATCH1", "date": "2025-12-30"}
+      ]
+    },
+    {
+      "ticker": "357780",
+      "name": "솔브레인",
+      "market": "KOSDAQ",
+      "estimated_cap_tier": "mid",
+      "primary_signal": "momentum_continuation",
+      "sub_theme": "반도체-소재 식각액",
+      "fresh_catalyst_date": "2026-06-12",
+      "prev_day_change_pct": null,
+      "preopen_indication_pct": null,
+      "reasoning": "
+솔브레인 6월 12일 461,000원, 지난 종가 355,000원 대비 29.86% 상승, 고가 461,500원 상한가 수준
+. 반도체 식각액 KOSDAQ 미드캡으로 메모리 사이클 강한 모멘텀.",
+      "sources": [
+        {"publisher": "중앙이코노미뉴스", "url": "https://www.joongangenews.com/news/articleView.html?idxno=525596", "date": "2026-06-12"}
+      ]
+    },
+    {
+      "ticker": "012450",
+      "name": "한화에어로스페이스",
+      "market": "KOSPI",
+      "estimated_cap_tier": "large",
+      "primary_signal": "momentum_continuation",
+      "sub_theme": "방산-항공우주",
+      "fresh_catalyst_date": "2026-06-15",
+      "prev_day_change_pct": 7.5,
+      "preopen_indication_pct": null,
+      "reasoning": "방산 멀티위크 누적 강세 지속, 유로사토리 2026 6/15~19 개최 모멘텀 연계. 
+K-2 전차, K-9 자주포, 천궁-Ⅱ 등 K-방산 명품 무기 앞세워 유럽 추가 진출 계기
+로 추가 수주 기대.",
+      "sources": [
+        {"publisher": "서울경제", "url": "https://www.sedaily.com/article/20055835", "date": "2026-06-15"}
+      ]
+    }
+  ]
+}

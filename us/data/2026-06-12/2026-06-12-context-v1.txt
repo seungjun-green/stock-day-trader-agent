@@ -1,0 +1,146 @@
+Here is your morning market briefing for Friday, June 12, 2026:
+
+---
+
+**US MARKET BRIEFING — Friday, June 12, 2026**
+
+---
+
+**Yesterday recap:**
+
+
+- S&P 500: 7,394.30 (+1.75%)
+- Nasdaq: 25,809.66 (+2.54%)
+- Russell 2000: 2,921.03 (+3.02%)
+
+
+- Key events: 
+Stocks closed sharply higher as investor sentiment improved amid a pullback in oil prices after President Trump cancelled strikes against Iran, claiming a deal had been agreed in principle by several allies in the Middle East.
+ 
+U.S. wholesale prices surged in May — headline PPI climbed 1.1% vs. consensus of 0.7%, and core rose 0.4% in line with estimates.
+ 
+The ECB raised its benchmark rate to 2.25% from 2.00%, becoming one of the first major central banks to respond to the economic fallout from the Iran conflict.
+
+
+- Notable after-hours: 
+Adobe (ADBE) -6.25% to $218.80
+ — 
+Adobe announced the exit of CFO Dan Durn, adding to concerns about the company.
+ 
+Lennar (LEN) — forecast third-quarter home deliveries below Wall Street estimates amid a persistently challenging environment.
+ 
+Oracle (ORCL) slipped nearly 9% as investors focused on a cloud revenue miss and rising AI infrastructure costs despite an earnings beat.
+
+
+---
+
+**Pre-market / overnight:**
+
+- 
+US stock futures were little changed on Friday as investors looked ahead to SpaceX's highly anticipated market debut and weighed signs of easing tensions between the US and Iran.
+ ES ~flat/+0.1%, 
+NQ futures +0.07%, RTY futures +0.25%.
+
+
+- VIX: 
+VIX at ~19.44, down ~12.5% on the session
+ — sharply lower, reflecting the Iran de-escalation relief rally.
+
+- Rates/FX/Commodities: 
+10Y Treasury yield hovering around 4.47% on Friday after dropping about 10 basis points in the prior session, as Trump said a peace agreement with Iran could be signed as soon as this weekend.
+ 
+The dollar dropped sharply against major peers on Thursday after President Trump's comments.
+ 
+WTI crude fell to $84.35/bbl on June 12, down ~3.83% from the prior day.
+ 
+Gold eased below $4,200/oz on Friday but held most of the prior session's gains as growing optimism over an imminent US-Iran peace deal eased inflation concerns.
+
+
+- Asia/Europe overnight: 
+Nikkei 225 jumped ~4% toward 67,000 and the broader Topix climbed 2.1% as Japanese equities rebounded on Trump's Iran peace deal comments, sending oil prices sharply lower.
+ 
+Hang Seng +1.93%, Shanghai Composite +1.12%, DAX +1.12%, STOXX 50 +1.23%, FTSE 100 +0.87%.
+
+
+---
+
+**Today's setup:**
+
+- Regime: **Risk-on / bounce continuation** — geopolitical de-escalation driving broad relief rally; small caps and cyclicals leading.
+- Expected gap direction: 
+Stock futures edged higher and oil prices fell as Wall Street reacted to the prospect of a US-Iran peace deal while preparing for the public market debut of SpaceX.
+ Modest gap-up expected at open.
+- Active themes: SpaceX IPO debut, Iran peace deal progress, semis/AI rebound, energy sector selling off on oil drop.
+- Risks: 
+Despite improving sentiment, risks remain as tensions continue in the Strait of Hormuz, with reports of drones targeting commercial vessels; Iran has threatened to keep the waterway closed.
+ 
+PPI data reinforces expectations the Fed could raise interest rates this year.
+ 
+There are currently no bets left for a Fed rate cut in 2026, and bets for a Fed hike are rising.
+
+
+---
+
+**Active themes to watch:**
+
+- **SpaceX IPO (SPCX):** 
+SpaceX is set to start trading today and is expected to become the largest IPO in history, having priced shares at $135 each, raising roughly $75 billion at a market valuation of ~$1.78 trillion.
+ Watch for sympathy moves in space-adjacent names: 
+Intuitive Machines (LUNR) +3% and Rocket Lab (RKLB) +2% were already moving ahead of the debut.
+ Virgin Galactic (SPCE) +21.66% in pre-market.
+
+- **Semis / AI rebound:** 
+Micron and AMD soared 11% and 8% respectively on Thursday, while Lam Research added 12.7% and Intel jumped over 10% after being upgraded by BofA on soaring CPU orders.
+ 
+Nvidia (NVDA) told Chinese clients its new "Vera" CPUs for AI data centers could be available as soon as August; NVDA +0.18% to $205.24 in pre-market.
+
+
+- **Energy sector rotation:** 
+Crude oil fell more than 4% to below $84/bbl, extending losses to an eight-week low; Iran's Mehr News Agency reported a 14-point draft agreement includes lifting oil sanctions and reopening the Strait of Hormuz within 30 days.
+ Energy names (XOM, CVX, OXY) face headwinds; refiners (PBF, DK) may see margin pressure relief.
+
+---
+
+**Yesterday's notable movers (top 5):**
+
+- 
+LAM Research (LRCX) +12.7% — AI/semi rebound, strong demand signals.
+
+- 
+Intel (INTC) +10%+ — BofA upgrade on soaring CPU orders.
+
+- 
+Micron (MU) +11% — broad semi sector relief rally.
+
+- 
+AMD (AMD) +8% — semi sector rotation and AI infrastructure optimism.
+
+- 
+Oracle (ORCL) -9% — cloud revenue miss and rising AI infrastructure costs despite earnings beat.
+
+
+---
+
+**Today's earnings / scheduled catalysts:**
+
+- Pre-market/Today: 
+University of Michigan preliminary June Consumer Sentiment
+ due this morning — 
+consensus expects a rebound to 46.0 from 44.8 last month, which has hit a series of all-time lows in recent months.
+ Watch for inflation expectations component given CPI at 4.2% and PPI at 6.5% YoY.
+
+- SpaceX (SPCX) debut: The dominant intraday event. 
+Investors and fund managers may need to make room in portfolios for SpaceX; to buy the offering, they may sell existing holdings including technology, semiconductor, cloud computing, or AI-related stocks.
+
+
+- After-close: No major S&P 500 earnings scheduled for Friday. 
+FOMC meeting begins June 16, with the rate decision on June 17; Carmax (KMX) earnings also expected June 17.
+
+
+- Macro horizon: 
+A final US-Iran peace agreement could be signed in Switzerland as soon as Sunday, coinciding with the G7 summit scheduled for June 15–17 in Evian, France.
+ Any weekend deal headline will set Monday's tone.
+
+---
+
+*Briefing compiled pre-market 6/12/2026. All data sourced from live market feeds; verify levels at your broker before trading.*

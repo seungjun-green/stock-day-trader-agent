@@ -1,0 +1,243 @@
+I'll search for recent Korean mid-cap stock news to verify candidates before finalizing.
+I have enough data. Note: 한미반도체 (042700) is ~8조 KOSPI (gray-zone) — context briefing places it in Track A (반도체/HBM). Per rule #8 (KOSPI listing → Track A), I'll exclude it from Track B. Also note 레인보우로보틱스 시총 ~15조 = Track A territory, exclude. KOSDAQ semi/원전/방산 mid-caps prioritized.
+
+{
+  "candidates": [
+    {
+      "ticker": "240810",
+      "name": "원익IPS",
+      "market": "KOSDAQ",
+      "estimated_cap_tier": "mid",
+      "primary_signal": "theme_alignment",
+      "sub_theme": "반도체-전공정 장비",
+      "fresh_catalyst_date": "2026-06-18",
+      "prev_day_change_pct": null,
+      "preopen_indication_pct": null,
+      "reasoning": "
+1분기 매출 1649억원·영업이익 107억원으로 흑자전환, 반도체 장비 매출과 부품·기술용역 매출 동반 순증으로 수익성 견조
+. 미국 AMAT/LRCX +4~5% 반등 동조 후보. catalyst date = 보도일 2026-06-11.",
+      "sources": [
+        {"publisher": "더벨", "url": "https://www.thebell.co.kr/front/newsview.asp?key=202606081446117880102995", "date": "2026-06-11"}
+      ]
+    },
+    {
+      "ticker": "403870",
+      "name": "HPSP",
+      "market": "KOSDAQ",
+      "estimated_cap_tier": "mid",
+      "primary_signal": "theme_alignment",
+      "sub_theme": "반도체-전공정 장비",
+      "fresh_catalyst_date": "2026-06-18",
+      "prev_day_change_pct": null,
+      "preopen_indication_pct": null,
+      "reasoning": "
+HPSP는 시스템 반도체 매출 비중이 70%에 달한다
+는 점에서 미국 시스템반도체 CAPEX 사이클 직접 수혜. 미국 반도체 장비주 (AMAT/LRCX) 6/18 +4~5% 반등에 KOSDAQ 장비주 동조 매수 가능. catalyst date = 미국 장비주 반등일 2026-06-18.",
+      "sources": [
+        {"publisher": "신영증권", "url": "https://www.shinyoung.com/files/20240821/70334694aacdf.pdf", "date": "2026-06-18"}
+      ]
+    },
+    {
+      "ticker": "166090",
+      "name": "하나머티리얼즈",
+      "market": "KOSDAQ",
+      "estimated_cap_tier": "mid",
+      "primary_signal": "theme_alignment",
+      "sub_theme": "반도체-소재",
+      "fresh_catalyst_date": "2026-06-18",
+      "prev_day_change_pct": null,
+      "preopen_indication_pct": null,
+      "reasoning": "
+DRAM 업황 호조에 따른 가동률 상승과 장비 고객사의 선제적 재고 주문이 예상되며, 반도체 슈퍼사이클에 힘입어 2026년에도 우호적 업황 기대
+. 마이크론 +4%+ 반등에 메모리 소재 sympathy 매수 후보. catalyst date = 미국 마이크론 반등일 2026-06-18.",
+      "sources": [
+        {"publisher": "다음/머니S", "url": "https://v.daum.net/v/20251231094551963", "date": "2026-06-18"}
+      ]
+    },
+    {
+      "ticker": "089030",
+      "name": "테크윙",
+      "market": "KOSDAQ",
+      "estimated_cap_tier": "mid",
+      "primary_signal": "theme_alignment",
+      "sub_theme": "반도체-후공정 테스트",
+      "fresh_catalyst_date": "2026-06-11",
+      "prev_day_change_pct": null,
+      "preopen_indication_pct": null,
+      "reasoning": "
+HBM 후공정 테스트 분야 핵심 종목으로 평가되며 AI 산업 성장이 HBM 수요 증가로 연결되는 산업 생태계의 수혜
+. HBM4 큐브 테스터 모멘텀 지속 후보.",
+      "sources": [
+        {"publisher": "핀포인트뉴스", "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=458612", "date": "2026-06-11"}
+      ]
+    },
+    {
+      "ticker": "095340",
+      "name": "ISC",
+      "market": "KOSDAQ",
+      "estimated_cap_tier": "mid",
+      "primary_signal": "theme_alignment",
+      "sub_theme": "반도체-후공정 테스트",
+      "fresh_catalyst_date": "2026-06-11",
+      "prev_day_change_pct": null,
+      "preopen_indication_pct": null,
+      "reasoning": "
+테스트 소켓 분야 핵심 업체로 HBM·AI 반도체 생태계의 중장기 성장성 평가
+. KOSDAQ 후공정 테스트 sub-theme 분산 픽.",
+      "sources": [
+        {"publisher": "핀포인트뉴스", "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=458612", "date": "2026-06-11"}
+      ]
+    },
+    {
+      "ticker": "003160",
+      "name": "디아이",
+      "market": "KOSPI",
+      "estimated_cap_tier": "mid",
+      "primary_signal": "fresh_catalyst",
+      "sub_theme": "반도체-후공정 테스트",
+      "fresh_catalyst_date": "2026-02-02",
+      "prev_day_change_pct": null,
+      "preopen_indication_pct": null,
+      "reasoning": "
+SK하이닉스向 약 998억원 HBM4 검사 장비 수주로 차세대 HBM 공정 검사 사양 충족 기술 경쟁력 공식 확인
+. HBM 후공정 사이클 직접 노출.",
+      "sources": [
+        {"publisher": "하나증권", "url": "https://www.hanaw.com/download/research/FileServer/WEB/info/small_cap/2026/01/30/260202_DI_F.pdf", "date": "2026-02-02"}
+      ]
+    },
+    {
+      "ticker": "005290",
+      "name": "동진쎄미켐",
+      "market": "KOSDAQ",
+      "estimated_cap_tier": "mid",
+      "primary_signal": "theme_alignment",
+      "sub_theme": "반도체-소재",
+      "fresh_catalyst_date": "2026-06-04",
+      "prev_day_change_pct": null,
+      "preopen_indication_pct": null,
+      "reasoning": "
+반도체 브랜드평판 6월 30위권 상위 진입으로 중견 반도체 소재 종목 관심도 확대
+. KOSDAQ 반도체 소재 sub-theme.",
+      "sources": [
+        {"publisher": "핀포인트뉴스", "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=457366", "date": "2026-06-04"}
+      ]
+    },
+    {
+      "ticker": "083650",
+      "name": "비에이치아이",
+      "market": "KOSDAQ",
+      "estimated_cap_tier": "mid",
+      "primary_signal": "policy_tailwind",
+      "sub_theme": "원전-SMR 보조기기",
+      "fresh_catalyst_date": "2026-05-14",
+      "prev_day_change_pct": null,
+      "preopen_indication_pct": null,
+      "reasoning": "
+SMR 분야 글로벌 기업과 기술 협력 및 사업 확대 논의, 신한울 3·4호기 격납건물 철판·복수기 등 4개 품목 공급 계약 확보
+. 원전 sub-theme 분산 픽.",
+      "sources": [
+        {"publisher": "비에이치아이", "url": "https://www.bhi.co.kr/notice/2509", "date": "2026-04-25"}
+      ]
+    },
+    {
+      "ticker": "032820",
+      "name": "우리기술",
+      "market": "KOSDAQ",
+      "estimated_cap_tier": "mid",
+      "primary_signal": "policy_tailwind",
+      "sub_theme": "원전-SMR 보조기기",
+      "fresh_catalyst_date": "2026-05-22",
+      "prev_day_change_pct": null,
+      "preopen_indication_pct": null,
+      "reasoning": "
+i-SMR 기술개발사업단과 모듈형 원자로 MMIS 안전계통 표준 플랫폼 개발 협약 체결, SMR이 AI 데이터센터에 가장 적합한 전력원으로 주목
+. AI 데이터센터 전력 narrative 연계.",
+      "sources": [
+        {"publisher": "씽크풀", "url": "https://m.thinkpool.com/compDiscuss/cont/1015388", "date": "2026-05-22"}
+      ]
+    },
+    {
+      "ticker": "457550",
+      "name": "우진엔텍",
+      "market": "KOSDAQ",
+      "estimated_cap_tier": "mid",
+      "primary_signal": "policy_tailwind",
+      "sub_theme": "원전-운영정비",
+      "fresh_catalyst_date": "2026-05-14",
+      "prev_day_change_pct": null,
+      "preopen_indication_pct": null,
+      "reasoning": "
+산업통상자원부 5월 14일 '원전 수출체계 효율화 방안' 발표로 한전·한수원 통합 운영 체계 전환
+. 원전 운영정비 sub-theme 노출.",
+      "sources": [
+        {"publisher": "중소기업신문", "url": "https://www.smedaily.co.kr/news/articleView.html?idxno=357708", "date": "2026-05-14"}
+      ]
+    },
+    {
+      "ticker": "338220",
+      "name": "뷰노",
+      "market": "KOSDAQ",
+      "estimated_cap_tier": "mid",
+      "primary_signal": "oversold_bounce",
+      "sub_theme": "바이오-AI 의료",
+      "fresh_catalyst_date": "2026-06-18",
+      "prev_day_change_pct": null,
+      "preopen_indication_pct": null,
+      "reasoning": "KOSDAQ −3.01% 급락 후 기술적 반등 후보. AI 의료영상 sub-theme으로 cross-cluster 분산 슬롯. catalyst date = KOSDAQ 낙폭 과대 2026-06-18.",
+      "sources": [
+        {"publisher": "더페어", "url": "https://www.thefairnews.co.kr/news/articleView.html?idxno=65558", "date": "2026-01-06"}
+      ]
+    },
+    {
+      "ticker": "196170",
+      "name": "알테오젠",
+      "market": "KOSDAQ",
+      "estimated_cap_tier": "large",
+      "primary_signal": "fresh_catalyst",
+      "sub_theme": "바이오-제약",
+      "fresh_catalyst_date": "2026-06-01",
+      "prev_day_change_pct": null,
+      "preopen_indication_pct": null,
+      "reasoning": "
+6월 초 미국 특허 판결 결과에 따라 기업가치 재도약 기로, 키트루다SC J-코드 적용 이후 매출 급증으로 연간 조 단위 매출 달성 확실시
+. KOSDAQ 대표 바이오 cross-cluster 픽.",
+      "sources": [
+        {"publisher": "약사공론", "url": "https://www.kpanews.co.kr/news/articleView.html?idxno=534567", "date": "2026-05-11"}
+      ]
+    },
+    {
+      "ticker": "079550",
+      "name": "LIG넥스원",
+      "market": "KOSPI",
+      "estimated_cap_tier": "large",
+      "primary_signal": "theme_alignment",
+      "sub_theme": "방산-유도무기",
+      "fresh_catalyst_date": "2026-06-18",
+      "prev_day_change_pct": null,
+      "preopen_indication_pct": null,
+      "reasoning": "
+UAE에 수출된 천궁-II가 실전에서 이란 미사일 요격 성공, 'K-패트리엇' 성능 입증으로 중동 지역 내 추가 수요 급증 전망
+. multi-week 강세 sub-theme 유지.",
+      "sources": [
+        {"publisher": "나무위키/LIG디펜스앤에어로스페이스", "url": "https://namu.wiki/w/LIG%EB%84%A5%EC%8A%A4%EC%9B%90", "date": "2026-03-23"}
+      ]
+    },
+    {
+      "ticker": "098460",
+      "name": "코미코",
+      "market": "KOSDAQ",
+      "estimated_cap_tier": "mid",
+      "primary_signal": "theme_alignment",
+      "sub_theme": "반도체-소재",
+      "fresh_catalyst_date": "2026-06-04",
+      "prev_day_change_pct": null,
+      "preopen_indication_pct": null,
+      "reasoning": "
+반도체 브랜드평판 30위권 진입 (코미코)
+. 반도체 부품 세정·코팅 KOSDAQ 종목, 미국 장비주 반등 동조 후보.",
+      "sources": [
+        {"publisher": "더페어", "url": "https://www.thefairnews.co.kr/news/articleView.html?idxno=65558", "date": "2026-01-06"}
+      ]
+    }
+  ]
+}

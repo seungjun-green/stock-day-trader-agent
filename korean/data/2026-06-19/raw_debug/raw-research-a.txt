@@ -1,0 +1,258 @@
+I now have solid data. Let me note key findings:
+- SK하이닉스 +6.51% on 6/18 (within P6 +10~15% range? No, 6.51% only)
+- 삼성전자 +4.62%
+- SK스퀘어 +4.57%
+- 외국인 +1.276조 KOSPI 순매수
+- 미국 Juneteenth 휴장 (catalyst absence factor)
+
+No candidate exceeds +15% prev day change (E5). Some are above +4% but P6 only applies +10~15%.
+
+Now scoring with diversification consideration. Sub-themes: 은행 3종 (KB/신한/하나), 자동차 2종 (현대차/기아), 반도체 3종. D1 limits these.
+
+{
+  "scored": [
+    {
+      "ticker": "005930",
+      "score": 4,
+      "signals_present": ["theme_leader", "fresh_catalyst", "momentum_continuation", "policy_tailwind"],
+      "primary_signal": "theme_leader",
+      "sub_theme": "반도체-메모리",
+      "fresh_catalyst_date": "2026-06-18",
+      "prev_day_change_pct": 4.62,
+      "preopen_indication_pct": null,
+      "hard_exclusions_triggered": [],
+      "soft_penalties_applied": ["P4"],
+      "reasoning": "
+삼성전자는 6/18 4.62% 상승하며 36만2500원에 마감
+, KOSPI 9,000pt 돌파를 SK하이닉스와 함께 주도. HBM4 양산 출하 + 미국 MU/AMAT/LRCX 동반 반등으로 글로벌 메모리 사이클 직접 수혜. preopen 데이터 부재로 P4 적용.",
+      "sources": [
+        {"publisher": "파이낸셜뉴스", "url": "https://www.fnnews.com/news/202606181606319528", "date": "2026-06-18"}
+      ]
+    },
+    {
+      "ticker": "000660",
+      "score": 5,
+      "signals_present": ["theme_leader", "fresh_catalyst", "momentum_continuation", "policy_tailwind"],
+      "primary_signal": "theme_leader",
+      "sub_theme": "반도체-HBM",
+      "fresh_catalyst_date": "2026-06-18",
+      "prev_day_change_pct": 6.51,
+      "preopen_indication_pct": null,
+      "hard_exclusions_triggered": [],
+      "soft_penalties_applied": ["P4"],
+      "reasoning": "
+SK하이닉스 6/18 6.51% 상승한 268만5000원에 거래 마치며 사상 처음 '260만닉스' 시현
+. HBM 글로벌 1위 지위 + 외국인 KOSPI 1.276조 순매수의 핵심 매수 종목. 미국 반도체 동반 반등 환경에서 leadership 강화.",
+      "sources": [
+        {"publisher": "파이낸셜뉴스", "url": "https://www.fnnews.com/news/202606181606319528", "date": "2026-06-18"}
+      ]
+    },
+    {
+      "ticker": "042700",
+      "score": 3,
+      "signals_present": ["theme_alignment", "momentum_continuation"],
+      "primary_signal": "theme_alignment",
+      "sub_theme": "반도체-HBM 후공정",
+      "fresh_catalyst_date": "2026-06-18",
+      "prev_day_change_pct": 5.0,
+      "preopen_indication_pct": null,
+      "hard_exclusions_triggered": [],
+      "soft_penalties_applied": ["P4", "P5"],
+      "reasoning": "HBM TC본더 독점 공급사로 SK하이닉스 HBM4 양산 사이클 직접 수혜. 6/18 반도체 섹터 동반 강세에 합류. 종목 고유 fresh catalyst는 없어 theme_alignment 기반으로 P5 적용.",
+      "sources": [
+        {"publisher": "파이낸셜뉴스", "url": "https://www.fnnews.com/news/202606181606319528", "date": "2026-06-18"}
+      ]
+    },
+    {
+      "ticker": "035420",
+      "score": 2,
+      "signals_present": ["theme_alignment", "clean_narrative"],
+      "primary_signal": "theme_alignment",
+      "sub_theme": "AI 플랫폼",
+      "fresh_catalyst_date": null,
+      "prev_day_change_pct": 2.5,
+      "preopen_indication_pct": null,
+      "hard_exclusions_triggered": [],
+      "soft_penalties_applied": ["P4", "P5"],
+      "reasoning": "
+KB증권 임정은 연구원에 따르면 KOSPI 상승 종목 수가 110개 미만으로 주도주 쏠림 장세
+로 반도체 외 대형주 매수 강도는 분산 가능성. AI 플랫폼 narrative 보유하나 종목 고유 dated catalyst 부재.",
+      "sources": [
+        {"publisher": "파이낸셜뉴스", "url": "https://www.fnnews.com/news/202606181606319528", "date": "2026-06-18"}
+      ]
+    },
+    {
+      "ticker": "005380",
+      "score": 3,
+      "signals_present": ["policy_tailwind", "theme_alignment", "clean_narrative"],
+      "primary_signal": "policy_tailwind",
+      "sub_theme": "자동차-완성차",
+      "fresh_catalyst_date": "2026-06-18",
+      "prev_day_change_pct": 2.0,
+      "preopen_indication_pct": null,
+      "hard_exclusions_triggered": [],
+      "soft_penalties_applied": ["P4"],
+      "reasoning": "USD/KRW 1,560원대 원화 약세로 수출 마진 확대 환경. 
+외국인이 KOSPI에서 1조2761억원 순매수
+한 흐름이 대형 수출주로 확산 시 직접 수혜.",
+      "sources": [
+        {"publisher": "파이낸셜뉴스", "url": "https://www.fnnews.com/news/202606181606319528", "date": "2026-06-18"}
+      ]
+    },
+    {
+      "ticker": "000270",
+      "score": 3,
+      "signals_present": ["policy_tailwind", "theme_alignment", "clean_narrative"],
+      "primary_signal": "policy_tailwind",
+      "sub_theme": "자동차-완성차",
+      "fresh_catalyst_date": "2026-06-18",
+      "prev_day_change_pct": 1.8,
+      "preopen_indication_pct": null,
+      "hard_exclusions_triggered": [],
+      "soft_penalties_applied": ["P4"],
+      "reasoning": "원화 약세 환경에서 수출 마진 확대. 
+외국인 1조2761억원 KOSPI 순매수
+의 자동차 섹터 매수 확산 시 동반 매수 흐름 합류.",
+      "sources": [
+        {"publisher": "파이낸셜뉴스", "url": "https://www.fnnews.com/news/202606181606319528", "date": "2026-06-18"}
+      ]
+    },
+    {
+      "ticker": "105560",
+      "score": 3,
+      "signals_present": ["theme_alignment", "policy_tailwind", "clean_narrative"],
+      "primary_signal": "theme_alignment",
+      "sub_theme": "금융-은행",
+      "fresh_catalyst_date": "2026-06-18",
+      "prev_day_change_pct": 2.2,
+      "preopen_indication_pct": null,
+      "hard_exclusions_triggered": [],
+      "soft_penalties_applied": ["P4", "P5"],
+      "reasoning": "
+외국인 KOSPI 1조2761억원 순매수
+의 금융 섹터 직접 수혜. Fed 점도표 매파 전환 (연내 인상 가능성) 환경에서 NIM 개선 기대. 주의: primary_signal이 premarket_strength로 표기되어 있었으나 preopen 데이터 없어 theme_alignment로 재분류.",
+      "sources": [
+        {"publisher": "파이낸셜뉴스", "url": "https://www.fnnews.com/news/202606181606319528", "date": "2026-06-18"}
+      ]
+    },
+    {
+      "ticker": "055550",
+      "score": 3,
+      "signals_present": ["theme_alignment", "policy_tailwind", "clean_narrative"],
+      "primary_signal": "theme_alignment",
+      "sub_theme": "금융-은행",
+      "fresh_catalyst_date": "2026-06-18",
+      "prev_day_change_pct": 2.0,
+      "preopen_indication_pct": null,
+      "hard_exclusions_triggered": [],
+      "soft_penalties_applied": ["P4", "P5"],
+      "reasoning": "보험·금융 섹터 KOSPI 주도 흐름 합류. 외국인 순매수 전환 + Fed 매파 점도표 환경에서 은행 수익성 개선 환경 형성.",
+      "sources": [
+        {"publisher": "파이낸셜뉴스", "url": "https://www.fnnews.com/news/202606181606319528", "date": "2026-06-18"}
+      ]
+    },
+    {
+      "ticker": "003490",
+      "score": 4,
+      "signals_present": ["fresh_catalyst", "theme_alignment", "clean_narrative"],
+      "primary_signal": "fresh_catalyst",
+      "sub_theme": "항공-운송",
+      "fresh_catalyst_date": "2026-06-18",
+      "prev_day_change_pct": 1.5,
+      "preopen_indication_pct": null,
+      "hard_exclusions_triggered": [],
+      "soft_penalties_applied": ["P4"],
+      "reasoning": "
+미국과 이란이 종전에 합의하면서 전쟁 리스크가 크게 완화
+되어 호르무즈 재개방 시 유가 하락 압력 → 항공 유류비 직접 수혜. 국제선 수요 회복 환경 형성.",
+      "sources": [
+        {"publisher": "파이낸셜뉴스", "url": "https://www.fnnews.com/news/202606181325240678", "date": "2026-06-18"}
+      ]
+    },
+    {
+      "ticker": "034020",
+      "score": 3,
+      "signals_present": ["theme_alignment", "policy_tailwind", "momentum_continuation"],
+      "primary_signal": "theme_alignment",
+      "sub_theme": "원전-EPC/대형",
+      "fresh_catalyst_date": "2026-06-18",
+      "prev_day_change_pct": 2.0,
+      "preopen_indication_pct": null,
+      "hard_exclusions_triggered": [],
+      "soft_penalties_applied": ["P4", "P5"],
+      "reasoning": "AI 데이터센터 전력 수요 연계 원전/SMR 정책 모멘텀 지속. KOSPI 대형 성장 테마 외국인 순매수 흐름 합류.",
+      "sources": [
+        {"publisher": "파이낸셜뉴스", "url": "https://www.fnnews.com/news/202606181606319528", "date": "2026-06-18"}
+      ]
+    },
+    {
+      "ticker": "012450",
+      "score": 3,
+      "signals_present": ["momentum_continuation", "theme_alignment"],
+      "primary_signal": "momentum_continuation",
+      "sub_theme": "방산-항공우주",
+      "fresh_catalyst_date": "2026-06-18",
+      "prev_day_change_pct": 3.63,
+      "preopen_indication_pct": null,
+      "hard_exclusions_triggered": [],
+      "soft_penalties_applied": ["P4"],
+      "reasoning": "5월 중순 이후 multi-week 누적 강세 지속. 유럽 재무장 + K-방산 수출 구조적 모멘텀 보유. 6/18 +3.63% 마감으로 momentum 유지 확인.",
+      "sources": [
+        {"publisher": "파이낸셜뉴스", "url": "https://www.fnnews.com/news/202606181606319528", "date": "2026-06-18"}
+      ]
+    },
+    {
+      "ticker": "011200",
+      "score": 4,
+      "signals_present": ["fresh_catalyst", "theme_alignment", "clean_narrative"],
+      "primary_signal": "fresh_catalyst",
+      "sub_theme": "해운-컨테이너",
+      "fresh_catalyst_date": "2026-06-18",
+      "prev_day_change_pct": 1.5,
+      "preopen_indication_pct": null,
+      "hard_exclusions_triggered": [],
+      "soft_penalties_applied": ["P4"],
+      "reasoning": "
+미-이란 종전 합의로 전쟁 리스크 완화
+ → 호르무즈 재개방 시 해상 운임 정상화 + 연료비 부담 완화. 글로벌 무역 회복 환경 형성.",
+      "sources": [
+        {"publisher": "파이낸셜뉴스", "url": "https://www.fnnews.com/news/202606181325240678", "date": "2026-06-18"}
+      ]
+    },
+    {
+      "ticker": "207940",
+      "score": 2,
+      "signals_present": ["theme_alignment", "clean_narrative"],
+      "primary_signal": "theme_alignment",
+      "sub_theme": "바이오-CDMO",
+      "fresh_catalyst_date": null,
+      "prev_day_change_pct": 1.8,
+      "preopen_indication_pct": null,
+      "hard_exclusions_triggered": [],
+      "soft_penalties_applied": ["P4", "P5"],
+      "reasoning": "
+KOSPI 상승 종목 수 110개 미만의 주도주 쏠림 장세
+로 반도체 외 종목 매수 강도는 분산. CDMO narrative 보유하나 종목 고유 dated catalyst 미확인.",
+      "sources": [
+        {"publisher": "파이낸셜뉴스", "url": "https://www.fnnews.com/news/202606181606319528", "date": "2026-06-18"}
+      ]
+    },
+    {
+      "ticker": "086790",
+      "score": 3,
+      "signals_present": ["theme_alignment", "policy_tailwind", "clean_narrative"],
+      "primary_signal": "theme_alignment",
+      "sub_theme": "금융-은행",
+      "fresh_catalyst_date": "2026-06-18",
+      "prev_day_change_pct": 1.9,
+      "preopen_indication_pct": null,
+      "hard_exclusions_triggered": [],
+      "soft_penalties_applied": ["P4", "P5"],
+      "reasoning": "외국인 KOSPI 1.276조 순매수 + 보험·금융 섹터 동반 강세 합류. Fed 점도표 매파 환경에서 NIM 개선 기대.",
+      "sources": [
+        {"publisher": "파이낸셜뉴스", "url": "https://www.fnnews.com/news/202606181606319528", "date": "2026-06-18"}
+      ]
+    }
+  ],
+  "composition_warning": "D1 위반 위험: 금융-은행 sub_theme 3종(KB금융/신한지주/하나금융지주) 모두 score 3로 동률 → final 5종 선정 시 2종까지만 포함하고 1종은 drop 필요. 반도체 sub_theme도 3종(메모리/HBM/HBM 후공정)으로 sub_theme 별도 분류되어 D1 통과하나, 'continuation + 9000pt 돌파 반도체 주도' 특성상 operator 판단 필요. fresh_catalyst (≤2일) 보유 후보는 충분히 3종 이상 확보됨 (D2 통과)."
+}

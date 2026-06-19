@@ -1,0 +1,1627 @@
+{
+  "date": "2026-06-15",
+  "combo_id": "v2-v2-v2",
+  "variants": {
+    "context": "v2",
+    "brief": "v2",
+    "research": "v2"
+  },
+  "models": {
+    "context": "claude-sonnet-4-6",
+    "brief": "claude-opus-4-7",
+    "research": "claude-opus-4-7"
+  },
+  "context": "아래는 수집된 데이터를 기반으로 작성한 2026년 6월 15일(월) 아침 시장 브리핑입니다. 참고로 6월 13일(금)은 한국 공휴일(현충일 대체 또는 임시공휴일 가능성)로 KRX 휴장 여부가 불확실하며, 확인 가능한 최신 거래일 데이터(6월 12일 목요일)를 기준으로 작성합니다.\n\n---\n\n**[KR Morning Briefing — 2026-06-15 (월) 개장 전]**\n\n**Yesterday recap (최종 거래일: 2026-06-12 목요일 기준):**\n- \nKOSPI: 8,123.62pt (+4.63%, +359.67pt)\n\n- \nKOSDAQ: 1,029.05pt (+3.22%, +32.12pt)\n\n- Key events: \nKOSPI가 4.63% 급등하며 8,100선을 탈환. 트럼프 대통령이 미국이 이란과 합의에 근접했으며 군사 타격 계획을 철회했다고 발언, 중동 긴장 완화 기대감이 전 세계 위험선호 랠리를 촉발.\n \n삼성전자 +7.86%, SK하이닉스 +4.05% 등 AI 반도체 대형주가 주도.\n \n장 초반 매수 사이드카가 이달 세 번째로 발동.\n\n- Foreign net flow: \n외국인 +2,666억원 순매수 전환 (24거래일 연속 순매도 종료, 25거래일 만에 첫 순매수).\n \n기관도 +3,599억원 순매수, 개인은 -6,077억원 순매도.\n\n\n---\n\n**Overnight US (6월 12일 목요일 미국 종가 기준):**\n- \nMajor indices: S&P 500 +0.50% (7,431.46), Nasdaq +0.31% (25,888.84), Dow +0.70% (51,202.26). VIX -9.05% (17.68) — 공포지수 급락, 위험선호 회복 확인.\n\n- Sector moves: 유럽 증시도 동반 강세 (DAX +1.76%, CAC +1.83%, EURO STOXX50 +2.16%). 미국 내 에너지·소재·금융 섹터 아웃퍼폼. 반도체(SOX)는 Nasdaq 대비 소폭 언더퍼폼 — 6월 4~5일 대폭락 이후 기술적 회복 국면.\n- 개별 종목 (6월 4~5일 급락 이후 반등 흐름 참고): \n6월 4~5일 이틀간 마이크론 -17%, AMD -12.6%, 인텔 -9% 급락 후 반등 시도 중.\n 6월 12일 기준 엔비디아·AMAT·램리서치 일중 데이터는 실시간 확인 불가 — 단, VIX -9% 및 Nasdaq +0.31% 기준으로 반도체 전반 소폭 회복 추정.\n\n---\n\n**Pre-open KR indication (장 시작 전 가집계 / 시간외 단일가):**\n- 대형주 5종 (삼성전자/SK하이닉스/NAVER/현대차/카카오): **pre-open indication unavailable** — 6월 15일 오전 8시 기준 시간외 단일가 및 가집계 데이터를 실시간으로 수집하지 못함. 실제 개장 전 HTS/MTS에서 직접 확인 요망.\n- 상한가 가집계 KOSDAQ 종목: **pre-open indication unavailable** — 동일 사유.\n\n---\n\n**Today's setup:**\n- Regime: **continuation** — \n미-이란 합의 기대감이라는 지정학 리스크 완화 모멘텀이 지속 중이며,\n \n외국인이 24거래일 순매도 스트릭을 끊고 순매수로 전환\n한 만큼 추세 지속 편향. 단, 6월 1일 KOSPI 사상 최고치(8,788pt) 대비 여전히 약 8% 하방에 위치 — 추가 상승 여력 존재.\n- Expected gap direction at open: 미국 VIX -9%, S&P +0.50%, 유럽 전반 +1.5~2% 감안 시 **modest +0.5~1.0%** gap-up 예상. 단, 6월 12일 이미 +4.63% 급등한 직후라 추가 갭업 시 차익실현 매물 경계.\n- Active themes likely to move: 반도체/HBM (삼성전자·SK하이닉스), 방산 (한화에어로스페이스·LIG넥스원), 조선 (HD한국조선해양·한화오션), 자동차 (현대차·기아), 원전/SMR (두산에너빌리티).\n- Risks / unbroken patterns: ① \n골드만삭스 추산 외국인 누적 순매도 약 620억 달러 규모 — 단 하루 순매수 전환으로 구조적 매도 압력이 해소된 것은 아님.\n ② \nUSD/KRW 1,518.27 (6월 12일 기준), 최근 1개월 원화 -1.90% 약세 지속.\n ③ 미-이란 협상 불확실성 — 합의 불발 시 유가 급등·위험자산 재매도 가능. ④ \n브로드컴이 2027년 AI칩 매출 가이던스를 상향하지 않고 유지한 데 따른 AI 수요 성장 둔화 우려가 완전히 해소되지 않음.\n\n\n---\n\n**Cross-rotation pairs (오늘 active):**\n- 미-이란 지정학 완화 ↓ → 항공/소비재 (대한항공 003490, 아시아나 020560, 하나투어 039130) 수혜; 방산 (한화에어로스페이스 012450, LIG넥스원 079550, 현대로템 064350)은 지정학 완화 시 단기 차익실현 압력 — 단, 다주간 강세 테마이므로 watch-list 유지.\n- 유가 ↓ (이란 합의 기대) → \n유가 하락이 인플레이션 우려 완화에 기여\n → 항공/물류 (대한항공·HMM 011200) 수혜; 정유 (S-Oil 010950·GS칼텍스) 단기 역풍.\n- USD/KRW ↑(원 약세 지속) → 수출주 (현대차 005380·기아 000270·삼성전자 005930) 환차익 수혜; 외국인 추가 순매도 압력 잠재.\n- 미 반도체 회복 ↑ → 삼성전자/SK하이닉스 (000660)/SK스퀘어 (402340), KOSDAQ 장비 (HPSP 403870·원익IPS 240810·한미반도체 042700).\n- 미 금리 안정 → 성장주 (NAVER 035420·카카오 035720·셀트리온 068270) 소폭 수혜.\n\n---\n\n**Active themes to watch:**\n- [반도체/HBM]: \nSK하이닉스의 HBM4 메모리 생산 확대 계획\n + \n6월 상순 반도체 수출 전년 대비 3배 이상 급증, 역대 최고치 경신.\n 대장주: 삼성전자 (005930), SK하이닉스 (000660), 한미반도체 (042700).\n- [지정학/방산]: 미-이란 협상 진행 중이나 완전 타결 전까지 방산 모멘텀 유지. \n한화에어로스페이스 +7.50% (6월 12일)\n 등 다주간 강세 지속. 대장주: 한화에어로스페이스 (012450), LIG넥스원 (079550), 현대로템 (064350).\n- [조선/해운]: \n한화오션 +10.2%, HD현대중공업 +9.5% (5월 26일 기준)\n 등 AI 데이터센터 전력 인프라 수요 + 방산 수출 연계 수주 모멘텀. 대장주: HD한국조선해양 (009540), 한화오션 (042660), HD현대일렉트릭 (267260).\n\n---\n\n**Multi-week trend themes:**\n- 반도체/HBM (4월 이후 AI 수퍼사이클 핵심 — 단기 변동성 있으나 구조적 강세): 삼성전자, SK하이닉스, 한미반도체.\n- 방산 (5월 중순 이후 지정학 리스크 + 수출 모멘텀 누적 강세): 한화에어로스페이스, LIG넥스원, 엠앤씨솔루션 (900310).\n- 원전/SMR (4월 이후 정책 모멘텀 지속): 두산에너빌리티 (034020), 한전KPS (051600), 비에이치아이 (083650).\n- 조선 (AI 전력 인프라 + 방산 수출 연계): HD한국조선해양, 한화오션, HD현대일렉트릭.\n\n---\n\n**Event-day override (mandatory check):**\n- 오늘 주요 IPO 상장: none (확인된 대형 IPO 없음)\n- 오늘 주요 M&A 종결 / 분할 상장: none\n- 한국 옵션만기일 여부 (둘째주 목요일): **No** — 6월 15일은 월요일. 옵션만기일은 6월 11일(목)이었으며 이미 경과.\n\n---\n\n**Yesterday's notable movers (6월 12일 기준 top 5):**\n- \n한미반도체 (042700): +24.7% — HBM 패키징 장비 수요 급증 기대, 외국인·기관 동반 매수.\n\n- \nSK스퀘어 (402340): +13.9% — SK하이닉스 지분 가치 재평가, 반도체 랠리 동조.\n\n- \nNAVER (035420): +13.6% — AI 인프라 수혜 기대 + 위험선호 회복에 성장주 동반 급등.\n\n- \n삼성전자 (005930): +12.1% (335,250원) — 외국인 순매수 전환 + HBM4 공개 모멘텀.\n\n- \n현대로템 (064350): +12.0% — 방산 수출 모멘텀 + 지정학 리스크 완화 전 방산 포지션 유지.\n\n\n---\n\n**Today's earnings / scheduled catalysts:**\n- Pre-market (8시 이전): 주요 실적 발표 없음 (확인된 대형주 어닝 없음). \n6월 상순 수출 데이터(반도체 수출 3배 이상 급증)가 이미 선반영된 상태\n — 추가 수출 통계 발표 시 반도체 섹터 재료로 작용 가능.\n- After-close (장 마감 후 ~16시): 주요 실적 발표 없음. 미국 시장에서 **FOMC 6월 회의 결과** (6월 17~18일 예정) 대기 — 이번 주 전반 금리 경로 불확실성이 성장주 변동성 요인. 미-이란 협상 진행 상황 헤드라인 수시 모니터링 필요.",
+  "track_a_large_mega": {
+    "candidates": [
+      {
+        "ticker": "005930",
+        "name": "삼성전자",
+        "market": "KOSPI",
+        "estimated_cap_tier": "mega",
+        "primary_signal": "theme_leader",
+        "sub_theme": "반도체-HBM 메모리",
+        "fresh_catalyst_date": "2026-06-12",
+        "preopen_indication_pct": null,
+        "reasoning": "\n삼성은 올해 2월 업계 최초로 HBM4 양산 출하를 시작하며 기술 우위를 내세웠다\n는 모멘텀과 6월 12일 +7.86% 급등으로 외국인 25거래일 만에 첫 순매수 전환을 견인. AI 메모리 슈퍼사이클 핵심 대장주.",
+        "sources": [
+          {
+            "publisher": "글로벌이코노믹",
+            "url": "https://www.g-enews.com/article/Global-Biz/2026/05/202605080644316380fbbec65dfb_1",
+            "date": "2026-05-08"
+          }
+        ]
+      },
+      {
+        "ticker": "000660",
+        "name": "SK하이닉스",
+        "market": "KOSPI",
+        "estimated_cap_tier": "mega",
+        "primary_signal": "theme_leader",
+        "sub_theme": "반도체-HBM4",
+        "fresh_catalyst_date": "2026-06-10",
+        "preopen_indication_pct": null,
+        "reasoning": "\nSK하이닉스가 한미반도체에 442억 원 규모의 차세대 인공지능 메모리 반도체(HBM4) 제조용 장비를 발주했고, 이번에 공급되는 장비는 한미반도체의 핵심 기술력이 집약된 차세대 TC본더로 본격적인 차세대 반도체 물량 확대의 신호탄\n. HBM4 양산 확대 기대로 반도체 랠리 핵심.",
+        "sources": [
+          {
+            "publisher": "위드뉴스",
+            "url": "https://car.withnews.kr/economy/sk-hynix-hbm4-bonder",
+            "date": "2026-06-10"
+          }
+        ]
+      },
+      {
+        "ticker": "042700",
+        "name": "한미반도체",
+        "market": "KOSPI",
+        "estimated_cap_tier": "large",
+        "primary_signal": "fresh_catalyst",
+        "sub_theme": "반도체-HBM TC본더",
+        "fresh_catalyst_date": "2026-06-10",
+        "preopen_indication_pct": null,
+        "reasoning": "\nSK하이닉스가 한미반도체에 442억 원 규모의 차세대 HBM4 제조용 장비를 발주\n한 직후 6월 12일 +24.7% 급등으로 HBM 후공정 대장주 입지 확인. AI 패키징 수주 모멘텀 직접 수혜.",
+        "sources": [
+          {
+            "publisher": "위드뉴스",
+            "url": "https://car.withnews.kr/economy/sk-hynix-hbm4-bonder",
+            "date": "2026-06-10"
+          }
+        ]
+      },
+      {
+        "ticker": "035420",
+        "name": "NAVER",
+        "market": "KOSPI",
+        "estimated_cap_tier": "mega",
+        "primary_signal": "momentum_continuation",
+        "sub_theme": "AI 플랫폼-광고/검색",
+        "fresh_catalyst_date": "2026-06-12",
+        "preopen_indication_pct": null,
+        "reasoning": "6월 12일 +13.6% 급등하며 AI 인프라 수혜+위험선호 회복 동조. \n2026년 6월 10일 NAVER 주가는 장마감 기준 227,000원을 기록하며 52주 고가 304,000원 대비 25.3% 아래\n로 추가 상승 여력 충분.",
+        "sources": [
+          {
+            "publisher": "Brokdam",
+            "url": "https://stock1.brokdam.com/naver035420-%EC%A3%BC%EA%B0%80-%EB%B6%84%EC%84%9D-2026-52%EC%A3%BC-%EA%B3%A0%EA%B0%80-%EB%8C%80%EB%B9%84-25-%ED%95%98%EB%9D%BD-%EC%A7%80%EA%B8%88-%EC%96%B4%EB%94%94%EC%AF%A4%EC%9D%BC/",
+            "date": "2026-06-10"
+          }
+        ]
+      },
+      {
+        "ticker": "034020",
+        "name": "두산에너빌리티",
+        "market": "KOSPI",
+        "estimated_cap_tier": "mega",
+        "primary_signal": "policy_tailwind",
+        "sub_theme": "원전-SMR 주기기",
+        "fresh_catalyst_date": "2026-05-27",
+        "preopen_indication_pct": null,
+        "reasoning": "\n오는 6월 18일 출범 예정인 한미전략투자공사를 계기로 대미 투자 구체화와 함께 원전·에너지 인프라 관련 기대감이 커질 것\n. AI 데이터센터 전력 수요로 SMR 수주 모멘텀 확대 구간.",
+        "sources": [
+          {
+            "publisher": "뉴스핌/네이트",
+            "url": "https://news.nate.com/view/20260527n05364",
+            "date": "2026-05-27"
+          }
+        ]
+      },
+      {
+        "ticker": "042660",
+        "name": "한화오션",
+        "market": "KOSPI",
+        "estimated_cap_tier": "mega",
+        "primary_signal": "fresh_catalyst",
+        "sub_theme": "조선-방산(KDDX)",
+        "fresh_catalyst_date": "2026-06-12",
+        "preopen_indication_pct": null,
+        "reasoning": "\n방위사업청이 7조8000억원 규모 KDDX 사업 제안서 평가를 마치고 한화오션을 사실상 우선협상대상자로 정했다. HD현대중공업의 보안 감점이 근소한 점수 차를 뒤집었고, 2년 넘게 지연된 사업은 이의신청과 최종 협상을 거쳐 다음 달 계약 단계로 갈 전망\n. 대형 수주 모멘텀 신선.",
+        "sources": [
+          {
+            "publisher": "서울신문",
+            "url": "https://www.seoul.co.kr/news/politics/2026/06/12/20260612006003",
+            "date": "2026-06-12"
+          }
+        ]
+      },
+      {
+        "ticker": "329180",
+        "name": "HD현대중공업",
+        "market": "KOSPI",
+        "estimated_cap_tier": "mega",
+        "primary_signal": "theme_alignment",
+        "sub_theme": "조선-함정/MASGA",
+        "fresh_catalyst_date": "2026-06-01",
+        "preopen_indication_pct": null,
+        "reasoning": "\n2026년 6월 조선 상장기업 브랜드평판이 공개됐고 조선 상장기업 브랜드 경쟁에서 HD현대중공업이 독주 체제를 강화\n. KDDX 패배에도 美 조선업 부활(MASGA) 모멘텀 유효한 조선 대장주.",
+        "sources": [
+          {
+            "publisher": "이넷뉴스",
+            "url": "https://www.enetnews.co.kr/news/articleView.html?idxno=50662",
+            "date": "2026-06-01"
+          }
+        ]
+      },
+      {
+        "ticker": "005380",
+        "name": "현대차",
+        "market": "KOSPI",
+        "estimated_cap_tier": "mega",
+        "primary_signal": "theme_alignment",
+        "sub_theme": "자동차-환율 수혜",
+        "fresh_catalyst_date": "2026-06-12",
+        "preopen_indication_pct": null,
+        "reasoning": "\n현대차·기아가 2026년 가이던스를 산정할 때 원·달러 환율을 1,370원으로 가정했는데, 이는 현재 시장 환율보다 상당히 보수적인 수준\n이며 USD/KRW 1,518원 상회로 환차익 모멘텀 확대. 위험선호 랠리 후행 수혜.",
+        "sources": [
+          {
+            "publisher": "이콘밍글",
+            "url": "https://econmingle.com/economy/hyundai-kia-2026-profit-outlook-tariff-reli/",
+            "date": "2026-02-04"
+          }
+        ]
+      },
+      {
+        "ticker": "000270",
+        "name": "기아",
+        "market": "KOSPI",
+        "estimated_cap_tier": "mega",
+        "primary_signal": "theme_alignment",
+        "sub_theme": "자동차-신공장 가동",
+        "fresh_catalyst_date": "2026-06-12",
+        "preopen_indication_pct": null,
+        "reasoning": "\n2026년 1분기 현대차 울산 신공장(20만 대)을 시작으로 기아 광명 EVO(15만 대) 및 화성 EVO(10만 대) 공장이 가동됨에 따라 친환경차 공급 능력이 대폭 확대\n. 환율 약세+관세 인하 조합으로 수출주 후행 매수세 기대.",
+        "sources": [
+          {
+            "publisher": "한국자동차산업협동조합",
+            "url": "https://kaica.or.kr/contribute/1385",
+            "date": "2025-12-01"
+          }
+        ]
+      },
+      {
+        "ticker": "012450",
+        "name": "한화에어로스페이스",
+        "market": "KOSPI",
+        "estimated_cap_tier": "mega",
+        "primary_signal": "momentum_continuation",
+        "sub_theme": "방산-K9/유도탄 수출",
+        "fresh_catalyst_date": "2026-06-12",
+        "preopen_indication_pct": null,
+        "reasoning": "\n최근 5거래일 간 100만원대 초반에서 중후반까지 주가 변동을 보이며 시장의 주목을 받았다. 6월 12일 장마감 기준 1,078,000원에 거래를 마쳤으며, 이는 전일 종가 1,014,000원 대비 큰 폭의 상승\n. 다주간 누적 강세 지속, 방산 multi-week trend 대표.",
+        "sources": [
+          {
+            "publisher": "중앙이코노미뉴스",
+            "url": "https://www.joongangenews.com/news/articleView.html?idxno=525687",
+            "date": "2026-06-13"
+          }
+        ]
+      },
+      {
+        "ticker": "267260",
+        "name": "HD현대일렉트릭",
+        "market": "KOSPI",
+        "estimated_cap_tier": "large",
+        "primary_signal": "fresh_catalyst",
+        "sub_theme": "AI 인프라-초고압 변압기",
+        "fresh_catalyst_date": "2026-05-27",
+        "preopen_indication_pct": null,
+        "reasoning": "\n행사 현장에서 미국 중부 권역 대형 유틸리티 회사와 총 1,730억 원 규모의 765kV 초고압 변압기 및 리액터 공급 계약을 체결했다. 이번 계약을 통해 미국 중남부 송전망 구축 계획인 'SPP 장기 송전 마스터 플랜'의 핵심 사업인 765kV 백본 프로젝트에 참여\n. AI 데이터센터 전력 수요 직접 수혜.",
+        "sources": [
+          {
+            "publisher": "HD현대일렉트릭",
+            "url": "https://www.hd-hyundaielectric.com/elect/ko/index.jsp",
+            "date": "2026-05-27"
+          }
+        ]
+      },
+      {
+        "ticker": "298040",
+        "name": "효성중공업",
+        "market": "KOSPI",
+        "estimated_cap_tier": "large",
+        "primary_signal": "theme_alignment",
+        "sub_theme": "AI 인프라-초고압 변압기(美 현지생산)",
+        "fresh_catalyst_date": "2026-06-12",
+        "preopen_indication_pct": null,
+        "reasoning": "\n효성중공업은 미국 테네시주 멤피스에 현지 생산 공장을 보유하고 있어 트럼프의 '미국 내 생산' 압박과 관세 리스크를 방어할 수 있는 유일한 한국 중전기기 업체이며 최근 이 공장을 대규모로 증설하며 장기전에 대비\n. AI 전력기기 수퍼사이클 핵심 수혜주.",
+        "sources": [
+          {
+            "publisher": "Threads/cdh.sabbatical",
+            "url": "https://www.threads.com/@cdh.sabbatical/post/DSXXqijkrBV",
+            "date": "2025-12-17"
+          }
+        ]
+      },
+      {
+        "ticker": "402340",
+        "name": "SK스퀘어",
+        "market": "KOSPI",
+        "estimated_cap_tier": "large",
+        "primary_signal": "momentum_continuation",
+        "sub_theme": "반도체-SK하이닉스 지분가치",
+        "fresh_catalyst_date": "2026-06-12",
+        "preopen_indication_pct": null,
+        "reasoning": "6월 12일 +13.9% 급등하며 SK하이닉스 HBM4 랠리에 동조. \n투자 확대 기대감은 증시에도 즉각 반영되어 6월 9일 기준 SK하이닉스는 221만 5,000원으로 15.91% 폭등\n한 흐름의 지분가치 재평가 후속 수혜.",
+        "sources": [
+          {
+            "publisher": "위드뉴스",
+            "url": "https://car.withnews.kr/economy/sk-hynix-hbm4-bonder",
+            "date": "2026-06-10"
+          }
+        ]
+      },
+      {
+        "ticker": "051600",
+        "name": "한전KPS",
+        "market": "KOSPI",
+        "estimated_cap_tier": "large",
+        "primary_signal": "theme_alignment",
+        "sub_theme": "원전-SMR 유지보수",
+        "fresh_catalyst_date": "2026-05-27",
+        "preopen_indication_pct": null,
+        "reasoning": "\n글로벌 원전 사이클 확대 속에서 두산에너빌리티의 위상은 더 높아질 것으로 봤다. 미국은 2030년까지 원자로 10기 착공, 2050년 원자력 발전 용량 400GW를 목표로 제시\n. 원전 유지보수 독점 수혜로 SMR sub-theme 핵심 동반주.",
+        "sources": [
+          {
+            "publisher": "뉴스핌/네이트",
+            "url": "https://news.nate.com/view/20260527n05364",
+            "date": "2026-05-27"
+          }
+        ]
+      },
+      {
+        "ticker": "003490",
+        "name": "대한항공",
+        "market": "KOSPI",
+        "estimated_cap_tier": "large",
+        "primary_signal": "policy_tailwind",
+        "sub_theme": "항공-유가 하락 수혜",
+        "fresh_catalyst_date": "2026-06-12",
+        "preopen_indication_pct": null,
+        "reasoning": "미-이란 합의 기대로 유가 하락 압력 + 위험선호 회복. Cross-rotation 항공/소비재 수혜 라인업의 대장주로 지정학 완화 trade 직접 수혜.",
+        "sources": [
+          {
+            "publisher": "트레이딩이코노믹스",
+            "url": "https://ko.tradingeconomics.com/south-korea/exports-yoy/news/518596",
+            "date": "2026-02-01"
+          }
+        ]
+      }
+    ],
+    "scored": [
+      {
+        "ticker": "005930",
+        "score": 4,
+        "signals_present": [
+          "theme_leader",
+          "fresh_catalyst",
+          "clean_narrative"
+        ],
+        "primary_signal": "theme_leader",
+        "fresh_catalyst_date": "2026-06-12",
+        "hard_exclusions_triggered": [],
+        "soft_penalties_applied": [],
+        "reasoning": "오늘 top theme 반도체/HBM 대장주. 6/12 +7.86% 급등하며 외국인 25거래일 만에 첫 순매수 견인. <cite index=\"10-8\">젠슨 황 엔비디아 CEO가 6/5 방한해 삼성·SK하이닉스·마이크론 메모리 3사 모두 HBM4 퀄 테스트를 통과해 양산 중이라고 밝힘</cite> — fresh AI 메모리 narrative.",
+        "sources": [
+          {
+            "publisher": "한국경제",
+            "url": "https://www.hankyung.com/article/202606083479i",
+            "date": "2026-06-08"
+          }
+        ]
+      },
+      {
+        "ticker": "000660",
+        "score": 5,
+        "signals_present": [
+          "theme_leader",
+          "fresh_catalyst",
+          "policy_tailwind",
+          "clean_narrative"
+        ],
+        "primary_signal": "theme_leader",
+        "fresh_catalyst_date": "2026-06-08",
+        "hard_exclusions_triggered": [],
+        "soft_penalties_applied": [],
+        "reasoning": "오늘 top theme 반도체/HBM4 핵심 대장주. <cite index=\"10-1,10-6,10-7\">한미반도체에 442억 규모 HBM4용 TC본더 그리핀 발주를 공시했고 SK하이닉스가 HBM4 CAPA 확대 설비 투자에 본격 나섰다는 분석</cite>. 6/12 +4.05% 추가 상승.",
+        "sources": [
+          {
+            "publisher": "한국경제",
+            "url": "https://www.hankyung.com/article/202606083479i",
+            "date": "2026-06-08"
+          }
+        ]
+      },
+      {
+        "ticker": "042700",
+        "score": 5,
+        "signals_present": [
+          "fresh_catalyst",
+          "theme_leader",
+          "technical_breakout",
+          "clean_narrative"
+        ],
+        "primary_signal": "fresh_catalyst",
+        "fresh_catalyst_date": "2026-06-08",
+        "hard_exclusions_triggered": [],
+        "soft_penalties_applied": [],
+        "reasoning": "<cite index=\"11-3,11-4,11-5\">SK하이닉스로부터 442억 규모 HBM4용 TC본더 장비를 수주했으며 1분기 부진 이후 수주 흐름이 다시 살아나는 신호로 하반기 실적 반등이 본격화될 것이란 전망</cite>. 6/12 +24.7% 급등으로 HBM 후공정 대장주 입지 확정.",
+        "sources": [
+          {
+            "publisher": "헤럴드경제",
+            "url": "https://biz.heraldcorp.com/article/10766689",
+            "date": "2026-06-08"
+          }
+        ]
+      },
+      {
+        "ticker": "035420",
+        "score": 2,
+        "signals_present": [
+          "momentum_continuation",
+          "clean_narrative"
+        ],
+        "primary_signal": "momentum_continuation",
+        "fresh_catalyst_date": null,
+        "hard_exclusions_triggered": [],
+        "soft_penalties_applied": [
+          "P5"
+        ],
+        "reasoning": "6/12 +13.6% 급등은 위험선호 회복 동조이지 종목 고유 fresh catalyst 부재. primary_signal이 momentum_continuation이며 추가 갭업 시 분배 위험.",
+        "sources": [
+          {
+            "publisher": "Brokdam",
+            "url": "https://stock1.brokdam.com/naver035420-%EC%A3%BC%EA%B0%80-%EB%B6%84%EC%84%9D-2026-52%EC%A3%BC-%EA%B3%A0%EA%B0%80-%EB%8C%80%EB%B9%84-25-%ED%95%98%EB%9D%BD-%EC%A7%80%EA%B8%88-%EC%96%B4%EB%94%94%EC%AF%A4%EC%9D%BC/",
+            "date": "2026-06-10"
+          }
+        ]
+      },
+      {
+        "ticker": "034020",
+        "score": 1,
+        "signals_present": [
+          "policy_tailwind",
+          "theme_alignment"
+        ],
+        "primary_signal": "policy_tailwind",
+        "fresh_catalyst_date": "2026-05-27",
+        "hard_exclusions_triggered": [
+          "E3"
+        ],
+        "soft_penalties_applied": [],
+        "reasoning": "EXCLUDE — 5/27 catalyst는 5거래일 이전 stale. 6/18 한미전략투자공사 출범 기대는 종목 고유 dated catalyst 아니며 SMR 정책 스토리는 다주 모멘텀이라 fresh catalyst로 인정 불가.",
+        "sources": [
+          {
+            "publisher": "뉴스핌/네이트",
+            "url": "https://news.nate.com/view/20260527n05364",
+            "date": "2026-05-27"
+          }
+        ]
+      },
+      {
+        "ticker": "042660",
+        "score": 5,
+        "signals_present": [
+          "fresh_catalyst",
+          "theme_leader",
+          "policy_tailwind",
+          "clean_narrative"
+        ],
+        "primary_signal": "fresh_catalyst",
+        "fresh_catalyst_date": "2026-06-11",
+        "hard_exclusions_triggered": [],
+        "soft_penalties_applied": [],
+        "reasoning": "<cite index=\"1-2,5-11,5-12\">방위사업청이 6/11 한화오션을 7.8조원 규모 KDDX 상세설계·선도함 건조 우선협상대상자로 사실상 선정했으며 본계약 체결 후 상세설계 및 선도함 건조에 착수할 예정</cite>. 조선/방산 이중 테마 직접 수혜.",
+        "sources": [
+          {
+            "publisher": "뉴스핌",
+            "url": "https://www.newspim.com/news/view/20260611001171",
+            "date": "2026-06-11"
+          },
+          {
+            "publisher": "서울신문",
+            "url": "https://www.seoul.co.kr/news/politics/2026/06/12/20260612006003",
+            "date": "2026-06-12"
+          }
+        ]
+      },
+      {
+        "ticker": "329180",
+        "score": 1,
+        "signals_present": [
+          "theme_alignment",
+          "clean_narrative"
+        ],
+        "primary_signal": "theme_alignment",
+        "fresh_catalyst_date": "2026-06-11",
+        "hard_exclusions_triggered": [
+          "E3"
+        ],
+        "soft_penalties_applied": [],
+        "reasoning": "EXCLUDE — 6/11 KDDX 사업에서 0.5867점 차로 패배한 negative event가 가장 신선한 dated event이며 한화오션의 반대편. 브랜드평판 6/1 자료는 stale 단순 랭킹.",
+        "sources": [
+          {
+            "publisher": "한경매거진",
+            "url": "https://magazine.hankyung.com/business/article/202606111493b",
+            "date": "2026-06-11"
+          }
+        ]
+      },
+      {
+        "ticker": "005380",
+        "score": 2,
+        "signals_present": [
+          "theme_alignment",
+          "clean_narrative"
+        ],
+        "primary_signal": "theme_alignment",
+        "fresh_catalyst_date": null,
+        "hard_exclusions_triggered": [],
+        "soft_penalties_applied": [
+          "P5"
+        ],
+        "reasoning": "USD/KRW 1,518원으로 환차익 모멘텀이 존재하나 종목 고유 ≤2거래일 dated catalyst 부재. 환율 보수적 가정 기사 소스도 2월자.",
+        "sources": [
+          {
+            "publisher": "이콘밍글",
+            "url": "https://econmingle.com/economy/hyundai-kia-2026-profit-outlook-tariff-reli/",
+            "date": "2026-02-04"
+          }
+        ]
+      },
+      {
+        "ticker": "000270",
+        "score": 1,
+        "signals_present": [
+          "theme_alignment"
+        ],
+        "primary_signal": "theme_alignment",
+        "fresh_catalyst_date": null,
+        "hard_exclusions_triggered": [
+          "E3"
+        ],
+        "soft_penalties_applied": [],
+        "reasoning": "EXCLUDE — 인용 소스가 2025-12-01자로 stale. 신공장 가동 narrative는 다주 모멘텀일 뿐 ≤2거래일 dated catalyst 부재.",
+        "sources": [
+          {
+            "publisher": "한국자동차산업협동조합",
+            "url": "https://kaica.or.kr/contribute/1385",
+            "date": "2025-12-01"
+          }
+        ]
+      },
+      {
+        "ticker": "012450",
+        "score": 1,
+        "signals_present": [
+          "momentum_continuation",
+          "theme_alignment"
+        ],
+        "primary_signal": "momentum_continuation",
+        "fresh_catalyst_date": null,
+        "hard_exclusions_triggered": [
+          "E2"
+        ],
+        "soft_penalties_applied": [],
+        "reasoning": "EXCLUDE — brief가 방산을 '지정학 완화 시 단기 차익실현 압력'으로 명시. CONTEXT-CONTRADICTION 적용.",
+        "sources": [
+          {
+            "publisher": "중앙이코노미뉴스",
+            "url": "https://www.joongangenews.com/news/articleView.html?idxno=525687",
+            "date": "2026-06-13"
+          }
+        ]
+      },
+      {
+        "ticker": "267260",
+        "score": 1,
+        "signals_present": [
+          "theme_alignment",
+          "clean_narrative"
+        ],
+        "primary_signal": "theme_alignment",
+        "fresh_catalyst_date": null,
+        "hard_exclusions_triggered": [
+          "E3"
+        ],
+        "soft_penalties_applied": [],
+        "reasoning": "EXCLUDE — <cite index=\"27-1,27-2\">2778억 규모 765kV 변압기 수주 발표는 2025-09-22자</cite>로 stale. AI 인프라 테마 멤버십만으로는 fresh catalyst 인정 불가.",
+        "sources": [
+          {
+            "publisher": "문화일보",
+            "url": "https://www.munhwa.com/article/11534886",
+            "date": "2025-09-22"
+          }
+        ]
+      },
+      {
+        "ticker": "298040",
+        "score": 1,
+        "signals_present": [
+          "theme_alignment"
+        ],
+        "primary_signal": "theme_alignment",
+        "fresh_catalyst_date": null,
+        "hard_exclusions_triggered": [
+          "E3"
+        ],
+        "soft_penalties_applied": [],
+        "reasoning": "EXCLUDE — 인용 소스 2025-12-17자로 stale. 멤피스 현지생산 narrative는 다주 모멘텀이며 ≤2거래일 dated catalyst 부재.",
+        "sources": [
+          {
+            "publisher": "Threads",
+            "url": "https://www.threads.com/@cdh.sabbatical/post/DSXXqijkrBV",
+            "date": "2025-12-17"
+          }
+        ]
+      },
+      {
+        "ticker": "402340",
+        "score": 3,
+        "signals_present": [
+          "momentum_continuation",
+          "theme_alignment",
+          "clean_narrative"
+        ],
+        "primary_signal": "momentum_continuation",
+        "fresh_catalyst_date": null,
+        "hard_exclusions_triggered": [],
+        "soft_penalties_applied": [
+          "P5"
+        ],
+        "reasoning": "6/12 +13.9% 급등으로 SK하이닉스 HBM4 랠리 동조. 지분가치 재평가 narrative는 sympathy play로 종목 고유 catalyst는 부재.",
+        "sources": [
+          {
+            "publisher": "한국경제",
+            "url": "https://www.hankyung.com/article/202606083479i",
+            "date": "2026-06-08"
+          }
+        ]
+      },
+      {
+        "ticker": "051600",
+        "score": 1,
+        "signals_present": [
+          "theme_alignment"
+        ],
+        "primary_signal": "theme_alignment",
+        "fresh_catalyst_date": null,
+        "hard_exclusions_triggered": [
+          "E3"
+        ],
+        "soft_penalties_applied": [],
+        "reasoning": "EXCLUDE — 5/27 자료가 5거래일 이전 stale. SMR 정책 narrative는 다주 모멘텀일 뿐 ≤2거래일 dated catalyst 부재.",
+        "sources": [
+          {
+            "publisher": "뉴스핌/네이트",
+            "url": "https://news.nate.com/view/20260527n05364",
+            "date": "2026-05-27"
+          }
+        ]
+      },
+      {
+        "ticker": "003490",
+        "score": 1,
+        "signals_present": [
+          "policy_tailwind",
+          "theme_alignment",
+          "clean_narrative"
+        ],
+        "primary_signal": "policy_tailwind",
+        "fresh_catalyst_date": null,
+        "hard_exclusions_triggered": [
+          "E3"
+        ],
+        "soft_penalties_applied": [],
+        "reasoning": "EXCLUDE — 인용 소스 2026-02-01자 stale. 유가 하락 trade는 macro narrative로 종목 고유 ≤2거래일 dated catalyst 부재.",
+        "sources": [
+          {
+            "publisher": "트레이딩이코노믹스",
+            "url": "https://ko.tradingeconomics.com/south-korea/exports-yoy/news/518596",
+            "date": "2026-02-01"
+          }
+        ]
+      }
+    ],
+    "final_picks": [
+      {
+        "ticker": "000660",
+        "name": "SK하이닉스",
+        "market": "KOSPI",
+        "estimated_cap_tier": "mega",
+        "primary_signal": "theme_leader",
+        "sub_theme": "반도체-HBM4",
+        "fresh_catalyst_date": "2026-06-08",
+        "preopen_indication_pct": null,
+        "reasoning": "오늘 top theme 반도체/HBM4 핵심 대장주. <cite index=\"10-1,10-6,10-7\">한미반도체에 442억 규모 HBM4용 TC본더 그리핀 발주를 공시했고 SK하이닉스가 HBM4 CAPA 확대 설비 투자에 본격 나섰다는 분석</cite>. 6/12 +4.05% 추가 상승.",
+        "sources": [
+          {
+            "publisher": "위드뉴스",
+            "url": "https://car.withnews.kr/economy/sk-hynix-hbm4-bonder",
+            "date": "2026-06-10"
+          },
+          {
+            "publisher": "한국경제",
+            "url": "https://www.hankyung.com/article/202606083479i",
+            "date": "2026-06-08"
+          }
+        ],
+        "score": 5,
+        "signals_present": [
+          "theme_leader",
+          "fresh_catalyst",
+          "policy_tailwind",
+          "clean_narrative"
+        ],
+        "hard_exclusions_triggered": [],
+        "soft_penalties_applied": [],
+        "brief_reasoning": "\nSK하이닉스가 한미반도체에 442억 원 규모의 차세대 인공지능 메모리 반도체(HBM4) 제조용 장비를 발주했고, 이번에 공급되는 장비는 한미반도체의 핵심 기술력이 집약된 차세대 TC본더로 본격적인 차세대 반도체 물량 확대의 신호탄\n. HBM4 양산 확대 기대로 반도체 랠리 핵심.",
+        "research_reasoning": "오늘 top theme 반도체/HBM4 핵심 대장주. <cite index=\"10-1,10-6,10-7\">한미반도체에 442억 규모 HBM4용 TC본더 그리핀 발주를 공시했고 SK하이닉스가 HBM4 CAPA 확대 설비 투자에 본격 나섰다는 분석</cite>. 6/12 +4.05% 추가 상승."
+      },
+      {
+        "ticker": "042700",
+        "name": "한미반도체",
+        "market": "KOSPI",
+        "estimated_cap_tier": "large",
+        "primary_signal": "fresh_catalyst",
+        "sub_theme": "반도체-HBM TC본더",
+        "fresh_catalyst_date": "2026-06-08",
+        "preopen_indication_pct": null,
+        "reasoning": "<cite index=\"11-3,11-4,11-5\">SK하이닉스로부터 442억 규모 HBM4용 TC본더 장비를 수주했으며 1분기 부진 이후 수주 흐름이 다시 살아나는 신호로 하반기 실적 반등이 본격화될 것이란 전망</cite>. 6/12 +24.7% 급등으로 HBM 후공정 대장주 입지 확정.",
+        "sources": [
+          {
+            "publisher": "위드뉴스",
+            "url": "https://car.withnews.kr/economy/sk-hynix-hbm4-bonder",
+            "date": "2026-06-10"
+          },
+          {
+            "publisher": "헤럴드경제",
+            "url": "https://biz.heraldcorp.com/article/10766689",
+            "date": "2026-06-08"
+          }
+        ],
+        "score": 5,
+        "signals_present": [
+          "fresh_catalyst",
+          "theme_leader",
+          "technical_breakout",
+          "clean_narrative"
+        ],
+        "hard_exclusions_triggered": [],
+        "soft_penalties_applied": [],
+        "brief_reasoning": "\nSK하이닉스가 한미반도체에 442억 원 규모의 차세대 HBM4 제조용 장비를 발주\n한 직후 6월 12일 +24.7% 급등으로 HBM 후공정 대장주 입지 확인. AI 패키징 수주 모멘텀 직접 수혜.",
+        "research_reasoning": "<cite index=\"11-3,11-4,11-5\">SK하이닉스로부터 442억 규모 HBM4용 TC본더 장비를 수주했으며 1분기 부진 이후 수주 흐름이 다시 살아나는 신호로 하반기 실적 반등이 본격화될 것이란 전망</cite>. 6/12 +24.7% 급등으로 HBM 후공정 대장주 입지 확정."
+      },
+      {
+        "ticker": "042660",
+        "name": "한화오션",
+        "market": "KOSPI",
+        "estimated_cap_tier": "mega",
+        "primary_signal": "fresh_catalyst",
+        "sub_theme": "조선-방산(KDDX)",
+        "fresh_catalyst_date": "2026-06-11",
+        "preopen_indication_pct": null,
+        "reasoning": "<cite index=\"1-2,5-11,5-12\">방위사업청이 6/11 한화오션을 7.8조원 규모 KDDX 상세설계·선도함 건조 우선협상대상자로 사실상 선정했으며 본계약 체결 후 상세설계 및 선도함 건조에 착수할 예정</cite>. 조선/방산 이중 테마 직접 수혜.",
+        "sources": [
+          {
+            "publisher": "서울신문",
+            "url": "https://www.seoul.co.kr/news/politics/2026/06/12/20260612006003",
+            "date": "2026-06-12"
+          },
+          {
+            "publisher": "뉴스핌",
+            "url": "https://www.newspim.com/news/view/20260611001171",
+            "date": "2026-06-11"
+          },
+          {
+            "publisher": "서울신문",
+            "url": "https://www.seoul.co.kr/news/politics/2026/06/12/20260612006003",
+            "date": "2026-06-12"
+          }
+        ],
+        "score": 5,
+        "signals_present": [
+          "fresh_catalyst",
+          "theme_leader",
+          "policy_tailwind",
+          "clean_narrative"
+        ],
+        "hard_exclusions_triggered": [],
+        "soft_penalties_applied": [],
+        "brief_reasoning": "\n방위사업청이 7조8000억원 규모 KDDX 사업 제안서 평가를 마치고 한화오션을 사실상 우선협상대상자로 정했다. HD현대중공업의 보안 감점이 근소한 점수 차를 뒤집었고, 2년 넘게 지연된 사업은 이의신청과 최종 협상을 거쳐 다음 달 계약 단계로 갈 전망\n. 대형 수주 모멘텀 신선.",
+        "research_reasoning": "<cite index=\"1-2,5-11,5-12\">방위사업청이 6/11 한화오션을 7.8조원 규모 KDDX 상세설계·선도함 건조 우선협상대상자로 사실상 선정했으며 본계약 체결 후 상세설계 및 선도함 건조에 착수할 예정</cite>. 조선/방산 이중 테마 직접 수혜."
+      },
+      {
+        "ticker": "005930",
+        "name": "삼성전자",
+        "market": "KOSPI",
+        "estimated_cap_tier": "mega",
+        "primary_signal": "theme_leader",
+        "sub_theme": "반도체-HBM 메모리",
+        "fresh_catalyst_date": "2026-06-12",
+        "preopen_indication_pct": null,
+        "reasoning": "오늘 top theme 반도체/HBM 대장주. 6/12 +7.86% 급등하며 외국인 25거래일 만에 첫 순매수 견인. <cite index=\"10-8\">젠슨 황 엔비디아 CEO가 6/5 방한해 삼성·SK하이닉스·마이크론 메모리 3사 모두 HBM4 퀄 테스트를 통과해 양산 중이라고 밝힘</cite> — fresh AI 메모리 narrative.",
+        "sources": [
+          {
+            "publisher": "글로벌이코노믹",
+            "url": "https://www.g-enews.com/article/Global-Biz/2026/05/202605080644316380fbbec65dfb_1",
+            "date": "2026-05-08"
+          },
+          {
+            "publisher": "한국경제",
+            "url": "https://www.hankyung.com/article/202606083479i",
+            "date": "2026-06-08"
+          }
+        ],
+        "score": 4,
+        "signals_present": [
+          "theme_leader",
+          "fresh_catalyst",
+          "clean_narrative"
+        ],
+        "hard_exclusions_triggered": [],
+        "soft_penalties_applied": [],
+        "brief_reasoning": "\n삼성은 올해 2월 업계 최초로 HBM4 양산 출하를 시작하며 기술 우위를 내세웠다\n는 모멘텀과 6월 12일 +7.86% 급등으로 외국인 25거래일 만에 첫 순매수 전환을 견인. AI 메모리 슈퍼사이클 핵심 대장주.",
+        "research_reasoning": "오늘 top theme 반도체/HBM 대장주. 6/12 +7.86% 급등하며 외국인 25거래일 만에 첫 순매수 견인. <cite index=\"10-8\">젠슨 황 엔비디아 CEO가 6/5 방한해 삼성·SK하이닉스·마이크론 메모리 3사 모두 HBM4 퀄 테스트를 통과해 양산 중이라고 밝힘</cite> — fresh AI 메모리 narrative."
+      },
+      {
+        "ticker": "402340",
+        "name": "SK스퀘어",
+        "market": "KOSPI",
+        "estimated_cap_tier": "large",
+        "primary_signal": "momentum_continuation",
+        "sub_theme": "반도체-SK하이닉스 지분가치",
+        "fresh_catalyst_date": null,
+        "preopen_indication_pct": null,
+        "reasoning": "6/12 +13.9% 급등으로 SK하이닉스 HBM4 랠리 동조. 지분가치 재평가 narrative는 sympathy play로 종목 고유 catalyst는 부재.",
+        "sources": [
+          {
+            "publisher": "위드뉴스",
+            "url": "https://car.withnews.kr/economy/sk-hynix-hbm4-bonder",
+            "date": "2026-06-10"
+          },
+          {
+            "publisher": "한국경제",
+            "url": "https://www.hankyung.com/article/202606083479i",
+            "date": "2026-06-08"
+          }
+        ],
+        "score": 3,
+        "signals_present": [
+          "momentum_continuation",
+          "theme_alignment",
+          "clean_narrative"
+        ],
+        "hard_exclusions_triggered": [],
+        "soft_penalties_applied": [
+          "P5"
+        ],
+        "brief_reasoning": "6월 12일 +13.9% 급등하며 SK하이닉스 HBM4 랠리에 동조. \n투자 확대 기대감은 증시에도 즉각 반영되어 6월 9일 기준 SK하이닉스는 221만 5,000원으로 15.91% 폭등\n한 흐름의 지분가치 재평가 후속 수혜.",
+        "research_reasoning": "6/12 +13.9% 급등으로 SK하이닉스 HBM4 랠리 동조. 지분가치 재평가 narrative는 sympathy play로 종목 고유 catalyst는 부재."
+      }
+    ]
+  },
+  "track_b_mid": {
+    "candidates": [
+      {
+        "ticker": "403870",
+        "name": "HPSP",
+        "market": "KOSDAQ",
+        "estimated_cap_tier": "mid",
+        "primary_signal": "theme_leader",
+        "sub_theme": "반도체-전공정 장비(고압수소어닐링)",
+        "fresh_catalyst_date": "2026-06-12",
+        "preopen_indication_pct": null,
+        "reasoning": "<cite index=\"16-4,16-5\">한 주간 코스닥 최대 화제주로 5만300원에서 7만1500원으로 42.15% 폭등하며 시가총액 5조8845억원을 기록</cite>했고, <cite index=\"20-3,20-4\">일론 머스크의 반도체 프로젝트 테라팹 수주를 따냈으며 테라팹은 2028년 가동을 목표로 한 초대형 반도체 제조시설</cite>이다. AI 인프라 슈퍼사이클 직접 수혜로 모멘텀 지속.",
+        "sources": [
+          {
+            "publisher": "데일리비즈온",
+            "url": "https://www.dailybizon.com/news/articleView.html?idxno=67849",
+            "date": "2026-06-14"
+          },
+          {
+            "publisher": "머니투데이",
+            "url": "https://www.mt.co.kr/stock/2026/06/12/2026061214075219747",
+            "date": "2026-06-12"
+          }
+        ]
+      },
+      {
+        "ticker": "031980",
+        "name": "피에스케이홀딩스",
+        "market": "KOSDAQ",
+        "estimated_cap_tier": "mid",
+        "primary_signal": "theme_alignment",
+        "sub_theme": "반도체-HBM 첨단 패키징(Fluxless Reflow)",
+        "fresh_catalyst_date": "2026-06-12",
+        "preopen_indication_pct": null,
+        "reasoning": "<cite index=\"4-5\">6월 12일 피에스케이홀딩스는 13.42% 상승</cite>하며 장비주 랠리에 동조했고, <cite index=\"30-6\">AI 산업 성장에 따른 HBM 수요 폭증과 첨단 패키징 기술 도입으로 설비 투자가 확대되며 Fluxless Reflow 장비로 비교우위를 유지</cite>한다. 동종 장비주 대비 상승률이 절제되어 추가 상승 여력 보유.",
+        "sources": [
+          {
+            "publisher": "매일경제(다음)",
+            "url": "https://v.daum.net/v/20260612175700375",
+            "date": "2026-06-12"
+          }
+        ]
+      },
+      {
+        "ticker": "095340",
+        "name": "ISC",
+        "market": "KOSDAQ",
+        "estimated_cap_tier": "mid",
+        "primary_signal": "momentum_continuation",
+        "sub_theme": "반도체-후공정 테스트 소켓",
+        "fresh_catalyst_date": "2026-06-12",
+        "preopen_indication_pct": null,
+        "reasoning": "<cite index=\"4-5\">6월 12일 ISC는 20.73% 상승</cite>하며 후공정 테스트 소켓 수요 기대감을 반영했다. AI 칩 다변화로 테스트 소켓 단가 상승 모멘텀 지속.",
+        "sources": [
+          {
+            "publisher": "매일경제(다음)",
+            "url": "https://v.daum.net/v/20260612175700375",
+            "date": "2026-06-12"
+          }
+        ]
+      },
+      {
+        "ticker": "089030",
+        "name": "테크윙",
+        "market": "KOSDAQ",
+        "estimated_cap_tier": "mid",
+        "primary_signal": "theme_alignment",
+        "sub_theme": "반도체-HBM 큐브프로버 테스트",
+        "fresh_catalyst_date": "2026-06-09",
+        "preopen_indication_pct": null,
+        "reasoning": "<cite index=\"28-1,28-2\">삼성전자와 대규모 공급계약을 체결한 데 이어 SK하이닉스의 퀄(품질) 테스트까지 통과하며 글로벌 'HBM 빅3' 시장 선점을 눈앞에 뒀고, 큐브 프로버는 개별 HBM 칩의 불량을 고속으로 검출해 내는 유일한 솔루션</cite>으로 HBM4 본격 양산기 직접 수혜.",
+        "sources": [
+          {
+            "publisher": "핀포인트뉴스",
+            "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=458612",
+            "date": "2026-06-09"
+          }
+        ]
+      },
+      {
+        "ticker": "005290",
+        "name": "동진쎄미켐",
+        "market": "KOSDAQ",
+        "estimated_cap_tier": "mid",
+        "primary_signal": "fresh_catalyst",
+        "sub_theme": "반도체-소재(HBM 핵심소재 국산화)",
+        "fresh_catalyst_date": "2026-06-12",
+        "preopen_indication_pct": null,
+        "reasoning": "<cite index=\"60-5,60-6,60-7\">6월 12일 동진쎄미켐은 지난 종가 55,400원보다 높은 58,100원으로 거래를 시작해 58,900원을 기록, 종가 대비 6.31% 상승</cite>했고, <cite index=\"56-3\">1분기 매출 3280억원, 영업이익 665억원으로 전년 동기 대비 39.4% 증가</cite>한 펀더멘털을 보유. 상승 여력 충분.",
+        "sources": [
+          {
+            "publisher": "중앙이코노미뉴스",
+            "url": "https://www.joongangenews.com/news/articleView.html?idxno=525546",
+            "date": "2026-06-12"
+          },
+          {
+            "publisher": "블로터",
+            "url": "https://m.news.nate.com/search?q=%EB%8F%99%EC%A7%84%EC%8E%84%EB%AF%B8%EC%BC%90",
+            "date": "2026-05-07"
+          }
+        ]
+      },
+      {
+        "ticker": "083650",
+        "name": "비에이치아이",
+        "market": "KOSDAQ",
+        "estimated_cap_tier": "mid",
+        "primary_signal": "theme_leader",
+        "sub_theme": "원전-SMR 보조기기/체코 원전 보일러",
+        "fresh_catalyst_date": "2026-06-12",
+        "preopen_indication_pct": null,
+        "reasoning": "<cite index=\"9-8\">2025년 신한울 3,4호기 및 터빈 사업 수주 프로젝트 매출 본격화, SMR 관련 수주와 더불어 체코 원전 수주 계약 체결 시 연간 수주 성장세가 이어질 것으로 기대</cite>되며, <cite index=\"12-14,12-15\">웨스팅하우스와 폴란드 원전 개발 프로젝트 참여</cite> 모멘텀 누적.",
+        "sources": [
+          {
+            "publisher": "주식스토커",
+            "url": "https://stockstalker.co.kr/smr-stocks/",
+            "date": "2025-04-01"
+          },
+          {
+            "publisher": "CBC뉴스",
+            "url": "https://www.cbci.co.kr/news/articleView.html?idxno=559395",
+            "date": "2026-03-06"
+          }
+        ]
+      },
+      {
+        "ticker": "032820",
+        "name": "우리기술",
+        "market": "KOSDAQ",
+        "estimated_cap_tier": "small",
+        "primary_signal": "policy_tailwind",
+        "sub_theme": "원전-i-SMR MMIS 제어시스템",
+        "fresh_catalyst_date": "2026-05-22",
+        "preopen_indication_pct": null,
+        "reasoning": "<cite index=\"10-2,10-3\">우리기술이 혁신형소형모듈원자로(i-SMR) 기술개발사업에 참여하며 '혁신형소형모듈원자로기술개발사업단'과 '모듈형원자로 MMIS 안전계통 표준 플랫폼 개발'을 위한 협약을 체결</cite>했고, <cite index=\"8-12\">국내 유일의 원전 제어 시스템 공급 업체로 국내 원전 및 해외 원전 수주시 실적이 상승할 전망</cite>이다.",
+        "sources": [
+          {
+            "publisher": "씽크풀",
+            "url": "https://m.thinkpool.com/compDiscuss/cont/1015388",
+            "date": "2026-05-22"
+          }
+        ]
+      },
+      {
+        "ticker": "094820",
+        "name": "일진파워",
+        "market": "KOSDAQ",
+        "estimated_cap_tier": "small",
+        "primary_signal": "theme_alignment",
+        "sub_theme": "원전-경정비/원전 기기",
+        "fresh_catalyst_date": "2026-06-12",
+        "preopen_indication_pct": null,
+        "reasoning": "<cite index=\"14-12\">원자력 발전소 경정비 사업을 주요 사업으로 영위하는 기업으로 SMR 분야에서 주목</cite>받으며, <cite index=\"54-5,54-6\">하워드 러트닉 미국 상무부 장관이 한국과 일본의 대미 투자금 중 일부를 미국 내 원자력발전소 건설에 우선 사용할 계획이라고 밝혔고 대형 원전 및 SMR 건설 프로젝트를 명시</cite>한 정책 모멘텀 보유.",
+        "sources": [
+          {
+            "publisher": "씽크풀",
+            "url": "https://m.thinkpool.com/compDiscuss/cont/1022753",
+            "date": "2026-02-15"
+          }
+        ]
+      },
+      {
+        "ticker": "457550",
+        "name": "우진엔텍",
+        "market": "KOSDAQ",
+        "estimated_cap_tier": "small",
+        "primary_signal": "theme_alignment",
+        "sub_theme": "원전-정비",
+        "fresh_catalyst_date": "2026-03-06",
+        "preopen_indication_pct": null,
+        "reasoning": "<cite index=\"52-3,52-4\">원전 관련 종목들이 6일 오후 장중 상승 흐름을 나타내며 두산에너빌리티를 중심으로 비에이치아이와 일진파워, 우진엔텍까지 동반 상승 흐름을 보이면서 원전 테마 전반에 자금이 유입</cite>되었고, AI 데이터센터 전력 수요로 정비 수요 누적 강세 테마.",
+        "sources": [
+          {
+            "publisher": "CBC뉴스",
+            "url": "https://www.cbci.co.kr/news/articleView.html?idxno=559395",
+            "date": "2026-03-06"
+          }
+        ]
+      },
+      {
+        "ticker": "166090",
+        "name": "하나머티리얼즈",
+        "market": "KOSDAQ",
+        "estimated_cap_tier": "mid",
+        "primary_signal": "theme_alignment",
+        "sub_theme": "반도체-소재(실리콘 파츠)",
+        "fresh_catalyst_date": "2026-06-12",
+        "preopen_indication_pct": null,
+        "reasoning": "<cite index=\"19-4,19-5\">12일 국내 반도체 소부장(소재·부품·장비) 종목들이 일제히 급등했고 최근 인공지능(AI) 소부장 업종에 대한 투자심리가 개선되면서 관련 종목들로 매수세가 집중</cite>되었다. 동진쎄미켐/솔브레인 등 소재주 강세 흐름 동조 가능.",
+        "sources": [
+          {
+            "publisher": "서울경제",
+            "url": "https://www.sedaily.com/article/20055067",
+            "date": "2026-06-12"
+          }
+        ]
+      },
+      {
+        "ticker": "036930",
+        "name": "주성엔지니어링",
+        "market": "KOSDAQ",
+        "estimated_cap_tier": "mid",
+        "primary_signal": "momentum_continuation",
+        "sub_theme": "반도체-전공정 ALD 장비",
+        "fresh_catalyst_date": "2026-06-11",
+        "preopen_indication_pct": null,
+        "reasoning": "<cite index=\"36-1,36-9\">알테오젠과 주성엔지니어링 등 시가총액 상위 종목이 7% 넘게 급등하며 상승세를 이끌었고, 시총 5위 주성엔지니어링은 7.04% 상승한 21만 3000원에 손바뀜</cite>되었다. 전공정 ALD 장비 슈퍼사이클 모멘텀 지속.",
+        "sources": [
+          {
+            "publisher": "서울경제",
+            "url": "https://www.sedaily.com/article/20054440",
+            "date": "2026-06-11"
+          }
+        ]
+      },
+      {
+        "ticker": "009420",
+        "name": "한올바이오파마",
+        "market": "KOSPI",
+        "estimated_cap_tier": "mid",
+        "primary_signal": "fresh_catalyst",
+        "sub_theme": "바이오-자가면역 후기 임상",
+        "fresh_catalyst_date": "2026-02-23",
+        "preopen_indication_pct": null,
+        "reasoning": "<cite index=\"45-1\">2026년 하반기부터 주요 후기 임상 데이터가 확인될 것으로 예상되는 한올바이오파마도 주목</cite>되며, 위험선호 회복 국면에서 성장주 바이오 반등 시도 시 catch-up 후보.",
+        "sources": [
+          {
+            "publisher": "유진투자증권",
+            "url": "https://www.eugenefn.com/common/files/amail//20260223_B3510_hskwon_322.pdf",
+            "date": "2026-02-23"
+          }
+        ]
+      },
+      {
+        "ticker": "277810",
+        "name": "레인보우로보틱스",
+        "market": "KOSDAQ",
+        "estimated_cap_tier": "mid",
+        "primary_signal": "theme_alignment",
+        "sub_theme": "로봇-휴머노이드/협동로봇",
+        "fresh_catalyst_date": "2026-06-12",
+        "preopen_indication_pct": null,
+        "reasoning": "<cite index=\"40-3\">인간형 이족보행 로봇 개발을 통해 확보한 핵심 부품 및 요소 기술을 활용하여 협동로봇 사업을 진행하며 국내에서 유일하게 초정밀지향마운트 시스템을 자체개발하여 제조 및 판매</cite>하고 있다. <cite index=\"49-1\">K-Humanoid Alliance가 2025년 4월 출범</cite>한 정책 모멘텀 누적.",
+        "sources": [
+          {
+            "publisher": "알파스퀘어",
+            "url": "https://alphasquare.co.kr/home/stock-summary?code=277810",
+            "date": "2026-06-12"
+          },
+          {
+            "publisher": "Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/K-Humanoid_Alliance",
+            "date": "2025-04-10"
+          }
+        ]
+      },
+      {
+        "ticker": "011700",
+        "name": "한신기계",
+        "market": "KOSPI",
+        "estimated_cap_tier": "small",
+        "primary_signal": "theme_alignment",
+        "sub_theme": "원전-SMR 후발주(공기압축기)",
+        "fresh_catalyst_date": "2026-01-27",
+        "preopen_indication_pct": null,
+        "reasoning": "<cite index=\"51-1,51-2\">정부가 신규 원자력발전소 건설을 계획대로 추진하기로 하면서 원전 관련주가 일제히 강세를 보였고 비에이치아이(8.81%), 피코그램(8.21%), 우리기술(6.61%), 한전KPS(5.61%), 우진엔텍(5.46%), 한신기계(4.48%) 등 원전 관련 종목 전반으로 매수세가 유입</cite>되었다.",
+        "sources": [
+          {
+            "publisher": "씽크풀",
+            "url": "https://m.thinkpool.com/compDiscuss/cont/1024160",
+            "date": "2026-01-27"
+          }
+        ]
+      },
+      {
+        "ticker": "240810",
+        "name": "원익IPS",
+        "market": "KOSDAQ",
+        "estimated_cap_tier": "mid",
+        "primary_signal": "theme_leader",
+        "sub_theme": "반도체-전공정 장비(증착)",
+        "fresh_catalyst_date": "2026-06-12",
+        "preopen_indication_pct": null,
+        "reasoning": "<cite index=\"20-6\">원익IPS는 삼성전자가 광주에 반도체 패키징 공장을, SK하이닉스가 호남 지역에 반도체 후공정 시설을 만들 것이라는 관측이 나오면서 최근 매수세가 모이고 있다</cite>. 전공정 증착 슈퍼사이클 직접 수혜.",
+        "sources": [
+          {
+            "publisher": "머니투데이",
+            "url": "https://www.mt.co.kr/stock/2026/06/12/2026061214075219747",
+            "date": "2026-06-12"
+          }
+        ]
+      }
+    ],
+    "scored": [
+      {
+        "ticker": "403870",
+        "score": 1,
+        "signals_present": [
+          "theme_leader",
+          "fresh_catalyst",
+          "theme_alignment"
+        ],
+        "primary_signal": "theme_leader",
+        "fresh_catalyst_date": "2026-06-12",
+        "hard_exclusions_triggered": [
+          "E1"
+        ],
+        "soft_penalties_applied": [],
+        "reasoning": "6월 12일 상한가(+30%) 마감 후 continuation regime에서 갭업 시 TP(+5%) 즉시 초과 위험. EXCLUDE per E1. <cite index=\"1-1\">HPSP가 상한가 30%인 7만1500원에 마감</cite>했고 <cite index=\"2-3,2-4\">머스크의 테라팹 수주를 따냈으며 테라팹은 2028년 가동을 목표로 한 초대형 반도체 제조시설</cite>이다.",
+        "sources": [
+          {
+            "publisher": "시사저널",
+            "url": "https://www.sisajournal.com/news/articleView.html?idxno=376364",
+            "date": "2026-06-12"
+          },
+          {
+            "publisher": "머니투데이",
+            "url": "https://www.mt.co.kr/stock/2026/06/12/2026061214075219747",
+            "date": "2026-06-12"
+          }
+        ]
+      },
+      {
+        "ticker": "031980",
+        "score": 3,
+        "signals_present": [
+          "theme_alignment",
+          "fresh_catalyst",
+          "clean_narrative"
+        ],
+        "primary_signal": "theme_alignment",
+        "fresh_catalyst_date": "2026-06-12",
+        "hard_exclusions_triggered": [],
+        "soft_penalties_applied": [
+          "P5"
+        ],
+        "reasoning": "<cite index=\"1-3\">피에스케이가 13.42% 상승</cite>하며 장비주 랠리에 동조. HBM 첨단패키징 Fluxless Reflow 수혜로 추가 상승 여력 보유.",
+        "sources": [
+          {
+            "publisher": "시사저널",
+            "url": "https://www.sisajournal.com/news/articleView.html?idxno=376364",
+            "date": "2026-06-12"
+          }
+        ]
+      },
+      {
+        "ticker": "095340",
+        "score": 3,
+        "signals_present": [
+          "momentum_continuation",
+          "theme_alignment",
+          "fresh_catalyst"
+        ],
+        "primary_signal": "momentum_continuation",
+        "fresh_catalyst_date": "2026-06-12",
+        "hard_exclusions_triggered": [],
+        "soft_penalties_applied": [
+          "P2"
+        ],
+        "reasoning": "ISC가 6월 12일 +20%대 상승하며 <cite index=\"6-9\">반도체 밸류체인 전반이 상위권에 포진</cite>한 흐름에 동조. 후공정 테스트 소켓 수요 모멘텀 유효.",
+        "sources": [
+          {
+            "publisher": "EBN",
+            "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1712343",
+            "date": "2026-06-12"
+          }
+        ]
+      },
+      {
+        "ticker": "089030",
+        "score": 4,
+        "signals_present": [
+          "theme_leader",
+          "fresh_catalyst",
+          "momentum_continuation",
+          "clean_narrative"
+        ],
+        "primary_signal": "theme_leader",
+        "fresh_catalyst_date": "2026-06-09",
+        "hard_exclusions_triggered": [],
+        "soft_penalties_applied": [],
+        "reasoning": "<cite index=\"5-2\">테크윙이 장 초반부터 매수세가 집중되며 급등 흐름</cite>을 보였고 HBM 큐브프로버 SK하이닉스 퀄 통과로 HBM4 양산기 직접 수혜.",
+        "sources": [
+          {
+            "publisher": "핀포인트뉴스",
+            "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=458662",
+            "date": "2026-06-09"
+          }
+        ]
+      },
+      {
+        "ticker": "005290",
+        "score": 4,
+        "signals_present": [
+          "fresh_catalyst",
+          "theme_alignment",
+          "momentum_continuation",
+          "clean_narrative"
+        ],
+        "primary_signal": "fresh_catalyst",
+        "fresh_catalyst_date": "2026-06-12",
+        "hard_exclusions_triggered": [],
+        "soft_penalties_applied": [],
+        "reasoning": "<cite index=\"10-4,10-5,10-6\">동진쎄미켐이 지난 종가 55,400원보다 높은 58,100원으로 거래를 시작해 58,900원을 기록하며 종가 대비 6.31% 상승</cite>. 상승률 절제로 TP 여유 보유, 소재 국산화 펀더멘털 보강.",
+        "sources": [
+          {
+            "publisher": "중앙이코노미뉴스",
+            "url": "https://www.joongangenews.com/news/articleView.html?idxno=525546",
+            "date": "2026-06-12"
+          }
+        ]
+      },
+      {
+        "ticker": "083650",
+        "score": 1,
+        "signals_present": [
+          "theme_leader",
+          "policy_tailwind",
+          "fresh_catalyst"
+        ],
+        "primary_signal": "theme_leader",
+        "fresh_catalyst_date": "2026-06-12",
+        "hard_exclusions_triggered": [
+          "E1"
+        ],
+        "soft_penalties_applied": [],
+        "reasoning": "<cite index=\"6-1\">비에이치아이가 6월 12일 30.00% 상승하며 상한가</cite> 마감. continuation regime에서 추가 갭업 시 TP 즉시 초과. EXCLUDE per E1.",
+        "sources": [
+          {
+            "publisher": "EBN",
+            "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1712343",
+            "date": "2026-06-12"
+          }
+        ]
+      },
+      {
+        "ticker": "032820",
+        "score": 1,
+        "signals_present": [
+          "policy_tailwind",
+          "theme_alignment",
+          "fresh_catalyst"
+        ],
+        "primary_signal": "policy_tailwind",
+        "fresh_catalyst_date": "2026-06-12",
+        "hard_exclusions_triggered": [
+          "E1"
+        ],
+        "soft_penalties_applied": [],
+        "reasoning": "<cite index=\"6-7\">우리기술이 17570원으로 29.96% 상승</cite>해 상한가 락업 마감. 갭업 시 TP 초과 위험. EXCLUDE per E1.",
+        "sources": [
+          {
+            "publisher": "EBN",
+            "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1712343",
+            "date": "2026-06-12"
+          }
+        ]
+      },
+      {
+        "ticker": "094820",
+        "score": 2,
+        "signals_present": [
+          "theme_alignment",
+          "policy_tailwind",
+          "clean_narrative"
+        ],
+        "primary_signal": "theme_alignment",
+        "fresh_catalyst_date": "2026-06-12",
+        "hard_exclusions_triggered": [],
+        "soft_penalties_applied": [
+          "P5"
+        ],
+        "reasoning": "원전 테마 대장주(비에이치아이/우리기술)가 모두 상한가로 락업되어 자금 회전 가능성. 일진파워는 원전 정비 수혜 카테고리이나 직접 신선 catalyst는 테마 동조 수준.",
+        "sources": [
+          {
+            "publisher": "EBN",
+            "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1712343",
+            "date": "2026-06-12"
+          }
+        ]
+      },
+      {
+        "ticker": "457550",
+        "score": 1,
+        "signals_present": [
+          "theme_alignment"
+        ],
+        "primary_signal": "theme_alignment",
+        "fresh_catalyst_date": "2026-03-06",
+        "hard_exclusions_triggered": [
+          "E3"
+        ],
+        "soft_penalties_applied": [],
+        "reasoning": "지지 catalyst가 2026-03-06으로 5거래일 훨씬 이전. 테마 멤버십만으로는 catalyst 인정 불가. EXCLUDE per E3.",
+        "sources": [
+          {
+            "publisher": "CBC뉴스",
+            "url": "https://www.cbci.co.kr/news/articleView.html?idxno=559395",
+            "date": "2026-03-06"
+          }
+        ]
+      },
+      {
+        "ticker": "166090",
+        "score": 3,
+        "signals_present": [
+          "theme_alignment",
+          "fresh_catalyst",
+          "clean_narrative"
+        ],
+        "primary_signal": "theme_alignment",
+        "fresh_catalyst_date": "2026-06-12",
+        "hard_exclusions_triggered": [],
+        "soft_penalties_applied": [
+          "P5"
+        ],
+        "reasoning": "<cite index=\"3-4,3-5\">국내 반도체 소부장 종목들이 12일 일제히 급등하며 AI 소부장 업종 매수세 집중</cite>. 실리콘 파츠 소재 카테고리로 동조 상승 여지.",
+        "sources": [
+          {
+            "publisher": "서울경제",
+            "url": "https://www.sedaily.com/article/20055067",
+            "date": "2026-06-12"
+          }
+        ]
+      },
+      {
+        "ticker": "036930",
+        "score": 4,
+        "signals_present": [
+          "momentum_continuation",
+          "theme_alignment",
+          "fresh_catalyst",
+          "clean_narrative"
+        ],
+        "primary_signal": "momentum_continuation",
+        "fresh_catalyst_date": "2026-06-11",
+        "hard_exclusions_triggered": [],
+        "soft_penalties_applied": [],
+        "reasoning": "주성엔지니어링이 6월 11일 +7% 급등 후 12일 장비주 랠리 동조. <cite index=\"11-1\">HBM·첨단패키징 투자 확대로 동진쎄미켐 소재 경쟁력 부각…원익IPS·테스·주성엔지니어링</cite> 수혜 라인업 명시.",
+        "sources": [
+          {
+            "publisher": "서울경제",
+            "url": "https://www.sedaily.com/article/20054440",
+            "date": "2026-06-11"
+          },
+          {
+            "publisher": "헤럴드경제",
+            "url": "https://v.daum.net/v/5ut0jr9UGg",
+            "date": "2026-04-09"
+          }
+        ]
+      },
+      {
+        "ticker": "009420",
+        "score": 1,
+        "signals_present": [
+          "clean_narrative"
+        ],
+        "primary_signal": "fresh_catalyst",
+        "fresh_catalyst_date": "2026-02-23",
+        "hard_exclusions_triggered": [
+          "E3"
+        ],
+        "soft_penalties_applied": [],
+        "reasoning": "지지 catalyst가 2026-02-23으로 4개월 이전. 후기 임상 데이터는 하반기 예정 — 현재 직접 신선 catalyst 부재. EXCLUDE per E3.",
+        "sources": [
+          {
+            "publisher": "유진투자증권",
+            "url": "https://www.eugenefn.com/common/files/amail//20260223_B3510_hskwon_322.pdf",
+            "date": "2026-02-23"
+          }
+        ]
+      },
+      {
+        "ticker": "277810",
+        "score": 2,
+        "signals_present": [
+          "theme_alignment",
+          "policy_tailwind",
+          "clean_narrative"
+        ],
+        "primary_signal": "theme_alignment",
+        "fresh_catalyst_date": "2026-06-12",
+        "hard_exclusions_triggered": [],
+        "soft_penalties_applied": [
+          "P5"
+        ],
+        "reasoning": "로봇 테마는 오늘 active themes 목록(반도체/방산/조선/자동차/원전)에 명시되지 않음. <cite index=\"3-7\">투자자들의 관심이 AI 로봇에서 AI 소부장으로 옮겨가는 모습</cite>이라는 분석은 로봇 sector 약세 시사.",
+        "sources": [
+          {
+            "publisher": "서울경제",
+            "url": "https://www.sedaily.com/article/20055067",
+            "date": "2026-06-12"
+          }
+        ]
+      },
+      {
+        "ticker": "011700",
+        "score": 1,
+        "signals_present": [
+          "theme_alignment"
+        ],
+        "primary_signal": "theme_alignment",
+        "fresh_catalyst_date": "2026-01-27",
+        "hard_exclusions_triggered": [
+          "E3"
+        ],
+        "soft_penalties_applied": [],
+        "reasoning": "지지 catalyst가 2026-01-27로 5개월 이전. 테마 멤버십만 보유. EXCLUDE per E3.",
+        "sources": [
+          {
+            "publisher": "씽크풀",
+            "url": "https://m.thinkpool.com/compDiscuss/cont/1024160",
+            "date": "2026-01-27"
+          }
+        ]
+      },
+      {
+        "ticker": "240810",
+        "score": 1,
+        "signals_present": [
+          "theme_leader",
+          "fresh_catalyst",
+          "policy_tailwind"
+        ],
+        "primary_signal": "theme_leader",
+        "fresh_catalyst_date": "2026-06-12",
+        "hard_exclusions_triggered": [
+          "E1"
+        ],
+        "soft_penalties_applied": [],
+        "reasoning": "<cite index=\"1-1\">원익IPS가 상한가 30%인 18만3300원에 마감</cite>해 continuation regime에서 갭업 시 TP(+5%) 초과 위험. EXCLUDE per E1.",
+        "sources": [
+          {
+            "publisher": "시사저널",
+            "url": "https://www.sisajournal.com/news/articleView.html?idxno=376364",
+            "date": "2026-06-12"
+          }
+        ]
+      }
+    ],
+    "final_picks": [
+      {
+        "ticker": "089030",
+        "name": "테크윙",
+        "market": "KOSDAQ",
+        "estimated_cap_tier": "mid",
+        "primary_signal": "theme_leader",
+        "sub_theme": "반도체-HBM 큐브프로버 테스트",
+        "fresh_catalyst_date": "2026-06-09",
+        "preopen_indication_pct": null,
+        "reasoning": "<cite index=\"5-2\">테크윙이 장 초반부터 매수세가 집중되며 급등 흐름</cite>을 보였고 HBM 큐브프로버 SK하이닉스 퀄 통과로 HBM4 양산기 직접 수혜.",
+        "sources": [
+          {
+            "publisher": "핀포인트뉴스",
+            "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=458612",
+            "date": "2026-06-09"
+          },
+          {
+            "publisher": "핀포인트뉴스",
+            "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=458662",
+            "date": "2026-06-09"
+          }
+        ],
+        "score": 4,
+        "signals_present": [
+          "theme_leader",
+          "fresh_catalyst",
+          "momentum_continuation",
+          "clean_narrative"
+        ],
+        "hard_exclusions_triggered": [],
+        "soft_penalties_applied": [],
+        "brief_reasoning": "<cite index=\"28-1,28-2\">삼성전자와 대규모 공급계약을 체결한 데 이어 SK하이닉스의 퀄(품질) 테스트까지 통과하며 글로벌 'HBM 빅3' 시장 선점을 눈앞에 뒀고, 큐브 프로버는 개별 HBM 칩의 불량을 고속으로 검출해 내는 유일한 솔루션</cite>으로 HBM4 본격 양산기 직접 수혜.",
+        "research_reasoning": "<cite index=\"5-2\">테크윙이 장 초반부터 매수세가 집중되며 급등 흐름</cite>을 보였고 HBM 큐브프로버 SK하이닉스 퀄 통과로 HBM4 양산기 직접 수혜."
+      },
+      {
+        "ticker": "005290",
+        "name": "동진쎄미켐",
+        "market": "KOSDAQ",
+        "estimated_cap_tier": "mid",
+        "primary_signal": "fresh_catalyst",
+        "sub_theme": "반도체-소재(HBM 핵심소재 국산화)",
+        "fresh_catalyst_date": "2026-06-12",
+        "preopen_indication_pct": null,
+        "reasoning": "<cite index=\"10-4,10-5,10-6\">동진쎄미켐이 지난 종가 55,400원보다 높은 58,100원으로 거래를 시작해 58,900원을 기록하며 종가 대비 6.31% 상승</cite>. 상승률 절제로 TP 여유 보유, 소재 국산화 펀더멘털 보강.",
+        "sources": [
+          {
+            "publisher": "중앙이코노미뉴스",
+            "url": "https://www.joongangenews.com/news/articleView.html?idxno=525546",
+            "date": "2026-06-12"
+          },
+          {
+            "publisher": "블로터",
+            "url": "https://m.news.nate.com/search?q=%EB%8F%99%EC%A7%84%EC%8E%84%EB%AF%B8%EC%BC%90",
+            "date": "2026-05-07"
+          },
+          {
+            "publisher": "중앙이코노미뉴스",
+            "url": "https://www.joongangenews.com/news/articleView.html?idxno=525546",
+            "date": "2026-06-12"
+          }
+        ],
+        "score": 4,
+        "signals_present": [
+          "fresh_catalyst",
+          "theme_alignment",
+          "momentum_continuation",
+          "clean_narrative"
+        ],
+        "hard_exclusions_triggered": [],
+        "soft_penalties_applied": [],
+        "brief_reasoning": "<cite index=\"60-5,60-6,60-7\">6월 12일 동진쎄미켐은 지난 종가 55,400원보다 높은 58,100원으로 거래를 시작해 58,900원을 기록, 종가 대비 6.31% 상승</cite>했고, <cite index=\"56-3\">1분기 매출 3280억원, 영업이익 665억원으로 전년 동기 대비 39.4% 증가</cite>한 펀더멘털을 보유. 상승 여력 충분.",
+        "research_reasoning": "<cite index=\"10-4,10-5,10-6\">동진쎄미켐이 지난 종가 55,400원보다 높은 58,100원으로 거래를 시작해 58,900원을 기록하며 종가 대비 6.31% 상승</cite>. 상승률 절제로 TP 여유 보유, 소재 국산화 펀더멘털 보강."
+      },
+      {
+        "ticker": "036930",
+        "name": "주성엔지니어링",
+        "market": "KOSDAQ",
+        "estimated_cap_tier": "mid",
+        "primary_signal": "momentum_continuation",
+        "sub_theme": "반도체-전공정 ALD 장비",
+        "fresh_catalyst_date": "2026-06-11",
+        "preopen_indication_pct": null,
+        "reasoning": "주성엔지니어링이 6월 11일 +7% 급등 후 12일 장비주 랠리 동조. <cite index=\"11-1\">HBM·첨단패키징 투자 확대로 동진쎄미켐 소재 경쟁력 부각…원익IPS·테스·주성엔지니어링</cite> 수혜 라인업 명시.",
+        "sources": [
+          {
+            "publisher": "서울경제",
+            "url": "https://www.sedaily.com/article/20054440",
+            "date": "2026-06-11"
+          },
+          {
+            "publisher": "서울경제",
+            "url": "https://www.sedaily.com/article/20054440",
+            "date": "2026-06-11"
+          },
+          {
+            "publisher": "헤럴드경제",
+            "url": "https://v.daum.net/v/5ut0jr9UGg",
+            "date": "2026-04-09"
+          }
+        ],
+        "score": 4,
+        "signals_present": [
+          "momentum_continuation",
+          "theme_alignment",
+          "fresh_catalyst",
+          "clean_narrative"
+        ],
+        "hard_exclusions_triggered": [],
+        "soft_penalties_applied": [],
+        "brief_reasoning": "<cite index=\"36-1,36-9\">알테오젠과 주성엔지니어링 등 시가총액 상위 종목이 7% 넘게 급등하며 상승세를 이끌었고, 시총 5위 주성엔지니어링은 7.04% 상승한 21만 3000원에 손바뀜</cite>되었다. 전공정 ALD 장비 슈퍼사이클 모멘텀 지속.",
+        "research_reasoning": "주성엔지니어링이 6월 11일 +7% 급등 후 12일 장비주 랠리 동조. <cite index=\"11-1\">HBM·첨단패키징 투자 확대로 동진쎄미켐 소재 경쟁력 부각…원익IPS·테스·주성엔지니어링</cite> 수혜 라인업 명시."
+      },
+      {
+        "ticker": "031980",
+        "name": "피에스케이홀딩스",
+        "market": "KOSDAQ",
+        "estimated_cap_tier": "mid",
+        "primary_signal": "theme_alignment",
+        "sub_theme": "반도체-HBM 첨단 패키징(Fluxless Reflow)",
+        "fresh_catalyst_date": "2026-06-12",
+        "preopen_indication_pct": null,
+        "reasoning": "<cite index=\"1-3\">피에스케이가 13.42% 상승</cite>하며 장비주 랠리에 동조. HBM 첨단패키징 Fluxless Reflow 수혜로 추가 상승 여력 보유.",
+        "sources": [
+          {
+            "publisher": "매일경제(다음)",
+            "url": "https://v.daum.net/v/20260612175700375",
+            "date": "2026-06-12"
+          },
+          {
+            "publisher": "시사저널",
+            "url": "https://www.sisajournal.com/news/articleView.html?idxno=376364",
+            "date": "2026-06-12"
+          }
+        ],
+        "score": 3,
+        "signals_present": [
+          "theme_alignment",
+          "fresh_catalyst",
+          "clean_narrative"
+        ],
+        "hard_exclusions_triggered": [],
+        "soft_penalties_applied": [
+          "P5"
+        ],
+        "brief_reasoning": "<cite index=\"4-5\">6월 12일 피에스케이홀딩스는 13.42% 상승</cite>하며 장비주 랠리에 동조했고, <cite index=\"30-6\">AI 산업 성장에 따른 HBM 수요 폭증과 첨단 패키징 기술 도입으로 설비 투자가 확대되며 Fluxless Reflow 장비로 비교우위를 유지</cite>한다. 동종 장비주 대비 상승률이 절제되어 추가 상승 여력 보유.",
+        "research_reasoning": "<cite index=\"1-3\">피에스케이가 13.42% 상승</cite>하며 장비주 랠리에 동조. HBM 첨단패키징 Fluxless Reflow 수혜로 추가 상승 여력 보유."
+      },
+      {
+        "ticker": "095340",
+        "name": "ISC",
+        "market": "KOSDAQ",
+        "estimated_cap_tier": "mid",
+        "primary_signal": "momentum_continuation",
+        "sub_theme": "반도체-후공정 테스트 소켓",
+        "fresh_catalyst_date": "2026-06-12",
+        "preopen_indication_pct": null,
+        "reasoning": "ISC가 6월 12일 +20%대 상승하며 <cite index=\"6-9\">반도체 밸류체인 전반이 상위권에 포진</cite>한 흐름에 동조. 후공정 테스트 소켓 수요 모멘텀 유효.",
+        "sources": [
+          {
+            "publisher": "매일경제(다음)",
+            "url": "https://v.daum.net/v/20260612175700375",
+            "date": "2026-06-12"
+          },
+          {
+            "publisher": "EBN",
+            "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1712343",
+            "date": "2026-06-12"
+          }
+        ],
+        "score": 3,
+        "signals_present": [
+          "momentum_continuation",
+          "theme_alignment",
+          "fresh_catalyst"
+        ],
+        "hard_exclusions_triggered": [],
+        "soft_penalties_applied": [
+          "P2"
+        ],
+        "brief_reasoning": "<cite index=\"4-5\">6월 12일 ISC는 20.73% 상승</cite>하며 후공정 테스트 소켓 수요 기대감을 반영했다. AI 칩 다변화로 테스트 소켓 단가 상승 모멘텀 지속.",
+        "research_reasoning": "ISC가 6월 12일 +20%대 상승하며 <cite index=\"6-9\">반도체 밸류체인 전반이 상위권에 포진</cite>한 흐름에 동조. 후공정 테스트 소켓 수요 모멘텀 유효."
+      }
+    ]
+  }
+}

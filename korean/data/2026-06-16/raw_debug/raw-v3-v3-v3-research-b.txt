@@ -1,0 +1,245 @@
+{
+  "scored": [
+    {
+      "ticker": "083650",
+      "score": 3,
+      "signals_present": ["theme_leader", "policy_tailwind", "clean_narrative"],
+      "primary_signal": "theme_leader",
+      "sub_theme": "원전-SMR/소형",
+      "fresh_catalyst_date": "2026-06-15",
+      "prev_day_change_pct": null,
+      "preopen_indication_pct": null,
+      "hard_exclusions_triggered": [],
+      "soft_penalties_applied": ["P4"],
+      "reasoning": "웨스팅하우스 폴란드 원전 프로젝트 참여로 SMR 멀티위크 정책 모멘텀 핵심 라인업. 두산에너빌리티 +7.09% 동반 강세 흐름과 정렬된 KOSPI 미드캡.",
+      "sources": [
+        {"publisher": "이데일리", "url": "https://www.edaily.co.kr/news/read?newsId=02547686642456096", "date": "2026-06-15"}
+      ]
+    },
+    {
+      "ticker": "094820",
+      "score": 2,
+      "signals_present": ["theme_alignment", "clean_narrative"],
+      "primary_signal": "theme_alignment",
+      "sub_theme": "원전-SMR/소형",
+      "fresh_catalyst_date": null,
+      "prev_day_change_pct": null,
+      "preopen_indication_pct": null,
+      "hard_exclusions_triggered": [],
+      "soft_penalties_applied": ["P4", "P5"],
+      "reasoning": "원전 경정비 사업 기반 SMR 테마 연동 KOSDAQ 미드캡. 두산에너빌리티 동반 강세 흐름에서 sympathy 포지션이나 종목 dated catalyst 미확보.",
+      "sources": [
+        {"publisher": "alphasquare", "url": "https://alphasquare.substack.com/p/smr-best-10", "date": "2026-06-15"}
+      ]
+    },
+    {
+      "ticker": "032820",
+      "score": 3,
+      "signals_present": ["theme_leader", "fresh_catalyst", "retail_buzz"],
+      "primary_signal": "theme_leader",
+      "sub_theme": "원전-SMR/소형",
+      "fresh_catalyst_date": "2026-06-14",
+      "prev_day_change_pct": null,
+      "preopen_indication_pct": null,
+      "hard_exclusions_triggered": [],
+      "soft_penalties_applied": ["P4"],
+      "reasoning": "i-SMR 기술개발사업 참여 + MMIS 제어시스템 핵심 KOSDAQ 종목. 6/15 투자주의종목 지정으로 거래 활성화, KOSDAQ 분배 환경에서 변동성 큼.",
+      "sources": [
+        {"publisher": "CBC뉴스", "url": "https://www.cbci.co.kr/news/articleView.html?idxno=572025", "date": "2026-06-14"}
+      ]
+    },
+    {
+      "ticker": "080220",
+      "score": 2,
+      "signals_present": ["earnings_drift", "theme_alignment"],
+      "primary_signal": "earnings_drift",
+      "sub_theme": "반도체-메모리",
+      "fresh_catalyst_date": "2026-06-15",
+      "prev_day_change_pct": null,
+      "preopen_indication_pct": null,
+      "hard_exclusions_triggered": [],
+      "soft_penalties_applied": ["P1", "P4"],
+      "reasoning": "1Q 매출 +273%, 영업이익 +1713% 호실적 + 메모리 사이클 KOSDAQ 팹리스. 단, KOSDAQ 외국인 1조원 순매도 분배 구도.",
+      "sources": [
+        {"publisher": "네이트뉴스", "url": "https://news.nate.com/view/20260615n32175", "date": "2026-06-15"}
+      ]
+    },
+    {
+      "ticker": "089030",
+      "score": 2,
+      "signals_present": ["theme_alignment", "clean_narrative"],
+      "primary_signal": "theme_alignment",
+      "sub_theme": "반도체-HBM 후공정",
+      "fresh_catalyst_date": null,
+      "prev_day_change_pct": null,
+      "preopen_indication_pct": null,
+      "hard_exclusions_triggered": [],
+      "soft_penalties_applied": ["P1", "P4", "P5"],
+      "reasoning": "HBM 후공정 테스트(큐브프로버) KOSDAQ 미드캡으로 메모리 사이클 연동. KOSDAQ 외국인 분배 환경 + 종목 dated catalyst 미확보.",
+      "sources": [
+        {"publisher": "네이트뉴스", "url": "https://news.nate.com/view/20260615n32175", "date": "2026-06-15"}
+      ]
+    },
+    {
+      "ticker": "166090",
+      "score": 2,
+      "signals_present": ["theme_alignment", "clean_narrative"],
+      "primary_signal": "theme_alignment",
+      "sub_theme": "반도체-소재",
+      "fresh_catalyst_date": null,
+      "prev_day_change_pct": null,
+      "preopen_indication_pct": null,
+      "hard_exclusions_triggered": ["E3"],
+      "soft_penalties_applied": [],
+      "reasoning": "반도체 소재 KOSDAQ 미드캡. 지지 소스가 2025-12-30로 5거래일 초과된 stale 자료에 의존, 직전 2거래일 내 종목 고유 dated 뉴스 미확인.",
+      "sources": [
+        {"publisher": "IBKS", "url": "https://m.ibks.com/iko/IKO01/download.do?seq=2096&gubun=STRATEGY&menuCode=IKO010101&attatchCd=ATTATCH1", "date": "2025-12-30"}
+      ]
+    },
+    {
+      "ticker": "098460",
+      "score": 1,
+      "signals_present": ["theme_alignment"],
+      "primary_signal": "theme_alignment",
+      "sub_theme": "반도체-소재",
+      "fresh_catalyst_date": null,
+      "prev_day_change_pct": null,
+      "preopen_indication_pct": null,
+      "hard_exclusions_triggered": ["E3"],
+      "soft_penalties_applied": [],
+      "reasoning": "세정·코팅 부품 KOSDAQ 미드캡. 지지 소스가 2025-12-30 stale 전략 자료에 의존, 종목 고유 dated 뉴스 미확인.",
+      "sources": [
+        {"publisher": "IBKS", "url": "https://m.ibks.com/iko/IKO01/download.do?seq=2096&gubun=STRATEGY&menuCode=IKO010101&attatchCd=ATTATCH1", "date": "2025-12-30"}
+      ]
+    },
+    {
+      "ticker": "277810",
+      "score": 3,
+      "signals_present": ["momentum_continuation", "theme_leader", "clean_narrative"],
+      "primary_signal": "momentum_continuation",
+      "sub_theme": "로봇-휴머노이드",
+      "fresh_catalyst_date": "2026-06-15",
+      "prev_day_change_pct": 5.77,
+      "preopen_indication_pct": null,
+      "hard_exclusions_triggered": [],
+      "soft_penalties_applied": ["P4"],
+      "reasoning": "휴머노이드 대장주로 초정밀지향마운트 자체개발 보유, AI 인프라 연동 로봇 멀티위크 모멘텀 지속. 전일 +5.77% 건전한 추세 연장 구간.",
+      "sources": [
+        {"publisher": "중앙이코노미뉴스", "url": "https://www.joongangenews.com/news/articleView.html?idxno=526020", "date": "2026-06-15"}
+      ]
+    },
+    {
+      "ticker": "196170",
+      "score": 2,
+      "signals_present": ["theme_leader", "clean_narrative"],
+      "primary_signal": "theme_leader",
+      "sub_theme": "바이오-ADC",
+      "fresh_catalyst_date": null,
+      "prev_day_change_pct": null,
+      "preopen_indication_pct": null,
+      "hard_exclusions_triggered": ["E3"],
+      "soft_penalties_applied": [],
+      "reasoning": "ADC·히알루로니다제 원천기술 보유 KOSDAQ 바이오 대장주. 지지 소스가 2026-05-13로 5거래일 초과, 직전 2거래일 내 종목 고유 dated 뉴스 미확인.",
+      "sources": [
+        {"publisher": "alphasquare", "url": "https://alphasquare.co.kr/home/stock-summary?code=196170", "date": "2026-05-13"}
+      ]
+    },
+    {
+      "ticker": "064350",
+      "score": 4,
+      "signals_present": ["fresh_catalyst", "theme_leader", "momentum_continuation", "clean_narrative"],
+      "primary_signal": "fresh_catalyst",
+      "sub_theme": "방산-육상/지상",
+      "fresh_catalyst_date": "2026-06-15",
+      "prev_day_change_pct": 2.87,
+      "preopen_indication_pct": null,
+      "hard_exclusions_triggered": [],
+      "soft_penalties_applied": ["P4"],
+      "reasoning": "유로사토리 2026 (6/15~19) 개최로 K-2 전차·천궁-Ⅱ 유럽 진출 모멘텀 dated 이벤트 진행 중. 방산 멀티위크 트렌드 + 전일 +2.87% 건전 상승.",
+      "sources": [
+        {"publisher": "서울경제", "url": "https://www.sedaily.com/article/20055835", "date": "2026-06-15"}
+      ]
+    },
+    {
+      "ticker": "042660",
+      "score": 3,
+      "signals_present": ["theme_alignment", "fresh_catalyst", "clean_narrative"],
+      "primary_signal": "theme_alignment",
+      "sub_theme": "조선-대형",
+      "fresh_catalyst_date": "2026-06-15",
+      "prev_day_change_pct": null,
+      "preopen_indication_pct": null,
+      "hard_exclusions_triggered": [],
+      "soft_penalties_applied": ["P4"],
+      "reasoning": "호르무즈 정상화로 글로벌 물동량 회복 기대 조선 대형 라인업. HD현대중공업 6/15 +9.08% 동반 강세 구도에서 한화오션 정렬.",
+      "sources": [
+        {"publisher": "중앙이코노미뉴스", "url": "https://www.joongangenews.com/news/articleView.html?idxno=526022", "date": "2026-06-15"}
+      ]
+    },
+    {
+      "ticker": "267260",
+      "score": 4,
+      "signals_present": ["theme_leader", "momentum_continuation", "fresh_catalyst", "clean_narrative"],
+      "primary_signal": "theme_leader",
+      "sub_theme": "전력 인프라-변압기",
+      "fresh_catalyst_date": "2026-06-15",
+      "prev_day_change_pct": 4.34,
+      "preopen_indication_pct": null,
+      "hard_exclusions_triggered": [],
+      "soft_penalties_applied": ["P4"],
+      "reasoning": "AI 데이터센터 전력 수요 멀티위크 모멘텀 + 동일업종 +9.94% 동반 강세. 전일 +4.34% 건전 추세 연장으로 변압기 대장주 포지션 유지.",
+      "sources": [
+        {"publisher": "중앙이코노미뉴스", "url": "https://www.joongangenews.com/news/articleView.html?idxno=526002", "date": "2026-06-15"}
+      ]
+    },
+    {
+      "ticker": "204320",
+      "score": 1,
+      "signals_present": ["theme_alignment"],
+      "primary_signal": "theme_alignment",
+      "sub_theme": "자동차-부품",
+      "fresh_catalyst_date": null,
+      "prev_day_change_pct": null,
+      "preopen_indication_pct": null,
+      "hard_exclusions_triggered": ["E3"],
+      "soft_penalties_applied": [],
+      "reasoning": "자율주행 ADAS 자동차 부품 KOSPI 미드캡. 지지 소스가 2025-12-30 stale 전략 자료에 의존, 종목 고유 dated 뉴스 미확보.",
+      "sources": [
+        {"publisher": "IBKS", "url": "https://m.ibks.com/iko/IKO01/download.do?seq=2096&gubun=STRATEGY&menuCode=IKO010101&attatchCd=ATTATCH1", "date": "2025-12-30"}
+      ]
+    },
+    {
+      "ticker": "357780",
+      "score": 1,
+      "signals_present": ["momentum_continuation", "theme_alignment"],
+      "primary_signal": "momentum_continuation",
+      "sub_theme": "반도체-소재",
+      "fresh_catalyst_date": "2026-06-12",
+      "prev_day_change_pct": null,
+      "preopen_indication_pct": null,
+      "hard_exclusions_triggered": ["E5"],
+      "soft_penalties_applied": [],
+      "reasoning": "6/12 단일 거래일 +29.86% 상한가 수준 급등 종목. E5 (전일 직전 spike +15% 초과) 적용 대상으로 차익실현 1순위 회전 가능성으로 EXCLUDE.",
+      "sources": [
+        {"publisher": "중앙이코노미뉴스", "url": "https://www.joongangenews.com/news/articleView.html?idxno=525596", "date": "2026-06-12"}
+      ]
+    },
+    {
+      "ticker": "012450",
+      "score": 3,
+      "signals_present": ["momentum_continuation", "theme_leader", "fresh_catalyst", "clean_narrative"],
+      "primary_signal": "theme_leader",
+      "sub_theme": "방산-항공우주",
+      "fresh_catalyst_date": "2026-06-15",
+      "prev_day_change_pct": 7.5,
+      "preopen_indication_pct": null,
+      "hard_exclusions_triggered": [],
+      "soft_penalties_applied": ["P4"],
+      "reasoning": "방산 멀티위크 누적 강세 대장주 + 유로사토리 2026 (6/15~19) dated 이벤트 진행. 전일 +7.50% 건전 상승으로 추세 연속성 유지.",
+      "sources": [
+        {"publisher": "서울경제", "url": "https://www.sedaily.com/article/20055835", "date": "2026-06-15"}
+      ]
+    }
+  ],
+  "composition_warning": "Track A KOSPI 상위 후보 (현대로템 4, HD현대일렉트릭 4, 한화에어로스페이스 3, 한화오션 3, 비에이치아이 3) 중 직전 2거래일 내 dated fresh_catalyst 보유 후보가 4종 확보됨 (현대로템·한화에어로스페이스 유로사토리, HD현대일렉트릭·한화오션 6/15). D2 조건 충족. D1 sub_theme 점검: 방산-육상/지상 1 + 방산-항공우주 1 = 방산 2종 (cap 내), 전력 인프라 1, 조선 1, 원전 1로 분산 양호. KOSDAQ Track B는 dated catalyst 부족 + 외국인 1조 분배 환경으로 점수 2~3대 집중, operator는 추가 KOSDAQ 후보 발굴 검토 권장."
+}

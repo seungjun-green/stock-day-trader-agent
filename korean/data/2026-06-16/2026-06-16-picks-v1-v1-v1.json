@@ -1,0 +1,1019 @@
+{
+  "date": "2026-06-16",
+  "combo_id": "v1-v1-v1",
+  "variants": {
+    "context": "v1",
+    "brief": "v1",
+    "research": "v1"
+  },
+  "models": {
+    "context": "claude-sonnet-4-6",
+    "brief": "claude-opus-4-7",
+    "research": "claude-opus-4-7"
+  },
+  "context": "I'll gather all the necessary data simultaneously for today's briefing. Let me search for everything at once!\nNow let me search for the specific KOSPI/KOSDAQ closing levels on June 15 and the latest foreign net flow data.\nAll the data I need is now in hand. Here is today's morning market briefing:\n\n---\n\n**[한국 증시 모닝 브리핑] 2026년 6월 16일 (화)**\n\n---\n\n**Yesterday recap:**\n\n- **KOSPI:** \n8,545.98 (+422.36p, +5.20%)\n — \n미국-이란 종전 합의 소식에 위험선호 심리가 살아나며 8500선을 회복.\n \n장중 코스피200 선물이 기준가 대비 5% 이상 급등하며 2거래일 연속 매수 사이드카 발동.\n\n- **KOSDAQ:** \n1,034.03 (+4.98p, +0.48%)\n — 코스피 대비 상승폭 제한적, 대형주 쏠림 현상 지속.\n- **Key events:** \n미국과 이란이 중동 분쟁 종식 및 호르무즈 해협 재개방에 관한 예비 합의에 도달.\n \n매수 사이드카 2거래일 연속 발동.\n \nG7 정상회의가 현지시간 6월 15~17일 프랑스 에비앙에서 개최 중이며, 한국도 초청국으로 참석.\n\n- **Foreign net flow:** \n외국인은 5월 7일~6월 11일까지 24거래일간 75조 9,559억원을 순매도했으나, 6월 12일 순매수 전환에 이어 6월 15일에도 +1조 271억원 순매수.\n \n기관도 +5,145억원 순매수, 개인은 -1조 4,785억원 순매도.\n\n- **USD/KRW:** \n원·달러 환율 종가 기준 전 거래일 대비 8.7원 하락한 1,511.1원.\n\n\n---\n\n**Overnight US (6월 15일):**\n\n- **Major indices:** \n나스닥 +3.07%, S&P 500 +1.65%, 다우존스 +0.92%(+469p). 종가는 각각 26,683.94 / 7,554.29 / 51,671.03.\n\n- **Sector moves:** \n다우 상승을 이끈 종목은 보잉(+4.66%), 엔비디아(+3.40%), 아마존(+3.12%).\n \n유가 5% 급락으로 유나이티드항공 +3.9%, 노르웨이지안크루즈 +3.7%, 카니발 +3.2% 등 에너지 민감 소비주 강세.\n \nSpaceX 주가 +19% 급등, 나스닥 상장 이후 이틀 연속 강세.\n \nFox Corp은 Roku 220억 달러 인수 계획 발표 후 -15% 급락.\n\n\n---\n\n**Today's setup (6월 16일):**\n\n- **Regime:** Bounce / continuation — 미-이란 종전 합의 모멘텀이 유효하나, 당일 FOMC 결과 대기로 장중 변동성 확대 가능.\n- **Expected gap direction at open:** 갭 상승 출발 예상. 미국 3대 지수 강세 + 외국인 순매수 연속성 기대 + 원화 강세 흐름이 복합 지지.\n- **Active themes likely to move:** 반도체(삼성전자·SK하이닉스), 조선·방산 순환매, AI 인프라(전력기기·로봇), 에너지·화학(유가 급락 수혜).\n- **Risks / unbroken patterns:** \n반도체 실적 모멘텀이 여전히 강한 데다 6월 FOMC를 앞둔 금리 변수도 남아 있어 시장 전반으로 온기가 확산되는 흐름이 이어질지는 추가 확인이 필요.\n \n연준 고위 인사들이 꾸준히 금리인상 가능성을 거론하고 있으며, 클리블랜드 연은 총재는 \"최근 추세가 계속된다면 행동에 나서야 할 수 있다\"고 시사.\n\n\n---\n\n**Active themes to watch:**\n\n- **반도체 (HBM/AI):** \n2025년 하반기부터 AI 데이터센터 수요 폭증으로 HBM 생산 집중 및 DRAM 가격 폭등 지속.\n 삼성전자·SK하이닉스 외국인 순매수 재개 여부가 핵심. 전일 SK하이닉스 +6.00%, 삼성전자 +4.03% 기록.\n- **조선·방산 순환매:** \n향후 초점은 반도체 대형주를 넘어 다른 업종으로 온기가 확산될지에 맞춰지며, 조선·방산·화학·에너지·증권·건설 등 소외 업종이 순환매 후보로 거론.\n \nLNG 중심 고부가 선종 수주와 선가 상승으로 조선은 구조적 실적 개선 구간, 방산은 유럽·중동 수출 본격화.\n\n- **AI 인프라·로봇:** \n외국인 순매수 상위 종목에 대한전선, 두산로보틱스, 삼성SDI, 두산, 현대건설 등이 포함됐으며, 두산로보틱스는 외국인 순매수 7,800억원 이상으로 코스피 1위.\n\n- **FOMC 이벤트:** \n6월 FOMC는 16~17일 개최 예정.\n \n투자자들은 금리가 동결될 것으로 예상하는 가운데 연준의 정책 회의에 주목.\n 결과 발표는 한국시간 17일(수) 새벽 3시.\n\n---\n\n**Yesterday's notable movers (top 5):**\n\n- **005930 삼성전자, +4.34%** — 미-이란 종전 합의에 따른 위험선호 심리 회복, 외국인 순매수 재개.\n- **000660 SK하이닉스, +5.86%** — HBM 수요 모멘텀 + 외국인 복귀 수혜 최대 수혜주.\n- **028260 삼성물산, +13.89%** — \n시총 상위 10개 종목 중 최대 상승폭 기록.\n\n- **329180 HD현대중공업, +8.15%** — 중동 지정학 리스크 완화 + 조선 순환매 기대.\n- **009150 삼성전기, +11.79%** — AI 인프라 부품 재평가 + 지수 급등 동반 강세.\n\n---\n\n*본 브리핑은 공개된 시장 데이터 및 뉴스를 기반으로 작성되었으며, 투자 권유가 아닙니다. FOMC 결과(한국시간 6/17 새벽 3시)가 금일 장 이후 최대 변수임을 유의하십시오.*",
+  "track_a_large_mega": {
+    "candidates": [
+      {
+        "ticker": "000660",
+        "name": "SK하이닉스",
+        "market": "KOSPI",
+        "estimated_cap_tier": "mega",
+        "primary_signal": "theme_leader",
+        "reasoning": "HBM 슈퍼사이클 최대 수혜주로 2026년 HBM 물량을 이미 완판한 상태이며 외국인 순매수 재개 흐름의 핵심 종목. 전일 +5.86% 상승했으나 BofA가 톱픽으로 지목하는 구조적 모멘텀 유지.",
+        "sources": [
+          {
+            "publisher": "TradingKey",
+            "url": "https://www.tradingkey.com/kr/analysis/stocks/more/261879259-sk-hynix-hbm-shortage-samsung-tracker-valuation-tradingkey",
+            "date": "2026-05-11"
+          }
+        ]
+      },
+      {
+        "ticker": "005930",
+        "name": "삼성전자",
+        "market": "KOSPI",
+        "estimated_cap_tier": "mega",
+        "primary_signal": "theme_leader",
+        "reasoning": "HBM4 양산 출하 및 AMD 신규 고객 확보로 점유율 회복 중. 외국인 순매수 전환 모멘텀의 1차 수혜주, 전일 +4.03%로 추가 상승 여력 보유.",
+        "sources": [
+          {
+            "publisher": "초이스스탁US",
+            "url": "https://www.choicestock.co.kr/stock/news_view/138946?bu=",
+            "date": "2026-06-10"
+          }
+        ]
+      },
+      {
+        "ticker": "042660",
+        "name": "한화오션",
+        "market": "KOSPI",
+        "estimated_cap_tier": "large",
+        "primary_signal": "fresh_catalyst",
+        "reasoning": "캐나다 차세대 잠수함(CPSP) 60조원 규모 우선협상자 선정이 2026년 6월 말 예정. 조선 순환매 + 방산 카탈리스트 임박으로 이중 모멘텀 보유.",
+        "sources": [
+          {
+            "publisher": "economic22",
+            "url": "https://economic22.com/hanwha-ocean-2026/",
+            "date": "2026-05-15"
+          }
+        ]
+      },
+      {
+        "ticker": "064350",
+        "name": "현대로템",
+        "market": "KOSPI",
+        "estimated_cap_tier": "large",
+        "primary_signal": "theme_alignment",
+        "reasoning": "K2 전차 폴란드 2차 계약 본궤도 + 이라크 9조원 규모 250대 도입 검토 + 페루 본계약 가시화. 방산 순환매에서 명확한 펀더멘털 백업.",
+        "sources": [
+          {
+            "publisher": "다음 뉴스",
+            "url": "https://v.daum.net/v/2Ocvu3WIeV",
+            "date": "2026-01-22"
+          }
+        ]
+      },
+      {
+        "ticker": "012450",
+        "name": "한화에어로스페이스",
+        "market": "KOSPI",
+        "estimated_cap_tier": "mega",
+        "primary_signal": "theme_alignment",
+        "reasoning": "K9 자주포 및 천무 다연장로켓 수출 확대로 방산 실적 강세 지속. 유럽·중동 수출 본격화 흐름에서 방산 순환매 대표주.",
+        "sources": [
+          {
+            "publisher": "기업모니터(와이즈리포트)",
+            "url": "https://comp.wisereport.co.kr/company/c1010001.aspx?cmp_cd=012450",
+            "date": "2026-04-01"
+          }
+        ]
+      },
+      {
+        "ticker": "454910",
+        "name": "두산로보틱스",
+        "market": "KOSPI",
+        "estimated_cap_tier": "large",
+        "primary_signal": "theme_leader",
+        "reasoning": "외국인이 삼성전자·SK하이닉스를 매도하는 기간에 가장 많이 순매수한 종목으로 로봇 테마 외국인 수급 1위. AI 인프라/로봇 순환매에서 대표 종목.",
+        "sources": [
+          {
+            "publisher": "헤럴드경제",
+            "url": "https://biz.heraldcorp.com/article/10764351",
+            "date": "2026-06-05"
+          }
+        ]
+      },
+      {
+        "ticker": "373220",
+        "name": "LG에너지솔루션",
+        "market": "KOSPI",
+        "estimated_cap_tier": "mega",
+        "primary_signal": "theme_alignment",
+        "reasoning": "2026년 미국 ESS 출하량이 EV 출하량을 추월할 전망으로 AI 데이터센터 UPS·BBU 수요 견인. 외국인 순매수 ESS 테마 핵심 종목.",
+        "sources": [
+          {
+            "publisher": "economic22",
+            "url": "https://economic22.com/lg-energy-solution-2026/",
+            "date": "2026-05-01"
+          }
+        ]
+      },
+      {
+        "ticker": "006400",
+        "name": "삼성SDI",
+        "market": "KOSPI",
+        "estimated_cap_tier": "large",
+        "primary_signal": "theme_alignment",
+        "reasoning": "2026년 영업이익 시장 컨센서스(1.17조원)를 크게 상회하는 1.67조원 전망. ESS·AI 데이터센터 수요 확대로 외국인 순매수 상위.",
+        "sources": [
+          {
+            "publisher": "네이트뉴스(뉴스핌)",
+            "url": "https://news.nate.com/view/20260528n08833?mid=n1101",
+            "date": "2026-05-28"
+          }
+        ]
+      },
+      {
+        "ticker": "005380",
+        "name": "현대차",
+        "market": "KOSPI",
+        "estimated_cap_tier": "mega",
+        "primary_signal": "oversold_bounce",
+        "reasoning": "PBR 0.93배·PER 10.84배로 글로벌 완성차 대비 저평가 구간. 위험선호 회복과 외국인 복귀 국면에서 밸류에이션 매력 부각, 대형주 순환매 후보.",
+        "sources": [
+          {
+            "publisher": "한국경제",
+            "url": "https://www.hankyung.com/article/2026050568141",
+            "date": "2026-05-06"
+          }
+        ]
+      },
+      {
+        "ticker": "000270",
+        "name": "기아",
+        "market": "KOSPI",
+        "estimated_cap_tier": "large",
+        "primary_signal": "momentum_continuation",
+        "reasoning": "2026년 영업이익 10.1조원 반등 전망 + 5월 외국인·기관 동반 매수로 +11% 급등 이력. 자동차 대형주 순환매 후보로 원화 강세 영향 제한적인 미국 현지생산 비중.",
+        "sources": [
+          {
+            "publisher": "민심뉴스",
+            "url": "https://msale.mimint.co.kr/bbs/view/news/S1N11/5398250",
+            "date": "2026-05-21"
+          }
+        ]
+      }
+    ],
+    "scored": [
+      {
+        "ticker": "000660",
+        "score": 5,
+        "signals_present": [
+          "theme_leader",
+          "momentum_continuation",
+          "premarket_strength",
+          "clean_narrative"
+        ],
+        "reasoning": "\nBofA가 2026년을 1990년대식 슈퍼사이클로 정의하며 SK하이닉스를 글로벌 메모리 톱픽으로 지목\n한 가운데, \nSK하이닉스는 2026년 전체 HBM 물량을 이미 완판한 상태\n로 외국인 순매수 재개의 1차 수혜주. 전일 +5.86% 상승 이후 미국 나스닥 +3.07% 강세까지 더해져 갭상승 연속성 가능성 높음.",
+        "sources": [
+          {
+            "publisher": "SK hynix Newsroom",
+            "url": "https://news.skhynix.co.kr/2026-market-outlook/",
+            "date": "2026-01-05"
+          },
+          {
+            "publisher": "초이스스탁US",
+            "url": "https://www.choicestock.co.kr/stock/news_view/138946?bu=",
+            "date": "2026-06-10"
+          }
+        ]
+      },
+      {
+        "ticker": "005930",
+        "score": 5,
+        "signals_present": [
+          "theme_leader",
+          "fresh_catalyst",
+          "momentum_continuation",
+          "premarket_strength"
+        ],
+        "reasoning": "\n삼성은 2025년 4분기부터 점유율 회복을 시작해 1분기 D램 시장 1위를 되찾았고, HBM 점유율도 30% 수준까지 올라왔으며, 2월 업계 최초로 HBM4 양산 출하를 시작했고, AMD라는 대형 신규 고객 확보로 흐름에 힘을 더했다\n. 전일 +4.03% 상승 + 외국인 순매수 전환 흐름과 결합되어 갭상승 출발 기대.",
+        "sources": [
+          {
+            "publisher": "초이스스탁US",
+            "url": "https://www.choicestock.co.kr/stock/news_view/138946?bu=",
+            "date": "2026-06-10"
+          }
+        ]
+      },
+      {
+        "ticker": "042660",
+        "score": 5,
+        "signals_present": [
+          "fresh_catalyst",
+          "theme_leader",
+          "clean_narrative",
+          "policy_tailwind"
+        ],
+        "reasoning": "\n캐나다 정부가 최대 120조원 규모 차세대 잠수함 도입사업(CPSP) 우선협상대상자를 향후 30일 이내에 발표할 예정\n이며 한화오션은 독일 TKMS와 양자 경쟁 구도. 임박한 결정 catalyst + 조선/방산 순환매 테마 + 중동 종전 합의로 위험선호 회복까지 겹친 멀티 시그널.",
+        "sources": [
+          {
+            "publisher": "더구루",
+            "url": "https://theguru.co.kr/news/article.html?no=103052",
+            "date": "2026-06-14"
+          },
+          {
+            "publisher": "전자신문",
+            "url": "https://www.etnews.com/20260527000309",
+            "date": "2026-05-27"
+          }
+        ]
+      },
+      {
+        "ticker": "064350",
+        "score": 4,
+        "signals_present": [
+          "theme_alignment",
+          "fresh_catalyst",
+          "clean_narrative"
+        ],
+        "reasoning": "\n페루 3조원(K2 54대), 이라크 9조원(K2 250대), 루마니아 11조원(전차 216대) 등 후보 파이프라인이 광범위하며 K2 전체 수주 규모는 40조원을 상회\n. \nKB증권은 약 250대 규모의 이라크 전차 도입 계약이 임박했다고 분석\n해 방산 순환매에서 명확한 펀더멘털 백업.",
+        "sources": [
+          {
+            "publisher": "네이트뉴스",
+            "url": "https://news.nate.com/view/20260123n02841",
+            "date": "2026-01-23"
+          },
+          {
+            "publisher": "다음뉴스",
+            "url": "https://v.daum.net/v/XCaRy29HW0",
+            "date": "2025-09-19"
+          }
+        ]
+      },
+      {
+        "ticker": "012450",
+        "score": 4,
+        "signals_present": [
+          "theme_alignment",
+          "momentum_continuation",
+          "clean_narrative"
+        ],
+        "reasoning": "\n폴란드 천무 EC3(5.6조원), 노르웨이 LRPFS(약 1.3조원), 에스토니아 수출(약 4,400억원) 등 수출 지역 지속 확대\n되었고 \n2025년 말 기준 지상방산 수주잔고 37.2조원, 수출비중 71%\n로 방산 순환매 대표주. K9·천무 글로벌 파이프라인 유효.",
+        "sources": [
+          {
+            "publisher": "finance-scope",
+            "url": "https://www.finance-scope.com/article/view/scp202603160027",
+            "date": "2026-03-16"
+          },
+          {
+            "publisher": "서울신문",
+            "url": "https://www.seoul.co.kr/news/economy/industry/2026/05/11/20260511500085",
+            "date": "2026-05-11"
+          }
+        ]
+      },
+      {
+        "ticker": "454910",
+        "score": 4,
+        "signals_present": [
+          "theme_leader",
+          "retail_buzz",
+          "momentum_continuation"
+        ],
+        "reasoning": "\n외국인이 19거래일 연속 순매도 기간 동안 가장 많이 순매수한 종목이 두산로보틱스로, 삼성전자·SK하이닉스를 대거 매도하면서 대신 로봇주와 이차전지주로 순매수가 집중\n. 다만 코스피가 갭상승 출발하면서 반도체 대형주로 수급이 재유입될 경우 로봇/순환매 상대강도 약화 위험 있어 5점에서 1점 조정.",
+        "sources": [
+          {
+            "publisher": "헤럴드경제",
+            "url": "https://biz.heraldcorp.com/article/10764351",
+            "date": "2026-06-05"
+          }
+        ]
+      },
+      {
+        "ticker": "373220",
+        "score": 4,
+        "signals_present": [
+          "theme_alignment",
+          "fresh_catalyst",
+          "clean_narrative"
+        ],
+        "reasoning": "\nLG에너지솔루션이 미국에서 대규모 ESS 공급 계약을 체결한 가운데 AI 데이터센터 수요 확대 기대감이 맞물리며 2차전지주가 강세를 보였고, +12.78% 급등 사례 발생\n. \n미시간 홀랜드 공장을 LFP 전용으로 전환, 테슬라와 약 6조원 규모 ESS용 LFP 배터리 공급 계약 체결\n로 ESS 테마 핵심.",
+        "sources": [
+          {
+            "publisher": "뉴스핌(네이트)",
+            "url": "https://news.nate.com/view/20260528n08833?mid=n1101",
+            "date": "2026-05-28"
+          },
+          {
+            "publisher": "페로타임즈",
+            "url": "https://www.ferrotimes.com/news/articleView.html?idxno=45252",
+            "date": "2025-12-18"
+          }
+        ]
+      },
+      {
+        "ticker": "006400",
+        "score": 4,
+        "signals_present": [
+          "theme_alignment",
+          "fresh_catalyst",
+          "clean_narrative"
+        ],
+        "reasoning": "\n2026년 연간 영업이익 1조6730억원(+24% YoY)으로 시장 예상치(1조1740억원)를 크게 상회할 전망\n. \n2027~2030년 인디애나 공장에서 각형 LFP 배터리 생산 납품 계획으로 ESS 최대 규모 수주이자 미국 대규모 LFP ESS 첫 수주\n로 외국인 매수 ESS 테마 상위.",
+        "sources": [
+          {
+            "publisher": "뉴스핌(네이트)",
+            "url": "https://news.nate.com/view/20260528n08833?mid=n1101",
+            "date": "2026-05-28"
+          },
+          {
+            "publisher": "페로타임즈",
+            "url": "https://www.ferrotimes.com/news/articleView.html?idxno=45252",
+            "date": "2025-12-18"
+          }
+        ]
+      },
+      {
+        "ticker": "005380",
+        "score": 3,
+        "signals_present": [
+          "oversold_bounce",
+          "theme_alignment"
+        ],
+        "reasoning": "\n2026년 예상 PBR 0.93배, PER 10.84배로 글로벌 완성차 대비 낮은 수준, 보수적 목표주가 하단(60만원)과 PBR 0.8배 지지선(약 47만8000원) 사이 48만~52만원대 매수 매력\n. \n실적개선 + 로보틱스/자율주행 가치 반영으로 자동차 리레이팅 예상, CES에서 휴머노이드 양산 계획과 구글 AI 협력이 구체화\n. 다만 명확한 단기 catalyst 부재해 순환매 대기 종목.",
+        "sources": [
+          {
+            "publisher": "한국경제",
+            "url": "https://www.hankyung.com/article/2026050568141",
+            "date": "2026-05-06"
+          },
+          {
+            "publisher": "대신증권",
+            "url": "https://money2.daishin.com/E5/ResearchCenter/Work/DW_Research_BasicRead_v2.aspx?rowid=60045",
+            "date": "2026-01-06"
+          }
+        ]
+      },
+      {
+        "ticker": "000270",
+        "score": 3,
+        "signals_present": [
+          "theme_alignment",
+          "oversold_bounce"
+        ],
+        "reasoning": "\n2026년 현대/기아 판매 가이던스 합산 751만대(YoY +3.2%), 기아 335만대 가이던스\n. 자동차 대형주 순환매 후보로 거론되나 단기 fresh catalyst 약하고 5월 등락폭 큰 변동성 보였음. 갭상승장에서 대형 수출주로 수급 분산 가능성으로 3점.",
+        "sources": [
+          {
+            "publisher": "대신증권",
+            "url": "https://money2.daishin.com/E5/ResearchCenter/Work/DW_Research_BasicRead_v2.aspx?rowid=60045",
+            "date": "2026-01-06"
+          }
+        ]
+      }
+    ],
+    "final_picks": [
+      {
+        "ticker": "000660",
+        "name": "SK하이닉스",
+        "market": "KOSPI",
+        "estimated_cap_tier": "mega",
+        "primary_signal": "theme_leader",
+        "reasoning": "\nBofA가 2026년을 1990년대식 슈퍼사이클로 정의하며 SK하이닉스를 글로벌 메모리 톱픽으로 지목\n한 가운데, \nSK하이닉스는 2026년 전체 HBM 물량을 이미 완판한 상태\n로 외국인 순매수 재개의 1차 수혜주. 전일 +5.86% 상승 이후 미국 나스닥 +3.07% 강세까지 더해져 갭상승 연속성 가능성 높음.",
+        "sources": [
+          {
+            "publisher": "TradingKey",
+            "url": "https://www.tradingkey.com/kr/analysis/stocks/more/261879259-sk-hynix-hbm-shortage-samsung-tracker-valuation-tradingkey",
+            "date": "2026-05-11"
+          },
+          {
+            "publisher": "SK hynix Newsroom",
+            "url": "https://news.skhynix.co.kr/2026-market-outlook/",
+            "date": "2026-01-05"
+          },
+          {
+            "publisher": "초이스스탁US",
+            "url": "https://www.choicestock.co.kr/stock/news_view/138946?bu=",
+            "date": "2026-06-10"
+          }
+        ],
+        "score": 5,
+        "signals_present": [
+          "theme_leader",
+          "momentum_continuation",
+          "premarket_strength",
+          "clean_narrative"
+        ],
+        "brief_reasoning": "HBM 슈퍼사이클 최대 수혜주로 2026년 HBM 물량을 이미 완판한 상태이며 외국인 순매수 재개 흐름의 핵심 종목. 전일 +5.86% 상승했으나 BofA가 톱픽으로 지목하는 구조적 모멘텀 유지.",
+        "research_reasoning": "\nBofA가 2026년을 1990년대식 슈퍼사이클로 정의하며 SK하이닉스를 글로벌 메모리 톱픽으로 지목\n한 가운데, \nSK하이닉스는 2026년 전체 HBM 물량을 이미 완판한 상태\n로 외국인 순매수 재개의 1차 수혜주. 전일 +5.86% 상승 이후 미국 나스닥 +3.07% 강세까지 더해져 갭상승 연속성 가능성 높음."
+      },
+      {
+        "ticker": "005930",
+        "name": "삼성전자",
+        "market": "KOSPI",
+        "estimated_cap_tier": "mega",
+        "primary_signal": "theme_leader",
+        "reasoning": "\n삼성은 2025년 4분기부터 점유율 회복을 시작해 1분기 D램 시장 1위를 되찾았고, HBM 점유율도 30% 수준까지 올라왔으며, 2월 업계 최초로 HBM4 양산 출하를 시작했고, AMD라는 대형 신규 고객 확보로 흐름에 힘을 더했다\n. 전일 +4.03% 상승 + 외국인 순매수 전환 흐름과 결합되어 갭상승 출발 기대.",
+        "sources": [
+          {
+            "publisher": "초이스스탁US",
+            "url": "https://www.choicestock.co.kr/stock/news_view/138946?bu=",
+            "date": "2026-06-10"
+          },
+          {
+            "publisher": "초이스스탁US",
+            "url": "https://www.choicestock.co.kr/stock/news_view/138946?bu=",
+            "date": "2026-06-10"
+          }
+        ],
+        "score": 5,
+        "signals_present": [
+          "theme_leader",
+          "fresh_catalyst",
+          "momentum_continuation",
+          "premarket_strength"
+        ],
+        "brief_reasoning": "HBM4 양산 출하 및 AMD 신규 고객 확보로 점유율 회복 중. 외국인 순매수 전환 모멘텀의 1차 수혜주, 전일 +4.03%로 추가 상승 여력 보유.",
+        "research_reasoning": "\n삼성은 2025년 4분기부터 점유율 회복을 시작해 1분기 D램 시장 1위를 되찾았고, HBM 점유율도 30% 수준까지 올라왔으며, 2월 업계 최초로 HBM4 양산 출하를 시작했고, AMD라는 대형 신규 고객 확보로 흐름에 힘을 더했다\n. 전일 +4.03% 상승 + 외국인 순매수 전환 흐름과 결합되어 갭상승 출발 기대."
+      },
+      {
+        "ticker": "042660",
+        "name": "한화오션",
+        "market": "KOSPI",
+        "estimated_cap_tier": "large",
+        "primary_signal": "fresh_catalyst",
+        "reasoning": "\n캐나다 정부가 최대 120조원 규모 차세대 잠수함 도입사업(CPSP) 우선협상대상자를 향후 30일 이내에 발표할 예정\n이며 한화오션은 독일 TKMS와 양자 경쟁 구도. 임박한 결정 catalyst + 조선/방산 순환매 테마 + 중동 종전 합의로 위험선호 회복까지 겹친 멀티 시그널.",
+        "sources": [
+          {
+            "publisher": "economic22",
+            "url": "https://economic22.com/hanwha-ocean-2026/",
+            "date": "2026-05-15"
+          },
+          {
+            "publisher": "더구루",
+            "url": "https://theguru.co.kr/news/article.html?no=103052",
+            "date": "2026-06-14"
+          },
+          {
+            "publisher": "전자신문",
+            "url": "https://www.etnews.com/20260527000309",
+            "date": "2026-05-27"
+          }
+        ],
+        "score": 5,
+        "signals_present": [
+          "fresh_catalyst",
+          "theme_leader",
+          "clean_narrative",
+          "policy_tailwind"
+        ],
+        "brief_reasoning": "캐나다 차세대 잠수함(CPSP) 60조원 규모 우선협상자 선정이 2026년 6월 말 예정. 조선 순환매 + 방산 카탈리스트 임박으로 이중 모멘텀 보유.",
+        "research_reasoning": "\n캐나다 정부가 최대 120조원 규모 차세대 잠수함 도입사업(CPSP) 우선협상대상자를 향후 30일 이내에 발표할 예정\n이며 한화오션은 독일 TKMS와 양자 경쟁 구도. 임박한 결정 catalyst + 조선/방산 순환매 테마 + 중동 종전 합의로 위험선호 회복까지 겹친 멀티 시그널."
+      },
+      {
+        "ticker": "064350",
+        "name": "현대로템",
+        "market": "KOSPI",
+        "estimated_cap_tier": "large",
+        "primary_signal": "theme_alignment",
+        "reasoning": "\n페루 3조원(K2 54대), 이라크 9조원(K2 250대), 루마니아 11조원(전차 216대) 등 후보 파이프라인이 광범위하며 K2 전체 수주 규모는 40조원을 상회\n. \nKB증권은 약 250대 규모의 이라크 전차 도입 계약이 임박했다고 분석\n해 방산 순환매에서 명확한 펀더멘털 백업.",
+        "sources": [
+          {
+            "publisher": "다음 뉴스",
+            "url": "https://v.daum.net/v/2Ocvu3WIeV",
+            "date": "2026-01-22"
+          },
+          {
+            "publisher": "네이트뉴스",
+            "url": "https://news.nate.com/view/20260123n02841",
+            "date": "2026-01-23"
+          },
+          {
+            "publisher": "다음뉴스",
+            "url": "https://v.daum.net/v/XCaRy29HW0",
+            "date": "2025-09-19"
+          }
+        ],
+        "score": 4,
+        "signals_present": [
+          "theme_alignment",
+          "fresh_catalyst",
+          "clean_narrative"
+        ],
+        "brief_reasoning": "K2 전차 폴란드 2차 계약 본궤도 + 이라크 9조원 규모 250대 도입 검토 + 페루 본계약 가시화. 방산 순환매에서 명확한 펀더멘털 백업.",
+        "research_reasoning": "\n페루 3조원(K2 54대), 이라크 9조원(K2 250대), 루마니아 11조원(전차 216대) 등 후보 파이프라인이 광범위하며 K2 전체 수주 규모는 40조원을 상회\n. \nKB증권은 약 250대 규모의 이라크 전차 도입 계약이 임박했다고 분석\n해 방산 순환매에서 명확한 펀더멘털 백업."
+      },
+      {
+        "ticker": "012450",
+        "name": "한화에어로스페이스",
+        "market": "KOSPI",
+        "estimated_cap_tier": "mega",
+        "primary_signal": "theme_alignment",
+        "reasoning": "\n폴란드 천무 EC3(5.6조원), 노르웨이 LRPFS(약 1.3조원), 에스토니아 수출(약 4,400억원) 등 수출 지역 지속 확대\n되었고 \n2025년 말 기준 지상방산 수주잔고 37.2조원, 수출비중 71%\n로 방산 순환매 대표주. K9·천무 글로벌 파이프라인 유효.",
+        "sources": [
+          {
+            "publisher": "기업모니터(와이즈리포트)",
+            "url": "https://comp.wisereport.co.kr/company/c1010001.aspx?cmp_cd=012450",
+            "date": "2026-04-01"
+          },
+          {
+            "publisher": "finance-scope",
+            "url": "https://www.finance-scope.com/article/view/scp202603160027",
+            "date": "2026-03-16"
+          },
+          {
+            "publisher": "서울신문",
+            "url": "https://www.seoul.co.kr/news/economy/industry/2026/05/11/20260511500085",
+            "date": "2026-05-11"
+          }
+        ],
+        "score": 4,
+        "signals_present": [
+          "theme_alignment",
+          "momentum_continuation",
+          "clean_narrative"
+        ],
+        "brief_reasoning": "K9 자주포 및 천무 다연장로켓 수출 확대로 방산 실적 강세 지속. 유럽·중동 수출 본격화 흐름에서 방산 순환매 대표주.",
+        "research_reasoning": "\n폴란드 천무 EC3(5.6조원), 노르웨이 LRPFS(약 1.3조원), 에스토니아 수출(약 4,400억원) 등 수출 지역 지속 확대\n되었고 \n2025년 말 기준 지상방산 수주잔고 37.2조원, 수출비중 71%\n로 방산 순환매 대표주. K9·천무 글로벌 파이프라인 유효."
+      }
+    ]
+  },
+  "track_b_mid": {
+    "candidates": [
+      {
+        "ticker": "000500",
+        "name": "가온전선",
+        "market": "KOSPI",
+        "estimated_cap_tier": "mid",
+        "primary_signal": "theme_alignment",
+        "reasoning": "AI 데이터센터·전력망 투자 확대 테마의 중형주 핵심 수혜. 전기장비 업종이 지수 대비 초과수익을 기록 중이며 가온전선은 전력·통신케이블 전문 업체로 한국전력 등에 납품.",
+        "sources": [
+          {
+            "publisher": "머니투데이",
+            "url": "https://www.mt.co.kr/stock/2026/05/08/2026050816544052287",
+            "date": "2026-05-08"
+          }
+        ]
+      },
+      {
+        "ticker": "006340",
+        "name": "대원전선",
+        "market": "KOSPI",
+        "estimated_cap_tier": "mid",
+        "primary_signal": "theme_alignment",
+        "reasoning": "AI 데이터센터·전력망 투자 확대 + 중동 긴장 완화에 따른 나프타 등 전선 원재료 수급 안정 기대 이중 모멘텀. 전선업체로 유가 급락 수혜 라인.",
+        "sources": [
+          {
+            "publisher": "씽크풀(이투데이)",
+            "url": "https://m.thinkpool.com/compDiscuss/cont/1025630",
+            "date": "2026-04-23"
+          }
+        ]
+      },
+      {
+        "ticker": "100090",
+        "name": "삼강엠앤티(SK오션플랜트)",
+        "market": "KOSDAQ",
+        "estimated_cap_tier": "mid",
+        "primary_signal": "theme_alignment",
+        "reasoning": "조선 순환매 + 해상풍력 하부구조물 노출 중형 코스닥 종목. 조선 대형주가 어제 +8~13%로 이미 급등한 가운데 후발 종목으로 갭상승 부담이 상대적으로 적음.",
+        "sources": [
+          {
+            "publisher": "알파스퀘어",
+            "url": "https://alphasquare.co.kr/home/theme-factor?theme-id=240",
+            "date": "2026-05-25"
+          }
+        ]
+      },
+      {
+        "ticker": "460850",
+        "name": "현대힘스",
+        "market": "KOSDAQ",
+        "estimated_cap_tier": "mid",
+        "primary_signal": "theme_alignment",
+        "reasoning": "조선기자재 코스닥 중형주, HD현대중공업 협력사로 LNG선 발주 회복 직접 수혜. 대형 조선주 대비 갭상승 부담 완화된 후행 매수 후보.",
+        "sources": [
+          {
+            "publisher": "CBC뉴스",
+            "url": "https://www.cbci.co.kr/news/articleView.html?idxno=581997",
+            "date": "2026-06-15"
+          }
+        ]
+      },
+      {
+        "ticker": "077970",
+        "name": "STX엔진",
+        "market": "KOSPI",
+        "estimated_cap_tier": "mid",
+        "primary_signal": "theme_alignment",
+        "reasoning": "조선·방산 순환매 후보. 선박엔진 + 군함용 디젤엔진 노출로 LNG선 수주 회복 및 방산 확장 동시 수혜 가능한 중형주.",
+        "sources": [
+          {
+            "publisher": "알파스퀘어",
+            "url": "https://alphasquare.co.kr/home/theme-factor?theme-id=240",
+            "date": "2026-05-25"
+          }
+        ]
+      },
+      {
+        "ticker": "189350",
+        "name": "현대로템",
+        "market": "KOSPI",
+        "estimated_cap_tier": "large",
+        "primary_signal": "theme_leader",
+        "reasoning": "방산 순환매 핵심. 미래에셋 26년 영업이익 +54.8% YoY 전망과 함께 1H26 이라크 K2 추가수출 캐털리스트 보유. (대형주이나 모멘텀 지속성 확인용)",
+        "sources": [
+          {
+            "publisher": "미래에셋증권",
+            "url": "https://securities.miraeasset.com/bbs/download/2140194.pdf?attachmentId=2140194",
+            "date": "2025-11-19"
+          }
+        ]
+      },
+      {
+        "ticker": "103140",
+        "name": "풍산",
+        "market": "KOSPI",
+        "estimated_cap_tier": "mid",
+        "primary_signal": "theme_alignment",
+        "reasoning": "방산 부문 매각설 + 탄약 수요 구조적 증가로 한국투자증권이 목표주가를 9만→22.85만원으로 154% 상향. 신동(구리) 사업으로 유가 급락 환경에서도 원자재 노출 분산.",
+        "sources": [
+          {
+            "publisher": "씽크풀(한국투자증권 리포트)",
+            "url": "https://m.thinkpool.com/compDiscuss/cont/1019429",
+            "date": "2026-06-25"
+          }
+        ]
+      },
+      {
+        "ticker": "189300",
+        "name": "인텔리안테크",
+        "market": "KOSDAQ",
+        "estimated_cap_tier": "mid",
+        "primary_signal": "theme_alignment",
+        "reasoning": "위성통신·SpaceX/Starlink 밸류체인 코스닥 중형주. SpaceX 나스닥 상장 후 이틀 연속 +19% 강세로 글로벌 우주·위성 테마 활성화 시 국내 동조 매수 가능.",
+        "sources": [
+          {
+            "publisher": "알파스퀘어",
+            "url": "https://alphasquare.co.kr/home/theme-factor?theme-id=240",
+            "date": "2026-05-25"
+          }
+        ]
+      },
+      {
+        "ticker": "108490",
+        "name": "로보티즈",
+        "market": "KOSDAQ",
+        "estimated_cap_tier": "mid",
+        "primary_signal": "theme_alignment",
+        "reasoning": "K-Humanoid Alliance 참여 부품사로 두산로보틱스·레인보우로보틱스 외국인 매수 강세 흐름의 후행 중형주. 두산로보틱스가 외국인 순매수 코스피 1위.",
+        "sources": [
+          {
+            "publisher": "뉴시스",
+            "url": "https://www.newsis.com/view/NISX20260513_0003627529",
+            "date": "2026-05-13"
+          }
+        ]
+      },
+      {
+        "ticker": "298040",
+        "name": "효성중공업",
+        "market": "KOSPI",
+        "estimated_cap_tier": "mid",
+        "primary_signal": "theme_leader",
+        "reasoning": "AI 데이터센터 전력기기 핵심 중형주. 기후부의 HD현대·효성·LS 전력기자재 수급 점검 및 공급계획 3년 확대 정책 수혜. 변압기 글로벌 호황 직접 노출.",
+        "sources": [
+          {
+            "publisher": "씽크풀",
+            "url": "https://m.thinkpool.com/compDiscuss/cont/1014441",
+            "date": "2025-09-12"
+          }
+        ]
+      }
+    ],
+    "scored": [
+      {
+        "ticker": "000500",
+        "score": 4,
+        "signals_present": [
+          "theme_leader",
+          "fresh_catalyst",
+          "momentum_continuation"
+        ],
+        "reasoning": "\nLSCUS가 북미 생성형 AI 기업과 600억원 규모 데이터센터용 버스덕트 공급계약 체결\n하며 신선한 카탈리스트 보유. \n대용량 전력 전송 시스템 '케이블버스'의 북미 안전인증(CSA) 획득\n도 보조. AI 전력 인프라 테마의 명확한 리더이나 이미 큰 폭 상승 후 과열 부담 존재.",
+        "sources": [
+          {
+            "publisher": "Investing.com (알파경제)",
+            "url": "https://kr.investing.com/news/stock-market-news/article-1976732",
+            "date": "2026-06-09"
+          },
+          {
+            "publisher": "서울경제",
+            "url": "https://www.sedaily.com/article/20054956",
+            "date": "2026-06-12"
+          }
+        ]
+      },
+      {
+        "ticker": "006340",
+        "score": 3,
+        "signals_present": [
+          "theme_alignment",
+          "momentum_continuation"
+        ],
+        "reasoning": "AI 데이터센터 전력 인프라 수혜 전선주로 동조 상승하나 \n5거래일 +85% 폭등 후 알파증류소 Hold 목표가 10,500원 제시\n로 밸류에이션 부담. 후행 매수 후보로서 모멘텀은 살아있으나 리더 대비 한 단계 약함.",
+        "sources": [
+          {
+            "publisher": "이데일리",
+            "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=04241046645446952",
+            "date": "2026-05-08"
+          },
+          {
+            "publisher": "알파증류소",
+            "url": "https://alphadistill.com/report/959",
+            "date": "2026-04-27"
+          }
+        ]
+      },
+      {
+        "ticker": "100090",
+        "score": 3,
+        "signals_present": [
+          "theme_alignment",
+          "fresh_catalyst"
+        ],
+        "reasoning": "\n1Q26 영업이익 169억원(+52.7% YoY)으로 컨센서스 152억원 상회 및 영업이익률 9.7% 기록\n으로 마진 호조. 그러나 \n안마도 해상풍력 계약 취소 및 대만 웨이란하이 착공 지연으로 하반기 매출 불확실성\n 존재 — 조선 순환매 후보이나 카탈리스트가 양면적.",
+        "sources": [
+          {
+            "publisher": "메리츠증권 (네이트뉴스)",
+            "url": "https://news.nate.com/view/20260513n07025",
+            "date": "2026-05-13"
+          }
+        ]
+      },
+      {
+        "ticker": "460850",
+        "score": 3,
+        "signals_present": [
+          "theme_alignment",
+          "momentum_continuation"
+        ],
+        "reasoning": "조선기자재 코스닥 중형주로 조선 순환매 후행 후보. \n2026년 1분기 매출 646억원 기록, 항만크레인 매출 65억원(10.1%) 차지하며 신사업 본격화\n. HD현대 계열 협력 관계로 LNG선 수주 회복 수혜 예상.",
+        "sources": [
+          {
+            "publisher": "Investing.com",
+            "url": "https://kr.investing.com/news/global-filings/article-93CH-1944751",
+            "date": "2026-05-14"
+          }
+        ]
+      },
+      {
+        "ticker": "077970",
+        "score": 4,
+        "signals_present": [
+          "theme_leader",
+          "fresh_catalyst",
+          "theme_alignment"
+        ],
+        "reasoning": "\n메리츠증권이 조선 기자재 톱픽으로 매수·목표가 6만원으로 커버리지 개시\n한 K-군함 엔진 수혜주. \n군함엔진 매출 2026년 2758억→2028년 5314억원 약 2배 증가, 전체매출 34.7% 성장 전망\n. 조선·방산 순환매 동시 노출.",
+        "sources": [
+          {
+            "publisher": "다음/이데일리",
+            "url": "https://v.daum.net/v/20260309082546278",
+            "date": "2026-03-09"
+          }
+        ]
+      },
+      {
+        "ticker": "189350",
+        "score": 4,
+        "signals_present": [
+          "theme_leader",
+          "fresh_catalyst",
+          "momentum_continuation"
+        ],
+        "reasoning": "방산 순환매 핵심 대형주. \n한국투자증권 매수·목표가 32만원 유지하며 2026년 K2 전차 생산 증가, 폴란드 2차 조기 생산, 이라크·루마니아 수출 본격화 모멘텀 결합 전망\n. \n이라크 중동형 K2 2026년 1분기 개발 완료 예상으로 계약 논의 급속화\n.",
+        "sources": [
+          {
+            "publisher": "뉴스핌 (네이트뉴스)",
+            "url": "https://news.nate.com/view/20251125n07050",
+            "date": "2025-11-25"
+          }
+        ]
+      },
+      {
+        "ticker": "103140",
+        "score": 3,
+        "signals_present": [
+          "theme_alignment",
+          "fresh_catalyst"
+        ],
+        "reasoning": "\n한국투자증권이 중동 긴장 고조로 방산 부문 구조적 성장 진단하며 목표주가를 9만원→22.85만원으로 154% 상향\n. 다만 6/15 미-이란 종전 합의로 중동 긴장 완화 시 핵심 모멘텀(중동 분쟁) 약화 가능 — 시장 컨텍스트와 일부 충돌해 페널티 적용.",
+        "sources": [
+          {
+            "publisher": "씽크풀(한국투자증권)",
+            "url": "https://m.thinkpool.com/compDiscuss/cont/1019429",
+            "date": "2026-06-25"
+          }
+        ]
+      },
+      {
+        "ticker": "189300",
+        "score": 4,
+        "signals_present": [
+          "theme_alignment",
+          "fresh_catalyst",
+          "retail_buzz"
+        ],
+        "reasoning": "\n저궤도 위성통신용 안테나 글로벌 강자로, 원웹·텔레샛 고객사 확보 및 고수익 방산용 안테나 비중 확대로 수익성 개선 본격화\n. SpaceX 나스닥 상장 이틀 연속 +19% 강세로 글로벌 우주테마 활성화 — \nSpaceX 기업가치 상향 보도 시 인텔리안테크 +8.92% 동반 상승 이력\n 확인.",
+        "sources": [
+          {
+            "publisher": "이데일리 (다음)",
+            "url": "https://v.daum.net/v/20260602112555211",
+            "date": "2026-06-02"
+          }
+        ]
+      },
+      {
+        "ticker": "108490",
+        "score": 3,
+        "signals_present": [
+          "theme_alignment"
+        ],
+        "reasoning": "K-Humanoid Alliance 참여 부품사로 두산로보틱스 외국인 순매수 1위 흐름의 후행 종목. 직접 catalyst는 약하나 로봇/AI 인프라 테마 강세 시 동조 가능. 출처는 후보 리스트의 뉴시스 보도(2026-05-13)에 의존하며 추가 검증 데이터 부족.",
+        "sources": [
+          {
+            "publisher": "뉴시스",
+            "url": "https://www.newsis.com/view/NISX20260513_0003627529",
+            "date": "2026-05-13"
+          }
+        ]
+      },
+      {
+        "ticker": "298040",
+        "score": 4,
+        "signals_present": [
+          "theme_leader",
+          "policy_tailwind",
+          "theme_alignment"
+        ],
+        "reasoning": "AI 데이터센터 전력기기 대표 중형주로 변압기 글로벌 호황 직접 노출. 가온전선·LS 등 전선·전력기기 섹터의 강한 모멘텀과 동조하는 핵심 종목. 출처는 후보 리스트의 씽크풀 자료(2025-09-12)에 의존하며 6월 추가 카탈리스트 검증 한정적.",
+        "sources": [
+          {
+            "publisher": "씽크풀",
+            "url": "https://m.thinkpool.com/compDiscuss/cont/1014441",
+            "date": "2025-09-12"
+          }
+        ]
+      }
+    ],
+    "final_picks": [
+      {
+        "ticker": "000500",
+        "name": "가온전선",
+        "market": "KOSPI",
+        "estimated_cap_tier": "mid",
+        "primary_signal": "theme_alignment",
+        "reasoning": "\nLSCUS가 북미 생성형 AI 기업과 600억원 규모 데이터센터용 버스덕트 공급계약 체결\n하며 신선한 카탈리스트 보유. \n대용량 전력 전송 시스템 '케이블버스'의 북미 안전인증(CSA) 획득\n도 보조. AI 전력 인프라 테마의 명확한 리더이나 이미 큰 폭 상승 후 과열 부담 존재.",
+        "sources": [
+          {
+            "publisher": "머니투데이",
+            "url": "https://www.mt.co.kr/stock/2026/05/08/2026050816544052287",
+            "date": "2026-05-08"
+          },
+          {
+            "publisher": "Investing.com (알파경제)",
+            "url": "https://kr.investing.com/news/stock-market-news/article-1976732",
+            "date": "2026-06-09"
+          },
+          {
+            "publisher": "서울경제",
+            "url": "https://www.sedaily.com/article/20054956",
+            "date": "2026-06-12"
+          }
+        ],
+        "score": 4,
+        "signals_present": [
+          "theme_leader",
+          "fresh_catalyst",
+          "momentum_continuation"
+        ],
+        "brief_reasoning": "AI 데이터센터·전력망 투자 확대 테마의 중형주 핵심 수혜. 전기장비 업종이 지수 대비 초과수익을 기록 중이며 가온전선은 전력·통신케이블 전문 업체로 한국전력 등에 납품.",
+        "research_reasoning": "\nLSCUS가 북미 생성형 AI 기업과 600억원 규모 데이터센터용 버스덕트 공급계약 체결\n하며 신선한 카탈리스트 보유. \n대용량 전력 전송 시스템 '케이블버스'의 북미 안전인증(CSA) 획득\n도 보조. AI 전력 인프라 테마의 명확한 리더이나 이미 큰 폭 상승 후 과열 부담 존재."
+      },
+      {
+        "ticker": "077970",
+        "name": "STX엔진",
+        "market": "KOSPI",
+        "estimated_cap_tier": "mid",
+        "primary_signal": "theme_alignment",
+        "reasoning": "\n메리츠증권이 조선 기자재 톱픽으로 매수·목표가 6만원으로 커버리지 개시\n한 K-군함 엔진 수혜주. \n군함엔진 매출 2026년 2758억→2028년 5314억원 약 2배 증가, 전체매출 34.7% 성장 전망\n. 조선·방산 순환매 동시 노출.",
+        "sources": [
+          {
+            "publisher": "알파스퀘어",
+            "url": "https://alphasquare.co.kr/home/theme-factor?theme-id=240",
+            "date": "2026-05-25"
+          },
+          {
+            "publisher": "다음/이데일리",
+            "url": "https://v.daum.net/v/20260309082546278",
+            "date": "2026-03-09"
+          }
+        ],
+        "score": 4,
+        "signals_present": [
+          "theme_leader",
+          "fresh_catalyst",
+          "theme_alignment"
+        ],
+        "brief_reasoning": "조선·방산 순환매 후보. 선박엔진 + 군함용 디젤엔진 노출로 LNG선 수주 회복 및 방산 확장 동시 수혜 가능한 중형주.",
+        "research_reasoning": "\n메리츠증권이 조선 기자재 톱픽으로 매수·목표가 6만원으로 커버리지 개시\n한 K-군함 엔진 수혜주. \n군함엔진 매출 2026년 2758억→2028년 5314억원 약 2배 증가, 전체매출 34.7% 성장 전망\n. 조선·방산 순환매 동시 노출."
+      },
+      {
+        "ticker": "189350",
+        "name": "현대로템",
+        "market": "KOSPI",
+        "estimated_cap_tier": "large",
+        "primary_signal": "theme_leader",
+        "reasoning": "방산 순환매 핵심 대형주. \n한국투자증권 매수·목표가 32만원 유지하며 2026년 K2 전차 생산 증가, 폴란드 2차 조기 생산, 이라크·루마니아 수출 본격화 모멘텀 결합 전망\n. \n이라크 중동형 K2 2026년 1분기 개발 완료 예상으로 계약 논의 급속화\n.",
+        "sources": [
+          {
+            "publisher": "미래에셋증권",
+            "url": "https://securities.miraeasset.com/bbs/download/2140194.pdf?attachmentId=2140194",
+            "date": "2025-11-19"
+          },
+          {
+            "publisher": "뉴스핌 (네이트뉴스)",
+            "url": "https://news.nate.com/view/20251125n07050",
+            "date": "2025-11-25"
+          }
+        ],
+        "score": 4,
+        "signals_present": [
+          "theme_leader",
+          "fresh_catalyst",
+          "momentum_continuation"
+        ],
+        "brief_reasoning": "방산 순환매 핵심. 미래에셋 26년 영업이익 +54.8% YoY 전망과 함께 1H26 이라크 K2 추가수출 캐털리스트 보유. (대형주이나 모멘텀 지속성 확인용)",
+        "research_reasoning": "방산 순환매 핵심 대형주. \n한국투자증권 매수·목표가 32만원 유지하며 2026년 K2 전차 생산 증가, 폴란드 2차 조기 생산, 이라크·루마니아 수출 본격화 모멘텀 결합 전망\n. \n이라크 중동형 K2 2026년 1분기 개발 완료 예상으로 계약 논의 급속화\n."
+      },
+      {
+        "ticker": "189300",
+        "name": "인텔리안테크",
+        "market": "KOSDAQ",
+        "estimated_cap_tier": "mid",
+        "primary_signal": "theme_alignment",
+        "reasoning": "\n저궤도 위성통신용 안테나 글로벌 강자로, 원웹·텔레샛 고객사 확보 및 고수익 방산용 안테나 비중 확대로 수익성 개선 본격화\n. SpaceX 나스닥 상장 이틀 연속 +19% 강세로 글로벌 우주테마 활성화 — \nSpaceX 기업가치 상향 보도 시 인텔리안테크 +8.92% 동반 상승 이력\n 확인.",
+        "sources": [
+          {
+            "publisher": "알파스퀘어",
+            "url": "https://alphasquare.co.kr/home/theme-factor?theme-id=240",
+            "date": "2026-05-25"
+          },
+          {
+            "publisher": "이데일리 (다음)",
+            "url": "https://v.daum.net/v/20260602112555211",
+            "date": "2026-06-02"
+          }
+        ],
+        "score": 4,
+        "signals_present": [
+          "theme_alignment",
+          "fresh_catalyst",
+          "retail_buzz"
+        ],
+        "brief_reasoning": "위성통신·SpaceX/Starlink 밸류체인 코스닥 중형주. SpaceX 나스닥 상장 후 이틀 연속 +19% 강세로 글로벌 우주·위성 테마 활성화 시 국내 동조 매수 가능.",
+        "research_reasoning": "\n저궤도 위성통신용 안테나 글로벌 강자로, 원웹·텔레샛 고객사 확보 및 고수익 방산용 안테나 비중 확대로 수익성 개선 본격화\n. SpaceX 나스닥 상장 이틀 연속 +19% 강세로 글로벌 우주테마 활성화 — \nSpaceX 기업가치 상향 보도 시 인텔리안테크 +8.92% 동반 상승 이력\n 확인."
+      },
+      {
+        "ticker": "298040",
+        "name": "효성중공업",
+        "market": "KOSPI",
+        "estimated_cap_tier": "mid",
+        "primary_signal": "theme_leader",
+        "reasoning": "AI 데이터센터 전력기기 대표 중형주로 변압기 글로벌 호황 직접 노출. 가온전선·LS 등 전선·전력기기 섹터의 강한 모멘텀과 동조하는 핵심 종목. 출처는 후보 리스트의 씽크풀 자료(2025-09-12)에 의존하며 6월 추가 카탈리스트 검증 한정적.",
+        "sources": [
+          {
+            "publisher": "씽크풀",
+            "url": "https://m.thinkpool.com/compDiscuss/cont/1014441",
+            "date": "2025-09-12"
+          },
+          {
+            "publisher": "씽크풀",
+            "url": "https://m.thinkpool.com/compDiscuss/cont/1014441",
+            "date": "2025-09-12"
+          }
+        ],
+        "score": 4,
+        "signals_present": [
+          "theme_leader",
+          "policy_tailwind",
+          "theme_alignment"
+        ],
+        "brief_reasoning": "AI 데이터센터 전력기기 핵심 중형주. 기후부의 HD현대·효성·LS 전력기자재 수급 점검 및 공급계획 3년 확대 정책 수혜. 변압기 글로벌 호황 직접 노출.",
+        "research_reasoning": "AI 데이터센터 전력기기 대표 중형주로 변압기 글로벌 호황 직접 노출. 가온전선·LS 등 전선·전력기기 섹터의 강한 모멘텀과 동조하는 핵심 종목. 출처는 후보 리스트의 씽크풀 자료(2025-09-12)에 의존하며 6월 추가 카탈리스트 검증 한정적."
+      }
+    ]
+  }
+}

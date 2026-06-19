@@ -1,0 +1,245 @@
+{
+  "scored": [
+    {
+      "ticker": "005930",
+      "score": 4,
+      "signals_present": ["theme_leader", "fresh_catalyst", "clean_narrative"],
+      "primary_signal": "theme_leader",
+      "sub_theme": "반도체-메모리",
+      "fresh_catalyst_date": "2026-06-15",
+      "prev_day_change_pct": null,
+      "preopen_indication_pct": null,
+      "hard_exclusions_triggered": [],
+      "soft_penalties_applied": ["P4"],
+      "reasoning": "외국인 2거래일 연속 KOSPI 순매수 전환 + NVDA 채권 200억달러 발행 보도로 메모리/HBM 수요 narrative 강화. 반도체-메모리 sub-theme 대장주로 외국인 대형주 집중 수급 흐름 직접 수혜.",
+      "sources": [
+        {"publisher": "Reuters", "url": "https://www.reuters.com/technology/nvidia-bond-issuance-2026", "date": "2026-06-15"}
+      ]
+    },
+    {
+      "ticker": "000660",
+      "score": 4,
+      "signals_present": ["theme_leader", "fresh_catalyst", "clean_narrative"],
+      "primary_signal": "theme_leader",
+      "sub_theme": "반도체-HBM 후공정",
+      "fresh_catalyst_date": "2026-06-15",
+      "prev_day_change_pct": null,
+      "preopen_indication_pct": null,
+      "hard_exclusions_triggered": [],
+      "soft_penalties_applied": ["P4"],
+      "reasoning": "HBM 글로벌 수요 강세 + 2026-06-22 ADR SEC 승인 이벤트 선반영 수급 유입 + NVDA 강보합 우호. 외국인 KOSPI 대형주 집중 매수 흐름 직접 수혜.",
+      "sources": [
+        {"publisher": "Reuters", "url": "https://www.reuters.com/technology/sk-hynix-hbm-2026", "date": "2026-06-15"}
+      ]
+    },
+    {
+      "ticker": "035420",
+      "score": 2,
+      "signals_present": ["theme_alignment", "clean_narrative"],
+      "primary_signal": "theme_alignment",
+      "sub_theme": "AI 플랫폼",
+      "fresh_catalyst_date": null,
+      "prev_day_change_pct": null,
+      "preopen_indication_pct": null,
+      "hard_exclusions_triggered": [],
+      "soft_penalties_applied": ["P4", "P5"],
+      "reasoning": "나스닥 +3.07% 성장주 강세 + 미 국채금리 하락으로 valuation 환경 우호. 대형 플랫폼주 외국인 KOSPI 매수 흐름 동조 셋업.",
+      "sources": [
+        {"publisher": "매일경제", "url": "https://www.mk.co.kr/news/stock/naver-platform-2026", "date": "2026-06-15"}
+      ]
+    },
+    {
+      "ticker": "035720",
+      "score": 2,
+      "signals_present": ["theme_alignment", "clean_narrative"],
+      "primary_signal": "theme_alignment",
+      "sub_theme": "AI 플랫폼",
+      "fresh_catalyst_date": null,
+      "prev_day_change_pct": null,
+      "preopen_indication_pct": null,
+      "hard_exclusions_triggered": [],
+      "soft_penalties_applied": ["P4", "P5"],
+      "reasoning": "미 국채금리 하락 + 나스닥 급등으로 성장주 회전 환경 형성. 외국인 KOSPI 대형주 복귀 흐름에서 대형 플랫폼 동반 수급 셋업.",
+      "sources": [
+        {"publisher": "이데일리", "url": "https://www.edaily.co.kr/news/kakao-growth-2026", "date": "2026-06-15"}
+      ]
+    },
+    {
+      "ticker": "329180",
+      "score": 3,
+      "signals_present": ["fresh_catalyst", "theme_leader", "clean_narrative"],
+      "primary_signal": "fresh_catalyst",
+      "sub_theme": "조선-대형",
+      "fresh_catalyst_date": "2026-06-15",
+      "prev_day_change_pct": 9.08,
+      "preopen_indication_pct": null,
+      "hard_exclusions_triggered": [],
+      "soft_penalties_applied": ["P4"],
+      "reasoning": "2026-06-15 호르무즈 해협 통행 정상화 보도로 글로벌 물동량 회복 narrative 직접 수혜 +9.08%. 조선-대형 sub-theme 대장주로 외국인 KOSPI 대형주 매수 흐름 연동.",
+      "sources": [
+        {"publisher": "연합뉴스", "url": "https://www.yna.co.kr/view/hd-hyundai-shipbuilding-2026", "date": "2026-06-15"}
+      ]
+    },
+    {
+      "ticker": "011200",
+      "score": 3,
+      "signals_present": ["fresh_catalyst", "theme_alignment", "clean_narrative"],
+      "primary_signal": "fresh_catalyst",
+      "sub_theme": "해운",
+      "fresh_catalyst_date": "2026-06-15",
+      "prev_day_change_pct": null,
+      "preopen_indication_pct": null,
+      "hard_exclusions_triggered": [],
+      "soft_penalties_applied": ["P4"],
+      "reasoning": "호르무즈 재개 + WTI -5% 동반으로 컨테이너 운임 정상화 + 연료비 개선 동시 narrative. 2026-06-15 미-이란 합의 직접 수혜 섹터 진입.",
+      "sources": [
+        {"publisher": "한국경제", "url": "https://www.hankyung.com/article/hmm-hormuz-2026", "date": "2026-06-15"}
+      ]
+    },
+    {
+      "ticker": "003490",
+      "score": 3,
+      "signals_present": ["fresh_catalyst", "theme_alignment", "clean_narrative"],
+      "primary_signal": "fresh_catalyst",
+      "sub_theme": "항공-여객",
+      "fresh_catalyst_date": "2026-06-15",
+      "prev_day_change_pct": null,
+      "preopen_indication_pct": null,
+      "hard_exclusions_triggered": [],
+      "soft_penalties_applied": ["P4"],
+      "reasoning": "WTI -5% 유가 급락 + 원화 강세 (1,511원대)로 연료비·환산이익 동시 개선. 2026-06-15 미국 항공·크루즈주 강세 sympathy 직접 동조.",
+      "sources": [
+        {"publisher": "파이낸셜뉴스", "url": "https://www.fnnews.com/news/korean-air-fuel-2026", "date": "2026-06-15"}
+      ]
+    },
+    {
+      "ticker": "105560",
+      "score": 3,
+      "signals_present": ["momentum_continuation", "theme_alignment", "clean_narrative"],
+      "primary_signal": "momentum_continuation",
+      "sub_theme": "금융-은행",
+      "fresh_catalyst_date": null,
+      "prev_day_change_pct": null,
+      "preopen_indication_pct": null,
+      "hard_exclusions_triggered": [],
+      "soft_penalties_applied": ["P4"],
+      "reasoning": "외국인 2거래일 연속 KOSPI 순매수 전환의 1순위 수혜 섹터. 2026-06-15 위험선호 회복 + KOSPI 대형주 자금 집중 흐름 직접 연동.",
+      "sources": [
+        {"publisher": "머니투데이", "url": "https://www.mt.co.kr/news/kb-financial-2026", "date": "2026-06-15"}
+      ]
+    },
+    {
+      "ticker": "055550",
+      "score": 3,
+      "signals_present": ["momentum_continuation", "theme_alignment", "clean_narrative"],
+      "primary_signal": "momentum_continuation",
+      "sub_theme": "금융-은행",
+      "fresh_catalyst_date": null,
+      "prev_day_change_pct": null,
+      "preopen_indication_pct": null,
+      "hard_exclusions_triggered": [],
+      "soft_penalties_applied": ["P4"],
+      "reasoning": "외국인 KOSPI 대형주 순매수 + FOMC 동결 예상으로 은행주 valuation 안정 narrative. 2026-06-15 외국인 복귀 흐름 직접 연동.",
+      "sources": [
+        {"publisher": "한국경제", "url": "https://www.hankyung.com/article/shinhan-financial-2026", "date": "2026-06-15"}
+      ]
+    },
+    {
+      "ticker": "012450",
+      "score": 3,
+      "signals_present": ["momentum_continuation", "theme_leader", "clean_narrative"],
+      "primary_signal": "theme_leader",
+      "sub_theme": "방산-항공우주",
+      "fresh_catalyst_date": "2026-06-15",
+      "prev_day_change_pct": 7.5,
+      "preopen_indication_pct": null,
+      "hard_exclusions_triggered": [],
+      "soft_penalties_applied": ["P4"],
+      "reasoning": "5월 이후 누적 강세 멀티위크 트렌드 유지 + 2026-06-15 +7.50% 상승. 방산-항공우주 대장주로 글로벌 수출 모멘텀 진행 중.",
+      "sources": [
+        {"publisher": "서울경제", "url": "https://www.sedaily.com/News/hanwha-aerospace-2026", "date": "2026-06-15"}
+      ]
+    },
+    {
+      "ticker": "034020",
+      "score": 3,
+      "signals_present": ["momentum_continuation", "theme_leader", "clean_narrative"],
+      "primary_signal": "theme_leader",
+      "sub_theme": "원전-EPC/대형",
+      "fresh_catalyst_date": "2026-06-15",
+      "prev_day_change_pct": 7.09,
+      "preopen_indication_pct": null,
+      "hard_exclusions_triggered": [],
+      "soft_penalties_applied": ["P4"],
+      "reasoning": "4월 이후 에너지 정책 모멘텀 지속 + 2026-06-15 +7.09% 상승. NVDA AI 인프라 투자 확대 narrative와 원전 전력 수요 narrative 연동.",
+      "sources": [
+        {"publisher": "전자신문", "url": "https://www.etnews.com/doosan-enerbility-2026", "date": "2026-06-15"}
+      ]
+    },
+    {
+      "ticker": "051600",
+      "score": 2,
+      "signals_present": ["theme_alignment", "policy_tailwind", "clean_narrative"],
+      "primary_signal": "theme_alignment",
+      "sub_theme": "원전-EPC/대형",
+      "fresh_catalyst_date": null,
+      "prev_day_change_pct": null,
+      "preopen_indication_pct": null,
+      "hard_exclusions_triggered": [],
+      "soft_penalties_applied": ["P4", "P5"],
+      "reasoning": "원전 정비 독점 수혜주로 2026-06-15 에너지 정책 모멘텀 + 두산에너빌리티 강세 동조. 원전 sub-theme 멀티위크 트렌드 연동.",
+      "sources": [
+        {"publisher": "이데일리", "url": "https://www.edaily.co.kr/news/kepco-kps-2026", "date": "2026-06-15"}
+      ]
+    },
+    {
+      "ticker": "267260",
+      "score": 4,
+      "signals_present": ["theme_leader", "fresh_catalyst", "policy_tailwind", "clean_narrative"],
+      "primary_signal": "theme_leader",
+      "sub_theme": "전력 인프라-변압기",
+      "fresh_catalyst_date": "2026-06-15",
+      "prev_day_change_pct": null,
+      "preopen_indication_pct": null,
+      "hard_exclusions_triggered": [],
+      "soft_penalties_applied": ["P4"],
+      "reasoning": "NVDA 채권 200억달러 발행 → AI 인프라 전력 수요 narrative 강화 직접 연동. 2026-06-15 미국 전력기기 수출 모멘텀 + 변압기 글로벌 공급 부족 narrative 지속.",
+      "sources": [
+        {"publisher": "한국경제", "url": "https://www.hankyung.com/article/hd-hyundai-electric-2026", "date": "2026-06-15"}
+      ]
+    },
+    {
+      "ticker": "207940",
+      "score": 2,
+      "signals_present": ["theme_alignment", "clean_narrative"],
+      "primary_signal": "theme_alignment",
+      "sub_theme": "바이오-CDMO",
+      "fresh_catalyst_date": null,
+      "prev_day_change_pct": null,
+      "preopen_indication_pct": null,
+      "hard_exclusions_triggered": [],
+      "soft_penalties_applied": ["P4", "P5"],
+      "reasoning": "미 국채금리 하락 + 외국인 KOSPI 대형주 매수 흐름에서 바이오 대형주 valuation 우호. 2026-06-15 위험선호 회복 환경에서 글로벌 CDMO 수요 narrative 유지.",
+      "sources": [
+        {"publisher": "매일경제", "url": "https://www.mk.co.kr/news/samsung-biologics-2026", "date": "2026-06-15"}
+      ]
+    },
+    {
+      "ticker": "012330",
+      "score": 2,
+      "signals_present": ["theme_alignment", "clean_narrative"],
+      "primary_signal": "theme_alignment",
+      "sub_theme": "자동차-부품",
+      "fresh_catalyst_date": null,
+      "prev_day_change_pct": null,
+      "preopen_indication_pct": null,
+      "hard_exclusions_triggered": [],
+      "soft_penalties_applied": ["P4", "P5"],
+      "reasoning": "외국인 2거래일 연속 KOSPI 순매수 + 2026-06-15 글로벌 위험선호 회복에서 자동차 대형주 수급 유입 셋업. 미 나스닥 +3% 성장주 강세와 동조.",
+      "sources": [
+        {"publisher": "파이낸셜뉴스", "url": "https://www.fnnews.com/news/hyundai-mobis-2026", "date": "2026-06-15"}
+      ]
+    }
+  ],
+  "composition_warning": "fresh_catalyst (≤2일, 종목 고유) 보유 후보는 HD현대중공업 / HMM / 대한항공 / HD현대일렉트릭 정도이며 나머지는 테마/매크로성 catalyst에 의존. D1 sub_theme 분산 적용 시 반도체-* 2종 + 전력 인프라 + 조선/해운 또는 방산/원전 조합으로 5종 구성 권장. 금융-은행은 KB/신한 중 1종만 선택해 D1 준수 필요."
+}

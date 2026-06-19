@@ -1,0 +1,194 @@
+Important finding: HPSP dropped -20.60% on 6/16 to 66,300 KRW, then on 6/17 traded at 68,200 (about +2.87% recovery). So prev_day_change_pct for 6/17 is roughly +2.87%, not the +16.78% from 6/15 (which the candidate input had wrong fresh_catalyst_date).
+
+Now I have enough to score. Let me proceed with the JSON output.
+
+Key observations:
+- 원익IPS prev_day +8.84% (no penalty, below 10%)
+- HPSP: 6/15 +16.78% then 6/16 -20.60% then 6/17 +2.87% — fresh catalyst stale, momentum broken
+- Alteogen +5.67% prev day
+- Regime: foreign_unwind, all preopen=null → P4 applies to all
+- SOX -3% headwind for 반도체 candidates
+
+{
+  "scored": [
+    {
+      "ticker": "240810",
+      "name": "원익IPS",
+      "score": 4,
+      "signals_present": ["momentum_continuation", "theme_alignment", "fresh_catalyst", "clean_narrative"],
+      "primary_signal": "momentum_continuation",
+      "sub_theme": "반도체-전공정 장비",
+      "fresh_catalyst_date": "2026-06-17",
+      "prev_day_change_pct": 8.84,
+      "preopen_indication_pct": null,
+      "hard_exclusions_triggered": [],
+      "soft_penalties_applied": ["P4"],
+      "reasoning": "
+전일 +8.84% 마감하며 KOSDAQ 반도체 장비 대장주 부각
+ 흐름, 삼성전자 평택 4공장·SK하이닉스 M15X 신규투자 수혜 라인업. preopen 데이터 부재로 P4 1점 차감, +10% 미만이라 P6 비해당. 신호 3개 풀웨이트 + clean_narrative로 rubric상 4점.",
+      "sources": [
+        {"publisher": "민심뉴스", "url": "https://sale.mimint.co.kr/bbs/view/news/S1N11/5431134", "date": "2026-06-15"}
+      ]
+    },
+    {
+      "ticker": "403870",
+      "name": "HPSP",
+      "score": 1,
+      "signals_present": ["theme_alignment"],
+      "primary_signal": "theme_leader",
+      "sub_theme": "반도체-전공정 장비",
+      "fresh_catalyst_date": "2026-06-15",
+      "prev_day_change_pct": 2.87,
+      "preopen_indication_pct": null,
+      "hard_exclusions_triggered": ["E3"],
+      "soft_penalties_applied": [],
+      "reasoning": "
+6/16 -20.60% 급락하여 66,300원 마감, 전일 6/15 종가 83,500원 대비 하루 만에 큰 폭 하락
+. 6/17 종가는 68,200으로 회복 시도 중이나 momentum 구조 붕괴. 6/15 catalyst는 6거래일 전 효력 소실로 E3 발동.",
+      "sources": [
+        {"publisher": "민심뉴스", "url": "https://unse.mimint.co.kr/bbs/view/news/S1N11/5432919", "date": "2026-06-16"}
+      ]
+    },
+    {
+      "ticker": "083650",
+      "name": "비에이치아이",
+      "score": 2,
+      "signals_present": ["policy_tailwind", "theme_alignment", "clean_narrative"],
+      "primary_signal": "policy_tailwind",
+      "sub_theme": "원전-SMR/소형",
+      "fresh_catalyst_date": "2026-05-26",
+      "prev_day_change_pct": null,
+      "preopen_indication_pct": null,
+      "hard_exclusions_triggered": ["E3"],
+      "soft_penalties_applied": [],
+      "reasoning": "
+IBK투자증권은 글로벌 LNG 복합화력 발전소 수요 확대로 신규 수주와 수익성 개선 흐름을 들며 매수 의견과 목표주가 14만원을 유지, 1Q 매출 2808억원(+107.6%) 및 영업이익 353억원(+183.9%) 시장 기대치 상회
+ 펀더멘털 견조. 단 dated catalyst가 5/26로 5거래일 이상 경과하여 E3 발동, 최종 컷.",
+      "sources": [
+        {"publisher": "버핏연구소", "url": "https://buffettlab.co.kr/news/view.php?idx=54609&page=812", "date": "2026-05-28"}
+      ]
+    },
+    {
+      "ticker": "166090",
+      "name": "하나머티리얼즈",
+      "score": 2,
+      "signals_present": ["theme_alignment", "clean_narrative"],
+      "primary_signal": "theme_alignment",
+      "sub_theme": "반도체-소재",
+      "fresh_catalyst_date": null,
+      "prev_day_change_pct": null,
+      "preopen_indication_pct": null,
+      "hard_exclusions_triggered": [],
+      "soft_penalties_applied": ["P4", "P5"],
+      "reasoning": "삼성전자·SK하이닉스 국내 반도체 생산거점 확대 발표 흐름 속 소부장 동조 라인업. primary_signal이 theme_alignment + 종목 dated catalyst 없음으로 P5, preopen null로 P4 적용.",
+      "sources": [
+        {"publisher": "서울경제", "url": "https://www.sedaily.com/article/20054565", "date": "2026-06-11"}
+      ]
+    },
+    {
+      "ticker": "036930",
+      "name": "주성엔지니어링",
+      "score": 3,
+      "signals_present": ["momentum_continuation", "theme_alignment", "clean_narrative"],
+      "primary_signal": "momentum_continuation",
+      "sub_theme": "반도체-전공정 장비",
+      "fresh_catalyst_date": "2026-06-17",
+      "prev_day_change_pct": 1.99,
+      "preopen_indication_pct": null,
+      "hard_exclusions_triggered": [],
+      "soft_penalties_applied": ["P4"],
+      "reasoning": "전일 +1.99% 동반 강세로 반도체 장비 사이클 동조, 차세대 ALD 장비 글로벌 공급 라인업 보유. preopen 데이터 부재로 P4 적용.",
+      "sources": [
+        {"publisher": "서울경제", "url": "https://www.sedaily.com/article/20054565", "date": "2026-06-11"}
+      ]
+    },
+    {
+      "ticker": "032820",
+      "name": "우리기술",
+      "score": 2,
+      "signals_present": ["theme_leader", "policy_tailwind", "clean_narrative"],
+      "primary_signal": "theme_leader",
+      "sub_theme": "원전-SMR/소형",
+      "fresh_catalyst_date": null,
+      "prev_day_change_pct": null,
+      "preopen_indication_pct": null,
+      "hard_exclusions_triggered": ["E3"],
+      "soft_penalties_applied": [],
+      "reasoning": "원전/SMR KOSDAQ 대장주로 신한울 3·4호기 모멘텀 동조. 그러나 인용 catalyst가 3/31 자료로 5거래일 이상 경과, dated catalyst 미보유로 E3 발동.",
+      "sources": [
+        {"publisher": "씽크풀", "url": "https://m.thinkpool.com/compDiscuss/cont/1024980", "date": "2026-03-31"}
+      ]
+    },
+    {
+      "ticker": "094820",
+      "name": "일진파워",
+      "score": 1,
+      "signals_present": ["theme_alignment", "clean_narrative"],
+      "primary_signal": "theme_alignment",
+      "sub_theme": "원전-기자재",
+      "fresh_catalyst_date": "2026-04-24",
+      "prev_day_change_pct": null,
+      "preopen_indication_pct": null,
+      "hard_exclusions_triggered": ["E3"],
+      "soft_penalties_applied": [],
+      "reasoning": "원전 기자재 KOSDAQ 라인업. 4/24 dated catalyst는 5거래일 이상 경과로 E3 발동, 최종 컷.",
+      "sources": [
+        {"publisher": "이데일리", "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=03201286645419400", "date": "2026-04-24"}
+      ]
+    },
+    {
+      "ticker": "196170",
+      "name": "알테오젠",
+      "score": 4,
+      "signals_present": ["theme_leader", "fresh_catalyst", "momentum_continuation", "clean_narrative"],
+      "primary_signal": "theme_leader",
+      "sub_theme": "바이오-플랫폼",
+      "fresh_catalyst_date": "2026-06-17",
+      "prev_day_change_pct": 5.67,
+      "preopen_indication_pct": null,
+      "hard_exclusions_triggered": [],
+      "soft_penalties_applied": ["P4"],
+      "reasoning": "
+6/17 알테오젠 5.67% 상승 마감, 외국인·기관 수급 엇갈림 속 변동성 변화
+로 KOSDAQ 바이오 대장주 부각. SOX 약세 환경에서 cross-rotation 헬스케어 수혜 라인업. preopen 데이터 부재로 P4 적용.",
+      "sources": [
+        {"publisher": "민심뉴스", "url": "https://unse.mimint.co.kr/bbs/view/news/S1N11/5432919", "date": "2026-06-17"}
+      ]
+    },
+    {
+      "ticker": "042700",
+      "name": "한미반도체",
+      "score": 2,
+      "signals_present": ["theme_leader", "theme_alignment", "clean_narrative"],
+      "primary_signal": "theme_leader",
+      "sub_theme": "반도체-HBM 후공정",
+      "fresh_catalyst_date": "2026-05-07",
+      "prev_day_change_pct": null,
+      "preopen_indication_pct": null,
+      "hard_exclusions_triggered": ["E3"],
+      "soft_penalties_applied": [],
+      "reasoning": "TC본더 글로벌 71% 점유 HBM 후공정 대장주로 SK하이닉스 HBM4 캐파 사이클 동조. 단 인용 catalyst가 5/7로 5거래일 이상 경과하여 E3 발동.",
+      "sources": [
+        {"publisher": "동행일보", "url": "https://www.dhilbo.co.kr/news/articleView.html?idxno=922", "date": "2026-05-07"}
+      ]
+    },
+    {
+      "ticker": "039030",
+      "name": "이오테크닉스",
+      "score": 3,
+      "signals_present": ["momentum_continuation", "theme_alignment", "clean_narrative"],
+      "primary_signal": "momentum_continuation",
+      "sub_theme": "반도체-레이저 장비",
+      "fresh_catalyst_date": "2026-06-17",
+      "prev_day_change_pct": 2.42,
+      "preopen_indication_pct": null,
+      "hard_exclusions_triggered": [],
+      "soft_penalties_applied": ["P4"],
+      "reasoning": "전일 +2.42% 동반 강세로 반도체 장비 사이클 합류, 레이저 기반 공정 장비 KOSDAQ 라인업. preopen 데이터 부재로 P4 적용.",
+      "sources": [
+        {"publisher": "서울경제", "url": "https://www.sedaily.com/article/20054565", "date": "2026-06-11"}
+      ]
+    }
+  ],
+  "composition_warning": "live fresh_catalyst (≤2일) 보유 후보가 원익IPS·알테오젠·주성엔지니어링·이오테크닉스 4종이나, 그 중 3종(원익IPS·주성·이오테크닉스)이 동일 sub_theme 클러스터(반도체-전공정/장비)에 속해 D1 위반 가능. 반도체-전공정 장비 카테고리는 원익IPS+주성엔지니어링 2종으로 cap, 이오테크닉스는 별도 sub_theme(레이저 장비)로 유지 가능. 원전/HBM 후공정 트랙은 dated catalyst 부족(E3로 컷)으로 알테오젠 + 반도체 2종 + 비반도체 backfill 필요. operator는 KOSPI 대형주(KB금융·HD현대일렉트릭·HD현대중공업 등) dated catalyst 후보 추가 발굴 검토 권장."
+}

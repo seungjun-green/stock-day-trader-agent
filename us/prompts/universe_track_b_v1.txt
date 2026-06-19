@@ -1,0 +1,13 @@
+MID cap focus (market cap between $2B and $10B). Prefer NASDAQ. Stocks that have day-trader-friendly daily ranges (2-8%) and at least ~$20M average daily dollar volume.
+
+Semis / AI / hardware-adjacent: ALAB, AEHR, AMBA, CRDO, NVMI, ICHR, COHU, ONTO, FORM, PI, SITM, RMBS, IDCC, AXTI.
+Software / cloud / data: PATH, BBAI, AI, RBLX, U, GTLB, ESTC, PD, FRSH, ZUO, FROG, BIGC, APPS, DOMO, JAMF, MGNI, PUBM.
+Biotech / med-tech mid-caps: ARWR, BBIO, CRSP, BEAM, NTLA, EDIT, IOVA, VKTX, MDGL, RYTM, VRDN, IMVT, INSM, KROS, RNA, RXRX, SAVA, ACAD, JAZZ, EXEL, PCRX.
+EV / battery / clean energy: ENVX, CHPT, BLNK, EVGO, FSR (if active), QS, MVST, PLUG, BE, FCEL, BLDP, RUN, NOVA, SHLS, ARRY.
+Fintech / consumer-fintech: SOFI, AFRM, UPST, LMND, OPEN, RKT, HOOD (now large-cap range), DAVE, ALLY (large).
+Defense / space / nuclear mid-caps: RKLB, ASTS, BWXT (large), KTOS, CRS, MOG.A, DRS, AVAV, IONQ, RGTI, QBTS.
+Industrial / re-shoring mid-caps: FLNC, STEM, FLNG, GTLS, AGX, GEV (large), TDW, NEXT, USAR, CDE.
+Retail / consumer mid-caps: ANF, BURL, DKS, FIVE, RH, WSM, OLLI, DUOL, SE (large), CART, REAL.
+Crypto / miner mid-caps: CIFR, BITF, HUT, IREN, CLSK, WULF, BTBT, APLD.
+
+AVOID mega-caps like AAPL/MSFT/NVDA. AVOID very small caps with low liquidity (<$20M avg daily dollar volume), penny stocks (<$5), reverse-split survivors, and pre-revenue SPACs. AVOID leveraged/inverse ETFs.

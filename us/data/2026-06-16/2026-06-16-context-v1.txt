@@ -1,0 +1,130 @@
+Here is your morning market briefing for Tuesday, June 16, 2026:
+
+---
+
+
+**Yesterday recap:**
+- **S&P 500:** 7,554.29 (+1.65%)
+- **Nasdaq:** 26,683.94 (+3.07%)
+- **Russell 2000:** 2,965.09 (+0.72%)
+
+
+- **Key events:** 
+US stocks surged on Monday, with tech leading the gains, while oil prices sank as investors welcomed a breakthrough US-Iran deal to end hostilities and reopen the Strait of Hormuz.
+ 
+The Dow Jones Industrial Average climbed 0.9% to hit a fresh record.
+ 
+The VIX cratered 8.37% to close at 16.20
+, reflecting a sharp drop in fear. 
+The 10-year Treasury yield declined to around 4.43%, reaching its lowest level in a month after the US and Iran reached a peace agreement that would reopen the Strait of Hormuz, easing concerns over inflationary pressures.
+
+
+- **Notable after-hours:** 
+Fox Corp (FOX/FOXA) tumbled ~15% after announcing a $22 billion deal to acquire Roku (ROKU).
+ 
+SpaceX (SPCX) continued its blockbuster post-IPO run, rising nearly another 20% on Monday.
+ 
+Nuvei announced it will acquire cross-border payments firm Payoneer for approximately $2.75 billion in cash.
+ After-hours indexes were essentially flat: 
+S&P 500 -0.08%, Nasdaq 100 -0.10%, Russell 2000 -0.05%.
+
+
+---
+
+**Pre-market / overnight:**
+- **Futures:** 
+Stock futures are rising ahead of the market open, aiming to build on Monday's strong gains following news of the Iran peace deal.
+ 
+NQ futures +0.34%, Russell 2000 futures +0.19%.
+ ES futures are modestly positive, consistent with a continuation open.
+- **VIX:** 
+VIX is trading in a tight range of 16.10–16.21, opening at 16.19
+ — calm and drifting lower, well off recent highs.
+- **Rates/FX/Commodities:** 
+10Y yield at ~4.469%, down ~0.40% on the session.
+ 
+DXY (USD Index) prior close 99.63, trading in a narrow 99.56–99.79 range — dollar soft.
+ 
+WTI crude plunged more than 5% to around $80/bbl on Monday, touching a two-month low
+; 
+this morning WTI is at ~$80.41, with a range of $80.29–$81.54.
+ 
+Gold at $4,360.10, +0.20%.
+
+- **Asia/Europe overnight:** 
+Nikkei 225 surged +4.99% to 69,317; Hang Seng +0.50%; Shanghai SSE +1.61%; DAX +1.25%; EURO STOXX 50 +0.84%.
+ 
+The Bank of Japan is widely expected to raise interest rates at the conclusion of its two-day meeting on June 16.
+
+
+---
+
+**Today's setup:**
+- **Regime:** Risk-on / continuation
+- **Expected gap direction at open:** Small gap up; futures holding overnight gains but momentum is measured after yesterday's large move.
+- **Active themes:** US-Iran peace deal digestion, oil price collapse beneficiaries (airlines, transports, consumer discretionary), SpaceX (SPCX) second-week momentum, FOMC Day 1 (Warsh debut), BoJ rate decision.
+- **Risks:** 
+Fed Chair Kevin Warsh's June 16–17 FOMC debut is a key catalyst, as futures have shifted toward pricing 2026 rate hikes rather than cuts.
+ 
+Trump criticized Netanyahu's handling of Lebanon, and Iran's foreign minister warned that continued Israeli military presence in Lebanon would violate the emerging US-Iran understanding — a geopolitical wildcard that could rattle the peace trade.
+ 
+The 10Y/2Y Treasury spread sits at ~0.40%, compressing — a late-cycle signal worth monitoring.
+
+
+---
+
+**Active themes to watch:**
+- **US-Iran Peace / Oil Collapse:** 
+Traders are unwinding the geopolitical war premium associated with crude oil now that the US and Iran have reached a ceasefire agreement.
+ Beneficiaries: airlines (DAL, UAL, AAL), cruise lines (CCL, RCL), consumer discretionary. Watch energy sector (XOM, CVX) for continued pressure.
+- **SpaceX (SPCX) / Space & AI:** 
+Broad selling in tech to make room for the SpaceX IPO may be contributing to Nasdaq breadth contraction.
+ 
+Nvidia plans to raise at least $20 billion in its first debt sale since the start of the AI boom
+ — watch NVDA, AMD, AVGO for reaction. AI capex theme remains dominant.
+- **FOMC / Rates:** 
+The week's highlight is the Federal Reserve's policy decision; traders are pricing in better than a 98% probability that the Fed leaves rates unchanged on Wednesday.
+ 
+Market attention sits on Warsh's first press conference as Fed Chair, where any hawkish phrasing can hit SPY valuations directly.
+ Watch TLT, financials (XLF), rate-sensitive growth names.
+
+---
+
+**Yesterday's notable movers (top 5):**
+- 
+**SPCX (SpaceX)** — +~20%; second consecutive day of massive gains following its historic IPO debut.
+
+- 
+**FOX/FOXA (Fox Corp)** — -~15%; announced $22 billion acquisition of Roku, market punished the acquirer.
+
+- 
+**ROKU (Roku)** — edged down ~1% after erasing premarket gains, giving back Friday's 20% surge on M&A speculation.
+
+- 
+**ACHR (Archer Aviation)** — +9.25% to $5.55; rode the broader market rally, eVTOL sector benefiting from risk-on sentiment.
+
+- 
+**Airlines & cruise operators** — broadly rallied after Washington and Tehran reached a preliminary peace deal, removing the oil/travel disruption premium.
+
+
+---
+
+**Today's earnings / scheduled catalysts:**
+- **FOMC Day 1 (June 16–17):** 
+The Federal Reserve is due to hold rates unchanged on Wednesday following the FOMC's first meeting with Chairman Kevin Warsh, who is set to give signals on potential overhauls to the current monetary framework.
+ No decision today, but tone-setting begins.
+- **BoJ Decision (June 16):** 
+The Bank of Japan is due to raise rates this week
+ — watch USD/JPY (currently ~160) and Japanese equity spillover.
+- **Pre-market earnings (Jun 16):** 
+8 earnings reports scheduled for Tuesday, June 16.
+ 
+Yum! Brands (YUM) up +0.85% to $156 in premarket
+ after announcing a strategic separation of Pizza Hut.
+- **Market holiday note:** 
+The stock market is closed on Juneteenth, Friday June 19 — both NYSE and Nasdaq observe it as an official holiday.
+ This is a 4-day trading week; expect positioning adjustments heading into the long weekend.
+
+---
+
+*Bottom line: The Iran peace trade is the dominant macro driver. Futures are holding gains but the real test is Warsh's tone at Wednesday's FOMC presser. Oil weakness is a tailwind for consumer names and a headwind for energy. Watch for any cracks in the Israel-Lebanon situation as a potential reversal catalyst for the peace premium. Breadth is healthy in SPX and RUT but Nasdaq internals bear watching given SpaceX IPO capital rotation.*
