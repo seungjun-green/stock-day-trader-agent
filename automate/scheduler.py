@@ -36,12 +36,41 @@ from automate.env_loader import load_dotenv
 from automate.pipeline import run_post, run_pre
 from automate import state as run_state
 from automate.telegram import send_message
+from automate.validate import validate_pre
 
 load_dotenv()
 
 
 def telegram_prefix(market_key: str) -> str:
     return "[KOREA]" if market_key == "korean" else "[US]"
+
+
+def closed_reason(session: date) -> str:
+    weekday = session.strftime("%A")
+    if session.weekday() >= 5:
+        return weekday
+    return "exchange holiday"
+
+
+def already_sent_closed_notice(market_key: str, session: date) -> bool:
+    st = run_state.load(market_key)
+    return st.get("last_closed_notice") == session.isoformat()
+
+
+def mark_closed_notice_sent(market_key: str, session: date) -> None:
+    st = run_state.load(market_key)
+    st["last_closed_notice"] = session.isoformat()
+    run_state.save(market_key, st)
+
+
+def send_closed_notice_once(market_key: str, label: str, session: date) -> None:
+    if already_sent_closed_notice(market_key, session):
+        return
+    send_message(
+        f"{telegram_prefix(market_key)} ⏭️ {label} skipped today — `{session}`\n"
+        f"Reason: market closed ({closed_reason(session)})."
+    )
+    mark_closed_notice_sent(market_key, session)
 
 
 def load_config() -> dict:
@@ -86,6 +115,7 @@ def process_market(cfg: dict, market_key: str, now: datetime, force_phase: str |
         sess = force_date or session_date(market_key, phase, now)
         if not is_trading_day(cal_name, sess):
             print(f"[{market_key}] {phase}: {sess} not a trading day — skip")
+            send_closed_notice_once(market_key, label, sess)
             continue
         if run_state.already_ran(market_key, phase, sess) and not force_phase:
             continue
@@ -100,6 +130,18 @@ def process_market(cfg: dict, market_key: str, now: datetime, force_phase: str |
             else:
                 send_message(f"{telegram_prefix(market_key)} ❌ {label} pre-pipeline FAILED — `{sess}`\n```\n{out[-500:]}\n```")
         else:
+            pre_ok, pre_errors = validate_pre(market_dir, sess.isoformat())
+            if not pre_ok:
+                if not force_phase:
+                    run_state.mark_ran(market_key, phase, sess)
+                details = "; ".join(pre_errors[:3]) or "pre-pipeline outputs missing"
+                send_message(
+                    f"{telegram_prefix(market_key)} ⏭️ {label} post-pipeline skipped — `{sess}`\n"
+                    f"Reason: pre-pipeline was not run or output is incomplete.\n"
+                    f"Details: {details}"
+                )
+                continue
+
             ok, out = run_post(market_key, market_dir, sess, max_retries)
             if ok:
                 run_state.mark_ran(market_key, phase, sess)

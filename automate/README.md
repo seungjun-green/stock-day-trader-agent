@@ -66,10 +66,16 @@ After post-pipeline succeeds:
    - `JOURNEY.md` (appends today's section)
    - `STRATEGY.md` (ACTIVE / WATCH / DROP for each combo)
    - `reports/{date}-daily-report.md`
-4. Runs `git add`, `git commit`, and `git push` for that market folder.
-5. Sends a short Telegram summary plus a link to `reports/{date}-daily-report.md` after push succeeds.
+4. Runs the observer agent on its configured cadence, which reviews recent improvement/JOURNEY history for rabbit holes and may update:
+   - `OBSERVER_GUIDANCE.md`
+   - market prompts/code through the same allowlist
+   - `reports/{date}-observer-report.md`
+5. Runs `git add`, `git commit`, and `git push` for that market folder.
+6. Sends a short Telegram summary plus a link to `reports/{date}-daily-report.md` after push succeeds.
 
 Git sync runs once per completed worker run, so normally once for Korean and once for US on trading days. The VM checkout must be a git repository with push credentials available. Use `--skip-git` for manual worker runs that should not commit/push.
+
+Observer cadence defaults to weekly per market (`observer.interval_days: 7` in `automate/config.yaml`). Set it to `14` for every two weeks. Use `--force-observer` for manual observer runs or `--skip-observer` to disable it for a worker run.
 
 ## macOS auto-start (launchd)
 

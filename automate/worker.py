@@ -18,12 +18,15 @@ from datetime import date, datetime
 from pathlib import Path
 from urllib.parse import quote
 
+import yaml
+
 REPO_ROOT = Path(__file__).resolve().parent.parent
 sys.path.insert(0, str(REPO_ROOT))
 
 from automate.env_loader import load_dotenv
+from automate import state as run_state
 from automate.telegram import send_message
-from automate.validate import validate_post
+from automate.validate import validate_post, validate_pre
 
 load_dotenv()
 
@@ -34,6 +37,7 @@ except ImportError:
     sys.exit(1)
 
 WORKER_MODEL = "claude-sonnet-4-6"
+OBSERVER_MODEL = "claude-sonnet-4-6"
 MAX_POST_RETRIES = 3
 EDITABLE_TEXT_LIMIT = 60_000
 
@@ -59,6 +63,34 @@ def _extract_json(text: str) -> dict:
     return json.loads(m.group(0))
 
 
+def load_config() -> dict:
+    path = REPO_ROOT / "automate" / "config.yaml"
+    return yaml.safe_load(path.read_text(encoding="utf-8"))
+
+
+def observer_interval_days(cfg: dict) -> int:
+    observer_cfg = cfg.get("observer", {}) or {}
+    return int(observer_cfg.get("interval_days", 7))
+
+
+def observer_due(market_key: str, session: str, interval_days: int) -> bool:
+    st = run_state.load(market_key)
+    last = st.get("last_observer")
+    if not last:
+        return True
+    try:
+        elapsed = (date.fromisoformat(session) - date.fromisoformat(last)).days
+    except ValueError:
+        return True
+    return elapsed >= interval_days
+
+
+def mark_observer_ran(market_key: str, session: str) -> None:
+    st = run_state.load(market_key)
+    st["last_observer"] = session
+    run_state.save(market_key, st)
+
+
 def gather_context(market_dir: Path, session: str, market_label: str) -> str:
     day = market_dir / "data" / session
     parts = [f"# Worker context — {market_label} — {session}\n"]
@@ -80,6 +112,9 @@ def gather_context(market_dir: Path, session: str, market_label: str) -> str:
 
     strategy = market_dir / "STRATEGY.md"
     parts.append(f"## STRATEGY.md\n{_read(strategy)}\n")
+
+    guidance = market_dir / "OBSERVER_GUIDANCE.md"
+    parts.append(f"## OBSERVER_GUIDANCE.md\n{_read(guidance)}\n")
 
     # First picks file for reasoning sample
     picks = sorted(day.glob(f"{session}-picks-*.json"))
@@ -120,8 +155,64 @@ def run_worker(market_key: str, market_dir: Path, session: str, market_label: st
     return _extract_json(text)
 
 
+def _recent_improvement_files(market_dir: Path, limit: int = 5) -> list[Path]:
+    data_dir = market_dir / "data"
+    if not data_dir.is_dir():
+        return []
+    files = sorted(data_dir.glob("*/????-??-??-improvement.md"))
+    return files[-limit:]
+
+
+def gather_observer_context(market_dir: Path, session: str, market_label: str) -> str:
+    parts = [f"# Observer context — {market_label} — {session}\n"]
+
+    parts.append(f"## JOURNEY.md (tail)\n{_read(market_dir / 'JOURNEY.md')[-20_000:]}\n")
+    parts.append(f"## STRATEGY.md\n{_read(market_dir / 'STRATEGY.md')}\n")
+    parts.append(f"## OBSERVER_GUIDANCE.md\n{_read(market_dir / 'OBSERVER_GUIDANCE.md')}\n")
+    parts.append(f"## variant_performance.csv\n{_read(market_dir / 'data' / 'variant_performance.csv', 30_000)}\n")
+
+    for path in _recent_improvement_files(market_dir):
+        parts.append(f"## Recent improvement: {path.relative_to(market_dir)}\n{_read(path, 35_000)}\n")
+
+    today_report = report_path(market_dir, session)
+    parts.append(f"## Today's daily report\n{_read(today_report, 40_000)}\n")
+
+    editable_files = _editable_files(market_dir)
+    parts.append("## Editable files available for observer updates\n")
+    parts.append(
+        "You may return file_updates for these relative paths only. "
+        "Use full replacement content. Keep changes market-scoped.\n"
+    )
+    for rel_path, path in editable_files.items():
+        text = _read(path, EDITABLE_TEXT_LIMIT)
+        truncated = "\n[TRUNCATED: file is longer than observer context limit]\n" if path.is_file() and len(path.read_text(encoding="utf-8")) > EDITABLE_TEXT_LIMIT else ""
+        parts.append(f"### {rel_path}\n{text}{truncated}\n")
+
+    return "\n".join(parts)
+
+
+def run_observer(market_key: str, market_dir: Path, session: str, market_label: str) -> dict:
+    prompt_path = REPO_ROOT / "automate" / "prompts" / "observer_agent.txt"
+    system = prompt_path.read_text(encoding="utf-8").format(market_label=market_label)
+    user = gather_observer_context(market_dir, session, market_label)
+
+    client = Anthropic()
+    response = client.messages.create(
+        model=OBSERVER_MODEL,
+        max_tokens=8192,
+        system=system,
+        messages=[{"role": "user", "content": user}],
+    )
+    text = ""
+    for block in response.content:
+        if hasattr(block, "text"):
+            text += block.text
+    return _extract_json(text)
+
+
 def _editable_files(market_dir: Path) -> dict[str, Path]:
     files: dict[str, Path] = {}
+    files["OBSERVER_GUIDANCE.md"] = market_dir / "OBSERVER_GUIDANCE.md"
     prompts_dir = market_dir / "prompts"
     if prompts_dir.is_dir():
         for path in sorted(prompts_dir.glob("*.txt")):
@@ -140,6 +231,8 @@ def _resolve_edit_path(market_dir: Path, rel_path: str) -> Path | None:
     allowed = _editable_files(market_dir)
     if rel_path in allowed:
         return allowed[rel_path]
+    if rel_path == "OBSERVER_GUIDANCE.md":
+        return market_dir / rel
     if len(rel.parts) == 2 and rel.parts[0] == "prompts" and rel.suffix == ".txt":
         return market_dir / rel
     return None
@@ -156,7 +249,7 @@ def _compile_python_files(paths: list[Path]) -> tuple[bool, str]:
     return True, ""
 
 
-def apply_file_updates(market_dir: Path, session: str, payload: dict) -> dict:
+def apply_file_updates(market_dir: Path, session: str, payload: dict, log_prefix: str = "worker") -> dict:
     """Apply allowlisted autonomous prompt/code updates and log the result."""
     reports_dir = market_dir / "reports"
     reports_dir.mkdir(parents=True, exist_ok=True)
@@ -170,7 +263,7 @@ def apply_file_updates(market_dir: Path, session: str, payload: dict) -> dict:
         "change_log": payload.get("change_log") or "",
     }
     if not isinstance(updates, list) or not updates:
-        (reports_dir / f"{session}-worker-changes.json").write_text(
+        (reports_dir / f"{session}-{log_prefix}-changes.json").write_text(
             json.dumps(result, indent=2, ensure_ascii=False) + "\n", encoding="utf-8"
         )
         return result
@@ -215,7 +308,7 @@ def apply_file_updates(market_dir: Path, session: str, payload: dict) -> dict:
     elif result["rejected"]:
         result["status"] = "rejected"
 
-    (reports_dir / f"{session}-worker-changes.json").write_text(
+    (reports_dir / f"{session}-{log_prefix}-changes.json").write_text(
         json.dumps(result, indent=2, ensure_ascii=False) + "\n", encoding="utf-8"
     )
     return result
@@ -250,6 +343,33 @@ def apply_outputs(market_dir: Path, session: str, payload: dict) -> dict:
         report_path.write_text(report.strip() + "\n", encoding="utf-8")
 
     return apply_file_updates(market_dir, session, payload)
+
+
+def apply_observer_outputs(market_dir: Path, session: str, payload: dict) -> dict:
+    reports_dir = market_dir / "reports"
+    reports_dir.mkdir(parents=True, exist_ok=True)
+
+    wrote_guidance = False
+    wrote_report = False
+    if payload.get("observer_guidance_md"):
+        (market_dir / "OBSERVER_GUIDANCE.md").write_text(
+            payload["observer_guidance_md"].strip() + "\n", encoding="utf-8"
+        )
+        wrote_guidance = True
+
+    if payload.get("observer_report_md"):
+        (reports_dir / f"{session}-observer-report.md").write_text(
+            payload["observer_report_md"].strip() + "\n", encoding="utf-8"
+        )
+        wrote_report = True
+
+    result = apply_file_updates(market_dir, session, payload, log_prefix="observer")
+    if result["status"] == "no_updates" and (wrote_guidance or wrote_report):
+        result["status"] = "guidance_updated"
+        (reports_dir / f"{session}-observer-changes.json").write_text(
+            json.dumps(result, indent=2, ensure_ascii=False) + "\n", encoding="utf-8"
+        )
+    return result
 
 
 def maybe_retry_post(market_key: str, market_dir: Path, session: str) -> bool:
@@ -355,11 +475,27 @@ def main():
     parser.add_argument("--date", required=True, help="Session date YYYY-MM-DD")
     parser.add_argument("--skip-telegram", action="store_true")
     parser.add_argument("--skip-git", action="store_true", help="Do not auto git add/commit/push worker outputs")
+    parser.add_argument("--skip-observer", action="store_true", help="Do not run the observer agent")
+    parser.add_argument("--force-observer", action="store_true", help="Run observer even if cadence says it is not due")
     args = parser.parse_args()
 
+    cfg = load_config()
     market_dir = REPO_ROOT / args.market
     label = "Korean (KRX)" if args.market == "korean" else "US (NYSE)"
     prefix = telegram_prefix(args.market)
+
+    pre_ok, pre_errors = validate_pre(market_dir, args.date)
+    if not pre_ok:
+        details = "; ".join(pre_errors[:3]) or "pre-pipeline outputs missing"
+        msg = (
+            f"{prefix} ⏭️ {label} {args.date}: worker skipped\n"
+            "Reason: pre-pipeline was not run or output is incomplete, so post-market/worker inputs are missing.\n"
+            f"Details: {details}"
+        )
+        print(msg)
+        if not args.skip_telegram:
+            send_message(msg)
+        return
 
     if not maybe_retry_post(args.market, market_dir, args.date):
         msg = f"{prefix} ⚠️ {label} {args.date}: post-pipeline failed after retries. Worker skipped."
@@ -381,6 +517,31 @@ def main():
         reports_dir = market_dir / "reports"
         reports_dir.mkdir(parents=True, exist_ok=True)
         report_path(market_dir, args.date).write_text(report.strip() + "\n", encoding="utf-8")
+
+    interval_days = observer_interval_days(cfg)
+    should_run_observer = (
+        not args.skip_observer
+        and (args.force_observer or observer_due(args.market, args.date, interval_days))
+    )
+    observer_result = {
+        "status": "skipped",
+        "message": "disabled by --skip-observer" if args.skip_observer else f"not due; interval={interval_days}d",
+    }
+    if should_run_observer:
+        print(f"[observer] Running for {args.market} session={args.date}")
+        observer_payload = run_observer(args.market, market_dir, args.date, label)
+        observer_result = apply_observer_outputs(market_dir, args.date, observer_payload)
+        mark_observer_ran(args.market, args.date)
+        observer_note = (
+            f"Observer: {observer_result['status']} "
+            f"({len(observer_result.get('applied', []))} applied, {len(observer_result.get('rejected', []))} rejected)."
+        )
+        report += f"\n\n{observer_note}"
+        if observer_payload.get("telegram_note"):
+            telegram_summary += f"\n{observer_payload['telegram_note'].strip()}"
+        telegram_summary += f"\n{observer_note}"
+        report_path(market_dir, args.date).write_text(report.strip() + "\n", encoding="utf-8")
+
     print(f"\n--- Daily report ---\n{report}\n")
 
     git_result = {"status": "skipped", "message": "disabled by --skip-git"} if args.skip_git else git_commit_and_push_market(args.market, market_dir, args.date)

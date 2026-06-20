@@ -4,6 +4,11 @@ timezone: Asia/Seoul
 poll_interval_seconds: 60
 max_retries: 3
 
+observer:
+  # Observer runs per market at this cadence after worker completion.
+  # Use 14 if you want every two weeks instead of weekly.
+  interval_days: 7
+
 markets:
   korean:
     label: Korean (KRX)
